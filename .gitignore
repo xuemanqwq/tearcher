@@ -4,7 +4,7 @@ __pycache__/
 
 .vscode/
 .idea/
-.analyse/
+analyse/
 
 .DS_Store
 Thumbs.db
