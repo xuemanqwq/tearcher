@@ -1,0 +1,416 @@
+[
+  {
+    "url": "https://cic.tju.edu.cn/info/1094/3161.htm",
+    "name": "陈仁海",
+    "title": "副教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "renhai.chen@tju.edu.cn",
+    "profile": "姓名：陈仁海\n职称：副教授\n所在系别：计算机科学系\n导师类型：硕士生导师\n电子邮件：renhai.chen@tju.edu.cn\n研究领域：体系结构，嵌入式系统，大数据，人工智能\n研究方向：计算机存储，大规模图计算，智能算法硬件加速\n个人主页：http://cic.tju.edu.cn/faculty/chenrenhai/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1094/1090.htm",
+    "name": "陈世展",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "shizhan@tju.edu.cn",
+    "profile": "姓名：陈世展\n职称：教授\n所在系别：计算机学院\n主讲课程：数据库原理（本科生）、软件体系结构（研究生）\n导师类型：博士生导师\n电子邮件：shizhan@tju.edu.cn\n研究领域：软件工程、服务计算\n研究方向：服务计算、软件生态系统挖掘与分析\n个人主页：http://cic.tju.edu.cn/faculty/csz/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1095/1092.htm",
+    "name": "杜朴风",
+    "title": "副教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "pdu@tju.edu.cn",
+    "profile": "姓名：杜朴风\n职称：副教授\n所在系别：计算机科学与技术学院\n主讲课程：Python程序设计与应用；C++程序设计与算法基础\n导师类型：硕士生导师\n电子邮件：pdu@tju.edu.cn\n研究领域：模式识别，机器学习\n研究方向：模式识别、机器学习应用，组学大数据，生物信息学\n个人主页：https://www.pufengdu.org"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1097/1914.htm",
+    "name": "冯伟",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "wfeng@tju.edu.cn",
+    "profile": "姓名: 冯伟\n职称: 教授\n所在系别：计算机科学与技术学院\n导师类型：博士生导师\n研究领域：媒体计算、计算机视觉、模式识别，及其产业化应用\n电子邮件：wfeng@tju.edu.cn\n个人主页：http://cic.tju.edu.cn/faculty/fengwei/index.html"
+  },
+  {
+    "url": "",
+    "name": "高洁",
+    "title": "",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "",
+    "profile": "（无个人主页链接）"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1099/1096.htm",
+    "name": "何东晓",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "hedongxiao@tju.edu.cn",
+    "profile": "姓名：何东晓\n职称：教授\n所在系别：计算机科学与技术\n主讲课程：人工智能基础\n导师类型：博士生导师\n电子邮件：hedongxiao@tju.edu.cn\n研究领域：人工智能\n研究方向：数据挖掘、机器学习、社交网络分析\n个人主页：http://cic.tju.edu.cn/faculty/hedongxiao/index.htm"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1099/1098.htm",
+    "name": "侯越先",
+    "title": "教授",
+    "list_email": "",
+    "role": "博导、硕导",
+    "email": "yxhou@tju.edu.cn",
+    "profile": "姓名：侯越先\n职称：教授\n所在系别：计算机学院计算机科学系\n主讲课程：智能系统设计、自然语言处理和信息检索\n导师类型：博导、硕导\n电子邮件：yxhou@tju.edu.cn\n研究领域：人工智能\n研究方向：量子人工智能、自然语言处理和信息检索\n个人主页：http://cic.tju.edu.cn/faculty/hyx/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1099/1100.htm",
+    "name": "胡静",
+    "title": "副教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "mavis_huhu@tju.edu.cn",
+    "profile": "姓名：胡静\n职称：副教授\n所在系别：计算机学院\n主讲课程：编译原理、大学计算机基础、软件技术基础2\n导师类型：硕士生导师\n电子邮件：mavis_huhu@tju.edu.cn\n研究领域：形式化方法\n研究方向：形式化方法"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1099/5228.htm",
+    "name": "胡一涛",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "yitao@tju.edu.cn",
+    "profile": "姓名：胡一涛\n职称：教授\n所在系别：计算机科学与技术学院\n导师类型：博士生导师\n电子邮件：yitao@tju.edu.cn\n研究领域：人工智能，计算机网络\n研究方向：大模型系统，AI4Science\n个人主页：https://flashserve.org/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1101/1102.htm",
+    "name": "金弟",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "jindi@tju.edu.cn",
+    "profile": "姓名：金弟\n职称：教授\n所在系别：计算机科学与技术\n主讲课程：数据结构、人工智能基础\n导师类型：博士生导师\n电子邮件：jindi@tju.edu.cn\n研究领域：图机器学习\n研究方向：图神经网络、网络表示学习、社团发现、推荐系统\n个人主页：http://cic.tju.edu.cn/faculty/jindi/index.htm"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1103/1104.htm",
+    "name": "李克秋",
+    "title": "教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "keqiu@tju.edu.cn",
+    "profile": "姓名：李克秋\n职称：教授\n所在系别：计算机科学与技术学院\n主讲课程：计算机系统导论\n电子邮件：keqiu@tju.edu.cn\n研究领域：计算机网络与通信\n研究方向：未来网络、云计算、数据中心网络、物联网、移动计算\n个人主页：http://cic.tju.edu.cn/faculty/likeqiu/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1103/1106.htm",
+    "name": "李坤",
+    "title": "教授",
+    "list_email": "",
+    "role": "博导、硕导",
+    "email": "lik@tju.edu.cn",
+    "profile": "姓名：李坤\n职称：教授\n所在系别：计算机科学与技术\n主讲课程：数据结构、图像处理、数字信号处理、数字媒体信息技术\n导师类型：博导、硕导\n电子邮件：lik@tju.edu.cn\n研究领域：计算机视觉与图形学、人工智能、多媒体处理\n研究方向：立体视觉、三维重建、运动捕捉、图像处理等\n个人主页：http://cic.tju.edu.cn/faculty/likun/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1103/3531.htm",
+    "name": "李文信",
+    "title": "研究员",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "toliwenxin@tju.edu.cn",
+    "profile": "姓名：李文信\n职称：研究员\n所在系别：计算机科学与技术\n电子邮件：toliwenxin@tju.edu.cn\n研究领域：数据中心网络与云计算研究方向：面向数据中心的高性能网络，可编程网络，智能化网络，及容器虚拟网络等\n个人主页：http://cic.tju.edu.cn/faculty/liwenxin/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1103/2835.htm",
+    "name": "林迪",
+    "title": "长聘副教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "Ande.lin1988@gmail.com",
+    "profile": "姓名： 林迪\n职称： 长聘副教授\n所在系别: 智能与计算学部，计算机科学与技术学院\n电子邮件: Ande.lin1988@gmail.com\n研究领域: 计算机视觉，机器学习\n研究方向: 高层次图像视频数据理解，深度学习\n个人主页：https://dilincv.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1103/1110.htm",
+    "name": "刘春凤",
+    "title": "副教授",
+    "list_email": "",
+    "role": "硕导",
+    "email": "cfliu@tju.edu.cn",
+    "profile": "姓名：刘春凤\n职称：副教授\n所在系别：计算机学院\n主讲课程：《算法设计与分析》、《数值分析》、《大学计算机应用基础》、《高级语言程序设计》\n导师类型：硕导\n电子邮件：cfliu@tju.edu.cn\n研究领域：无线自组织网络、移动物联网、水下传感器网络\n研究方向：移动建模、拓扑控制与优化、大数据分析、网络性能评价\n个人主页：http://cic.tju.edu.cn/faculty/cfliu/index.html"
+  },
+  {
+    "url": "https://cs.tju.edu.cn/info/2241/4911.htm",
+    "name": "刘那与",
+    "title": "副研究员",
+    "list_email": "",
+    "role": "硕导",
+    "email": "nyliu@tju.edu.cn",
+    "profile": "职称：副研究员\n所在系别：计算智能系\n导师类型：硕导\n电子邮件：nyliu@tju.edu.cn\n研究领域：大语言模型、多模态学习、遥感智能\n个人主页：https://www.liunayu.space"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1103/1114.htm",
+    "name": "刘世光",
+    "title": "教授",
+    "list_email": "",
+    "role": "博导",
+    "email": "lsg@tju.edu.cn",
+    "profile": "姓名：刘世光\n职称：教授\n所在系别：计算机学院\n主讲课程：计算机图形学\n导师类型：博导\n电子邮件：lsg@tju.edu.cn\n研究领域：计算机图形图像\n研究方向：计算机图形学、计算动画、图像、视频处理、虚拟现实/计算机游戏\n个人主页：http://cic.tju.edu.cn/faculty/lsg/Index.htm"
+  },
+  {
+    "url": "",
+    "name": "刘志强",
+    "title": "",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "",
+    "profile": "（无个人主页链接）"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1261/5046.htm",
+    "name": "马健",
+    "title": "助理研究员",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "jianma@tju.edu.cn",
+    "profile": "职称：助理研究员\n所在系别：计算机学院\n电子邮件：jianma@tju.edu.cn\n研究领域：计算机视觉\n研究方向：视频分析、行为分析\n个人主页：https://majian8.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1107/5796.htm",
+    "name": "潘志一",
+    "title": "",
+    "list_email": "",
+    "role": "硕导",
+    "email": "zhypan@tju.edu.cn",
+    "profile": "姓 名：潘志一\n职 称：副研究员\n所在系别：计算机学院\n导师类型：硕导\n电子邮件：zhypan@tju.edu.cn\n研究领域：三维视觉、弱监督学习\n研究方向：点云处理与分析、生成模型\n个人主页：panzhiyi.top"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1108/3177.htm",
+    "name": "仇超",
+    "title": "英才副教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "chao.qiu@tju.edu.cn",
+    "profile": "姓名：仇超\n职称：英才副教授\n所在系别: 计算机科学与技术\n电子邮件 : chao.qiu@tju.edu.cn\n研究领域: 计算机网络\n研究方向: 边缘智能、边缘计算、区块链\n个人主页：http://qiuchao.fei8s.com/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1108/1118.htm",
+    "name": "邱铁",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师、硕士生导师",
+    "email": "qiutie@tju.edu.cn",
+    "profile": "职称：教授\n所在系别：计算机学院\n主讲课程：操作系统原理、嵌入式操作系统、物联网技术\n导师类型：博士生导师、硕士生导师\n电子邮件：qiutie@tju.edu.cn\n研究领域：智能物联网与大数据\n研究方向：智慧物联网技术、工业物联网与工业大数据、无线智能感知与非接触式健康监测、智能化分布式区块链技术\n个人主页：http://cic.tju.edu.cn/faculty/qiutie/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1110/3903.htm",
+    "name": "尚凡华",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "fhshang@tju.edu.cn",
+    "profile": "姓名：尚凡华\n职称：教授\n所在系别：计算机科学与技术学院\n主讲课程：《模式识别与深度学习》\n导师类型：博士生导师\n电子邮件：fhshang@tju.edu.cn\n研究领域：机器学习、深度学习、计算机视觉\n研究方向：优化算法及理论、图像/视频处理、并行/分布式计算、隐私保护与联邦学习\n个人主页：http://faculty.tju.edu.cn/fhshang/zh_CN/index.htm"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1110/1124.htm",
+    "name": "石高涛",
+    "title": "副教授",
+    "list_email": "",
+    "role": "硕导",
+    "email": "shgt@tju.edu.cn",
+    "profile": "姓名：石高涛\n职称：副教授\n所在系别：计算机\n主讲课程： 《数据通信》、《计算机网络热点/重点问题》\n导师类型：硕导\n电子邮件：shgt@tju.edu.cn\n研究领域：计算机网络\n研究方向：无线网络、物联网与安全\n个人主页：http://cic.tju.edu.cn/faculty/gaotao/index.htm"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1067/1905.htm",
+    "name": "孙美君",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "sunmeijun@tju.edu.cn",
+    "profile": "姓名：孙美君\n职称：教授\n所在系别：计算机学院\n主讲课程：操作系统原理\n导师类型：博士生导师\n电子邮件：sunmeijun@tju.edu.cn\n研究领域：计算机视觉、人工智能、计算机图形学\n研究方向： 神经网络持续学习、智能电网的预测与决策、开放环境下的视觉感知\n个人主页：https://sunmeijun.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1111/1130.htm",
+    "name": "汤善江",
+    "title": "副教授",
+    "list_email": "",
+    "role": "硕导",
+    "email": "tashj@tju.edu.cn",
+    "profile": "姓名：汤善江\n职称：副教授\n所在系别：计算机科学与技术学院\n主讲课程：并行计算\n导师类型：硕导\n电子邮件：tashj@tju.edu.cn\n研究领域：云计算、高性能计算、大数据、人工智能\n研究方向：任务调度与资源管理、深度学习应用性能优化、大数据处理与分析、算法并行化设计与实现\n个人主页：http://cic.tju.edu.cn/faculty/tangshanjiang/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1111/3353.htm",
+    "name": "佟鑫宇",
+    "title": "英才副教授",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "xytong@tju.edu.cn",
+    "profile": "姓名： 佟鑫宇\n职称： 英才副教授\n所在系别：计算机科学与技术学院\n电子邮件：xytong@tju.edu.cn\n研究领域：物联网\n研究方向：无线感知、无线通信\n个人主页：https://tjutxy.com/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1114/1134.htm",
+    "name": "王博",
+    "title": "副教授",
+    "list_email": "",
+    "role": "博导",
+    "email": "bo_wang@tju.edu.cn",
+    "profile": "姓名：王博\n职称：副教授\n所在系别：计算机科学与技术\n主讲课程：社会计算、机器学习、自然语言处理、离散数学\n导师类型：博导\n电子邮件：bo_wang@tju.edu.cn\n研究领域：人工智能、自然语言处理，心理计算\n研究方向：大模型、大模型智能体、智能对话、自动化心理分析与干预、个性化推荐\n个人主页：https://bowang1979-sptnk.github.io/bowang/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1114/3167.htm",
+    "name": "王建荣",
+    "title": "教授",
+    "list_email": "",
+    "role": "博导",
+    "email": "wjr@tju.edu.cn",
+    "profile": "姓名：王建荣\n职称：教授\n所在系别：计算机学院\n主讲课程：《程序设计原理》、《计算机组成》\n导师类型：博导\n电子邮件：wjr@tju.edu.cn\n研究领域：人工智能、人机交互、数据挖掘\n研究方向：多模态语音识别、机器人智能交互、话者识别、高性能区块链技术、工业大数据\n个人主页：http://itlab.tju.edu.cn/person/wangjianrong/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1114/1140.htm",
+    "name": "王晓飞",
+    "title": "教授",
+    "list_email": "",
+    "role": "博导、硕导",
+    "email": "xiaofeiwang@tju.edu.cn",
+    "profile": "姓名：王晓飞\n职称：教授\n所在系别：计算机工程系\n主讲课程：计算机网络、大数据分析理论和算法、大数据技术与应用\n导师类型：博导、硕导\n电子邮件：xiaofeiwang@tju.edu.cn，xiaofeiwang@ieee.org\n研究领域：计算机网络\n研究方向：未来移动网络5G、网络大数据、边缘计算、智慧城市\n个人主页：edgebigbang.ai"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1115/4582.htm",
+    "name": "谢鑫",
+    "title": "副教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "xinxie@tju.edu.cn",
+    "profile": "姓名：谢鑫\n职称：副教授\n所在系别：计算机科学与技术\n导师类型：博士生导师\n电子邮件：xinxie@tju.edu.cn\n研究领域：物联网、边缘智能、网络仿真\n研究方向：无线感知、可穿戴、射频识别、联邦学习\n个人主页：https://xiexincn.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1115/1148.htm",
+    "name": "熊德意",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "dyxiong@tju.edu.cn",
+    "profile": "姓名：熊德意\n职称：教授\n所在系别：计算机科学与技术学院\n导师类型：博士生导师\n电子邮件：dyxiong@tju.edu.cn\n研究领域：自然语言处理\n研究方向：机器翻译、对话、自然语言生成、机器阅读理解和问答、信息抽取、知识图谱\n个人主页：https://dyxiong.github.io/"
+  },
+  {
+    "url": "",
+    "name": "徐天一",
+    "title": "",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "",
+    "profile": "（无个人主页链接）"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1116/5051.htm",
+    "name": "杨斌",
+    "title": "副研究员",
+    "list_email": "",
+    "role": "硕导",
+    "email": "yangbincic@tju.edu.cn",
+    "profile": "职称：副研究员\n所在系别：计算机学院\n导师类型：硕导\n电子邮件：yangbincic@tju.edu.cn\n研究领域：高性能计算、存储系统\n研究方向：大规模并行I/O（中间件）、高性能存储系统、性能分析诊断调优工具、混合精度、领域编程语言等\n个人主页：http://faculty.tju.edu.cn/yangbincic"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1116/3159.htm",
+    "name": "于策",
+    "title": "教授",
+    "list_email": "",
+    "role": "博导/硕导",
+    "email": "yuce@tju.edu.cn",
+    "profile": "姓名：于策\n职称：教授\n所在系别：计算机科学与技术\n主讲课程：并行计算、高性能计算实践、高性能计算与应用\n导师类型：博导/硕导\n电子邮件：yuce@tju.edu.cn\n研究领域：高性能计算、大数据、天文信息技术\n研究方向：科学计算、并行编程模型、大数据存储与分析、天文数据处理、时域天文学\n个人主页：http://cic.tju.edu.cn/faculty/yuce/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1116/1774.htm",
+    "name": "于健",
+    "title": "正高级实验师",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "yujian@tju.edu.cn",
+    "profile": "姓名： 于健\n职称：正高级实验师\n所在系别：智能与计算学部-实验教学中心\n导师类型：硕士生导师\n电子邮件：yujian@tju.edu.cn\n研究领域：人工智能\n研究方向：知识图谱、医疗影像分析、风能预测\n个人主页：http://itlab.tju.edu.cn/person/yujian/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1116/3155.htm",
+    "name": "于瑞国",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "rgyu@tju.edu.cn",
+    "profile": "姓名：于瑞国\n职称：教授\n所在系别：计算机科学与技术学院\n导师类型：博士生导师\n研究方向：人工智能、图像处理、网络安全\n电子邮件：rgyu@tju.edu.cn\n个人主页：http://itlab.tju.edu.cn/person/yuruiguo/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1116/5208.htm",
+    "name": "喻梅",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "yueyouyueyou@gmail.com",
+    "profile": "姓名：喻梅\n职称：教授\n所在系别：计算机科学与技术学院\n导师类型：博士生导师\n电子邮件：yueyouyueyou@gmail.com\n研究方向：数据挖掘、知识图谱、智慧教育、图像处理\n个人主页：http://itlab.tju.edu.cn/person/yumei/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1117/1161.htm",
+    "name": "张鹏",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "pzhang@tju.edu.cn",
+    "profile": "姓名：张鹏\n职称：教授\n所在系别：计算机科学与技术学院\n主讲课程：自然语言处理、离散数学、计算原理导论\n导师类型：博士生导师\n电子邮件：pzhang@tju.edu.cn\n研究领域：自然语言处理、机器学习、信息检索\n研究方向：大语言模型、多模态大语言模型的小型化、量子人工智能、量子机器学习、AI for Science\n个人主页：http://cic.tju.edu.cn/faculty/zhangpeng/index.html"
+  },
+  {
+    "url": "https://cs.tju.edu.cn/info/2381/4281.htm",
+    "name": "张乾",
+    "title": "副研究员",
+    "list_email": "",
+    "role": "硕导",
+    "email": "qianz@tju.edu.cn",
+    "profile": "职称：副研究员\n所在系别：计算机学院\n导师类型：硕导\n电子邮件：qianz@tju.edu.cn\n研究领域：计算机视觉\n研究方向：成像条件物理重现，变化检测，光度立体，重光照\n个人主页：https://qianzhang-tju.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1117/5170.htm",
+    "name": "张亚洲",
+    "title": "",
+    "list_email": "",
+    "role": "研究生导师",
+    "email": "yzhou_zhang@tju.edu.cn",
+    "profile": "姓  名：张亚洲\n职  称：副研究员\n所在系别：计算机科学与技术学院\n主讲课程：离散数学\n导师类型：研究生导师\n电子邮件：yzhou_zhang@tju.edu.cn\n研究领域：自然语言处理\n研究方向：经典与非经典情感分析\n个人主页：https://yzzhang2008.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1117/5164.htm",
+    "name": "张余豪",
+    "title": "",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "yuhaozhang@tju.edu.cn",
+    "profile": "姓  名：张余豪\n职  称：副研究员\n所在系别：计算机学院\n电子邮件：yuhaozhang@tju.edu.cn\n研究领域：计算机系统结构\n研究方向：存储系统和AI系统\n个人主页：https://yuhaozhang-tju.github.io"
+  },
+  {
+    "url": "",
+    "name": "赵满坤",
+    "title": "",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "",
+    "profile": "（无个人主页链接）"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1117/1163.htm",
+    "name": "赵增华",
+    "title": "",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "zenghua@tju.edu.cn",
+    "profile": "姓名：赵增华\n职 称：副教授\n所在系别：计算机科学与技术学院\n导师类别：硕士生导师，博士生导师\n研究领域：物联网与人工智能\n研究方向：智能感知与计算、智慧物联网、人工智能应用等\n电子邮件：zenghua@tju.edu.cn\n办公地点：天津大学北洋园校区55-B527\n个人主页：http://cic.tju.edu.cn/faculty/zenghua/index.html"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1117/1165.htm",
+    "name": "周晓波",
+    "title": "教授",
+    "list_email": "",
+    "role": "博士生导师",
+    "email": "xiaobo.zhou@tju.edu.cn",
+    "profile": "姓名：周晓波\n职称：教授\n所在系别：计算机科学与技术学院\n主讲课程：计算机网络、计算原理导论\n导师类型：博士生导师\n电子邮件：xiaobo.zhou@tju.edu.cn\n研究领域：计算机网络与通信\n研究方向：云计算、物联网、移动边缘计算\n个人主页：https://liaex.github.io/"
+  },
+  {
+    "url": "https://cic.tju.edu.cn/info/1117/4684.htm",
+    "name": "朱少林",
+    "title": "助理研究员",
+    "list_email": "",
+    "role": "硕士生导师",
+    "email": "zhushaolin@tju.edu.cn",
+    "profile": "姓名： 朱少林\n职称： 助理研究员\n所在系别： 计算机学院\n电子邮件： zhushaolin@tju.edu.cn\n研究领域： 人工智能\n研究方向：自然语言处理、机器翻译\n个人主页：https://zsl-nlp.github.io/"
+  }
+]
