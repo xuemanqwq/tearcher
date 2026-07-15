@@ -5,6 +5,7 @@ __pycache__/
 .vscode/
 .idea/
 analyse/
+documents
 
 .DS_Store
 Thumbs.db
