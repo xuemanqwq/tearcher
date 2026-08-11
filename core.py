@@ -2,6 +2,7 @@
 
 import json
 import re
+import ssl
 import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -22,7 +23,10 @@ def fetch(url: str) -> str:
         url = "https://" + url[len("http://") :]
     url = quote_url(url)
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as resp:
+    context = None
+    if urlparse(url).netloc.lower() in {"www.cse.neu.edu.cn", "cse.neu.edu.cn"}:
+        context = ssl._create_unverified_context()
+    with urllib.request.urlopen(req, timeout=30, context=context) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
 

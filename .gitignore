@@ -4,8 +4,15 @@ __pycache__/
 
 .vscode/
 .idea/
+.agents
 analyse/
 documents
+
+outputs/html
+outputs/rendered
+
+scripts
+tmp
 
 .DS_Store
 Thumbs.db

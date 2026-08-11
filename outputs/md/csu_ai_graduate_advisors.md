@@ -1,0 +1,4875 @@
+# 中南大学人工智能学院（研究生导师） — 教师信息
+
+数据来源: [https://ai.csu.edu.cn/szdw.htm](https://ai.csu.edu.cn/szdw.htm)
+
+共 44 位教师。
+
+---
+
+## 毕林
+
+- **网址**: http://faculty.csu.edu.cn/bilin/zh_CN/index.htm
+- **姓名**: 毕林
+- **邮箱**: mr.bilin@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 数字矿山与智能开采、团队成员、团队名称：中南大学数字矿山研究中心
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 毕林
+毕林
+教授
+博士生导师
+硕士生导师
+所在单位：资源与安全工程学院
+学历：博士研究生毕业
+性别：男
+联系方式：mr.bilin@csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学 中国地质大学 中国矿业大学
+学科：矿业工程
+人工智能
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+毕林，男，汉族，四川通江人，教授，博士生导师。于2008年2月在中南大学任教至今，主要讲授计算机程序设计基础（C++）、有限单元法及程序设计、露天开采技术、数字矿山与智能开采等课程，并一直从事数字矿山与智能采矿相关理论与技术的研发工作，负责大型矿业工程软件(DIMINE)、智能调度、资源管理、透明地质、智能通风、矿井定位与计量等系统的研发。
+教育经历
+[1]
+2006.9-2010.7
+中南大学
+|
+采矿工程（数字矿山）
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2003.9-2006.7
+中国地质大学（武汉）
+|
+GIS
+|
+硕士学位
+|
+硕士研究生毕业
+[3]
+1996.9-1999.7
+中国矿业大学
+|
+计算机科学与技术
+|
+学士学位
+|
+大学本科教育
+[4]
+1995.9-1999.6
+中国矿业大学
+|
+采矿工程
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+2008.2-至今
+中南大学
+|
+讲师、副教授、教授
+[2]
+2003.11-2006.3
+武汉中地数码
+|
+软件工程师
+[3]
+1999.8-2003.7
+武钢矿业程潮铁矿
+|
+采矿车间
+|
+采矿技术员
+社会兼职
+[1]
+迪迈科技前副总经理&CTO
+[2]
+中国有色金属学会矿山信息化智能化专业委员会副主任委员
+研究方向
+[1]  数字矿山与智能开采
+团队成员
+团队名称：中南大学数字矿山研究中心
+团队介绍：主要从事数字矿山与智能采矿方面的理论与技术研究，参与了国家十二五、十三五、十四五多项有关数字矿山与智能采矿的重大、重点项目研究。开发出具有自主知识产权的多项产品，包括DIMINE数字采矿软件、可视化管控平台、矿山生产执行系统、矿产资源管理系统、微震监测系统、三维激光扫描系统、智能调度系统、UWB定位系统等，且在国内外600余座矿山推广应用。
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 曹东升
+
+- **网址**: http://faculty.csu.edu.cn/caodongsheng/zh_CN/index.htm
+- **姓名**: 曹东升
+- **邮箱**: oriental-cds@163.com
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 基于机器学习的生物活性理论预测和筛选方法研究、基于机器学习和人工智能的成药性和安全性预测方法研究、基于人工智能技术和分子模拟的药物选择性/脱靶效应/耐药机制研究、基于重要靶标的药物分子设计和开发研究、中药/天然产物分子的靶标预测和作用机制研究
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 曹东升
+曹东升
+教授
+博士生导师
+硕士生导师
+所在单位：湘雅药学院
+职务：院长
+办公地点：长沙市岳麓区桐梓坡路172号湘雅医学院后栋449
+联系方式：oriental-cds@163.com
+主要任职：人工智能药学交叉研究中心主任
+学科：药学
+化学
+计算机科学与技术
+学术荣誉：
+2012  当选：  学术新人奖
+曾获荣誉：
+人工智能与创新药物湖南省工程研究中心主任
+2025全球前2%顶尖科学家（终身科学影响力排行榜）
+2025年爱思唯尔中国高被引学者（药学领域）
+2024全球前2%顶尖科学家（终身科学影响力排行榜）
+2024年爱思唯尔中国高被引学者（药学领域）
+2023年中国高被引学者
+国家万人计划青年拔尖人才
+2022-03-29  当选：  2022年全球顶尖前10万名科学家排名
+2022-09-08  当选：  国家自科基金创新研究群体核心成员
+2021-08-31  当选：  2021年全球顶尖前10万名科学家排名
+2021-04-29  当选：  2021全球前2%顶尖科学家
+2021-12-15  当选：  国家重点研发计划首席科学家（青年科学家）
+2021-09-06  当选：  湖南省科技创新领军人才
+2021-06-01  当选：  湖南省杰出青年
+2015-05-01  当选：  湖南省湖湘青年英才
+2014-05-08  当选：  中国香江学者计划
+2015-05-13  当选：  湖南省优秀博士论文
+2015-07-15  当选：  CAC会议杰出青年科学家
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+研究领域
+论文成果
+科研项目
+软件平台
+招生招聘
+专利成果
+软著信息
+开设课程
+常用资源
+其它栏目
+论文成果
+其他栏目
+English
+个人简介
+曹东升，中南大学湘雅药学院教授，副院长，博士生导师，人工智能与创新药物湖南省工程研究中心主任，中南大学人工智能药学交叉研究中心主任，国家重点研发计划首席科学家、国家自科基金创新研究群体核心成员、国家万人计划青年拔尖人才、湖南省科技创新领军人才、湖南省杰青、湖湘青年英才、中国香江学者人才，湖南省优秀博士论文获得者，国家重点研发计划“生物与信息融合（BT和IT融合）”重点专项2023年度指南编制专家组成员。入选爱思唯尔“中国高被引学者”、“全球前2%顶尖科学家”和“全球顶尖前10万名科学家排名”榜单。研究方向为化学信息学、人工智能药物设计和系统生物学。主要从事基于人工智能技术的高效化学信息学和药物分子设计方法和应用研究，针对药物研发中的三个关键技术瓶颈问题（生物活性分子的发现、成药性和安全性预测及选择性/脱靶效应/耐药性评估），聚焦基于结构/配体的虚拟筛选方法、成药性理论预测、分子靶标识别和分子智能生成和优化展开了系统和深入的多学科交叉方法学研究，实现药物分子“设计-合成-测试-分析”的自动闭环设计系统，并把发展的方法与实验平台无缝衔接用于多个重要靶点的药物分子设计和生物活性分子的作用靶标识别，开发出多类具有全新结构的抗肿瘤先导化合物并揭示了多种生物活性分子的耐药新机制。发展的多种预测模型和程序（如ADMETlab、DDInter、OptADMET、DeepToxLab、ChemFH、ChemoPy、 BioMedR等）已成为化学信息学和AIDD领域的基础工具，被知名药企和国内外同行（Pfizer、Merck、Novartis、哈佛大学、北京大学、上海药物所等）广泛采用，为促进AIDD的学科发展和药物研发的技术进步做出了贡献。累计发表SCI论文320余篇；ESI高被引及扩展ESI高被引论文34篇（热点论文2篇），封面论文3篇。近5年（2019年至今），在Nature Mach Intell、Nat Protoc、Nat Commun、WIREs Comput Mol Sci、Nucleic Acids Res、Research、Acta Pharm Sin B、Chemical Science、Brief Bioinform、J Med Chem、Bioinform、JCTC、 J Cheminformatics、J Chem Inf Model等权威SCI期刊上发表论文140余篇，其中108篇为通讯作者或第一作者（平均影响因子为9.28）；单篇最高引用2834次，总引用24570余次（近5年18830余次），H因子为72；开发软件平台39套，获软件著作权28项, 累计访问1120万余次；申请中国专利17项（已授权10项），参编英文专著一部。获得吴文俊人工智能自然科学一等奖（排名2）、中华医学会医学科学技术奖一等奖（排名11）和中国发明协会一等奖（排名3）。指导学生获得第九届中国国际“互联网+”大学生创新创业大赛国家银奖、“挑战杯”中国大学生创业计划竞赛湖南省金奖。在新药设计与开发方面，候选人与多家国内药企展开合作，在多个靶点的药物设计研究中取得了重要阶段性成果。其中，靶向BET的抑制剂NHWD-870已获批1.1类新药临床批件，并启动一期临床试验用于治疗晚期皮肤/黏膜黑色素瘤，有望成为新一代黑色素瘤治疗药物，具有显著的经济和社会效益。主持和承担国家重点研发计划（青年科学家项目）、国家科技重大专项课题、国家自科基金创新研究群体项目、国家自科基金重点国际合作研究项目、国家重大研究计划青年项目、国家自然科学基金面上项目和青年项目、湖南省重点研发计划、湖南省自科基金重点项目、湖南省杰出青年基金、湖南省科药联合基金等国家、省部级和横向科研项目20余项，累计经费2200余万。现任湖南省生物信息学学会副理事长、候任理事长，中国生物信息与药物发现专业委员会常务委员，中国人工智能与生命科学专业委员会委员，中国化学会计算机化学专业委员会委员，中国毒理学会计算毒理学专业委员会委员，中国CCF数字医学专业委员会执行委员，中国毒理学会人工智能毒理学专业委员会委员，中国化学会化学计量学和人工智能专业委员会委员，湖南省药学会药学教育专业委员会主任委员，湖南省生物信息学会医学生物信息学专业委员会副主任委员。受邀担任SCI期刊CMES-Comp. Model. Eng.副主编和Chemometr. Intell. Lab.编委，Pharmaceuticals 和 Frontier in Pharmarcology等杂志特刊客座编辑。
+欢迎热爱人工智能药物设计、有志于人工智能药物开发的青年学子加入团队！
+邮箱：oriental-cds@163.com
+湘雅药学院新楼418办公室
+Google学术：https://scholar.google.com/citations?hl=en&user=kTo-lXEAAAAJ&view_op=list_works
+教育经历
+[1]
+2009.9-2013.5
+中南大学
+博士
+|
+博士研究生毕业
+[2]
+2006.9-2009.5
+中南大学
+硕士
+|
+硕士研究生毕业
+[3]
+2002.9-2006.6
+中南大学
+学士
+|
+大学本科毕业
+工作经历
+[1]
+2015.4-2017.3
+香港浸会大学
+|
+中医药学院
+|
+香江学者
+[2]
+2014.5-至今
+中南大学
+|
+湘雅药学院
+|
+教授
+社会兼职
+[1]
+湖南省生物信息学学会副理事长
+[2]
+中国生物信息与药物发现专业委员会常务委员
+[3]
+中国人工智能与生命科学专业委员会委员
+[4]
+2022.9-至今
+中南大学湘雅药学院学科建设办公室主任
+[5]
+中南大学人工智能药学交叉研究中心主任
+[6]
+中南大学临床药学转化与研究中心副主任
+[7]
+湖南省生物医学信息委员会副主任委员
+[8]
+中国计算机化学专业委员会委员
+[9]
+中国毒理学会计算毒理学会委员
+[10]
+Chemometr. Intell. Lab.编委
+[11]
+CMES-Comp. Model. Eng.副主编
+研究方向
+[1]  基于机器学习的生物活性理论预测和筛选方法研究
+[2]  基于机器学习和人工智能的成药性和安全性预测方法研究
+[3]  基于人工智能技术和分子模拟的药物选择性/脱靶效应/耐药机制研究
+[4]  基于重要靶标的药物分子设计和开发研究
+[5]  中药/天然产物分子的靶标预测和作用机制研究
+其他联系方式
+[1]  邮编： b972187f7fac8278ec2c5d83e1ee8d96b2df20384c94c7a5f8f6ecdd8e2cc24ebe1da7f287d74360a6d257b54dc7aca591028b601de61cc936bfdf7d5007ebd9f79c4323ddf6f8e4b741d46c2e28790350015af7f16d1e8f4c197271b0bf258b05f137fbf9dc6427aedd49f57c01957e132ea2bfd646b93c0c5adf4a73323b61
+[3]  通讯/办公地址： 0de09e2710c7206223e89ebc91779801e6930586c59010ba7ee7eba0b8960f76ec40407c3408974bfa8aef568b6c883887f249f6ea4abb031d2b95be63f3f2123ef390d6a1c88ecf340a5442726a3ab4efae25641f6a58008c08c89222ed31c5a10fcc8645fa59a7efcd696bc26c38e55f61b26216365246aebb62dcf78cfbdf
+[6]  邮箱： 4fc48b79e7612ae816b95411428a2f3931cb0605fac4f44d8c7286c8d33b637b2f14c818160b2ae7ec68a168e10619c38bf063aab6b50d48a421eae8f27be2e75ec2e95af68e94543be05457874deb0ecb23d0ffe72b10f3185aa88aaa6139b673cc1221c91ac9e7da8dbc55ffc52c3bd66dd9ed8fa3d4ea3b520e73e5d62077
+团队成员
+团队名称：智能药物创新研究与转化团队成员
+邹婵
+吴婷
+博士后
+杜婧颜
+刘坚旺
+郭堃
+何远航
+姜世龙
+博士后
+刘小平
+钱蓉
+博士
+朱亭霏
+博士
+李辉
+博士
+陈德坤
+陈德坤
+蒋竑立
+蒋竑立
+石少华
+石少华
+魏筱
+魏筱
+刘翀
+刘翀
+抗菌活性分子的筛选、设计和实验验证研究
+邱炎龙
+邱炎龙
+龙腾智
+龙腾智
+利用人工智能和机器学习技术进行分子的毒性预测评估
+段艳静
+段艳静
+石欢
+石欢
+宁琼如
+宁琼如
+姬凯悦
+姬凯悦
+靶标预测方法的评价和中药/天然产物分子的靶标筛选
+朱慧敏
+朱慧敏
+RSK2抑制剂的筛选、设计和实验验证研究
+汪蕾
+汪蕾
+利用主动学习策略来提升各种虚拟筛选方法的筛选性能
+李卓卓
+李卓卓
+易反应假阳性化合物/混乱化合物的结构分析和鉴别研究
+蚁佳才
+蚁佳才
+基于人工智能技术的分子生成算法开发及网站平台开发
+张小琛
+张小琛
+基于人工智能技术的分子性质预测算法研究
+熊国丽
+熊国丽
+杨梓宜
+杨梓宜
+贺俊宏
+贺俊宏
+赵越
+赵越
+杨芷江
+杨芷江
+化学信息学软件工具的开发
+杨素青
+杨素青
+付丽
+付丽
+魏惠
+魏惠
+刘璐
+刘璐
+叶文玲
+叶文玲
+邓振科
+邓振科
+王柠柠
+王柠柠
+基于机器学习方法的ADMET性质的预测评估
+黄佳伟
+黄佳伟
+姚志江
+姚志江
+朱民锋
+朱民锋
+基于机器学习方法的分子性质预测研究及R软件工具开发
+董界
+董界
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 曹毅超
+
+- **网址**: http://faculty.csu.edu.cn/caoyichao/zh_CN/index.htm
+- **姓名**: 曹毅超
+- **邮箱**: caoyichao@csu.edu.cn
+- **职称**: 特聘副教授
+- **导师类型**: 研究生导师
+- **招生学科**: 多模态大模型、具身智能
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 曹毅超
+曹毅超
+特聘副教授
+学历：研究生(博士)毕业
+办公地点：中南大学主校区科教楼218室
+性别：男
+联系方式：caoyichao@csu.edu.cn
+学位：博士学位
+在职信息：在职
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+曹毅超，男，人工智能学院特聘副教授，硕士生导师。研究方向包括多模态大模型、具身智能、计算机视觉等。近五年在CVPR、ICCV、NeurIPS、ICML、AAAI、ACMMM、ICCAD、DAC、ICASSP、Pattern Recognition、IEEE TCSVT等高水平国际会议与期刊上录用/发表论文30余篇，部分成果获AAAI 2026 Oral与ICCV 2025 Highlight，授权国家发明专利10余项，长期担任CVPR、ICCV、NeurIPS、ICML、ICLR、ACMMM、IJCAI、ECCV、IEEE TMM、IEEE TNNLS、IEEE TCSVT等会议和TOP期刊的审稿人，担任IJCAI等会议的高级程序委员会委员。Google Scholar个人主页：https://scholar.google.com/citations?user=--8h8o0AAAAJ&hl=zh-CN。
+【研究方向】
+※ 多模态大模型（VLM大模型的持续演化和能力优化）；
+※ 具身智能（具身VTLA大模型的感知、记忆、泛化等）；
+※ 包括但不限于其他有趣的方向；
+【招生信息】
+【目前正在进行中南大学人工智能学院2027级（27年入学）硕士招生，欢迎同学们加入。】会与学生保持紧密的科研合作，从实验设计到论文写作，给予细致入微的全程指导。课题组不仅提供充足的科研资源，更注重激发独立思考的兴趣与能力，力争产出高水平成果。【手机号：13951823939，WX同号】
+【企业经历】
+企业任职期间，主持林业/草原行业首个多模态大模型“林海思绪(ForestMind)”的研发（大模型备案号：Jiangsu-LinHaiSiXu-202508130039），主持的“端-边-云协同林火识别引擎及一体化解决方案”获得国际先进成果评价，所主持研发的林火识别解决方案已成功应用于我国20多个省、60多个地市，大幅推动了林草行业智能化发展，建立了一批行业示范性项目，并参与起草了林草、应急行业的多项行业标准。
+【近五年代表性论文】
+[30] ProAlign: Anatomically Aligned Progression Modeling for Longitudinal Chest X-ray Report Generation  (ACM MM, CCF A), 2026
+[29] GeoClean: Training-Free Concept Erasure in Rectified Flow via Posterior-Competition Stabilization  (ACM MM, CCF A), 2026
+[28] World2Act: Mining Spatiotemporal World-Model Priors for Efficient Visuomotor Control  (ACM MM, CCF A), 2026
+[27] StateTrace: An Object-Centric Framework for Hidden-State Spatiotemporal Reasoning in Long Videos  (ACM MM, CCF A), 2026
+[26] Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery.  Forty-third International Conference on Machine Learning  (ICML, CCF A), 2026
+[25] VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model. Forty-third International Conference on Machine Learning  (ICML, CCF A), 2026
+[24] TriPAH: Imbalance-Aware Tri-Prompt Affinity Hashing for Cross-Modal Medical Retrieval. The IEEE International Conference on Multimedia & Expo 2026 (ICME, CCF B, 共同通讯), 2026
+[23] CORE: Collaborative Observer-Reasoner Execution via Multi-Agents for Smart Home. The IEEE International Conference on Multimedia & Expo 2026 (ICME, CCF B, 共同通讯), 2026
+[22] A lightweight physics-aware framework for multi-scale marine heatwaves forecasting (npj Climate and Atmospheric Science, Nature Partner Journals), 2026
+[21] Learning Distribution-wise Foundation Prior Consistency and Instance-wise Style Calibration for Medical Image Generalization. Computer Vision and Pattern Recognition (CVPR, CCF A), 2026
+[20] Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation. Computer Vision and Pattern Recognition (CVPR, CCF A), 2026
+[19] CompTrack: Information Bottleneck‑Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking. AAAI Conference on Artificial Inteligence (AAAI Oral, CCF A), 2026
+[18] FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking. ACM Multimedia (ACM MM, CCF A), 2025
+[17] Refining the Granularity of Smoke Representation: SAM-Powered Density-Aware Progressive Smoke Segmentation Framework. Pattern Recognition (PR, 中科院1区TOP, 第一作者), 2025
+[16] CounterPC: Counterfactual Feature Realignment for Unsupervised Domain Adaptation on Point Clouds. International Conference on Computer Vision (ICCV Highlight, CCF A), 2025
+[15] TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging. International Conference on Machine Learning (ICML, CCF A), 2025
+[14] Perturbating, Tuning, and Collaborating: Harnessing Vision Foundation Models for Single Domain Generalization on Medical Imaging. AAAI Conference on Artificial Intelligence (AAAI, CCF A, 共同一作), 2025
+[13] A Novel Image-Graph Heterogeneous Fusion Framework for Static IR Drop Prediction. Design Automation Conference (DAC, CCF A), 2025
+[12] Variational Feature Imitation Conditioned on Visual Descriptions for Few-Shot Fine-Grained Recognition. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT, 中科院1区TOP), 2025
+[11] SmokeAgent: Multimodal Agent for Fine-Grained Smoke Event Analysis in Large-Scale Wild Environments. Pattern Recognition (PR, 中科院1区TOP, 第一作者), 2025
+[10] Debiased Prototype Evolving for Point Cloud Domain Adaptation via 3D Foundation Models. International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF B), 2025
+[9] A Geometry-Material Aware Point Cloud Transformer for Large-scale Unstructured Thermal Analysis in 2.5D ICs. IEEE/ACM International Conference on Computer-Aided Design (ICCAD, CCF B), 2025
+[8] Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models. Advances in Neural Information Processing Systems (NeurIPS, CCF A, 第一作者), 2024
+[7] Universal Frequency Domain Perturbation for Single-Source Domain Generalization. ACM Multimedia (ACM MM, CCF A, 共同一作), 2024
+[6] Re-mine, Learn and Reason: Exploring the Cross-modal Semantic Correlations for Language-guided HOI detection. International Conference on Computer Vision (ICCV, CCF A, 第一作者), 2023
+[5] Coarse2Fine: Local Consistency Aware Re-prediction for Weakly Supervised Object Localization. AAAI Conference on Artificial Intelligence (AAAI, CCF A), 2023
+[4] Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval.  ACM Multimedia (ACM MM, CCF A), 2023
+[3] Searching for Better Spatio-temporal Alignment in Few-Shot Action Recognition. Neural Information Processing Systems (NeurIPS, CCF A, 共同一作), 2022
+[2] EFFNet: Enhanced Feature Foreground Network for Video Smoke Source Prediction and Detection. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT, 中科院1区TOP, 第一作者), 2022
+[1] Combining the Convolution and Transformer for Classification of Smoke-Like Scenes in Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS, 中科院1区TOP), 2022
+【竞赛获奖】
+2026年中南大学计算机学院教学竞赛一等奖
+【已授权专利】
+[6] 基于多光谱的森林火灾识别方法、系统、程序及存储介质，专利号：ZL202011122717.5（第一发明人）
+[5] 一种烟雾识别方法及装置、电子设备，专利号：ZL202110144582.0（第一发明人）
+[4] 森林火灾源头的估计模型训练方法、估计方法及系统，专利号：ZL202110097330.7（第一发明人）
+[3] 烟火检测模型的训练方法、烟火检测方法及设备，专利号：ZL202110215838.2（第一发明人）
+[2] 一种基于循环卷积神经网络的黑烟车检测方法，专利号：ZL201811143567.9（已授权发明专利，第二发明人）
+[1] 语音播报及视频抓拍多功能监测站，专利号：ZL201830024514.X（第一发明人）
+【联系方式】
+caoyichao@csu.edu.cn
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 岑学楷
+
+- **网址**: http://faculty.csu.edu.cn/cenxuekai/zh_CN/index.htm
+- **姓名**: 岑学楷
+- **邮箱**: cenxuekai@csu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 研究生导师
+- **招生学科**: 岑学楷
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 岑学楷
+岑学楷
+副教授
+博士生导师
+硕士生导师
+所在单位：交通运输工程学院
+学历：研究生(博士后)
+办公地点：铁道学院交通楼417
+学位：博士学位
+在职信息：在职
+毕业院校：香港科技大学
+访问量：
+最后更新时间：..
+首页
+招生计划
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+岑学楷，广东湛江人，智能交通研究中心主任，中南大学交通运输工程学院副教授，交通运输工程学院博导，交通运输工程学院、国家卓越工程师学院硕导。
+本科毕业于中山大学，博士毕业于香港科技大学土木与环境工程系，曾任香港科技大学极智慧城市中心（GREAT Smart Cities Center）研究员。主持国家自然科学基金青年基金项目/面上项目、湖南省自然科学基金青年基金项目、国家重点研发子课题、教改课题等多项。在Transportation Science、Transportation Research Part B/C/D/E等期刊发表SCI论文，在第24届和25界国际运输与交通理论会议（ISTTT）上发表论文，现担任Transportation Research Part A/B/C/D/E、IEEE Transactions on ITS 等期刊审稿人。
+邮箱：cenxuekai@csu.edu.cn
+科研方向
+电动汽车、共享出行、低空管控、自主式交通等
+招生计划
+2026年计划招收硕士研究生3名
+欢迎对交通科学感兴趣、数学功底扎实/有一定编程基础/英语能力突出、有主观能动性的学生报考研究生!
+欢迎对研究方向感兴趣的本科生提前进组学习、交流!
+欢迎有出国/境深造（香港、新加坡）的学生交流!
+主讲课程
+《城市综合交通枢纽》、《交通规划原理与方法》、《交通运输法规》、《智慧交通系统》（研究生课程）
+学术成果
+【科研项目】
+1.  国家自然科学基金委面上项目，72571285，基于车-车和车-网互动融合平台的异质车辆充放电选择行为分析与决策优化，2026/01-2029/12，主持；
+2.  国家自然科学基金委青年项目，72201281，考虑多方博弈的公共充电设施布局与运营补贴策略优化，2023/01-2025/12，主持；
+3.  湖南省自然科学基金青年项目，2023JJ40781，考虑“车车互充”的充/放电设施运营补贴策略优化，2023/01-2025/12，主持；
+4.  中南大学交通运输学院创新驱动计划，502044011，城市级大规模V2V充放电智能调度技术与系统，2024/10-2025/10，主持；
+5.  国家重点研发计划，2020YFB1600400，自主式交通复杂系统体系架构研究（基础研究类），2020/11-2023/10，子课题负责人；
+6.  中国工程院院地合作项目，2025-233-03，湖南省低空经济产业创新发展战略研究，2025/6-2026/5，参与；
+7.  中国工程院院地合作项目，2024-DFZD-57，中部地区综合运输大通道发展战略与技术创新体系研究，2024/9-2025/8，参与；
+8.  湖南省自然科学基金面上项目，Z202400691，中学校园行人聚集行为建模、仿真与安全管控策略研究，2024/01-2026/12，参与；
+9.  国家自然科学基金委面上项目，Z202301839，内河流域船-闸-港航运资源协同调度理论与方法，2023/08-2027/12，参与；
+10.  湖南省重点研发计划，Z202301107，基于多传感融合的主动交通流管控技术及应用，2023/07-2025/07，参与；
+11.  国家自然科学基金委面上项目，72271248，城市交通走廊高峰期出行动态特性及管理控制策略：理论与实证研究，2023/01- 2026/12，参与；
+12.  湖南省教育厅科学研究项目，Z202200387，有限布局条件下城市路网交通态势时空深度感知与推演，2022/12-2025/12，参与；
+13.  国家自然科学基金委面上项目，72171236，面向时变需求的高速铁路网络票额分配和差异化定价综合优化，2022/01-2025/12，参与；
+14.  国家自然科学基金委面上项目，52172310，轨迹数据驱动下多维度关联图融合的城市路网交通状态分析与预测，2021/10-2025/12，参与。
+【代表性学术论文】
+[1] Xuekai Cen,Xu Yang,Kanghui Ren,Wei Liu,Enoch Lee,Optimal pricing and vehicle routing of vehicle-to-vehicle charging platform with time windows,Transportation Research Part C: Emerging Technologies,Volume 168,2025,104821.
+[2] Xuekai Cen, Kanghui Ren, Enoch Lee, Hong K. Lo,A two-sided equilibrium model of Vehicle-to-Vehicle charging platform,Transportation Research Part C: Emerging Technologies,Volume 168,2024,104821.
+[3] Xuekai Cen, Guo Zhou, Bin Ji, Samson S. Yu, Zheng Zhang, Xiaoping Fang,Modelling and heuristically solving three-dimensional loading constrained vehicle routing problem with cross-docking,Advanced Engineering Informatics,Volume 57,2023,102029.
+[4] Enoch Lee, Xuekai Cen*, Hong K. Lo,Scheduling zonal-based flexible bus service under dynamic stochastic demand and Time-dependent travel time,Transportation Research Part E: Logistics and Transportation Review,Volume 168,2022,102931.
+[5] Enoch Lee, Xuekai Cen*, Hong K. Lo,Zonal-based flexible bus service under elastic stochastic demand,Transportation Research Part E: Logistics and Transportation Review,Volume 152,2021,102367.
+[6] Enoch Lee, Xuekai Cen*, Hong K. Lo, Ka Fai Ng (2021) Designing Zonal-Based Flexible Bus Services Under Stochastic Demand. Transportation Science 55(6):1280-1299.
+[7] Chuanyao Li, Shikun Liu, Xuekai Cen*,Safety and efficiency impact of pedestrian–vehicle conflicts at non signalized midblock crosswalks based on fuzzy cellular automata,Physica A: Statistical Mechanics and its Applications,Volume 572,2021,125871.
+[8] Jinjun Tang, Fan Gao, Chunyang Han, Xuekai Cen*, Zhitao Li,Uncovering the spatially heterogeneous effects of shared mobility on public transit and taxi,Journal of Transport Geography,Volume 95,2021,103134.
+【出版著作】
+自主式交通系统构成理论基础[M].中山大学出版社, 2022.（合著）
+运输经济与政策(英文版), 2023.（合著）
+【学术兼职】
+CICTP 2022 自主式交通论坛主席
+CICTP 2022 可持续交通系统与现代物流区域主编
+Transportation Research Part A/B/C/D/E、IEEE Transactions on ITS 等期刊审稿人
+【学术奖励】
+CICTP 2022 最佳区域主编
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 常实
+
+- **网址**: 
+- **姓名**: 常实
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 陈白帆
+
+- **网址**: https://faculty.csu.edu.cn/chenbaifan/zh_CN/index.htm
+- **姓名**: 陈白帆
+- **邮箱**: chenbaifan@csu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 研究生导师
+- **招生学科**: 移动机器人环境感知与定位、机器视觉、机器学习
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 陈白帆
+陈白帆
+副教授
+博士生导师
+硕士生导师
+所在单位：自动化学院
+办公地点：校本部升华后楼211
+联系方式：chenbaifan@csu.edu.cn
+学位：博士学位
+学科：计算机科学与技术
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+News
+研究
+团队
+出版
+教学
+人工智能课程
+机器人学导论
+数字图像采集与处理
+湖南省人工智能学会会员招募
+其他栏目
+English
+个人简介
+中南大学自动化学院副教授/博士生导师、湖南省人工智能学会副秘书长，中国人工智能学会教育工作委员会、智能机器人专委会委员，中国计算机学会智能机器人专委会执委。全国高校黄大年式教师团队成员，国家级“智能科学系列课程”教学团队成员，国家精品课程《人工智能》和国家精品资源共享课程《人工智能》的主讲教师之一。
+主要研究方向为移动机器人环境感知与定位、机器视觉、机器学习等，主持国家自然科学基金“时变环境下基于人类记忆机制的长期SLAM技术研究”（61403423）、湖南省智能农机装备创新研发项目“水稻除草机器人研制应用”、湖南省自然科学基金“复杂时变环境下移动机器人感知关键技术研究”（2022JJ30746）和“面向机器人建图自主性的深度强化学习研究”（2018JJ3689）以及企业技术开发等多个项目，参与了国家自然科学基金重大专项重点项目“高速公路车辆智能驾驶中的关键科学问题研究”（90820302）、科技部国家重点研发计划(2018YFB1201602)和湖南省科技重大专项子课题(2017GK1010)，发表论文60余篇，获得国家发明专利10项，编著《移动机器人》、《人工智能及其应用》专著/教材8部，获得中国有色金属工业科学技术奖二等奖、湖南省省教学成果奖一等奖、中国自动化学会教学成果奖一等奖。
+教育经历
+[1]
+2004.9-2009.6
+中南大学
+博士
+|
+博士研究生毕业
+[2]
+1997.9-2001.6
+中南大学
+学士
+|
+大学本科毕业
+[3]
+2001.9-2004.6
+中南大学
+硕士
+|
+硕士研究生毕业
+工作经历
+[1]
+2005.1-至今
+中南大学
+|
+自动化学院
+|
+副教授
+[2]
+2014.12-2015.11
+美国德州农工大学
+|
+访问学者
+研究方向
+[1]  移动机器人
+[2]  SLAM
+[3]  机器视觉
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 邓连波
+
+- **网址**: http://faculty.csu.edu.cn/lbdeng/zh_CN/index.htm
+- **姓名**: 邓连波
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 交通运输营运管理与信息系统
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 邓连波
+English
+首页
+科研项目2
+教学信息
+科研论文
+科研项目
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+邓连波
+个人信息Personal Information
+教授
+博士生导师
+硕士生导师
+教师拼音名称：denglianbo
+出生日期：1977-05-24
+入职时间：2007-07-01
+所在单位：交通运输工程学院
+学历：博士研究生毕业
+性别：男
+学位：博士学位
+在职信息：在职
+学科：交通运输工程
+其他联系方式Other Contact Information
+通讯/办公地址 : 4ab814286dd708cad23d325c9a8836ab27e7874b7a0cfd70328adef61d7215a947f6d52ab8bfbad0aba0140c1d719121f62c2d754e06d00a20539e9b821ff0387153a7166ddf12cb02464330b008a2654ff597e61250cc4865d234797b962407e06d3753763ef03f25627ce7c090650b64009f2b460068a60fcf0d31b2371e9a
+邮箱 : 09f1e48a182eccb89c0365b20ad55ca852a017d25469f870eea086cee1e43ba6d5adf3234924e289d7fa1d3975439b8f044ad5a26f4cff5ac36fbb903f5958879f3af95c21869ed1938cb7b31aa65dfb1c6c7592ba3735b17dea739d22cdaa31961997037ae17f78b9669f1f9febf5578ae801ddd788a22f52b71cc49e6a7ba5
+同专业博导
+同专业硕导
+个人简介Personal Profile
+邓连波，男，1977年5月生于辽宁铁岭市昌图县，博士，教授，博士生导师，轨道交通营运研究所所长。
+中国管理科学与工程学会理事（2017-），中国优选法统筹法与经济数学研究会高等教育管理分会理事（2018-），世界交通大会铁路客运组织技术委员会主席（2017-），中国系统工程学会交通运输系统工程专业委员会委员（2023-，第十届），《交通运输系统工程与信息》常务编委（2021-），铁道学报编委（2025-）。铁道学报、铁道科学与工程、西南交通大学学报、同济大学学报、武汉理工大学学报、Transportation Research、Transport Policy等国内外交通及其相关权威期刊审稿专家，国家自然科学基金等科技项目通讯评审专家。2000年中南大学经济管理学院交通运输本科毕业，2000年到广州    铁路集团公司工作， 2007年在中南大学交通运输工程学院获博士学位，2008年晋升为副教授，2011.10-2012.10英国纽卡斯尔大学访问学者。
+主要研究方向为交通运输营运管理与信息系统，高速铁路运输组织，公共交通组织优化理论。在客运专线旅客列车开行方案优化理论和方法、客流换乘选择行为研究、轨道交通客流分配理论与应用等方面取得了系统的研究成果。主持了国家自然科学基金、霍英东基金、教育部博士点基金、湖南省自然科学基金、铁道部科研重大课题等20余项科研项目，作为主要完成人承担教育部、铁道部、国家自然科学基金、湖南省、长沙市、铁道第四勘测设计院等科研项目20余项。发表论文150余篇，其中SCI、EI、ISTP等收录100余篇,申请和受理发明专利10余项，软件著作权8项，铁道学会科技进步二等奖1项。
+招生学科：0823交通运输工程学术学位（交通运输规划与管理）
+0861 交通运输专业学位
+140500 智能科学与技术
+社会兼职：
+《交通运输系统工程与信息》常务编委。
+《铁道学报》编委。
+中国优选法统筹法与经济数学研究会高等教育管理分会理事。
+世界交通运输大会（WTC）铁路客运组织技术委员会主席。
+中国管理科学与工程学会理事。
+中国系统工程学会交通运输系统工程专业委员会委员。
+教学工作：
+1、铁路行车组织（本科，2013-）
+运输组织学（硕士研究生,2013-2015）
+2、高速铁路运输组织系列课程(本科，2008-)
+高速铁路概论(2008-2011)，现代铁路技术与装备(2012-2014)，高速铁路运营管理(2015-)
+3、轨道交通营运理论与方法（硕士、博士，2015-）
+现代优化理论与方法（博士，2015），交通运输系统优化与模拟（硕/博士，2016-）
+4、软件技术系列课程（本科，2008-2010）
+计算机软件技术基础（2008-2010）、数据库技术（2010）、C语言程序设计
+5、轨道交通营运组织技术进展、学术前沿讲座（本科、硕士、博士，2012-）
+科学研究方向：
+高速铁路运输组织优化理论与方法
+城市轨道交通营运管理理论和应用
+公共交通组织优化理论
+交通运输营运管理与信息系统
+科研项目
+[22]  国家重点研发计划项目子课题（2023YFB2304103-04 ），多场景协同的旅客列车开行方案编制技术，2023-2026
+[21]  湖南省自然科学基金面上项目（2023JJ30703），高铁客票收益管理的多策略协同优化方法， 2023-2025
+[20] 湖南城际铁路有限公司项目，运营管理咨询服务（客流分析、分站调研和运营效果提升），2023.06--2023.08
+[19]  广州地铁设计研究院股份有限公司. 既有城际铁路公交化改造及多网融合关键技术研究与应用. 2023.01-2023.12
+[18]  基于协同指挥的高铁智能调度理论与方法研究. 国家自然科学基金高铁联合基金重点项目(U1834209). 2019.1-2022.12.
+[17] 《枢纽能力利用率评价指标体系研究》，中铁第四勘察设计院集团有限公司（2017K015-1），2017.12-2018.12.
+[16]  《网络化运行图模拟验算系统开发专题研究》，广州地铁集团有限公司（HT170235），2017.01-2019.12.主持
+[15] 《基于列车运行计划的城轨票价与运营补贴策略优化》，国家自然科学基金面上项目（71471179），2015.01- 2018.12，主持
+[14]    《高速铁路与既有线铁路能力综合运用及运输组织技术研究-我国铁路南北主要通道高速铁路与既有线间客货运输能力综合运用研究》，中国铁路总公司重大课题（2013X004-A-1），2013.06- 2015.06，参加单位负责人
+[13]    《高速铁路与既有线铁路能力综合运用及运输组织技术研究-我国铁路南北主要通道车流径路优化与运输组织研究》，中国铁路总公司重大课题（2013X004-A-2），2013.06- 2015.06，参加单位负责人
+[12]    《城市轨道交通网络列车运行图的协调优化理论和方法研究》.霍英东教育基金会第十三届高等院校青年教师基金应用研究课题( 132017). 2012-2014,主持（2万美元）.
+[11]    《基于弹性需求的客运网络列车开行方案优化方法》，国家自然科学基金项目（青年科学基金资助项目，2010－2012，主持。
+[10]    《城市轨道交通列车开行方案与定价策略综合优化》，教育部高等学校博士学科点专项科研基金项目，2010-2012年，主持
+[9]    《城市轨道交通列车开行方案及其定价策略研究》，湖南省自然科学基金，2010-2012，主持
+[8]    客运专线旅客列车开行方案优化模型和方法研究，轨道交通控制与安全国家重点实验室开放课题，2007.01－2008.06，主持。
+[7]    成网条件下城轨交通运输组织关键技术与系统研制.国家科技支撑计划(2011BAG01B01), 2011.9-2013.12. (排名2)
+[6]    《轨道交通旅客列车组织方案理论和方法研究》，国家自然科学基金项目（70771116），2008－2010，（排名2）。
+[5]《铁路旅客乘车行为分析与客流分配研究》,教育部高等学校博士学科点专项科研基金项目(20060533036)，2007-2009年，（排名2）.
+[4]《旅客列车开行方案优化与评价的研究》，国家自然科学基金项目（70471047），2005－2007，参加（排名6）。
+[3]《武广郑西铁路客运专线旅客列车开行方案研究》，铁道第四勘测设计研究院，2004年，参加（8万元，排名3）。
+[2]《客运专线旅客列车开行方案优化研究与软件开发》，铁道第四勘测设计研究院，2004-2006年，参加（排名2）。
+[1]《改善长沙市道路交通现状的对策研究》，长沙市科委项目，2006年，参加
+学术论文
+[1]             Energy consumption analysis of urban rail fast and slow train modes based on train running curve optimization. Energy Reports, 2024(11): 412-422.
+[2]             Joint Optimization of Multistage Pricing and Seat Allocation for High-Speed Railways Integrating Pre-Sale Period Division, IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3324814.
+[3]             邓连波,陈晨,静恩伟,张颖,霍亮. 高速磁浮车站列车作业优化与能力分析. 铁道科学与工程学报,2023,20(11):4041-4049.
+[4]             基于出行距离的城市轨道交通补贴优化模型.铁道科学与工程学报，DOI:10.19713/j.cnki.43-1423/u.T20221349.
+[5]             基于出行费用的城市轨道交通补贴优化模型. 铁道科学与工程学报，DOI:10.19713/j.cnki.43-1423/u.T20230213.
+[6]             Integrated energy-efficient optimization for urban rail transit timetable.  IET Intelligent Transport Systems, 10.1049/itr2.12377.
+[7]             Multiobjective Collaborative Optimization Method for the Urban Rail Multirouting Train Operation Plan, Journal of Advanced Transportation, vol. 2023, https://doi.org/10.1155/2023/3897353.
+[8]             Optimization of Differentiated Fares and Subsidies for Different Urban Rail Transit Users,Computers & Industrial Engineering,2023, https://doi.org/10.1016/j.cie.2023.109144.
+[9]             A line planning approach based on time-varying demand for high-speed rail under the combined operation of periodic and aperiodic services. Computers & Industrial Engineering,2023(185)109665.
+[10]          Seat allocation optimization for railways considering social distancing during the post-pandemic period,Journal of Transport & Health,Volume 33,2023 ,https://doi.org/10.1016/j.jth.2023.101691.
+[11]          Collaborative optimization of energy-efficient train schedule and train circulation plan for urban rail. Energy,263(2023),125599: https://doi.org/10.1016/j.energy.2022.125599
+[12]          Train Operation Curve Optimization for an Urban Rail Interval With Multi-Parameter Adjustment. Transportation Research Record,2022, 2676(12), 811–826.
+[13]          城市轨道交通差异化票价和补贴优化. 交通运输系统工程与信息, 2022, 22(5): 26-36.  DOI: 10.16097/j.cnki.1009-6744.2022.05.004.
+[14]          基于随机规划的高铁列车超售策略分析. 铁道科学与工程学报，2022,19(10):2813-2819.
+[15]          多层次多量度分层权重的枢纽能力利用率评价. 铁道科学与工程学报，2022,19(3):625-633.
+[16]          The laws of wagon accumulation cost of the relaxed fixed time accumulation mode. IET Intelligent Transport Systems, 16, 445–458 (2022).
+[17]          铁路勘测外业的送接车辆调度优化问题[J].工业工程,2022,25(04):158-164.
+[18]          Optimization Problem of Pricing and Seat Allocation Based on Bi-Level Multi-Follower Programming in High-Speed Railway. Journal of Advanced Transportation, vol. 2021, Article ID 5316574, 15 pages, 2021. https://doi.org/10.1155/2021/5316574.
+[19]          城轨区间运行时分-最优能耗值函数的B样条拟合方法[J]. 铁道科学与工程学报,2021,18(09):2461-2468.
+[20]          城市轨道交通节能列车时刻表优化方法. 系统工程理论与实践, 2021,41(6):1486-1495.
+[21]           基于多速度调控的城轨列车区间运行策略优化. 交通运输系统工程与信息, 2021 Vol. 21 (2): 111-118.
+[22]           Fitting Method of Optimal Energy-Running Time Curve Based on Train Operation Data of an Urban Rail Section. Journal of Advanced Transportation. Journal of Advanced Transportation, vol. 2021, Article ID 6663022, 14 pages, 2021. https://doi.org/10.1155/2021/6663022.
+[23]          Profit Maximization Model with Fare Structures and Subsidy Constraints for Urban Rail Transit, Journal of Advanced Transportation, vol. 2021, Article ID 6659384, 14 pages, 2021. https://doi.org/10.1155/2021/6659384.
+[24]          基于子系统划分的枢纽能力利用率评价方法. 铁路计算机应用,2021,30(1):10-14 .
+[25]           Zone Fare System Design in a Rail Transit Line. Journal of Advanced Transportation, vol. 2020, Article ID 2470579, 10 pages, 2020. https://doi.org/10.1155/2020/2470579.
+[26]          Optimization Method of Operational Subsidy Minimization in Urban Rail Transit. Computers & Industrial Engineering, 2020，vol.149,106739. DOI: https://doi.org/10.1016/j.cie.2020.106739 .
+[27]          A two-dimensional clustering method for high-speed railway trains in China based on train characteristics and operational performance. IEEE Access, 2020, vol.8: 81918-81931. DOI：10.1109/ACCESS.2020.2991638.
+[28]          Optimizing a High-speed Railway Operation Plan based on the Train Capacity and Service Frequency. Journal of Transportation Engineering, Part A: Systems, 2020,146(10) 04020109.
+[29]          Optimal design of feeder-bus network with split delivery. Journal of Transportation Engineering, Part A: Systems, 2020,146(3)04019078:1-15.
+[30]          Simultaneous line planning and timetabling based on a combinational travel network for both trains and passengers: a mixed-integer linear programming approach[J]. Transportmetrica A Transport Science, 2020, 16(4):1-39.
+[31]          基于需求可拆分的城轨关联公交接驳线网优化. 深圳大学学报，2020,37(2):121-129.
+[32]          城市轨道交通系统规制和运营补贴理论分析. 科技进步与对策, 2019,36(S6):25-31.
+[33]          基于票额分配的高速铁路动态定价分治优化方法. 铁道科学与工程学报，2019,16(10): 2407-2413.
+[34]          Passenger Flow Pushing Assignment Method for an Urban Rail Network Based on Hierarchical Path and Line Decomposition. Sustainability. 2019; 11(22):6441.
+[35]          城市公交线网的一票制差异化票价策略优化. 交通运输系统工程与信息，2019,19(05):128-134.
+[36]          基于动态优化的城轨网络列车运行计划换乘衔接研究. 铁路计算机应用,2019,28(07):66-70.
+[37]          Integrated Optimization Method of Operational Subsidy with Fare for Urban Rail Transit. Computers & Industrial Engineering, 127 (2019) 1153–1163.
+[38]          基于多节拍组合的城际铁路列车运行图优化[J].西南交通大学学报,2019,54(04):831-839.
+[39]          长途跨线客流输送方案优化设计. 铁道学报(1001-8360)，2018，40(7): 17-24.
+[40]          城市轨道交通系统外部效益及补贴分析. 铁路采购与物流,2018，（5）：23-25.
+[41]          城市轨道交通运营补贴额度优化. 铁道科学与工程学报, 2018,15(01):226-232.
+[42]          基于定序优化的高速铁路网络列车运行图优化[J].铁道科学与工程学报,2018,15(03):551-558.
+[43]          Multi-periodic train timetabling using a period-type-based Lagrangian relaxation decomposition, Transportation Research Part B, 2017, 105: 144~173.
+[44]          基于票价率偏差最小化的地铁分区票价优化方法[J]. 铁道科学与工程学报,2017,14(11):2473-2479.
+[45]          Coordinated ramp metering with equity consideration using reinforcement learning. ASCE's Journal of Transportation Engineering, Part A: Systems. 03/2017; 143(7):04017028.
+[46]          城市轨道交通线路票价策略优化. 系统工程理论与实践, 2016, 36(6): 1568-1575.
+[47]           京沪、京广高铁客流与列车频率关联性分析, 铁道运输与经济, 2016, 8:23-29.
+[48]          Congestion avoidance routing based on large-scale social signals. IEEE Transactions on Intelligent Transportation Systems, 2016,17(6):2613-2626.
+[49]          Crew Scheduling Considering both Crew Duty Time Difference and Cost on Urban Rail System[J]. PROMET - Traffic&Transportation,2016, 28(5)：449-460.
+[50]          Fare optimality analysis of urban rail transit under various objective functions. Discrete Dynamics in Nature and Society, Vol. 2014, Article ID 910736, 8 pages, 2014. doi:10.1155/2014/ 910736.
+[51]          Optimal Coordinated Strategy Analysis for the Procurement Logistics of a Steel Group. Mathematical Problems in Engineering, vol. 2014 (2014), Article ID 436512, 7 pages, 2014. doi:10.1155/2014/436512.
+[52]          Coordination optimization of the first and last trains’ departure time on urban rail transit network. Advances in Mechanical Engineering, Volume 2013 (2013), Article ID 848292.
+[53]          Optimal design of the feeder-bus network based on the transfer system [J]. Discrete Dynamics in Nature and Society, Volume 2013 (2013), Article ID 483682.
+[54]          The effect of train formation length and service frequency on the determination of train schedules. Proceedings of the IMechE, Part F: Journal of rail and rapid transit, 2014, 228(4): 378-388.
+[55]          城际直达列车开行方案优化研究. 铁道科学与工程学报，2013,10(6):41-46.
+[56]          基于卓越计划的铁路行车组织课程教学. 中国科教创新导刊, 2013,(20):148,150.
+[57]          基于换乘网络的城市轨道交通关联公交接驳线网优化.铁道科学与工程学报(1672-7029)，2012, 9(6)：77-83.
+[58]          基于弹性需求的城市轨道交通列车开行方案研究[J]. 铁道学报(1001-8360)，2012，34(12): 16-25.
+[59]          Optimization of train timetable for urban rail transit in multi-routes mode. Journal of Modern Transportation (2095-087X), 2011, 19(4): 233-239
+[60]          交通网络建设序列的动态规划方法. 运筹与管理(1007-3221)，2010,19（5）：45-51.
+[61]           城市轨道交通列车开行方案优化方法. 中国科技论文在线学报(1673-7180), 2010, 5(10): 767-772.
+[62]          旅客列车停站设置方案优化, 中国铁道科学(1001-4632), 2009, 30(4)：102-107.
+[63]          客运专线相关旅客列车开行方案优化研究[D]. 中南大学博士论文, 2007, 湖南长沙.
+[64]          旅客列车开行方案的双层规划模型和算法[J].中国铁道科学(1001-4632)，2007, 28(3): 110-116.
+[65]          物流企业的单品生产成本分析[J]. 数学的实践与认识, 2007,37(16): 12-17.
+[66]          一类人员招聘问题的算法研究[J]. 运筹与管理(1007-3221), 2007,16(4): 149-152.
+[67]          铁路旅客乘车行为的层次分析[J]. 铁道科学与工程学报(1672-7029), 2007, 4(3): 79-82.
+[68]          铁路旅客乘车选择行为及其效用. 中国铁道科学(1001-4632), 2007, 28(6): 117-121.
+[69]          旅客列车开行方案的评价指标体系 [J]. 中国铁道科学(1001-4632), 2006, 27(3): 106-110.
+[70]          客运专线相关旅客列车开行方案系统设计[J]. 系统工程，2006, 24(11): 24-30.
+[71]          物流配送车辆路径问题的多代竞争遗传算法[J]. 铁道科学与工程学报(1672-7029), 2005, 2(5):75-79.
+[72]          单线列车运行调整的最早冲突优化方法[J].中国铁道科学，2005, 26(1): 106-113.
+[73]          单线列车运行图铺画的时间循环迭代优化方法[J]. 铁道学报, 2005, 27(1): 1-5.
+[74]          客运专线相关旅客列车开行方案研究[J].铁道学报(1001-8360). 2004, 26(2): 16-20.
+[75]          铁路旅客换乘网络优化设计[J]. 铁道科学与工程学报(1672-7029). 2004, 1(1):78-82.
+奖励荣誉：
+• 2025年，中国铁道学会科技进步奖，二等奖
+• 2023年，比亚迪教育基金优秀教师奖
+• 2021年，基于精准降落技术的无人机自主配送系统设计及APP架构，第十六届全国交通科技大赛二等奖指导教师.
+•2017年，第七届钱学森城市学奖“城市交通问题”金奖提名奖
+•2015年，地铁大客流动态监测与管控决策系统. 第十届全国交通科技大赛一等奖指导教师
+•2014年，鑫恒教育基金 优秀教师奖
+•2012年，霍英东青年教师基金获得者
+教育经历Education Background
+工作经历Work Experience
+暂无内容
+暂无内容
+研究方向Research Focus
+社会兼职Social Affiliations
+交通运输营运管理与信息系统
+公共交通组织优化理论
+城市轨道交通营运管理理论和应用
+高速铁路运输组织优化理论与方法
+中国管理科学与工程学会理事
+世界交通运输大会（WTC）铁路客运组织技术委员会主席
+中国优选法统筹法与经济数学研究会高等教育管理分会理事
+2016.5
+2021.5
+《交通运输系统工程与信息》编委。
+团队成员Research Group
+团队名称：轨道交通营运研究所
+团队介绍：中南大学在轨道交通营运方面的教学和研究，肇始于1953年长沙铁道学院成立之时的铁道运输系和铁道运输专业。轨道交通营运研究所是在中南大学交通运输工程学院系所调整改革中，于2010年11月组建而成。
+研究所依托交通运输工程国家一级重点学科、一级学科博士点和博士后流动站，立足于轨道交通营运管理研究，以高速铁路、城市和城际轨道交通运营组织、运输组织优化和信息系统为主要研究特色。轨道交通营运研究所骨干研究人员包括教授6名，副教授12名，讲师4名，博士和硕士研究生约100名。
+研究所的总体发展目标是为我国轨道交通营运管理和决策服务，强化轨道交通营运组织优化理论和关键技术研究，开拓国际化的研究视野，建立一流的轨道交通营运理论研究平台和研究团队。
+研究所在轨道交通运营技术方面的研究一直处于国内前列，在旅客运输组织与营销理论、轨道交通运输组织理论、轨道交通流量平衡理论等方面硕果累累。尤其是在网络化铁路客运专线运输组织优化理论与应用、面向市场需求的铁路旅客运输组织和市场营销理论、快捷铁路货物运输组织优化理论与应用、铁路车站作业优化与仿真、铁路售票信息化系统、客票价格和营销策略、列车编组计划及车流组织等方面形成了一批标志性成果，在国内外同具有很高的知名度和影响力。
+近年来，立足于轨道交通跨越式发展的国民经济重大需求实际，特别是依托高速铁路、城际和城市轨道交通运输组织需要，对开行方案优化、出行选择行为、换乘网络设计、客流分配理论、运行图编制、客票策略和营销等方面进行了系统研究，并在轨道交通规划、组织优化等方面为我国经济社会发展做出了突出贡献。研究成果在铁路运输组织、客运专线规划与运营、城际轨道交通运营组织中得到良好应用。
+研究所继续将面向轨道交通主战场，致力于推进运营组织优化基础理论研究、成果转化和应用的步伐，加强营运组织管理决策系统的开发，继续为轨道交通运营科学化、信息化、自动化的发展做出贡献。
+邓连波
+陈铭
+彭齐
+蔡莉
+陈晨
+静恩伟
+许景
+徐一鸣
+梅宏达
+钟敏
+段科屹
+陈雨欣
+曾俊豪
+汪晴
+杨翊
+刘国欢
+高勋
+徐毅梅
+曾宁鑫
+邓连波建设
+手机版
+访问量：次
+开通时间： ..
+最后更新时间： ..
+
+---
+
+## 邓晓衡
+
+- **网址**: http://faculty.csu.edu.cn/dengxiaoheng/zh_CN/index.htm
+- **姓名**: 邓晓衡
+- **邮箱**: dxh@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 无线网络、边缘计算、物联网、大数据、人工智能
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 邓晓衡
+邓晓衡
+教授
+博士生导师
+硕士生导师
+入职时间：2006-01-05
+所在单位：电子信息学院
+职务：院长
+学历：博士研究生毕业
+性别：男
+联系方式：Email：dxh@csu.edu.cn
+学位：博士学位
+在职信息：在职
+主要任职：湖南省数据传感与交换设备工程中心 主任 IEEE RS Chapter长沙  主席CCF普适计算专委  委员  CCF长沙  执委
+毕业院校：中南大学
+学科：信息与通信工程
+计算机科学与技术
+曾获荣誉：
+2024-12-31  当选：  湖南省“芙蓉学者”特聘教授
+2020-12-31  当选：  中南大学励志教师奖励
+2010-12-31  当选：  湖南省青年骨干教师
+2008-12-31  当选：  2008年获西南铝业优秀教师奖
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+科研项目
+论文成果
+专利著作
+教学成果
+获奖信息
+团队风采
+其他栏目
+English
+个人简介
+邓晓衡，男，博士，教授、博士生导师，现为电子信息学院院长，湖南省深度感知与智能通信工程研究中心主任，湖南省数据传感与交换设备工程中心主任, 湖南省“芙蓉学者”特聘教授，湖南省电子学会副理事长、湖南省计算学会常务理事，CCF杰出会员，IEEE高级会员，CCF长沙执委，曾任CCF YOCSEF 2009-2010年度长沙主席。2008年获西南铝业优秀教师奖，2010年获得“湖南省青年骨干教师”计划资助。长期从事边缘网络与边缘计算、物联网与大数据分析、分布式系统、无线网络、在线社会网络，主持和参加包括国家自然科学基金、国家“863”计划课题、教育部重点项目、教育部高等学校博士点专项基金、湖南省自然科学基金、湖南省科技计划项目以及大型企业信息化项目等分布式信息系统研制等纵横向科研项目30余项，具有扎实的理论知识和丰富的工程实践经验。在包括IEEE TON，TMC，TDSC，TKDE，TITS，TVT，IOT，TNSE，计算机学报，计算机研究与发展，电子学报，通信学报以及IEEE CVPR，ICASSP，ICC，Globecom, WCNC, ICTAI，IPCCC等国内外权威的刊物与国际会议上发表与研究论文150余篇，授权发明专利34项，发表著作2部，获省、部级科技成果奖2项。
+团队招收：
+*信息与通信工程、智能科学与技术、电子信息博士生
+*信息与通信工程、电子科学与技术相关专业的学术学位硕士生
+*电子信息（含人工智能、大数据、网络与信息安全、通信工程方向）专业学位研究生
+欢迎有志于投身科学研究与工程应用的优秀学生报考！团队主要研究方向包括：无线网络、边缘计算、物联网、大数据、人工智能。联系方式：dxh@csu.edu.cn
+本团队将针对学生的特点和团队科研方向和项目的实际情况设计科学的培养方案，注重研究能力与研发能力并重，毕业生就业于国内著名大型IT企业、跨国公司或央企，有做科研兴趣可以直接攻读本校博士研究生或推荐到海外去攻读博士学位。
+研究领域与进展
+1、 云边端一体化协同物联网平台
+主要研究使用组合优化理论、防策略拍卖机制设计理论在云计算、边缘计算场景下的计算卸载、资源分配问题中的应用，考虑工业界的各类生产问题的特性，将其与边缘计算深度结合，设计合适的资源分配算法、任务调度算法、负载均衡算法来优化系统资源利用率，探索提高企业生产能效和利润的方法，并基于此研究面向边缘计算场景的分布式系统计算资源管理技术和平台实现，初步设计并实现了一种云边端一体化资源管理平台，其架构如图所示，可以提供跨区域的软硬件资源管理服务，支持大规模云边服务器、终端设备的动态接入，支持以容器作为载体进行高可用弹性服务部署，平台提供多个中间件服务支撑跨区域环境下的复杂分布式应用的协调和通信，以支撑企业资源管理优化和信息化建设，系统架构如图1所示。
+图1 物联网平台系统架构图
+2、 跨地域多无人机云边端协同平台
+本团队在多无人机系统和边缘计算结合的场景中开展了系列研究工作。我们基于在分布区域多、地理空间跨度大的环境下的多无人机集群难以得到统一有效控制和管理的问题，开发了一种跨地域多无人机云边端协同平台，通过使用边缘计算、服务器资源管理、容器化、视频流传输、可靠消息传输、智能路径规划和无人机自主回收降落等技术，实现多区域无人机管理所需要的软硬件资源管理和基础服务，设计和实现基于Web方式的可视化管理界面，形成一个完备的多区域、多无人机管理协同平台。在该平台的支持下，用户可根据不同的场景，在边缘端和无人机端灵活部署不同应用程序，实现无人机全自动全天候作业。该平台可用于大气污染监测、交通巡检、电力巡检等多种场景，具备良好的应用价值。图2为无人机交通巡检场景大屏，图3为跨地域多无人机云边端协同平台框图。
+图2无人机交通巡检场景大屏
+图3 跨地域多无人机云边端协同平台框图
+3、 软件定义车联网控制平面动态部署与优化
+车联网中存在大量可移动的异构节点，导致网络管理困难，无法充分利用网络资源为其中的各类QoS不同的应用提供数据传输服务。软件定义车联网可以利用SDN控制平面，实现灵活可扩展的网络管理功能，简化网络管理过程。另外，SDN控制平面可以根据全局网络信息制定网络决策，提高网络资源利用率。在软件定义车联网中，高可靠高性能的控制平面对于保存网络的高性能是十分关键的。考虑到车联网中应用的超低延迟需求，以及网络拓扑结构高速变化对控制平面性能的影响，我们在车联网中部署三层结构控制平面。并基于多智能体深度强化学习算法动态部署控制平面，保证控制平面可以随网络动态变化，满足网络管理以及决策需求。图4为软件定义车联网三层结构控制平面，图5为基于多智能体深度强化学习的控制平面动态部署算法。
+图4 三层结构控制平面
+图5 多智能体深度强化学习控制平面动态部署过程
+4、 车路协同感知系统研究
+围绕车侧与路侧各自的感知能力，车路协同技术依托新一代移动通信技术，充分发挥了车与路之间的协同信息交互特性，来赋予车辆更广的感知范围。从而在全时空的交通信息采集与融合的基础上，实现车辆的主动安全控制和道路的协调管理，最终达到人、车和路的有效协同，提升交通效率和保证交通安全的目的，车路协同基本原理如图5所示。由于单车智能感知范围受限的固有缺陷，难以对数量庞大的交通参与者运动意图做出准确预判。对此，研究团队围绕车路协同感知问题开展了诸多研究，重点围绕全天候的视觉感知任务，利用车路协同技术扩大单车感知区域，辅助单车评估行驶风险并做出正确决策，避免冲突的发生，基于车路协同的视觉感知增强方案如图6所示。
+图5 车路协同基本原理示意图
+图6 车路协同的视觉感知增强方案
+5、 可持续车联网中面向微服务的边缘服务部署
+新型的范式移动边缘计算（MEC）和微服务架构使得在现成的服务器部署上实现异构资源协同和一组独立轻量级服务并行变得可行和可扩展，从而以较低的消耗为智能网联汽车提供各种服务。目前已有大量研究者对于MEC计算卸载问题进行了广泛研究，但不同任务类型对于服务具有差异化需求。服务布局旨在对服务平台进行配置，并将相关的库/数据库配置在相应的边缘服务器上。然而，由于资源限制，边缘服务提供者只能托管少量的服务。因此，需要智能的决定承载那些服务，以最大限度的提高网络性能。基于此，我们致力于研究面向微服务的服务布局问题。为了提高网络资源利用率，充分考虑服务布局所引起的服务器基本资源消耗和网络带宽消耗。此外，设计可共享的服务布局机制，实现边缘服务器协同优化服务布局决策，以解决MEC系统中空间需求耦合、服务异构和去中心化协调。
+图7 基于车路协同的视觉感知增强方案
+6、 面向边缘计算的物联网应用安全与数据隐私保护策略研究
+随着科技的进步及算力提升，未来智慧城市更多不能部署物理服务器的公司需租用公共开放边缘托管主机计算平台部署应用服务，确保边缘计算平台服务安全可信是一项重要任务。研究在移动边缘计算生态环境下安全分层的可信移动边缘计算安全系统架构，部署深度学习安全检测算法对物联网持续系统监控，实现边缘计算平台应用安全与数据隐私防护，利用快速反馈控制机制做出局部反射安全决策，对可疑应用服务进行分类处理同时做出响应部署请求，达到快速、准确地应对恶意威胁企图，为边缘计算的发展、设备部署、有效控制新型物联网恶意攻击检测等方面提供理论依据和技术支撑，保障边缘计算平台服务以及网络边缘大量基础架构组件的安全。
+图8 安全可信边缘计算系统框架
+教育经历
+[1]
+2002.9-2005.12
+中南大学
+|
+计算机应用技术
+|
+博士学位
+|
+博士研究生毕业
+2005年于中南大学获得计算机应用技术博士学位
+工作经历
+[1]
+2002.9-至今
+中南大学
+|
+Central South University
+|
+vice dean
+|
+Lecturer (September 2002--September 2005), Associa
+[2]
+2017.9-2018.3
+佛罗里达大学
+|
+University of Florida
+|
+高级访问学者  合作老师：Yuguang Fang （方玉光）教授
+[3]
+2011.6-2012.5
+维多利亚大学
+|
+University of Victoria
+|
+As a Visiting Scholar supervised by Professor Lin Cai
+|
+访问学者     合作老师：Lin Cai （蔡霖）教授
+[4]
+2001.1-2002.8
+湖南师范大学
+|
+Hunan Normal University
+|
+Network management engineer，As an administrative staff work for Department of Physics, July 1997—December 2000
+社会兼职
+[1]
+2024.1-至今
+湖南省电子学会副理事长
+[2]
+2016.9-至今
+CCF长沙执委
+[3]
+2016.8-至今
+湖南省计算机学会  常务理事
+[4]
+2016.1-至今
+IEEE RS Chapter 长沙 主席
+[5]
+湖南省“三区”科技特派员
+[6]
+计算机学会普适计算专委委员
+[7]
+计算机学会高级会员
+[8]
+IEEE高级会员、ACM会员
+研究方向
+[1]  wireless networking and mobile computing
+[2]  无线网络与边缘计算
+[3]  智能车联网
+[4]  物联网与大数据
+[5]  分布式计算与系统
+[6]  信息与通信系统研发、信息化规划
+其他联系方式
+[3]  通讯/办公地址： 8d6e5f159904516b64e4092b5baa5f61e0469444b1d12af19a4b3b1583ca5d1e1d4f5aa7f7de7db96baa1b340627c69c8827f184349db54eabf8bda368ff7bfa30235a3fab0dfc9651004c10185cf328ad409c189543868f07b5b3f890615dd96f3bfde92e77ecc76d1ad428d32adb64d2e4d4d55ec7273707b01f54b5ad33a2
+[6]  邮箱： 1cf0901cf1c5deeee2603089a14ec3d52f2cb2ae56a8437b0dca49488e08adf1359460f3d8665198bf217dda36eee161cf321dc6b7ce3a57e9307a9579c4c46a3b453ad5c63112dfbc1607c0da31bec1bf63cf5b96f2e5266c9e8533fdd4937ea4cfc98ca79c6c8538cea46b510850fdf956191ab2035fbd5f4a480ca6017800
+团队成员
+团队名称：无线网络与分布式计算团队老师
+团队介绍：团队共有9，邓晓衡教授为团队带头人，其他为学术骨干。团队成员包括：刘安丰、朱从旭、曾志文、桂劲松、李登、沈海澜、漆华妹、林立新。团队成员主要聚焦于无线网络、移动互联网、边缘计算、物联网与大数据、分布式系统研究领域。
+刘安丰教授
+博士，教授。主持和参加包括国家自然科学基金、国家“973”课题、国家“863”军工课题、教育部重点项目、教育部高等学校博士点专项基金等纵横向科研项目10多项，发表研究文章100余篇，其中EI、SCI收录50余篇，获省、部级科技成果奖2项。主编、副主编(译)教材4部。 擅长领域包括群体感知网络，无线移动网络，无线传感器网络，信息系统研发。
+朱丛旭教授
+博士，教授。主持和参加包括国家自然科学基金面上项目、省自然科学基金面上项目、省科技计划重点项目、省教育厅重点项目等7项以上。在国际学术期刊、国际学术会议和国内重要期刊上发表论文80余篇。擅长领域包括信息系统安全、个人隐私保护，信息安全领域规划与系统设计研发。
+曾志文教授
+博士，教授。主持和参加包括国家自然科学基金、湖南省自然科学基金、湖南省科技计划项目等4项。在国际学术期刊、国际学术会议和国内重要期刊上发表论文20余篇，擅长领域包括无线传感器网络，分布式计算。
+桂劲松教授
+现为中南大学计算机科学与工程学院教授。发表科研论文30余篇，其中被SCI、EI、ISTP检索20余篇。获得校级奖1项。主编和参编教材2本。申请国家发明专利3项，授权1项。主持国家、省部级课题多项。
+李登副教授
+中南大学信息科学与工程学院副教授。发表科研论文20 余篇，其中被SCI、EI、ISTP 检索20余篇。参编国外发行英文专著教材2 本，获得省部级科技进步奖3 等奖1 项。擅长领域为分布式系统设计、实现与优化。
+沈海澜副教授
+博士，副教授。主持省部级课题多项，发表移动网络数据传输、数据融合和数据分析相关的研究文章10余篇，其中EI收录8篇。 擅长领域为移动计算与大数据分析。
+漆华妹副教授
+博士，副教授。中国计算机学会（CCF）会员；2003年获计算机科学与技术专业学士学位，2006年获模式识别与智能系统专业硕士学位，2010年获计算机应用技术专业博士学位，2010-2012年，控制科学与工程博士后。主持与参与国家、省部级课题多项，发表科研论文10余篇，其中EI、ISTP收录5篇。参编专著教材1本。 擅长领域为无线多跳网络性能分析、网络演算、物联网。
+林立新副教授
+副教授。2003进入中南大学信息与工程学院，2002年中南大学计算机应用硕士学位，2009年交通运输及控制博士学位，1991~1998年，电子部48研究所工作，1991年本科毕业于西安电子科技大学计算机软件。主持无线网络监测相关课题多项，经费超过200万元。 擅长领域为太阳能发电站无线监控、太阳能发电功率优化器、物联网。
+团队名称：无线通信与移动计算实验室
+团队介绍：无线通信与移动计算实验室是一个年轻具有活力的团队，本团队主要集中于边缘计算、物联网与大数据分析等领域的研究。团队共计成员17名，其中博士生3人，研究生14人。
+王磊磊
+计算机科学与技术专业，19级博士，研究兴趣车联网与边缘计算等。
+关培源
+计算机科学与技术专业，16级博士，研究兴趣为群体智能感知、机会网络、边缘计算等。
+李博
+计算机科学与技术专业，18级博士，研究兴趣为社交网络、复杂网络、车联网、边缘计算等。
+李君
+信息与通信工程专业，18级研究生
+陈彬
+计算机技术，18级研究生
+秦亮亮
+计算机技术，18级研究生
+团队名称：已毕业校友
+团队介绍：无线通信与移动计算实验室是一个年轻具有活力的团队，团队毕业生39名。本团队为百度、阿里、腾讯、华为等著名公司输送了一批专业人才，部分毕业生进入国家电网等大型国企。
+黄戎
+电子与通信工程专业，主要研究方向机器学习，目前任职于深圳字节跳动
+龙芳
+计算机科学与技术专业，研究推荐系统，目前任职于百度（中国）股份有限公司
+郑静益
+软件工程专业，研究大数据系统开发，目前任职于上海花旗
+刘恩陆
+信息与通信工程专业，研究边缘计算，目前任职于华为北京研究所
+万志文
+信息与通信工程专业，研究边缘下的流处理调度，目前任职于北京百度网讯科技有限公司
+赵智慧
+软件工程专业，研究计算信任安全机制，目前任职于嘉联支付有限公司
+罗杰
+信息与通信工程专业，研究无线网络与移动计算，目前任职于华为云数据中心运营部
+陈凌驰
+计算机科学与技术专业，主要研究深度学习视觉和部署领域，目前任职于深圳百度国际有限公司
+许悦斌
+信息与通信工程专业，主要研究方向数据挖掘，目前任职于华为
+刘锦
+信息与通信工程专业，研究方向为边缘计算，目前任职于国家电网长沙分公司
+刘梦杰
+电子与通信工程专业，主要研究微服务架构
+刘良知
+软件工程专业，主要研究推荐系统，目前任职于国家电网湖南省电力有限公司信息通信分公司
+李海霞
+软件工程专业，研究深度学习目标检测方向，目前任职于深圳城市交通规划设计研究中心有限公司
+陈欢
+信息与通信工程专业，主要研究软件定义网络，目前任职于中兴通讯股份有限公司（长沙）
+蔚永
+软件工程专业，主要研究消费电子产品的camera相关的软硬件开发，目前任职于紫光展锐
+吴亚青
+软件工程，研究软件系统架构，目前任职于腾讯科技（深圳）有限公司
+黄文俊
+软件工程专业，研究后台系统开发，目前任职于百度（中国）有限公司
+李练
+软件工程专业，研究自然语言处理，目前任职于百度（中国）有限公司
+张桦林
+软件工程专业，研究前端开发，目前任职于广联达科技股份有限公司
+赵德政
+计算机技术专业，主要研究计算机视觉，目前任职于中原银行
+赵敏
+软件工程专业，研究推荐算法相关，目前任职于汉海信息技术（上海）有限公司
+黑聪
+电子与通信工程专业，研究方向认知无限电 目前任职于国家电网河南分公司
+刘亚军
+信息与通信工程专业，研究新零售技术开发，目前任职于杭州阿里巴巴
+刘奥
+软件工程专业，研究推荐算法相关，目前任职于百度(中国)有限公司
+孙子惠
+电子与通信工程，主要研究边缘计算，目前任职于深信服科技股份有限公司
+曹德娟
+信息与通信工程专业，研究大数据系统开发，目前任职于上海花旗银行
+陈琳杰
+电子通信工程，主要研究大数据和数据挖掘相关技术和算法，目前任职于武汉华为
+彭琼林
+信息与通信工程专业，研究无线mesh网络，目前任职于武汉华为
+刘庆民
+软件工程专业，研究学习大数据系统开发，目前任职于济南中泰证券
+钟维坚
+信息与通信工程专业，研究大数据处理，目前任职于移动广州分公司
+何婷婷
+信息与通信工程专业，主要研究软件定义网络（SDN），目前任职于国家电网湖南省公司
+李锋
+信息与通信工程专业，研究嵌入式系统和智能家居，现任职于国家电网长沙分公司
+蔡汝婷
+信息与通信工程专业，研究前端系统开发，目前任职于国家电网湖南省公司
+吴曾
+电子与通信工程专业，研究前端系统开发，目前任职于移动长沙分公司
+冯如意
+软件工程专业，研究网页前端开发，目前任职于北京辰安科技股份有限公司
+杨子荣
+软件工程专业，研究嵌入式系统开发，目前任职于北京华为
+赵军英
+软件工程专业，研究网页前端开发，目前任职于深圳华为
+吴佳琪
+信息与通信工程专业，研究大数据处理与机器学习，目前任职于广州CVTE
+曾德天
+电子通信工程，研究机器学习，目前任职于蚁坊软件。
+中南大学版权所有 2023  技术支持：WCMC  Copyright ？ 1999-2023, Central South Unversity  All Rights Reserved
+手机版
+中南大学
+
+---
+
+## 范晓慧
+
+- **网址**: http://faculty.csu.edu.cn/fanxiaohui/zh_CN/index.htm
+- **姓名**: 范晓慧
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 范晓慧
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 范晓慧
+语言选择
+English
+首页
+科研获奖
+科研项目
+教材专著
+授权专利
+教学获奖
+范晓慧
+已经得到个称赞     给我点赞
+教授
+博士生导师
+硕士生导师
+入职时间：1996-07-01
+所在单位：资源加工与生物工程学院
+职务：院党委书记
+学历：研究生(博士)毕业
+办公地点：中南大学生物楼315
+性别：女
+联系方式：13508480582
+学位：博士学位
+在职信息：在职
+主要任职：中国金属学会环保分会副主任委员
+其他任职：国家烧结球团装备系统工程技术研究中心技术委员会委员、《钢铁》杂志编委
+毕业院校：中南大学
+学科：矿业工程
+冶金工程
+个人简介
+研究方向社会兼职教育经历工作经历团队成员
+其他联系方式
+范晓慧，女，中南大学二级教授，博士生导师，资源加工与生物工程学院党委书记。享受国务院政府特殊津贴专家，入选教育部新世纪优秀人才和湖南省学科带头人，湖南省121创新人才培养工程第一层次人才，连续6年入选美国斯坦福大学“全球前2%顶尖科学家榜单”。获宝钢优秀教师特等奖（当年全国6人）、湖南省徐特立教育奖（五年一届，每届高校5人）、首届霍英东教育教学二等奖、湖南省芙蓉教学名师、第五届中国金属学会冶金青年科技奖、全国高校黄大年式教师团队、湖南省“芙蓉百岗明星”；兼任中国金属学会环保分会副主任委员、湖南省地矿类专业教指委副主任委员、国家烧结球团装备系统工程技术研究中心技术委员会委员、《钢铁》杂志编委。
+主要从事铁矿绿色低碳造块与氢冶金、冶金过程数学建模与智能控制、冶金烟气污染控制与碳捕集利用、多产业固废协同资源化与增值利用等研究，近年来主持国家自然科学基金重点项目、国家科技支撑计划、国家重点研发计划、国际合作以及校企合作项目等100余项，获国家科技进步二等奖2项，省部科技进步一等奖、创新团队奖6项，省部级科技进步二等奖4项，全国优秀科技图书奖1项；获国家一流本科课程2门，省部级教学成果特等奖、一等奖4项、湖南省高校“十大”育人示范案例；获国家授权发明专利90项，软件著作权8项；出版专著5部，教材6本，发表学术论文250余篇，被SCI、EI收录160余篇。
+铁矿绿色低碳造块与氢冶金
+冶金烟气污染控制与碳捕集利用
+冶金过程数学建模与智能控制
+多产业固废协同资源化与增值利用
+《Minerals》专刊客座主编
+2019.1-至今
+《钢铁》杂志编委
+国家烧结球团装备系统工程技术研究中心技术委员会委员
+2016.7-至今
+中国金属学会环保分会副主任委员
+1987.8-1991.7
+中南工业大学
+工学学士学位 |
+大学本科毕业
+1991.8-1996.6
+中南工业大学
+工学博士学位 |
+博士研究生毕业
+1996.6-2000.4
+矿物系 |
+中南工业大学
+历任 |
+讲师、副教授
+2000.5-2010.6
+资源加工与生物工程学院 |
+中南大学 |
+钢铁系副主任、主任 |
+历任 |
+教授、博导
+2007.8-2008.7
+澳大利亚昆士兰大学火法研究中心
+历任 |
+访问学者
+2010.6-2019.1
+本科生院 |
+中南大学 |
+特色办主任、副院长 |
+历任 |
+教授、博导
+2019.1-至今
+资源加工与生物工程学院党委 |
+中南大学 |
+书记 |
+历任
+暂无内容
+邮编:c576f0c85848a14d10428d1b79269fc7d68bde9ba6ecb95648b168a03671c3821c778c2bedf0cae5d03c95a065c3a5efa4243241acb9eb6089885db6f9f3fa7f5b7491eb5af48e7ab43d253e29e0fa6991b0af260ac98903cc7fbca150cb2fc86cb6bd41d95f78a263ba3d6f6aa504ee56cdd8693f2e6f13b576940cee3633de
+传真:0244e03ff73aeaa8c31ad9745987a64c41211e55559664c6fa60d90024d120da4fabd73bbdac25c0d08ce91eb38dba962b59c24b28b360a87ca6dddf15d99aaf6896ba678ae85291271157d0f5c695e5c7d0004c3661cf5df26290925ef1f5dd43a397073f72d5be1e483d0954ceb66340528e534442584bb49115dea58f27bc
+通讯/办公地址:4951a035ef917869148898253862088f676f1b9fb6b87dc0042bbff8fcb8ee70e145890311f69845d37cd450cecf15a4c7a66763873880622ed6f99f219726578794ce085dd333035617415aadd302f455aed2a75c7eeca985080e3cd22ff495e9af2610e82fc5feb5282fadcdbd56e4d3e466e77b078d6f37f99072f649df62
+办公室电话:424d673524a4f907324972fe41c1eb162c319cb0fc79cd32790b91f457cc9a6a8d4d37250674ce53440cec7402d51d830608af4f915beeb14eb6843c8f68177be0c4d6025a6fd3a6c76f4ed44c761b8eee250c46dbda9a27ba9a9e1cd6210edd165ec773ffe22710ebc85805c822a3bc460b3b7c23b80b748be69425a7e0fbe3
+移动电话:2ec17195bb89f2edefcee5f6b520b68bf9db3f1b7ab275a23b95fd84b6fd332a1d0551de34d109932b1be4d5990dc8619d20f04f00b29d65918122a48a5d3af0430a02c27354a413358796e38c7069abb4e505fa20a8920901c7b44001e66378ef1667c29ea5c25171392ed6c3a07a1fdfb52524a066bc927b17f08428980dea
+邮箱:611a82b876325dd9af090e2e93c886cb561af3665b56dce593f4f327061d640a085407aa096600d3f4c511cbb5d2d1656946753a5b13b5f6566ef21358dacddc4c7c53ff399a2ec63f01f58d9026ba526e7a3aa8ca6eee927e2a8fa2ef058f774c41325567ab80d36d1659e6cb7fa7e09e420d7124af421e34791b05ca0f0e12
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+您是第位访客
+手机版
+中南大学
+最后更新时间：--
+同专业博导
+同专业硕导
+扫描二维码
+
+---
+
+## 郭璠
+
+- **网址**: https://faculty.csu.edu.cn/guofan/zh_CN/index.htm
+- **姓名**: 郭璠
+- **邮箱**: guofancsu@163.com
+- **职称**: 副教授
+- **导师类型**: 研究生导师
+- **招生学科**: 退化图像复原、医疗影像分析、图像艺术处理、虚拟现实开发、工业图像检测
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 郭璠
+郭璠
+副教授
+硕士生导师
+入职时间：2012-09-04
+学历：博士研究生毕业
+办公地点：中南大学升华北楼204-2室
+性别：女
+联系方式：Email: guofancsu@163.com; fanguo@mail.csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学
+学科：计算机科学与技术
+访问量：
+最后更新时间：..
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+郭璠，博士，副教授，博士生导师，主要从事图像处理、计算机视觉、人工智能等相关领域的科研和教学工作。2012年6月于中南大学计算机应用技术专业博士毕业后留校任教，2013年4月至2016年7月在中南大学控制科学与工程博士后流动站继续研究工作。
+在科研方面，作为第一作者主编学术专著1部。以第一作者或通讯作者公开发表学术论文80余篇，其中SCI论文50余篇。作为发明人申请与授权发明专利34项，授权软件著作权11项。先后主持了国家自然科学青年科学基金、湖南省自然科学基金、中国博士后基金、湖南省博士后科研资助计划、广东省数字信号与图像处理技术重点实验室开放课题等项目。作为主要研究人员参与了国家自然科学基金重大研究计划集成项目，以及多项军工项目与企业横向课题。
+在教学方面，作为国家级“人工智能课程”教学团队成员，连续多年承担了来华硕士留学生的“人工智能”课程，教学效果得到了留学生们的一致好评。同时结合自身的教学心得体会，发表教改论文7篇，获批教育部协同育人项目1项，校级留学生教改项目2项。作为指导教师指导学生荣获中国高校计算机大赛移动应用创新赛一等奖、“华为杯”中国大学生智能设计竞赛一等奖、湖南省大学生计算机程序设计竞赛应用开发类一等奖等多项竞赛奖励，获中国高校计算机大赛优秀指导教师奖。
+目前为CCF、IEEE、ACM会员，担任IEEE Transactions on Image Processing，Pattern Analysis and Applications，IET Image Processing，Journal of Modern Optics等国际知名期刊审稿人。
+教育经历
+[1]
+2008.9-2012.6
+中南大学
+|
+计算机应用技术专业
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2005.9-2008.6
+中南大学
+|
+计算机应用技术
+|
+硕士学位
+|
+硕士研究生毕业
+[3]
+2001.9-2005.6
+中南大学
+|
+计算机科学与技术
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+2026.7-至今
+中南大学
+|
+人工智能学院
+|
+副教授
+[2]
+2017.9-2026.7
+中南大学
+|
+自动化学院
+|
+副教授
+[3]
+2013.4-2016.7
+中南大学
+|
+控制科学与工程流动站
+|
+博士后
+[4]
+2012.9-2017.9
+中南大学
+|
+信息科学与工程学院
+|
+讲师
+研究方向
+[1]  退化图像复原
+[2]  医疗影像分析
+[3]  图像艺术处理
+[4]  虚拟现实开发
+[5]  工业图像检测
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 郭克华
+
+- **网址**: http://faculty.csu.edu.cn/guokehua/zh_CN/index.htm
+- **姓名**: 郭克华
+- **邮箱**: （未提供）
+- **职称**: 职务：二级教授，计算机学院博士生导师
+- **导师类型**: 研究生导师
+- **招生学科**: 人工智能、大数据、智能计算、机器学习
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 郭克华
+郭克华
+所在单位：研究生院
+职务：二级教授，计算机学院博士生导师
+办公地点：中南大学新校区信息楼
+联系方式：guokehua@csu(dot)edu(dot)cn
+在职信息：在职
+学科：人工智能
+计算机科学与技术
+学术荣誉：
+2019  当选：  省高端人才
+2021  当选：  万人计划青年拔尖人才
+曾获荣誉：
+国家万人计划青年拔尖人才，湖南省芙蓉学者，湖南省杰出青年基金，两次主持获湖南省技术发明奖，湖南省青年骨干教师，中南大学升华学者，获国家教学成果奖二等奖1项，湖南省教学成果奖二等奖3项
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+课题组介绍
+近年代表论文成果(1作或通讯)
+主持科研项目
+主要荣誉奖励
+主编专著教材
+其他栏目
+个人简介
+郭克华，中南大学二级教授，人工智能学院/计算机学院博士生导师，中组部国家万人计划青年拔尖人才，湖南省芙蓉学者，湖南省杰出青年基金获得者，分别于2020、2024年两次主持获得湖南省科学技术奖、2025年主持获得湖南省教学成果奖一等奖，国家十四五规划教材主编，国家一流课程主讲人，湖南省青年骨干教师，美国Texas A&M University访问学者，CCF大数据专家委员会、AI专业委员会、多媒体专业委员会执行委员，曾兼任长沙市人民政府科学技术局局长助理，获得中国电信教师奖励金。研究方向：理论研究领域，紧扣大数据处理、机器学习、深度学习中的少样本生成、样本增强、多源数据融合、多模态增量学习等进行研究；应用领域，在医疗大数据（糖尿病、皮肤、肿瘤等）、国防（情报生成、智能规划）等领域，研究开发契合实际场景的高可用、可移植人工智能系统，促进智能算法更高效、更低成本地赋能行业领域，与多家企业合作，产生了数亿元经济效益【具体见主持科研项目】。
+主持的省部级及以上项目/成果：
+（1）人才类：中组部国家万人计划青年拔尖人才，湖南省芙蓉学者，湖南省杰出青年基金获得者。
+（2）科研类：
+①主持获奖：湖南省技术发明奖二等奖2次（2020、2024，排1）、中国自动化学会自然科学奖二等奖（2025，排1）、中国科技产业化促进会科技产业化奖二等奖（2022，排1）、中国计算机学会科技进步奖（2024，排1）。
+②主持项目：国家自然科学基金项目5项（重点1+面上3+青年1）、国家重点研发计划子课题2项、国家重大项目课题2项、湖南省重点研发计划、湖南省自然科学基金重点项目、JG计划课题3项、其他项目等25项。
+（3）教学类：
+①主持获奖：湖南省教学成果奖一等奖（2025，排1）、国家十四五规划教材（2025，排1）、国家一流课程（2023，排1）、中国有色金属学会教学成果奖一等奖（2025，排1）、湖南省一流课程（2022，排1）、湖南省优秀研究生导师、湖南省优秀研究生论文指导教师3次、湖南省青年骨干教师、 联合国教科文组织“一带一路”国际大数据竞赛优秀指导教师 2次。
+②主持项目：湖南省教改重点项目、湖南省课程思政建设研究项目、教育部产学合作协同育人项目、湖南省教改项目。
+发表论文100多篇，近年以第一作者或通讯作者在NIPS、AAAI、ACMMM、WWW等CCF A类会议、IEEE、ACM汇刊上发表长文50余篇。授权国家发明专利36项，获得国家软件著作权登记15项，编写著作1本。通过多年的应用基础研究，在面向领域大数据的分析、数据挖掘、机器学习等方面，形成了一整套系统而行之有效的研究方法，与工业界公司开展了深入的技术合作，部分成果已经推广应用。以第1作者出版教材5部，其中2部再版3次，重印20次，参与获得国家级教学成果奖1项，湖南省教学成果奖3项。
+——————————————————————————————
+本组学生情况（全日制）：
+文先鸿，2025级博士生
+姚明炜，2024级博士生
+何澳丽，2024级博士生
+曾振寰，2023级博士生
+吴   争，2022级博士生
+丁   瑞，2021级博士生  | 高校任教，获国家奖学金、比亚迪奖学金 | 中南大学优秀毕业生
+杨   莹，2024级硕士生
+王徐衍，2024级硕士生
+范盛雄，2024级硕士生
+裴晓彬，2023级硕士生  | 字节跳动
+肖泽慧，2023级硕士生
+李雪滢，2022级硕士生 | 高校读博
+章   倬，2022级硕士生 | 高校读博
+谭旭洋，2022级硕士生 | 工作单位：华为，获格林美创新实践奖学金 | 中南大学优秀毕业生
+朱湘源，2020级博士生 | 高校任教，获学校励志奖学金
+胡   斌，2019级博士生 | 高校任教，获校长奖学金
+陈天宇，2021级硕士生 | 澳大利亚留学，获国家奖学金
+陈   杰，2021级硕士生 | 工作单位：腾讯
+申长春，2020级硕士生 | 工作单位：华为，湖南省优秀毕业生，获国家奖学金，汇顶奖学金
+朱翡虹，2020级硕士生 | 工作单位：微软中国，中南大学优秀毕业生，获国家奖学金
+陈   良，2020级硕士生 | 工作单位：天王星量化
+唐雅媛，2015级博士生 | 高校任教，获国家奖学金
+任   盛，2017级博士生 | 获国家奖学金
+陶   泽，2019级硕士生 | 中南大学攻读博士学位，获比亚迪奖学金
+胡   敏，2019级硕士生 | 工作单位：阿里巴巴，获格林美创新实践奖学金
+郭海富，2019级硕士生 | 工作单位：阿里巴巴，获研究生国家奖学金，2020中南大学优秀学生标兵
+李   楠，2018级硕士生 | 工作单位：华为，获校级奖学金
+王艺霏，2018级硕士生 | 工作单位：湖南烟草，湖南省优秀毕业生
+罗   涛，2018级硕士生 | 工作单位：华为，获国家奖学金
+何   艳，2017级硕士生 | 工作单位：阿里巴巴，获格林美校级奖学金
+曹   瑞，2017级硕士生 | 工作单位：华为，获国家奖学金
+许   涛，2017级硕士生 | 工作单位：shopee，获国家奖学金
+梁中鹤，2016级硕士生 | 工作单位：腾讯，获国家奖学金
+李   婷，2016级硕士生 | 工作单位：微众银行，获国家奖学金
+刘登超，2016级硕士生 | 工作单位：腾讯
+张瑞芳，2015级硕士生 | 获湖南省优秀毕业生，工作单位：美团，获国家奖学金
+肖一喆，2014级硕士生 | 工作单位：湖南联通
+周孝锞，2013级硕士生 | 工作单位：军队
+石宏彬，2013级硕士生 | 工作单位：招商银行
+潘   威，2013级硕士生 | 工作单位：网易
+高   傲，2013级硕士生 | 工作单位：锐捷科技
+田   彪，2013级硕士生 | 工作单位：美团，获国家奖学金
+刘   兀，2012级硕士生 | 工作单位：网易游戏，获得2014年国家奖学金
+刘永玲，2013级硕士生 | 工作单位：去哪儿网 | 获得2013年国家奖学金
+教育经历
+[1]
+2005.9-2008.10
+南京理工大学
+|
+计算机应用技术
+|
+博士学位
+|
+博士研究生毕业
+导师：杨静宇教授
+工作经历
+[1]
+2023.9-至今
+中南大学
+|
+研究生招生办公室
+|
+主任
+|
+计算机学院二级教授
+|
+历任
+[2]
+2021.3-2023.9
+中南大学
+|
+计算机学院，校发展规划与学科建设处
+|
+副处长
+|
+教授
+[3]
+2019.9-2021.3
+中南大学
+|
+计算机学院、校本科生院
+|
+副院长
+|
+教授
+|
+教授
+[4]
+2016.9-2019.1
+中南大学
+|
+信息科学与工程学院
+|
+副院长
+|
+教授
+|
+教授
+[5]
+2008.11-2016.9
+中南大学
+|
+信息科学与工程学院
+|
+讲师、副教授
+|
+Associate Professor
+[6]
+2014.3-2015.3
+Texas A&M University
+|
+Department of Computer Engineering
+|
+Visiting Scholar
+研究方向
+[1]  人工智能，大数据，智能计算，机器学习
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 黄伟红
+
+- **网址**: 
+- **姓名**: 黄伟红
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 贾明滔
+
+- **网址**: 
+- **姓名**: 贾明滔
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 李长庚
+
+- **网址**: http://faculty.csu.edu.cn/lichanggeng/zh_CN/index.htm
+- **姓名**: 李长庚
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 无线通信理论与应用、无线定位技术、光谱检测理论与应用
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李长庚
+李长庚
+教授
+博士生导师
+硕士生导师
+所在单位：电子信息学院
+职务：党委书记
+学历：研究生(博士)毕业
+性别：男
+学位：博士学位
+在职信息：在职
+学科：电子科学与技术
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+李长庚，男，湖南湘潭人，汉族，工学博士，教授，博士生导师。1994年6月毕业于中南工业大学应用物理学专业，1994年—1998年在原中南工业大学物热系任学生辅导员、学生党支部书记、系团总支书记。1998年起在物理学院任教师，从事电子信息类专业的教学、科研和管理工作，主讲本科生主干课程3门、硕士研究生课程1门。先后担任系党总支委员、国家工科物理基地党支部书记、院长助理等职务，2006年1月至2014年7月任物理与电子学院党委副书记，2014年7月起任物理与电子学院副院长，2023年9月起任电子信息学院党委书记。1999年晋升讲师，2004年晋升副教授，2010年晋升教授。主持国防预研项目1项、湖南省科技重点研发计划及自然科学基金等省级项目5项，主持省级及校级教学研究项目8项，获省级教改成果奖2项，校级教学成果奖8项，湖南省研究生优质课程《现代无线与移动通信技术》项目负责人，获湖南省研究生优秀专业案例一个。近年来，在国内外知名刊物上发表学术论文70余篇，曾获2018年度“中国百篇最具影响国内学术论文”。
+教育经历
+[1]
+1990.9-1994.6
+中南工业大学
+理学学士学位
+|
+大学本科毕业
+[2]
+中南工业大学
+工学硕士学位
+|
+硕士研究生毕业
+[3]
+2001.9-2009.5
+中南大学
+工学博士学位
+|
+博士研究生毕业
+工作经历
+[1]
+2023.9-至今
+中南大学
+|
+电子信息学院
+|
+党委书记
+|
+教授
+|
+现任
+[2]
+2019.1-2023.9
+中南大学
+|
+物理与电子学院
+|
+副院长
+|
+历任
+[3]
+2014.7-2019.1
+中南大学
+|
+物理与电子学院
+|
+副院长
+|
+历任
+[4]
+2010.9-2014.7
+中南大学
+|
+物理科学与技术学院
+|
+副书记
+|
+历任
+[5]
+2006.1-2010.9
+中南大学
+|
+物理科学与技术学院
+|
+副书记
+|
+历任
+社会兼职
+[1]
+2023.3-至今
+湖南省仪器仪表行业协会副理事长
+[2]
+2014.1-至今
+湖南省仪器仪表学会常务理事、副理事长
+研究方向
+[1]  无线通信理论与应用
+[2]  无线定位技术
+[3]  光谱检测理论与应用
+其他联系方式
+[6]  邮箱： 0fde907042b257651ea0a4f74318afe2c1d2b1c6327340ac46ec3b15fdb8c260ac0ed32286e5d68d7aa1d03e757eadf4736f41a43de0adb39c1a31abaf7100ce95548c35f59a776b4f3c7953bbeb8761cc07a9227927c747c9dd31fa96c09855b8771bbcdb62c86dc7066d8e59af0b0380289efcbc99cf3df9132949dd974900
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 李海峰
+
+- **网址**: http://faculty.csu.edu.cn/lihaifeng/zh_CN/index.htm
+- **姓名**: 李海峰
+- **邮箱**: lihaifeng@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 类Deepseek、OpenAI o3 的多模态时空推理大模型、多模态时空信息记忆模型、语言-视觉遥感影像理解通用大模型、多模态智能的对抗攻击与反对抗攻击、时空因果模型
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李海峰
+李海峰
+职务：副院长
+联系方式：lihaifeng@csu.edu.cn
+学位：博士学位
+在职信息：在职
+主要任职：人工智能学院
+毕业院校：武汉大学
+学科：测绘科学与技术
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+学生培养
+研究领域
+其他栏目
+English
+个人简介
+I. 中南大学人工智能学院教授，博士生导师，副院长，NAAI Corresponding Member，IEEE Senior Member，斯坦福全球前2%顶尖科学家(连续4年，并入选终身科学影响力排行榜)，爱思唯尔中国高被引学者，GIS创新人物，龙城英才计划，中南大学321人才。
+II. 2011年香港理工大学高级研究助理，2014年美国伊利诺伊大学香槟分校(UIUC)访问学者。
+III. 主持GF重大专项1项，军委科技委创新特区项目4项，国家自然基金项目4项，国家重点研发项目子课题3项，装发预研基金4项，省部级科研项目20余项，千万以上的项目2项。
+IV. 发表高水平SCI论文140+余篇，包括顶级期刊: Nature Food, IEEE TPAMI，IEEE TNNLS, ISPRS Journal of P& RS, IEEE TGRS, IEEE TITS, ERL, IEEE TSMC: Systems, RSE。
+V. ESI1‰热点论文4篇，ESI1%高被引论文22篇。Google Scholar引用：近年引用总数15000+次，最高单篇文章引用4100+次，2023年单年总引用2492次，2024年单年总引用3025次，2025年单年总引用3652次。
+VI.  获2024-2025湖南省科技进步一等奖（序1），2022河南省科技进步一等奖（序14），2020北京市自然科学进步二等奖（序3），2025自然资源科技进步二等奖（序3），2020测绘科技进步一等奖（序5），2020地理信息产业协会特等奖（序5），2020地理信息产业协会一等奖（序5）。
+VII.  IEEE J-MASS副主编，IEEE J-STARS副主编，Remote Sensing编委，IEEE J-MASS，IEEE J-STARS，Frontiers in Environmental Science，Remote Sensing专刊客座主编。大数据与人工智能工作委员会委员，中国指挥与控制学会智能指挥与控制系统工程专业委员会委员，ACM SIGSPATIAL CHINA 执行委员。
+VIII.  担任IEEE TGRS、ISPRS Journal、IEEE TITS、IEEE TNNLS、RSE等20多个国际顶尖期刊审稿人。
+Google scholar 主页：
+https://scholar.google.com/citations?user=51p_SJAAAAAJ
+Github主页：
+https://github.com/lehaifeng/T-GCN
+https://github.com/lehaifeng
+https://github.com/GeoX-Lab/
+联系方式：
+Email:  lihaifeng@csu.edu.cn
+小组信息：
+我们的使命:  从第一性原理出发，探索时空通用智能的可能性，设计具有记忆能力、自学习、自演化能力的AI算法，为地理大数据分析和预测、遥感大数据解译和理解提供基础、方法和工具。
+研究方向：
+(1) 类Deepseek，OpenAI o3 的多模态时空推理大模型
+(2) 多模态时空信息记忆模型
+(3) 语言-视觉遥感影像理解通用大模型
+(4) 多模态（SAR、光学、红外）智能的对抗攻击与反对抗攻击
+(5) 时空因果模型
+招生信息：
+课题组研究兼顾前沿探索和行业应用，并与国外顶尖大学建立长期联合培养机制（如：UIUC，Geotech等），欢迎数学功底扎实，动手能力强，对未知世界充满好奇的同学加入我们，一起探索奇妙的机器智能世界。
+(1) 每年招收有自驱力的本科生实习生3-4名，硕士研究生4-5名，博士生研究生1-2人。
+(2) 寻找优秀的博士后一起工作，享受国家和中南大学16-30万基础年薪，课题组可根据业绩再配套。
+合作单位：
+研究机构：美国UIUC，美国Geotech，美国威斯康星大学麦迪逊分校，美国明尼苏达大学双城分校，荷兰ITC，北京大学等
+知名公司：字节跳动，美团，华为，腾讯，百度
+均有机会前往联培和实习
+教授课程：
+本科生：
+(1) 思维类：科学哲学与批判性思维，科学思维与写作，新生课（科学、艺术与审美）
+(2) 基础类：工科数学基础：数学、工程与艺术，地理智能与机器学习，地理大数据与深度学习
+(3) 专业类：计算机图形学，空间分析，空间统计
+研究生：
+(1) 思维类：测绘科学前沿：人工智能历史、现状与未来
+(2) 专业类：地理大数据与机器学习
+代表性专著：
+(1). 李海峰，朱佳玮. 时空大数据的“形状”:几何和拓扑的视角. 科学出版社. 2022. 国家科技出版基金资助
+(2). 面向任务的遥感信息聚焦服务. 李德仁等主编. 2010. 科学出版社. P:197
+(3). 子流形曲率模长的间隙现象. 刘进，李海峰，刘煜等著. 2010.中南大学出版社. P270
+(4). 刘进，刘煜，李海峰，伍国华，王建江，刘刚，极小子流形及其推广[M]，国防科技大学出版社，2014.04
+(5). 刘煜，刘进，李海峰，张茂军，稀疏表示基础理论和典型应用[M]，国防科技大学出版社，2014.10
+代表性教材：
+(1).  连续最优化高级教程(第一卷:原理与模型) (教材)，2016，国防科技大学出版社
+(2).  连续最优化高级教程(第三卷 应用与实践) (教材)，2017，国防科技大学出版社
+(3).  连续最优化高级教程(第四卷 习题与解答) (教材)，2018，国防科技大学出版社
+(4).  经典博弈论高级教程(第一卷 原理与模型) (教材)，2017，国防科技大学出版社
+(5).  经典博弈论高级教程(第四卷 习题与解答) (教材)，2018，国防科技大学出版社
+科研奖励：
+(1). 鑫恒奖励金奖，2022
+(2). 航天信息智能伴随支援系统关键技术及应用，河南省科学技术进步奖一等奖，2023
+(3). 国土资源典型要素变化遥感智能监测关键技术，高分专项卫星应用优秀成果二等奖，2023
+(4). 基于多源地理大数据的社会感知理论与方法，北京市自然科学二等奖，2022
+(5). 国土资源典型要素变化遥感智能监测关键技术及应用，地理信息科学技术特等奖，2020
+(6). 应急测绘智能服务关键技术与重大应用，测绘科技进步一等奖，2020年
+(7). 天空地协同的城市违法建筑智能检测关键技术及应用，地理信息科学技术一等奖，2019
+(8). Lidar在公路中的应用，地理信息科学技术二等奖，2012年
+主要课题与项目：
+主持负责国家级项目10项，主持省部级项目20余项。
+[1] 国家自然科学基金：空间因果原则及其四重根. 42271481. 2023/01-2026/12，在研，主持
+[2] 国家自然科学基金：非欧几何视角下的地理大数据统一表示框架与方法，2019/01-2022/12，在研，主持
+[3] 湖南省自然科学基金. 面向地理空间认知的因果学习理论与方法. 2022. 2022JJ30698，在研，主持.
+[4] 国家重点研发计划：区域遥感协同监测应急服务体系，2016YFB05026，2016/07-201 9/07，结题，参加(子题负责)
+[5] 国家自然科学基金面上项目，41571397，动态不确定环境下空间信息服务的深度组合方法，2016/01-2019/12，结题，主持
+[6] 预研基金:基于自动机器学习的遥感影像智能理解平台, 2019/11-2021/06，主持，在研
+[7] 企业委托项目：面向不确定遥感目标识别的空间通用智能关键技术研发. 2020/10-2022/06，主持，在研
+[8] 国家自然科学基金-广东联合基金：超级计算科学应用研究专项，2016/06-2018/08，10万时，结题，主持
+[9] 湖南省自然科学基金，2016JJ3144，面向城市区域功能微观结构的时空特征空间分析方法，2016/08-2018/08，结题，主持
+[10] 教育部留学回国人员科研启动基金，50-20150618，面向城市交通流的时空特征分析理论与方法，2015/04-2017/04，结题，主持
+[11] 国家博士后基金特别资助，2013T60779，非确定环境下的空间信息服务组合，2013/07-2014/12，结题，主持
+[12] 国家博士后基金面上资助，2012M511411，QoS感知的空间信息服务组合：多任务并发下的合作与竞争机制研究，2012/07-2013/12，结题，主持
+[13] 国家自然科学基金青年项目，41001220，多任务并发的空间信息服务优化组合方法，2011/01-2013/12，结题，主持
+[14] 中南大学531人才计划，2013-2018年，地理信息科学
+[15] 2011计划：轨道交通安全协同创新中心研究人员，2017-2020行车环境与安全状态管控
+[16] 国家自然科学基金：复杂环境下基于视频序列影像的交通事件自动识别方法，2012-2015，第二负责人。
+[17] 国家自然科学基金：公路真三维设计：基于体感交互和三维空间曲线的方法，2013-2016，第二负责人。
+[18] 国家自然科学基金：线路-结构物-环境耦合约束下的铁路点线协同优化理论与方法，2014-2017，第二负责人。
+[19] 重点863项目：典型地质灾害遥感监测与应急关键技术与应用，子课题：空天地一体化协同观测与应急快速处理技术，2013-2015，研究骨干。
+代表性论文 (* 通讯作者)
+Selected Papers
+[1]      Haifeng Li, Jun Cao, Jiawei Zhu*, Qinyao Luo, Silu He, Xuying Wang. Augmentation-Free Graph Contrastive Learning of Invariant-Discriminative Representations. IEEE Transactions on Neural Networks and Learning Systems. 2024, 35(8): 11157-11166. 10.1109/TNNLS.2023.3248871. (IF: 14.255, ESI 1%高被引论文)
+[2]      Jian Peng, Dingqi Ye, Bo Tang, Yinjie Lei, Yu Liu, Haifeng Li*. Life Long learning with Cycle Memory Networks. IEEE Transactions on Neural Networks and Learning Systems. 2023. DOI: 10.1109/TNNLS.2023.3294495. (IF: 14.255, ESI 1%高被引论文)
+[3]      Jian Peng, Bo Tang, Hao Jiang, Zhuo Li, Yinjie Lei, Tao Lin, and Haifeng Li*. Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation. IEEE Transactions on Neural Networks and Learning Systems. 2021. 10.1109/TNNLS.2021.3056201. (IF: 14.255)
+[4]      Ling Zhao, Yujiao Song, Chao Zhang, Yu Liu, Pu Wang, Tao Lin, Min Deng, Haifeng Li*. T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction. IEEE Transactions on Intelligent Transportation Systems. 2020, 21(9):3848- 3858 (IF: 9.551, ESI 0.1%热点论文, ESI 1%高被引论文)
+[5]      Qing Zhu, Cheng Liao, Han Hu, Xiaoming Mei, Haifeng Li*. MAP-Net: Multi Attending Path Neural Network for Building Footprint Extraction from Remote Sensed Imagery. IEEE Transactions on Geoscience and Remote Sensing. 2020. DOI: 10.1109/TGRS.2020.3026051 (IF: 8.125, ESI 0.1%热点论文, ESI 1%高被引论文)
+[6]      Jie Chen, Ziyang Yuan, Jian Peng, Li Chen, Haozhe Huang, Jiawei Zhu, Yu Liu, Haifeng Li*. DASNet: Dual attentive fully convolutional siamese networks for change detection of high-resolution satellite images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2020. DOI: 10.1109/JSTARS.2020.3037893. (IF: 4.715, ESI 0.1%热点论文, ESI 1%高被引论文)
+[7]      Jialu Xu, Jing Gao, Henrique Vinicius de Holanda, Luis F. Rodríguez, José Vicente Caixeta-Filho, Renhai Zhong, Hao Jiang, Haifeng Li, Zhenhong Du, Xuhui Wang, Shaowen Wang, K. C. Ting, Yibin Ying & Tao Lin*. Double cropping and cropland expansion boost grain production in Brazil. Nature Food. 2021, 2, 264–273 10.1038/s43016-021-00255-3. (Cover Paper)
+[8]      Haifeng Li, Yi Li, Guo Zhang, Ruoyun Liu, Haozhe Huang, Qing Zhu, Chao Tao. Global and Local Contrastive Self-Supervised Learning for Semantic Segmentation of HR Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing. 2022. DOI:10.1109/TGRS.2021.3063287 (IF: 8.125, ESI 1%高被引论文)
+[9]      Haifeng Li, Kaijian Qiu, Li Chen, Xiaoming Mei, Liang Hong, Chao Tao*. SCAttNet: Semantic Segmentation Network with Spatial and Channel Attention Mechanism for HighResolution Remote Sensing Images. IEEE Geoscience and Remote Sensing Letters. 2020:1-5. 10.1109/LGRS.2020.2988294 (IF: 5.343, ESI 1%高被引论文)
+[10]   Haifeng Li, Zengqi Cui, Zhiqiang Zhu, Li Chen, Jiawei Zhu, Haozhe Huang, Chao Tao*. RS-MetaNet: Deep meta metric learning for few-shot remote sensing scene classification. IEEE Transactions on Geoscience and Remote Sensing. 2020. DOI: 10.1109/TGRS.2020.3027387 (IF: 8.125, ESI 1%高被引论文)
+[11]   Wu, G H*., Shen, X., Li, Haifeng, Chen, H K., Lin, A P., P.N. Suganthan. Ensemble of differential evolution variants. Information Sciences. 2018. 172-186. (IF: 8.233, ESI 0.1%热点论文, ESI 1%高被引论文).
+[12]   Chao Tao, Ji Qi, Weipeng Lu, Hao Wang, Haifeng Li*. Remote Sensing Image Scene Classification with Self-Supervised Paradigm under Limited Labeled Samples. IEEE Geoscience and Remote Sensing Letters. 2020:1-5. DOI: 10.1109/LGRS.2020.3038420 (IF: 5.343, ESI 1%高被引论文)
+[13]   Zhu, Jiawei; Han, Xing; Deng, Hanhan; Tao, Chao; Zhao, Ling; Tao, Lin; Li, Haifeng*. KST-GCN: A Knowledge-Driven Spatial-Temporal Graph Convolutional Network for Traffic Forecasting. IEEE Transactions on Intelligent Transportation Systems. 2021. doi:10.109/TITS.2021.3136287 (IF: 9.551, ESI 1%高被引论文)
+[14]   Zhenqi Cui, Wang Yang, Li Chen, Haifeng Li*. MKN: Meta-kernel networks for few shot remote sensing scene classification. IEEE Transactions on Geoscience and Remote Sensing. 2022. Doi:10.1109/TGRS.2022.3153679. (IF: 8.125, ESI 1%高被引论文)
+[15]   Jie Chen, Haozhe Huang, Chao Tao, Jian Peng, Jiawei Zhu, Li Chen, Haifeng Li*. Contextual Information-Preserved Architecture Learning for Remote Sensing Scene Classification. IEEE Transactions on Geoscience and Remote Sensing. 2021. DOI:10.1109/TGRS.2021.3063287 (IF: 8.125, ESI 1%高被引论文)
+[16]   Jiandong Bai, Jiawei Zhu, Yujiao Song, Ling Zhao, Zhixiang Hou, Ronghua Du, Haifeng Li. A3T-GCN: Attention Temporal Graph Convolutional Network for Traffic Forecasting. ISPRS International Journal of Geo-Information. 2021, 10(7): 485 DOI10.3390/ijgi10070485. (IF: 3.099, ESI 1%高被引论文)
+[17]   Weipeng Lu, Chao Tao, Haifeng Li, Ji Qi, Yansheng Li. A unified deep learning framework for urban functional zone extraction based on multi-source heterogeneous data. Remote Sensing of Environment. 2021. 10.1016/j.rse.2021.112830. (IF: 13.85, ESI 1%高被引论文)
+[18]   Jinfan Xu, Yue Zhua, Renhai Zhong, Zhixian Lin, Jialu Xu, Hao Jiang, Jingfeng Huang, Haifeng Li*, Tao Lin*. DeepCropMapping: A multi-temporal deep learning approach with improved spatial generalizability for dynamic corn and soybean mapping. Remote Sensing of Environment 247 (2020) 111946. DOI:doi.org/10.1016/j.rse.2020.111946 (IF: 13.85 , ESI 1%高被引论文)
+[19]   Jinfan Xu, Jie Yang, Xingguo Xiong, Haifeng Li, Jingfeng Huang, K.C. Ting, Yibin Ying, Tao Lin.  Towards interpreting multi-temporal deep learning models in crop mapping. Remote Sensing of Environment. 2021. 264:112599. (IF: 13.85, ESI 1%高被引论文)
+[20]   Chao Tao, Ji Qi, Mingning Guo, Qing Zhu, Haifeng Li*. Self-supervised remote sensing feature learning: Learning Paradigms, Challenges, and Future Works. IEEE Transactions on Geoscience and Remote Sensing. 2023. DOI: 10.1109/TGRS.2023.3276853. (IF: 8.125, ESI 1%高被引论文)
+[21]   Qinyao Luo, Silu He, Xing Han, Yuhan Wang, Haifeng Li*. LSTTN: A Long-Short Term Transformer-based Spatiotemporal Neural Network for Traffic Flow Forecasting. Knowledge-Based Systems. 2024, 293, (7), 111637. 10.1016/j.knosys.2024.111637 (IF: 8.8, ESI 1%高被引论文)
+[22]   Haifeng Li, Wang Guo, Haiyang Wu, Mengwei Wu, Jipeng Zhang, Qing Zhu, Yu Liu, Xin Huang, Chao Tao*. Remote Sensing Image Intelligent Interpretation with the Language-Centered Perspective: Principles, Methods and Challenges. IEEE Geoscience and Remote Sensing Magazine. 2025.
+[23]   Jian Peng, Haitao Zhang, Jing Shen, Zeyi Li, Jiayi Ma, Haifeng Li*. Rethinking Domain-Agnostic Continual Learning via Frequency Completeness Learning. Information Fusion. 2025. 103961. DOI: 10.1016/j.inffus.2025.103961. (IF: 15.5)
+[24]   Silu He, Peng Shen, Pingzhen Xu, Qinyao Luo, Haifeng Li*. STDCformer: A Transformer-Based Model with a Spatial-Temporal Causal De-Confounding Strategy for Crowd Flow Prediction. Information Fusion. 2026. 126, 103645. DOI: 10.1016/j.inffus.2025.103645. (IF: 15.5)
+[25]   Hao Wang, Keyan Hu, Xin Guo, Haifeng Li, Chao Tao*. A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2026. DOI: 10.1109/TPAMI.2026.3654243.
+[26]   Run Shao, Cheng Yang, Qiujun Li, Linrui Xu, Xiang Yang, Xian Li, Mengyao Li, Qing Zhu, Yongjun Zhang, Yansheng Li, Yu Liu, Yong Tang, Dapeng Liu, Shizhong Yang, Haifeng Li*. AllSpark: A Multimodal Spatio-Temporal General Intelligence Model with Ten Modalities via Language as a Reference Framework. IEEE Transactions on Geoscience and Remote Sensing. 2025. DOI: 10.1109/TGRS.2025.3526725. (IF: 8.125, ESI 1%高被引论文)
+[27]   Yujia Chen, Guo Zhang, Hao Cui, Xue Li, Zhigang Xie, Haifeng Li, Deren Li. SparseFormer: A Credible Dual-CNN Expert Guided Transformer for Remote Sensing Image Segmentation with Sparse Point Annotation. IEEE Transactions on Geoscience and Remote Sensing. 2024. DOI: 10.1109/TGRS.2024.3523537. (IF: 8.125, ESI 1%高被引论文)
+Others Papers
+[1]      Fanlin Meng,  Guo Zhang, Hao Cui, Gui Gao, Wenxuan Liu, Haifeng Li, Wei Wang, Zekun Hu. Breaking the Scale Barrier: A Scale-Progressive Water Body Extraction Framework Inspired by Human Cognitive Mechanisms. IEEE Transactions on Geoscience and Remote Sensing.  2026, 64,4400823. DOI: 10.1109/TGRS.2026.3843517. (IF: 8.125)
+[2]      Yuze Wang, Mariana Belgiu, Haiyang Wu, Dandan Zhong, Yangyang Cao, Haifeng Li, Chao Tao. Joint Learning for Feature Reconstruction and Prediction in Agricultural Semantic Segmentation from Incomplete Satellite Image Time Series. IEEE Transactions on Geoscience and Remote Sensing.  2026, 64,4400823. DOI: 10.1109/TGRS.2025.3649017. (IF: 8.125).
+[3]      Mingning Guo, Mengwei Wu, Shaoxian Li, Jipeng Zhang, Haifeng Li, Chao Tao*. MultiSight: A Vision-Language Model for Collaborative Understanding of Multi-View Remote Sensing Images.   IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2026. DOI: 10.1109/JSTARS.2026.3655152.  (IF: 4.715)
+[4]      Mingning Guo, Mengwei Wu, Jiarun He, Shaoxian Li, Haifeng Li, Chao Tao*. BEDI: A Comprehensive Benchmark for Evaluating Embodied Agents on UAVs. ISPRS Journal of Photogrammetry and Remote Sensing. 2026, 218:294-310. (IF: 11.774)
+[5]      Jiahao Cui, Wang Guo, Qi Wang, Keyi Zhang, Lingquan Meng. Haifeng Li*. SAR-PMAE: Phase Modulation-Guided Adversarial Example Generation for SAR Images. IEEE Transactions on Radar Systems. 2026. DOI: 10.1109/TRS.2026.3657792. (IF: 8.125).
+[6]      Xinrui Xie, Jia He, ZiYue Lin, Haifeng Li, Ji Qi*, Yibo Wang, Yiping Chen, Xinchang Zhang. RSD-BiasEval: A Framework for Remote Sensing Dataset Bias Analysis and Evaluation. IEEE Transactions on Geoscience and Remote Sensing. 2025, 63: 4708416. DOI: 10.1109/TGRS.2025.3626672. (IF: 8.125).
+[7]      Zulqarnain Satti, Muhammad Naveed, Muhammad Shafeeque, Yingyi Zhao, Heifeng Li, Sha Zhu*.   Spatiotemporal Dynamics of Net Ecosystem Productivity in the Tibetan Plateau Under Changing Climate Conditions. Earth Systems and Environment. 2025. DOI: 10.1007/s41748-025-00836-3. (IF: 4.7)
+[8]      Ji Qi, Xinchang Zhang, Dingqi Ye*, Yongjian Ruan, Xin Guo, Shaowen Wang, Haifeng Li. SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2025. DOI: 10.1109/JSTARS.2025.3621474.  (IF: 4.715)
+[9]      Yu Liu, Xuechen Wang, Yidan Wang, Fei Huang, Yingjing Huang, Yong Li, Weiyu Zhang, Shuhui Gong, Gengchen Mai, Yao Yao, Yang Yue, Haifeng Li, Fan Zhang. Representation learning for geospatial data.    Annals of GIS. 2025. DOI: 10.1080/19475683.2025.2552157.
+[10]   Jiahao Cui, Jiale Duan, Wang Guo, Chengli Peng*, Haifeng Li. SAR-ESAE: Echo Signal-Guided Adversarial Example Generation Method for Synthetic Aperture Radar Target Detection. Remote Sensing. 2025, 17, 3080. DOI: 10.3390/rs17173080.
+[11]   Wang Guo, Jiahao Cui, Xuezhi Cui, Jiarui Li, Zhaoyang Zhang, Run Shao, Mingning Guo, Haifeng Li*. TriMem: Tri-Fold Memory Framework for Continual Learning of VLMs in Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. 2025. DOI: 10.1109/TGRS.2025.3622029 (IF: 8.125).
+[12]   Ling Zhao, Mengyao Li, Run Shao, Haifeng Li*. PCIR: An Open-World Remote Sensing Image Representation Learning Method from a Causal Perspective. IEEE Transactions on Geoscience and Remote Sensing. 2025. DOI: 10.1109/TGRS.2025.3647787 (IF: 8.125).
+[13]   Haifeng Li, Hang Cao, Jiahao Cui, Jing Geng*. Adversarial Example Generation with Pseudo-Siamese Adversarial Generative Networks for Multimodal Remote Sensing Images.  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2025. DOI: 10.1109/JSTARS.2025.3602278. (IF: 4.715)
+[14]   Bolei He#, Xinran He#, Run Shao#, Shanfu Shu, Xianwei Xue, MingQuan Cheng, Haifeng Li, Zhen-Hua Ling. Select to Know: An Internal-External Knowledge Self-Selection Framework for Domain-Specific Question Answering. Empirical Methods in Natural Language Processing (EMNLP 2025). 2025.
+[15]   Linrui Xu, Zhanke Zhou, Zhanke Zhou, Chentao Cao, Beichen Yu, Haifeng Li, Bo Han. Observe-Then-Think: A Reinforcement Learning Framework for Structured Multimodal Understanding. ICML 2025 Workshop NewInML.
+[16]   Xuying Wang, Yunsheng Zhang, Run Shao,  Siyang Chen,  Haifeng Li*, Xin Chen. SAT-Former: An efficient 3D Transformer with a semantic aggregated point tokenizer for point cloud semantic segmentation in urban scenes.  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2025. DOI: 10.1109/JSTARS.2025.3625259. (IF: 4.715)
+[17]   Jiahao Cui, Jiale Duan, Binyan Luo, Hang Cao, Wang Guo, Haifeng Li*. SAR-SPA: Incorporating Target Scattering Characteristic Parameters in Adversarial Example Generation for SAR Imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2025,18:18701-18720 DOI: 10.1109/JSTARS.2025.3587984. (IF: 4.715)
+[18]   张云生, 王旭颖, 陈斯飏, 李海峰*. 点云智能理解：从点云中心至语言中心的转变. 武汉大学学报 (信息科学版). 2025. 10.13203/j.whugis20240497.
+[19]   Haifeng Li, Qiujun Li, Cheng Yang, Wang Guo, Mengyao Li, Hongyuan Yuan, Run Shao, Chengli Peng*. Task Knowledge Injection: Training-Free Adaptation of Multimodal Large Language Models for Remote Sensing Image Understanding. IEEE Geoscience and Remote Sensing Letters. 2025. 10.1109/LGRS.2025.3581558.
+[20]   Jiawei Zhu, Song Gao, Chao Tao, Yu Liu, Haifeng Li*. Scale Snapshot Topology Distance: Quantifying the Spatial Scale Effect from a Topological Perspective. Transactions in GIS. 2025. 10.1111/tgis.70081.
+[21]   Yuhan Wang, Silu He, Qinyao Luo, Hongyuan Yuan, Ling Zhao, Jiawei Zhu, Haifeng Li*. Causal invariant geographic network representations with feature and structural distribution shifts. Future Generation Computer Systems. 2025. 169, 107814.  (IF: 6.2)
+[22]   Ling Zhao, Zhe Chen, Qinyao Luo, Silu He and Haifeng Li*. RCDi: Robust Causal Direction Inference Using INUS-Inspired Asymmetry with the Solomonoff Prior. Mathematics. 2025.  13(3), 544.
+[23]   Silu He, Haifeng Li*. Spatial-Temporal Causal with LLM. Information Fusion. 2025.
+[24]   Yunsheng Zhang, Fanfan Liu, Jia Zhang*, Haifeng Li. Causal Invariant Representation Learning Based on Style Intervention Identity Regularization for Remote Sensing Image. IEEE Geoscience and Remote Sensing Letters. 2025. DOI: 10.1109/LGRS.2025.3527473.
+[25]   李海峰, 贺丝露, 陈海鹏, 刘瑜, 顾鑫. 因果视角下的地理空间网络表征方法综述：进展、挑战与展望. 武汉大学学报（信息科学版）. 2025. doi.org/10.13203/j.whugis20240366.
+[26]   Ce Hou, Fan Zhang, Yong Li, Haifeng Li, Gengchen Mai, Yuhao Kang, Ling Yao, Wenhao Yu, Yao Yao, Song Gao, Min Chen, Yu Liu. Urban sensing in the era of large language models. The Innovation. 2025, 6(1): 100749. doi: 10.1016/j.xinn.2024.100749.
+[27]   Ling Zhao, Zhenyang Huang, YipengWang, Chengli Peng, Jun Gan, Haifeng Li, Chao Hu. SeFi-CD: A Semantic First Change Detection Paradigm That Can Detect Any Change You Want. Remote Sensing. 2024, 16, 4109.
+[28]   Silu He, Jun Cao, Hongyuan Yuan, Zhe Chen, Shijuan Gao*, and Haifeng Li. Graph Information Vanishing Phenomenon in Implicit Graph Neural Networks. Mathematics. 2024, 12, 2659. doi.org/10.3390/math12172659.
+[29]   李海峰, 郭旺, 吴梦伟, 彭程里, 朱庆, 刘瑜, 陶超. 视觉-语言联合的遥感地物概念表达与智能解译：原理、挑战与机遇. 测绘学报. 2025, 54 (5): 853-872.
+[30]   YuZe Wang, Rong Xiao, Haifeng Li, Mariana Belgiu, Tao, Chao. Enhancing Scene Classification in Cloudy Image Scenarios: A Multi-modality Collaborative Transfer Method with Information Regulation Mechanism. IEEE Transactions on Geoscience and Remote Sensing. 2024. (IF: 8.125)
+[31]   Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, Wenbin Wang, Xian Sun, Haifeng Li, Bo Dang, Yongjun Zhang, Yi Yu, Junchi Yan. STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery.  IEEE Transactions on Pattern Analysis and Machine Intelligence. 2024. 10.1109/TPAMI.2024.3508072.
+[32]   Chao Tao, Dongsheng Kuang, Zhenyang Huang, Chengli Peng*, Haifeng Li. HASNet: A foreground association-driven Siamese network with hard sample optimization for remote sensing image. IEEE Transactions on Geoscience and Remote Sensing. 2024, 63, 1-16. DOI: 10.1109/TGRS.2025.3545760). (IF: 8.125)
+[33]   Dingqi Ye; Jian Peng*, Wang Guo, Haifeng Li. Adaptive Multiscale Slimming Network Learning for Remote Sensing Image Feature Extraction. IEEE Transactions on Geoscience and Remote Sensing. 2024. DOI: 10.1109/TGRS.2024.3490666. (IF: 8.125)
+[34]   阮航, 崔家豪, 毛秀华, 任建迎, 罗镔延, 曹航, 李海峰*. SAR目标识别对抗攻击综述：从数字域到物理域. 雷达学报(中英文). 2024, 13. doi:10.12000/JR24142.
+[35]   眭海刚, 刘超贤, 刘俊怡, 郑晓翠, 李海峰, 于树海, 李器宇. 典型自然灾害遥感快速应急响应的思考与实践. 武汉大学学报 (信息科学版), 2020, 45(8): 1137-1145.
+[36]   Run Shao, Zhaoyang Zhang, Chao Tao, Yunsheng Zhang, Chengli Peng, Haifeng Li*. Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding. ISPRS Journal of Photogrammetry and Remote Sensing. 2024, 218:294-310. (IF: 11.774)
+[37]   Jiahao Cui, Wang Guo, Haikuo Huang, Xun Lv, Hang Cao, Haifeng Li*. Adversarial Examples for Vehicle Detection with Projection Transformation. IEEE Transactions on Geoscience and Remote Sensing. 2024, 62:1-18. DOI: 10.1109/TGRS.2024.3428360. (IF: 8.125)
+[38]   Hao Wang, Mingning Guo, Shaoxian Li, Haifeng Li, Chao Tao. Global-Local Coupled Style Transfer for Semantic Segmentation of Bi-Temporal Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing. 2024. DOI: 10.1109/TGRS.2024.3425672. (IF: 8.125)
+[39]   Linrui Xu, Ling Zhao, Wang Guo, Qiujun Li, Kewang Long, Kaiqi Zou, Yuhan Wang, Haifeng Li*. RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding. 2024. https://arxiv.org/abs/2406.12479.
+[40]   Jiale Duan, Linyao Qiu, Guangjun He, Ling Zhao, Zhenshi Zhang, Haifeng Li. A Region-Adaptive Local Perturbation-Based Method for Generating Adversarial Examples in Synthetic Aperture Radar Object Detection. Remote Sensing. 2024, 16, 997. https://doi.org/10.3390/rs16060997. (IF: 5.349)
+[41]   Xingyu Li, Bo Tang∗ , Haifeng Li. AdaER: An Adaptive Experience Replay Approach for Continual Lifelong Learning. Neurocomputing. 2024. 572: 127204. (IF: 6)
+[42]   李海峰, 罗琴瑶, 贺丝露, 任臻, 刘瑜. 地理空间因果原则及地理空间效应的因果发现[J]. 武汉大学学报 ( 信息科学版), 2023, 48(11): 1800-1812. doi: 10.13203/j.whugis20230351. Li Haifeng, LUO Qinyao, HE Silu, REN Zhen, LIU Yu. Geospatial Causal Principle and Causal Discovery for Geospatial Effects[J]. Geomatics and Information Science of Wuhan University, 2023, 48(11): 1800-1812. doi: 10.13203/j.whugis20230351.
+[43]   Zhaoyang Zhang, Zhen Ren, Chao Tao, Yunsheng Zhang, Chengli Peng, Haifeng Li*. GraSS: Contrastive Learning with gradient-guided sampling Strategy for Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing. 2023. DOI: 10.1109/TGRS.2023.3336285. (IF: 8.125)
+[44]   Hao Cui, Guo Zhang, Yujia Chen, Xue Li, Shasha Hou, Haifeng Li, Xiaolong Ma, Na Guan, Xuemin Tang. Knowledge evolution learning: A cost-free weakly supervised semantic segmentation framework for high-resolution land cover classification. ISPRS Journal of Photogrammetry and Remote Sensing. 2024, 207: 74-91. (IF: 11.774)
+[45]   Jiahao Cui, Wang Guo, Run Shao, Tiandong Shi, Haifeng Li*. Physics-oriented adversarial attacks on SAR image target recognition. Physics-oriented adversarial attacks on SAR image target recognition. Proceedings of the 40th International Conference on Machine Learning, Honolulu, Hawaii, USA. PMLR 202, 2023.
+[46]   Ling Zhao, Linrui Xu, Yuhan Wang, Li Zhao, Xiaoling Zhang, Dingqi Ye, Jian Peng, Haifeng Li*. Continual Learning for Remote Sensing Image Scene Classification with Prompt Learning. IEEE Geoscience and Remote Sensing Letters. 2023. DOI: 10.1109/LGRS.2023.3328981. (IF: 5.343)
+[47]   Weiling Liu, Hao Cui*, Yonghua Jiang*, Guo Zhang, Xinghua Li, Haifeng Li, Yujia Chen, Jun Yang. DecRecNet: A Decoupling-Reconstruction Network for Restoring the Missing Information of Optical Remote Sensing Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2023. DOI: 10.1109/JSTARS.2023.3323769. (IF: 4.715)
+[48]   Zhaoyang Zhang, Wenxuan Jing, Haifeng Li, Chao Tao, Yunsheng Zhang*. GFCNet: Contrastive Learning Network with Geography Feature Space Joint Negative Sample Correction for Land Cover Classification. Remote Sensing. 2023, 15(20), 5056; https://doi.org/10.3390/rs15205056. (IF: 5.349)
+[49]   Dingqi Ye, Jian Peng*, Haifeng Li, Lorenzo Bruzzone. Better Memorization, Better Recall: A Lifelong Learning Framework for Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing. 2022. DOI: 10.1109/TGRS.2022.3190392. (IF: 8.125)
+[50]   Haifeng Li, Wenxuan Jing, Guo Wei, Kai Wu, Mingming Su, Lu Liu, Hao Wu, Penglong Li, Ji Qi. RiSSNet: Contrastive Learning Network with a Relaxed Identity Sampling Strategy for Remote Sensing Image Semantic Segmentation. Remote Sensing. 15 (13), 3427 (IF: 5.349)
+[51]   Chao Tao, Ji Qi, Guo Zhang, Qing Zhu, Weipeng Lu, Haifeng Li*. TOV: The Original Vision Model for Optical Remote Sensing Image Understanding via Self-supervised Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2023. DOI: 10.1109/JSTARS.2023.3271312. (IF: 4.715)
+[52]   Chao Tao, Rong Xiao, YuZe Wang, Ji Qi, Haifeng Li*. A General Transitive Transfer Learning Framework for Cross-optical Sensor Remote Sensing Image Scene Understanding. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.  DOI: 10.1109/JSTARS.2023.3269852. (IF: 4.715)
+[53]   Silu He, Qinyao Luo, Ronghua Du, Ling Zhao, Guangjun He, Han Fu, Haifeng Li*. STGC-GNNs: A GNN-based traffic prediction framework with a spatial–temporal Granger causality graph. Physica A: Statistical Mechanics and its Applications. 2023. 623: 128913. DOI: 10.1016/j.physa.2023.128913. (IF: 3.778)
+[54]   Jie Chen, Peien He, Jingru Zhu, Ya Guo, Geng Sun, Min Deng. Haifeng Li*. Memory-contrastive Unsupervised Domain Adaptation for Building Extraction of High-resolution Remote Sensing Imagery. IEEE Transactions on Geoscience and Remote Sensing. 2023. DOI: 10.1109/TGRS.2023.3262576. (IF: 8.125)
+[55]   Yujia Chen, Guo Zhang, Hao Cui,∗, Xue Li, Shasha Hou, Jinhao Maa, Zhijiang Li, Haifeng Li, Huabin Wang. A novel weakly supervised semantic segmentation framework to improve the resolution of land cover product. ISPRS Journal of Photogrammetry and Remote Sensing. 2023, 196:73–92.  (IF: 11.774)
+[56]   Zhaoyang Zhang, Xuying Wang, Xiaoming Mei, Chao Tao, Haifeng Li*. FALSE: False Negative Samples Aware Contrastive Learning for Semantic Segmentation of High-Resolution Remote Sensing Image. IEEE Geoscience and Remote Sensing Letters. 2022. DOI: 10.1109/LGRS.2022.3222836. (IF: 5.343)
+[57]   Hao Wang, Chao Tao, Ji Qi, Rong Xiao, Haifeng Li. Avoiding Negative Transfer for Semantic Segmentation of Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing. 2022. DOI: 10.1109/TGRS.2022.3190392. (IF: 8.125)
+[58]   Xue Li, Guo Zhang, Hao Cui, Shasha Hou, Yujia Chen, Zhijiang Li, Haifeng Li, Huabin Wang. Progressive fusion learning: A multimodal joint segmentation framework for building extraction from optical and SAR images. ISPRS Journal of Photogrammetry and Remote Sensing. 2023-01 | Journal article. DOI: 10.1016/j.isprsjprs.2022.11.015. (IF: 11.774)
+[59]   Haifeng Li, Jun Cao, Jiawei Zhu, Yu Liu, Qing Zhu, Guohua Wu*. Curvature graph neural network. Information Sciences. 2022. 592, 50-66. (IF: 8.233)
+[60]   Mingming Lu, Yongchuan Xu, Haifeng Li*. Vehicle Re-Identification Based on UAV Viewpoint: Dataset and Method. Remote Sensing. 2022, 14, 4603. https://doi.org/10.3390/rs14184603. (IF: 5.349)
+[61]   Xuying Wang, Jiawei Zhu*, Zhengliang Yan, Zhaoyang Zhang, Yunsheng Zhang, Yansheng Cheng, Haifeng Li. LaST: Label-free Self-distillation Contrastive Learning with Transformer Architecture for Remote Sensing Image Scene Classification. IEEE Geoscience and Remote Sensing Letters. 2022. DOI:  10.1109/LGRS.2022.3185088. (IF: 5.343)
+[62]   Renhai Zhong, Yue Zhu, Xuhui Wang, Haifeng Li, Bin Wang, Fengqi You, Luis F. Rodríguez, Jingfeng Huang, K. C. Ting, Yibin Ying, Tao Lin. Detect and attribute the extreme maize yield losses based on Spatio-temporal deep learning. Fundamental Research. 2022. DOI: 10.1016/j.fmre.2022.05.006.
+[63]   Hao Cui, Zhang Guo, Ji Qi, Haifeng Li, Chao Tao, Xue Li, Shasha Hou, Deren Li. MDANet: Unsupervised, Mixed-domain Adaptation for Semantic Segmentation of Remote sensing Images. IEEE Geoscience and Remote Sensing Letters. 2022. DOI: 10.1109/LGRS.2022.3213984. (IF: 5.343)
+[64]   Zeyi Li, Haitao Zhang*, Yihang Huang and Haifeng Li. A Robust Strategy for Large-Size Optical and SAR Image Registration. Remote Sensing. 2022, 14(13), 3012; https://doi.org/10.3390/rs14133012
+[65]   Mingming Lu, Zhixiang Xiao, Haifeng Li*, Ya Zhang, Neal N.Xiong. Feature Pyramid-based Graph Convolutional Neural network for Graph Classification. Journal of Systems Architecture. 2022. 102562. DOI: 10.1016/j.sysarc.2022.102562. (IF: 5.836)
+[66]   Hang Ruan, Jian Peng, Ye Chen, Silu He, Zhenshi Zhang, Haifeng Li. A Class-Incremental Detection Method of Remote Sensing Images Based on Selective Distillation. Symmetry 2022, 14(10), doi.org/10.3390/sym14102100
+[67]   Zhao Jin, Yinjie Lei, Naveed Akhtar, Haifeng Li, Munawar Hayat. Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds. CVPR 2022.
+[68]   Haifeng Li, Ye Chen, Zhenshi Zhang, Jian Peng*. RAISE: Rank-Aware Incremental Learning for Remote Sensing Object Detection. Symmetry. 2022, 14(5), 1020; DOI:10.3390/sym14051020.
+[69]   Haozhe Huang, Zhongfeng Mou, Yunying Li, Qiujun Li, Jie Chen, and Haifeng Li*. Spatial-Temporal Invariant Contrastive Learning for Remote Sensing Scene Classification. IEEE Geoscience and Remote Sensing Letters. 2022. Doi: 10.1109/LGRS.2022.3173419. (IF: 5.343)
+[70]   Chao Tao, Siyang Fu, Ji Qi, Haifeng Li*. Thick cloud removal in optical remote sensing images using a texture complexity guided self-paced learning method. IEEE Transactions on Geoscience and Remote Sensing. 2022. DOI: 10.1109/TGRS.2022.3157917.
+[71]   Li Chen, Qi Li, Weiye Chen, ZeyuWang, Haifeng Li*. A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genomes. International Journal of Intelligent Systems. 2022. doi:10.1002/int.22850.  (IF: 8.993)
+[72]   Xu Chen, Bangguo Yin, Songqiang Chen, Haifeng Li, Tian Xu. Generating Multi-scale Maps from Satellite Images via Series Generative Adversarial Networks. IEEE Geoscience and Remote Sensing Letters. 2021. 10.1109/LGRS.2021.3129285. (IF: 5.343)
+[73]   Yaoli Wang, Zhou Huang, Ganmin Yin, Haifeng Li, Liu Yang, Yuelong Su, Yu Liu, Xv Shan. Applying Ollivier-Ricci curvature to indicate the mismatch of travel demand and supply in urban transit network. International Journal of Applied Earth Observation and Geoinformation. 2022, 106(2): 102666. 10.1016/j.jag.2021.102666. (IF: 5.993).
+[74]   Li Chen, Jun Xiao, Pu Zou, Haifeng Li*. Lie to Me: A Soft Threshold Defense Method for Adversarial Examples of Remote Sensing. IEEE Geoscience and Remote Sensing Letters. 2021.10.1109/LGRS.2021.3096244. (IF: 5.343)
+[75]   Mingming Lu, Qi Li, Li Chen *, Haifeng Li. Scale-Adaptive Adversarial Patch Attack for Remote Sensing Image Aircraft Detection. Remote Sensing. 2021, doi.org/10.3390/rs13204078. (IF: 5.349)
+[76]   Li Chen, Weiye Chen, Zewei Xu, Haozhe Huang, Shaowen Wang, Qing Zhu, Haifeng Li*. DAPnet: A Double Self-attention Convolutional Network for Point Cloud Semantic Labeling.  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. DOI: 10.1109/JSTARS.2021.3113047. (IF: 4.715)
+[77]   Yifan Chang, Yifan Wang, Jian Peng, Ziyi Dong, Haifeng Li, Wenbo Li*. MFS: A brain-inspired memory formation system for GAN. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2021, PP(99):1-1 DOI: 10.1109/TCAD.2021.3108706
+[78]   Yunsheng Zhang, Qingzhang Shi, Jiawei Zhu, Jian Peng*, Haifeng Li. Time Series Clustering with Topological and Geometric Mixed Distance. Mathematics 2021, 9, 1046.
+[79]   Li Chen, Zewei Xu, Qi Li, Jian Peng, Shaowen Wang, Haifeng Li*. An Empirical Study of Adversarial Examples on Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing. 2021. DOI: 10.1109/TGRS.2021.3051641 (IF: 8.125)
+[80]   Xu Chen, Bangguo Yin, Songqiang Chen, Haifeng Li, Tian Xu*. Generating Multi-scale Maps from Satellite Images via Series Generative Adversarial Networks. IEEE Geoscience and Remote Sensing Letters. 2021, 10.1109/LGRS.2021.3129285. (IF: 5.343)
+[81]   Qing Zhu, Shengzhi Huang, Han Hu*, Haifeng Li, Min Chen, Ruofei Zhong. Depth-enhanced feature pyramid network for occlusion-aware verification of buildings from oblique images. ISPRS Journal of Photogrammetry and Remote Sensing. 174 (2021) 105–116. (IF: 11.774)
+[82]   Jian Peng, Xiaoming Mei, Wenbo Li, Liang Hong, Bingyu Sun, Haifeng Li*. Scene Complexity: A New Perspective on Understanding the Scene Semantics of Remote Sensing and Designing Image-Adaptive Convolutional Neural Networks. Remote Sensing. 2021, 13(4):742. (IF: 4.509)
+[83]   Cheng Liao, Han Hu*, Haifeng Li, Xuming Ge, Min Chen, Chuangnong Li, Qing Zhu. Joint Learning of Contour and Structure for Boundary-Preserved Building Extraction. Remote Sensing. 2021, 13(6), 1049. 10.3390/rs13061049.
+[84]   Jiandong Bai, Jiawei Zhu*, Yujiao Song, Ling Zhao, Zhixiang Hou, Ronghua Du, Haifeng Li. A3T-GCN: Attention Temporal Graph Convolutional Network for Traffic Forecasting. ISPRS International Journal of Geo-Information. 2021. 10.3390/ijgi10070485.
+[85]   Jiawei Zhu, Qiongjie Wang, Chao Tao, Hanhan Deng, Ling Zhao, Haifeng Li. AST-GCN: Attribute-Augmented Spatiotemporal Graph Convolutional Network for Traffic Forecasting. IEEE Access 2021, 1-1:99: 10.1109/ACCESS.2021.3062114.
+[86]   Haifeng Li, Haikuo Huang, Li Chen, Jian Peng, Haozhe Huang, Zhengqi Cui, Xiaoming Mei, Guohua Wu*. Adversarial examples for CNN-based SAR image classiﬁcation: An experience study. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2020. DOI: 10.1109/JSTARS.2020.3038683. (IF: 4.715)
+[87]   Ya Zhang, Mingming Lu, Haifeng Li. Urban Traffic Flow Forecast Based on FastGCRNN. Journal of Advanced Transportation. 2020, DOI: 10.1155/2020/8859538 (IF: 1.67)
+[88]   Jie Chen, Xing Zhou, Yi Zhang, Geng Sun, Min Deng, Haifeng Li*. Message-passing driven triplet representation for geo-object relational inference in HRSI. IEEE Geoscience and Remote Sensing Letters. DOI: 2020. 10.1109/LGRS.2020.3038569 (IF: 5.343)
+[89]   Yinjie Lei, Duo Peng, Pingping Zhang, Qiuhong Ke, Haifeng Li. Hierarchical Paired Channel Fusion Network for Street Scene Change Detection. IEEE Transactions on Image Processing. 2020: 1-13. 10.1109/TIP.2020.3031173 (IF: 11.041).
+[90]   Yifan Chang, Wenbo Li, Jian Peng, Haifeng Li, Yu Kang, Yingliang Huang. Memory Protection Generative Adversarial Network (MPGAN): A Framework to Overcome the Forgetting of GANs Using Parameter Regularization Methods. IEEE ACCESS. 2020, 8:179942-179954 (IF: 4.640)
+[91]   Li Chen, Haifeng Li, Guowei Zhu, Qi Li, Jiawei Zhu, Haozhe Huang, Jian Peng, Lin Zhao. Attack Selectivity of Adversarial Examples in Remote Sensing Image Scene Classification. IEEE Access. 2020 8: 137477-137489 (IF: 4.640)
+[92]   Huangke Chen, Ran Cheng, Jinming Wen, Haifeng Li, Jian Weng. Solving large-scale many-objective optimization problems by covariance matrix adaptation evolution strategy with scalable small subpopulations. Information Sciences. 2020, 509: 457–469 (IF: 8.233)
+[93]   Xu Chen, Songqiang Chen, Tian Xu, Bangguo Yin, Jian Peng, Xiaoming Mei, Haifeng Li*. SMAPGAN: Generative Adversarial Network-Based Semisupervised Styled Map Tile Generation Method. IEEE Transactions on Geoscience and Remote Sensing. 2020. 10.1109/TGRS.2020.3021819 (IF: 8.125)
+[94]   Ximeng Cheng, Jianying Wang, Haifeng Li, Yi Zhang, Lun Wu, Yu Liu. A method to evaluate task-specific importance of spatio-temporal units based on explainable artificial intelligence. International Journal of Geographical Information Science. 2020. DOI: 10.1080/13658816.2020.1805116
+[95]   Yue Lu, Xinsha Fu, Chongzhen Lu, Enqiang Guo, Feng Tang, Jiawei Zhu, Haifeng Li∗. Effects of route familiarity on driver psychological status: a study of natural driving. Transportation Research Part F: Traffic Psychology and Behaviour. 2020, 75:37-54 (IF: 2.518)
+[96]   Qing Zhu, Li Chen, Han Hu, Saeid Pirasteh, Haifeng Li, Xiao Xie. Unsupervised Feature Learning to Improve Transferability of Landslide Susceptibility Representations. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. DOI 10.1109/JSTARS.2020.3006192. (IF: 4.715)
+[97]   Xiaolei Zhang, Jinfan Xu, Jie Yang, Li Chen, Haibo Zhou, Xiangjiang Liu, Haifeng Li, Tao Li, Yibin Ying. Understanding the learning mechanism of convolutional neural networks in spectral analysis. Analytica Chimica Acta. 2020 1119:41-51. DOI: doi.org/10.1016/j.aca.2020.03.055 (IF: 5.977)
+[98]   Chao Tao, Hao Wang, Ji Qi, Haifeng Li*. Semi-Supervised Variational Generative Adversarial Networks for Hyperspectral Image Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2020. 10.1109/JSTARS.2020.2974577. (IF: 4.715)
+[99]   Lin, T., Zhong, R., Wang, Y., Xu, J., Jiang, H., Xu, J., Ying, Y., Rodriguez, L., Ting, K., & Li, Haifeng*. DeepCropNet: A deep spatial-temporal learning framework for county-level corn yield estimation. Environmental Research Letters, 2020, 15, 034016. (IF: 6.096)
+[100]   Haifeng Li, Hao Jiang, Xin Gu, Jian Peng, Wenbo Li, Liang Hong, Chao Tao*. CLRS: Continual Learning Benchmark for Remote Sensing Image Scene Classification. Sensors 2020, 20, 1226. (IF: 3.275)
+[101]    Haifeng Li, Xin Dou, Chao Tao, Zhixiang Wu, Jie Chen, Jian Peng, Min Deng, Ling Zhao*. RSI-CB: A Large-Scale Remote Sensing Image Classification Benchmark Using Crowdsourced Data. Sensors. 2020, 20, 1594. (IF: 3.275)
+[102]   Yanjie Zeng, Xin Fu, Lei Gao, Jiawei Zhu, Haifeng Li and Yuheng Li, "Robust Multivehicle Tracking with Wasserstein Association Metric in Surveillance Videos," IEEE Access. 2020. 10.1109/ACCESS.2020.2978539 (IF: 4.640)
+[103]   M. Deng, Baoju Liu, Sumin Li, Ronghua Du, Guohua Wu, Haifeng Li, Ling Wang, A Two-Phase Coordinated Planning Approach for Heterogeneous Earth-Observation Resources to Monitor Area Targets, IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2020, 1-16, DOI: 10.1109/TSMC.2019.2962205. (IF: 9.309)
+[104]   Jianghan Zhu, Huangke Chen, Guohu Wu, Li Chen, Haifeng Li*. Pressure point driven evolutionary algorithm for many-objective optimization. Swarm and Evolutionary Computation. 2019, 51, 100599
+[105]   Chao Tao, Ji Qi,Yansheng Li, Hao Wang, Haifeng Li*. Spatial information inference net: Road extraction using road-specific contextual information panel. ISPRS Journal of Photogrammetry and Remote Sensing. 2019, 158:155-166 (IF: 11.774)
+[106]   Jinfan Xu, Haifeng Li, Jingfeng Huang, Tao Lin*. Efficient Multi-temporal and In-season Crop Mapping with Landsat Analysis Ready Data via Long Short-term Memory Networks. ICML workshop on climate change 2019
+[107]   Lei Gao, Xingquan Liu, Yu Liu, Pu Wang, Min Deng, Qing Zhu, Haifeng Li*. Measuring Road Network Topology Vulnerability by Ricci Curvature. Physica A: Statistical Mechanics and its Applications, 2019, 527, 121071(IF: 2.924)
+[108]   Haifeng Li, Li Chen Hailun Ding, Guohua Wu*. Procedural Learning with Robust Visual Features via Low Rank Prior. IEEE Access. 2019. PP (99):1-1. (IF: 4.640)
+[109]   Mingming Lu, Yan Liu, Haifeng Li*, Wenbo Li. Hyperbolic Function Embedding: Learning Hierarchical Representation for Functions of Source Code in Hyperbolic Space. Symmetry. 2019,11(2):254 (IF: 4.640)
+[110]   Li Chen, Hailun Ding, Qi Li, Haifeng Li*. Understanding the Importance of Single Directions via Representative Substitution, 2018, AAAI 2019 workshop W10: Network Interpretability for Deep Learning.
+[111]   Xin Shen, Guohua Wu, Rui Wang, Huangke Chen, Haifeng Li, Jianmai Shi. A Self-Adapted Across Neighborhood Search Algorithm with Variable Reduction Strategy for Solving Non-Convex Static and Dynamic Economic Dispatch Problems. IEEE Access. 2018,6:41314-41324. (IF: 4.640)
+[112]    Zheng-Yu Duan, Zheng-Yu Duan, Zengxiang Lei, Haifeng Li, Zengxiang Lei, H. Michael Zhang, Dongyuan Yang. Understanding Multiple Days’ Metro Travel Demand at Aggregate Level. IET Intelligent Transport Systems. December 2018 DOI: 10.1049/iet-its.2018.5004  (IF: 9.551)
+[113]   Wu,G., Pedrycz, W., P.N. Suganthan., Li, Haifeng*. 2017. Using variable reduction strategy to accelerate evolutionary optimization. Applied Soft Computing, 61 :283-293. (IF: 5.472).
+[114]   Wu, G H., Wang, H L., Witold Pedrycz., Li, Haifeng*., Wang, L. 2017. Satellite observation scheduling with a novel adaptive simulated annealing algorithm and a dynamic task clustering strategy. Computers & Industrial Engineering. (IF: 4.135)
+[115]   Duan, Z Y., Wang, C., Zhang, H M., Lei, Z X., Li, Haifeng. 2017. Using Longitudinal Mobile Phone Data to Understand the Stability of Individual Travel Patterns: Case Study of Three Communities in Shanghai, China. Transportation Research Record Journal of the Transportation Research Board. 2643:166-177. DOI10.3141/2643-18. (IF:0.592, SCI).
+[116]    Chen, L., Li, Haifeng*. 2017. Why Batch Noralization work? A Buckling Perspective. International Journal of Grid and Distributed Computing. DOI:10.1109/ICInfA.2017.8079081. (EI).
+[117]    Lin, X., Li, Haifeng*, Zhang, Y., Gao, L., Zhao, L., Deng, M. 2017. A Probabilistic Embedding Clustering Method for Urban Structure Detection. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLII-2/W7, ISPRS Geospatial Week 2017, 18–22 September 2017, Wuhan, China. (EI).
+[118]   Duan, Z Y., Yang, D Y., Li, Haifeng. 2017. Understanding the stability of individual travel patterns based on longitudinal mobile phone data: a case study of three communities in Shanghai, China. Transportation Research Board 96th Annual Meeting. (EI).
+[119]   陈力，李海峰*.2018.深度神经网络内部迁移的信息几何度量分析,湖南大学学报
+[120]   Guohua Wu, Witold Pedrycz, Haifeng Li*, Manhao Ma, Jin Liu. Coordinated Planning of Heterogeneous Earth-Observation Resources, IEEE Transactions on System Man Cybernetics: System. DOI:10.1109/TSMC.2015.2431643 (IF:2.169, SCI)
+[121]    Guohua Wu, Dishan Qiu, Ying Yu, Witold Pedrycz, Manhao Ma, Haifeng Li*. Superior solution guided particle swarm optimization combined with local search techniques. Expert Systems with Applications. 2014, 41(16): 7536–7548 (IF:1.854, SCI, ESI 1%高被引论文)
+[122]   Guohua Wu, Witold Pedrycz, Manhao Ma, Dishan Qiu, Haifeng Li*, Jin Liu. A Particle Swarm Optimization Variant with an Inner Variable Learning Strategy. The Scientific World Journal. 01/2014, DOI: http://www.hindawi.com/journals/tswj/aip/713490/ (IF:1.730, SCI)
+[123]   Haifeng Li*, Bo Wu. Adaptive Geo-Information Processing Service Evolution: Reuse and Local Modification Method. ISPRS Journal of Photogrammetry and Remote Sensing. 2013, 83:165-183.(IF 3.313, SCI)
+[124]   Chenglin Zuo, Yu Liu, Haifeng Li*, Jin Liu, Maojun Zhang. Radial Stereo Imaging System for Three-Dimensional Reconstruction. OPTIK. 2013,124(24):6700–6706. (SCI)
+[125]   Yu Liu, Haifeng Li*, Yongle Li, Jin Liu, Maojun Zhang. Coded Aperture Enhanced Catadioptric Optical System for Omnidirectional Image Deblurrin. OPTIK. 2014,125(1) 2014:11–17.(SCI)
+[126]   Guohua Wu, Witold Pedrycz, Haifeng Li*, Dishan Qiu, Manhao Ma, Jin Liu. Complexity Reduction in the Use of Evolutionary Algorithms to Function Optimization: a Variable Reduction Strategy. The Scientific World Journal.10/2013, 2013:1-8 (IF:1.730, SCI)
+[127]   Li, Haifeng*, Zhu, Q, Yang, X, Xu, L.. Geo-Information Processing Service Composition for Concurrent Tasks: A QoS-Aware Game Theory Approach. Computers & Geosciences, 2012, 47 :46-59. (IF:1.834, SCI)
+[128]   Bo Wu*, Haifeng Li, Yang Gao. Investigation and Remediation of False Topographic Perception Phenomena Observed on Chang’E-1 Lunar Imagery. Planetary and Space Science. 2013,75:158–166. (IF:2.109, SCI)
+[129]   Li, Haifeng*, Q., Zhu. Y. Ouyang. Non-Cooperative Game Based QoS-Aware Web Services Composition Approach for Concurrent Tasks. IEEE 9th International Conference on Web Services (ICWS 2011), Washington DC USA.(大会报告, accepted rate 11% EI)
+[130]   Haifeng Li*, Bo Wu. A Service-Oriented Architecture for Proactive Geospatial Information Services, Future Internet, 2011, 3(4): 298-318, doi:10.3390/fi3040298.
+社会兼职
+[1]
+2011-Present, ISPRS Working Group II/6 - Geo-Visualization and Virtual Reality Member
+2014-Present, ACM Member
+2011-Present, IEEE Member
+2014- Present, CCF Member
+担任审稿人
+ISPRS Journal
+Knowledge-Based System
+International Journal of Digital Earth
+Frontiers of Information Technology & Electronic Engineering
+British Journal of Mathematics & Computer Science
+International Journal of Computer Systems Science and Engineering
+中国公路学报
+研究方向
+[1]  地理/遥感大数据
+[2]  机器/深度学习
+[3]  人工/类脑智能
+其他联系方式
+[1]  邮编： c576f0c85848a14d10428d1b79269fc7d68bde9ba6ecb95648b168a03671c3821c778c2bedf0cae5d03c95a065c3a5efa4243241acb9eb6089885db6f9f3fa7f5b7491eb5af48e7ab43d253e29e0fa6991b0af260ac98903cc7fbca150cb2fc86cb6bd41d95f78a263ba3d6f6aa504ee56cdd8693f2e6f13b576940cee3633de
+[6]  邮箱： 0f3cae23410c6f61bd5fc66869bc14552206486e8a0fde62ebdd5337639d23166c8a3e60f02dc24742501b109f607f58159abdccbfaadedb4c16cc9041928ae77b1b8b962cbb3adae480d50834ef47947b51efd5396003562d98219faa3ddb23ce3b5cd0d7e9ef7334f82535905041cd891b94da5cf7a0e121e061a9388a3cca
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 李建成
+
+- **网址**: https://faculty.csu.edu.cn/lijiancheng/zh_CN/index.htm
+- **姓名**: 李建成
+- **邮箱**: csuhujun@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 李建成
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李建成
+李建成
+工程院院士
+教授
+博士生导师
+硕士生导师
+入职时间：2022-09-03
+所在单位：校领导
+职务：校长
+学历：研究生(博士)毕业
+性别：男
+学位：博士学位
+在职信息：在职
+毕业院校：武汉测绘科技大学
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+李建成，男，1964年12月出生，汉族，中共党员，博士，教授，曾任武汉大学党委常委、副校长等职，现任中南大学校长、党委副书记。2011年当选为中国工程院院士。
+长期致力于地球重力场理论及其工程应用研究，研制了我国自主的全球重力场模型，解决了区域精密数字高程基准确定的多项难题，形成了自主创新的理论与技术体系，使我国在该领域的研究达到国际先进水平。主持国家973计划、863计划、国家自然科学基金基础科学中心项目、国家自然科学基金重大项目、国家自然科学基金创新研究群体、国家自然科学基金重点项目研究等。获国家科技进步奖一等奖1项、二等奖4项，省部级科技进步特等奖1项、一等奖7项。
+获得国家杰出青年基金资助（1996年）、国家测绘地理信息局首批科技领军人才（2010年）、科技部重点领域创新团队（2014年）等。曾获何梁何利奖、中国青年科技奖、湖北省科学技术突出贡献奖、光华科技工程奖（青年奖）、宝钢优秀教师特等奖、全国五一劳动奖章等荣誉。
+兼任教育部高等学校测绘类专业教学指导委员会主任委员、中国测绘地理信息学会副理事长。
+主讲课程
+1 物理大地测量学 （本科生）
+2 高等卫星大地测量学（研究生）
+课题组长期招收对地球重力场、物理大地测量、卫星大地测量等感兴趣的本科生、研究生、研究助理和博士后！
+联系人：胡老师    邮箱：csuhujun@csu.edu.cn
+教育经历
+[1]
+1990.3-1993.6
+武汉测绘科技大学
+|
+大地测量
+|
+博士学位
+|
+博士研究生毕业
+[2]
+1987.9-1990.1
+武汉测绘科技大学
+|
+大地测量
+|
+硕士学位
+|
+硕士研究生毕业
+[3]
+1983.9-1987.7
+武汉测绘科技大学
+|
+工程测量
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+1996.1-1999.7
+武汉测绘科技大学
+|
+教授
+[2]
+1997.4-1999.6
+武汉测绘科技大学
+|
+测绘学院
+|
+副院长
+|
+教授
+[3]
+1999.7-2015.1
+武汉大学
+|
+测绘学院
+|
+院长
+|
+教授
+[4]
+2015.1-2022.9
+武汉大学
+|
+党委常委、副校长
+|
+教授
+[5]
+2022.9-至今
+中南大学
+|
+中南大学
+|
+党委副书记
+|
+教授
+|
+历任
+[6]
+2022.9-至今
+中南大学
+|
+中南大学
+|
+校长
+|
+教授
+|
+现任
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 李劼
+
+- **网址**: http://faculty.csu.edu.cn/lijie2/zh_CN/index.htm
+- **姓名**: 李劼
+- **邮箱**: lijieyejin@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 李劼
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李劼
+李劼
+教授
+博士生导师
+硕士生导师
+所在单位：冶金与环境学院
+职务：低碳有色冶金国家工程研究中心主任
+性别：男
+联系方式：lijieyejin@csu.edu.cn
+在职信息：在职
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+李劼，中南大学党委委员、二级教授、博士生导师，“长江学者奖励计划”特聘教授。曾任中南大学校长助理、研究生院院长、冶金与环境学院院长。现任低碳有色冶金国家工程研究中心主任，并兼任中国技术经济学会量子数智融合应用专业委员会主任、中国有色金属学会轻金属冶金学术委员会副主任及矿冶过程计算与模拟仿真专业委员会副主任、湖南省普通本科材料类教学指导委员会主任等职。长期从事智能与数字冶金（铝电解）、新能源材料与器件（新能源与储能工程）等领域的科学研究与成果转化。发表学术论文600余篇，获授权发明专利380余项，获国家科技进步奖3项、省部级科技进步一等奖9项。
+目前，正担任教育部首批学科突破先导项目首席科学家、重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）产品技术负责人等。
+研究生招生方向：
+1.智能冶金/铝冶金
+2.智能科学与技术
+3.新能源与储能工程/新能源材料与器件
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 李杰林
+
+- **网址**: http://faculty.csu.edu.cn/lijielin/zh_CN/index.htm
+- **姓名**: 李杰林
+- **邮箱**: lijielin@163.com
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 金属矿山开采理论与技术、矿山岩石力学与岩体工程灾害防控、岩石损伤核磁共振表征方法、矿井通风及热害防治
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李杰林
+李杰林
+教授
+博士生导师
+硕士生导师
+所在单位：资源与安全工程学院
+学历：研究生(博士)毕业
+办公地点：中南大学校本部采矿楼335
+性别：男
+联系方式：lijielin@163.com
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学
+学科：矿业工程
+曾获荣誉：
+2021-02-25  当选：  2020年度湖南省普通高校青年骨干教师培养对象
+2019-11-15  当选：  2019年矿业、石油及安全工程领域优秀青年科技人才提名奖
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+李杰林（1982-），湖南永州宁远人，博士、教授、博士生导师，中南大学高海拔寒区采矿工程技术研究中心副主任，美国科罗拉多矿业大学访问学者（2017.8-2018.8）、湖南省普通高校青年骨干教师。荣获全国矿业、石油及安全工程领域优秀青年科技人才提名奖、比亚迪奖学金优秀教师奖、中南大学优秀班导师标兵等荣誉。曾在澳华黄金有限公司和埃尔拉多黄金公司下属的贵州锦丰矿业有限公司（烂泥沟金矿）、黑河洛克矿业开发有限责任公司（东安金矿）和吉林板庙子矿业有限公司（金英金矿）工作多年，历任采矿培训生、采矿工程师和采矿主管，从事露天和地下矿山的设计、计划、生产管理和项目建设等工作。
+兼任第一届湖南省应急管理专家（非煤矿山）、长沙市应急管理专家（非煤矿山）、中国岩石力学与工程学会露天开采与边坡稳定性专委会理事、中国有色金属学会矿山信息化智能化专业委员会委员、中国岩石力学与工程学会极地岩土力学与工程专业委员会、中国仪器仪表学会分析仪器分会核磁共振仪器专委会委员、湖南省砂石协会专家委员会委员、湖南省岩石力学与工程学会理事、《中南大学学报》（自然科学版）青年编委、《中南大学学报》（英文版）青年编委、《中国矿业大学学报》青年编委、《工程科学学报》学术编辑、《矿冶工程》青年编委、《化工矿物与加工》编委、《矿业研究与开发》青年编委、《石油天然气学报》编委、《现代矿业》第七届专家委员会委员等职。
+目前主要从事金属矿山开采工艺与技术、寒区岩石力学、矿山岩体工程灾害防控和矿井通风与热害防治等方面的科研和教学工作。主持承担了国家自然科学基金（面上/青年）、国家重大科学仪器设备开发专项、国家重点研发计划子课题（2项）、湖南省自然科学基金（2项）、长沙市自然科学基金、国家重点实验室开放基金等国家、省部级、校企合作科研项目50余项。作为研究骨干，参与了国家自然科学基金项目5项，国家科技支撑计划项目3项，省部级及校企合作科研项目20余项。
+已出版学术专著1部，主编教材2本，参编专著教材2部；发表论文70余篇，已获授权国家发明专利20余项，获中国产学研合作创新成果优秀奖1项，中国有色金属工业科学技术奖一等奖2项、二等奖2项。应邀担任了国际SCI期刊Sustainability、Geosciences、Applied Sciences专刊客座主编、Rock Mechanic and Rock Engineering、Engineering Geology、Cold Regions Science and Technology、Journal of Mountain Science、Bulletin of Engineering Geology and the Environment、Journal of Rock Mechanics and Geotechnical Engineering、《中南大学学报》、《波谱学杂志》、《中国矿业大学学报》、《金属矿山》、《冰川冻土》、《黄金科学技术》、《有色金属科学与工程》、《矿冶工程》、《工业安全与环保》等20余种国内外权威期刊的审稿专家，荣获《工程科学学报》2021年度优秀学术编辑、《冰川冻土》2022年度优秀审稿人、《矿冶工程》2025年度优秀审稿专家、《工业安全与环保》2025年度优秀审稿专家。
+教育经历
+[1]
+2009.9-2012.6
+中南大学
+|
+采矿工程
+|
+博士学位
+[2]
+2005.9-2007.11
+中南大学
+|
+安全技术及工程
+|
+硕士学位
+[3]
+2001.9-2005.6
+中南大学
+|
+采矿与岩土工程
+|
+学士学位
+工作经历
+[1]
+2025.9-至今
+中南大学
+|
+资源与安全工程学院
+|
+教授
+[2]
+2017.9-2025.9
+中南大学
+|
+资源与安全工程学院
+|
+副教授
+[3]
+2017.8-2018.8
+Colorado School of Mines
+|
+采矿工程系
+|
+访问学者
+[4]
+2013.4-2015.9
+中南大学力学博士后科研流动站
+|
+博士后
+[5]
+2012.12-2017.9
+中南大学
+|
+资源与安全工程学院
+|
+讲师
+[6]
+黑河洛克矿业开发有限责任公司
+|
+矿山部
+|
+采矿主管
+[7]
+吉林板庙子矿业有限公司
+|
+矿山部
+|
+采矿工程师
+[8]
+贵州锦丰矿业有限公司
+|
+矿山部
+|
+采矿培训生
+社会兼职
+[1]
+第一届湖南省应急管理专家（非煤矿山）
+[2]
+中国岩石力学与工程学会露天开采与边坡稳定性专委会理事
+[3]
+中国有色金属学会矿山信息化智能化专业委员会委员
+[4]
+中国仪器仪表学会分析仪器分会核磁共振仪器专委会委员
+[5]
+湖南省砂石协会专家委员会委员
+[6]
+《中南大学学报》（自然科学版、英文版）青年编委
+[7]
+《中国矿业大学学报》青年编委
+[8]
+《工程科学学报》学术编辑
+[9]
+《石油天然气学报》编委
+[10]
+《现代矿业》第七届专家委员会委员
+研究方向
+[1]  金属矿山开采理论与技术
+[2]  矿山岩石力学与岩体工程灾害防控
+[3]  岩石损伤核磁共振表征方法
+[4]  矿井通风及热害防治
+其他联系方式
+[1]  邮编： c576f0c85848a14d10428d1b79269fc7d68bde9ba6ecb95648b168a03671c3821c778c2bedf0cae5d03c95a065c3a5efa4243241acb9eb6089885db6f9f3fa7f5b7491eb5af48e7ab43d253e29e0fa6991b0af260ac98903cc7fbca150cb2fc86cb6bd41d95f78a263ba3d6f6aa504ee56cdd8693f2e6f13b576940cee3633de
+[3]  通讯/办公地址： 4ac206b9a7e39a3a6e315e621f3a7895c1c4724dfde51551501ca6eb88c9b1915dba0c2a8001daaa92244dcaa628d17901e57d1eda7278aeeb5cc1aa0f0e37d5c75e9aa05adbc958114343bd5a151c3639bd784e9f422fc7cf33c70c76476154b74c45f3cda5d3b91ad841a6591d9bc312cefd47d537c4dc25599b577c099953
+[6]  邮箱： 2a781a430eb09a12793fec6b9ecee3fe0cb752d44905729f83577dc7571651cdaf9799a97d63ac918c94ffc162bf0ab666214c735dd8c24c68b2d819b3b99a6c702ef971cb6506b29863c9f6f3ee303c31dd5017a45cbb1862d33d0106a2fb76565207f8182330d0d1e27c518da73ba8ce51ef68584eef051972b7d2cd33c85f
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 李津臣
+
+- **网址**: http://faculty.csu.edu.cn/lijinchen/zh_CN/index.htm
+- **姓名**: 李津臣
+- **邮箱**: lijinchen@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 计算生物学、生物信息学、医学遗传学
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李津臣
+李津臣
+教授
+博士生导师
+硕士生导师
+入职时间：2017-09-01
+所在单位：中南大学湘雅医院
+职务：生物信息中心主任
+学历：博士研究生毕业
+办公地点：湖南省长沙市开福区湘雅路87号湘雅医院教学科研楼10楼生物信息中心
+性别：男
+联系方式：lijinchen@csu.edu.cn
+学位：博士学位
+在职信息：在职
+主要任职：中南大学湘雅医院特聘教授、生命科学学院特聘研究员
+其他任职：中国遗传学会行为遗传分会秘书长、中国生物工程学会计算生物学与生物信息学专业委员会委员、湖南省生物医学工程学会副理事长、湖南省生物信息学会副理事长
+毕业院校：中南大学
+学科：生物学
+基础医学
+临床医学
+曾获荣誉：
+2025-04-30  当选：  新时代青年先锋奖
+2025-10-18  当选：  妇幼健康科学技术奖一等奖
+2021-12-10  当选：  国家重点研发计划（青年）首席科学家
+2021-12-16  当选：  国家高层次人才计划
+2019-01-01  当选：  中国科学技术学会青年人才托举工程
+2023-07-01  当选：  湖南省卫生健康高层次人才
+2022-05-10  当选：  湖南省青年岗位能手
+2020-05-09  当选：  湖南省“湖湘青年英才”
+2020-05-25  当选：  湖南省“优青”
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+李津臣，中南大学湘雅医院特聘教授、研究员、博士生导师，中南大学生命科学学院双聘PI，国家重点研发计划首席科学家，现任老年疾病国家临床医学研究中心（湘雅医院）数据挖掘与应用中心主任、湘雅医院生物信息中心主任、芙蓉实验室生物信息平台负责人，入选国家四青人才、中国科学技术协会青年人才托举工程、湖南省卫生健康高层次人才；荣获国家新时代青年先锋奖、中国妇幼健康科学技术奖自然科学一等奖、湖南省湖湘青年英才、湖南省青年岗位能手等荣誉称号。
+李津臣教授作为项目负责人获批国家重点研发计划(青年科学家项目)、国家自然科学基金国际（地区）合作与交流项目、国家自然科学基金面上项目等科研项目10余项，获批经费总计超过2000万元。以第一作者或通讯作者在Science Bulletin、Molecular Psychiatry、Nature Communications、Nucleic Acids Research、Brain、Acta Neuropathologica、eBioMedicine等杂志累积发表SCI研究论文50余篇（JCR1区51篇），其中IF>10的研究论文21篇；申请国家发明专利18项（已获授权9项），获批软件著作权21项；兼任中国遗传学会行为遗传分会秘书长、中国生物信息学会重大疾病组学信息学专委会常委，湖南省生物信息学会常务副理事长、湖南省生物医学工程学会副理事长、湖南省生物信息学会医学生物信息学专委会主任委员、Journal of Genetics and Genomics青年编辑。
+李津臣教授组建了中南大学 “医学遗传与生物信息”课题组，创立“医见生信”公众号、视频号以及B站，发布医学遗传与生物信息的最新研究动态、生信技术、生信培训以及组会论文(http://genemed.tech/jclab)。课题组利用生物信息学和医学遗传学的方法探究人类复杂疾病特别是神经精神类疾病发生、发展和诊疗相关的关键基因及分子。他带领团队开发了一系列精准鉴定致病变异和候选基因的生物信息学分析方法和数据库，并逐步建立了特色鲜明的神经精神疾病多组学分析体系，服务于全球107个国家三千余所科研单位，累积点击率超过200万人次；利用该体系从多个维度鉴定了孤独症、帕金森病等神经精神疾病临床亚型和分子亚型之间的重要关系，揭示了神经精神疾病的多个关键基因、通路及功能网络，为疾病的亚型分类、精准防控与精准诊疗提供了重要的科学依据。
+课题组简介
+中南大学李津臣课题组（医学遗传与生物信息）在国家人才计划、国家重点研发计划的支持下围绕基因组医学科学研究与临床应用中的重大科学问题开展系统性的研究，为包括孤独症和帕金森病等在内的重大神经系统相关疾病的精准防治提供分子依据。具体研究方向包括：
+（1）数据资源赋能精准医学的新方法开发：利用生物信息、大语言模型、深度学习、人工智能等方法开发精准解读基因组变异致病性和精准鉴定候选基因的新方法、新工具、新平台及数据库，为重大疾病的精准医学研究提供数据资源和工具支撑；
+（2）重大疾病新基因鉴定及多组学整合分析：利用基因组为核心的多组学队列数据鉴定孤独症、帕金森病等神经精神类疾病发生发展以及诊疗相关的关键变异和基因，并构建多组学调控网络，为重大疾病的精准诊疗提供分子依据；
+（3）生物信息驱动的新基因功能与表型验证：利用分子细胞模型、类脑模型、动物模型方法验证和研究相关基因与变异的分子机制，结合团队生信优势开展相关干湿结合的研究，为认识疾病分子机制提供更多实验证据（详见“医见生信”公众号）。
+目前课题组处于快速上升期，团队成员年轻，目前团队拥有专职科研人员3人，技术员2人，博士后4人，博士硕士研究生20人。团队科研经费充足，学术氛围自由，项目设计巧妙，众志成城，与国内外一流团队保持密切合作，积累了大量以基因组为核心的多组学数据，有望快速产出高水平研究成果。经过几年的发展，课题组逐步形成了“尊重、诚信、团结、创新”的思想氛围，平均每年发表3-5篇10分以上的研究论文。期待积极主动、具有成长型思维或者具有学科交叉背景的优秀学子加盟，获得个性化的长远规划及赋能，欢迎生物信息和临床医学的本科生保送或报考团队的学术性研究生，均可选择湘雅医院临床医学（学术性）或生命科学学院遗传学专业（研究方向均为医学遗传与生物信息）。本团队的研究生立足于医学科学问题，能够熟练掌握生物信息学、基因组医学、医学遗传学、生物医学大数据相关理论基础、分析方法或实验技能。毕业以后可以进入各大高校、科研院所、三甲医院、科技公司从事遗传学、医学、信息学相关科研、教学与数据分析工作。按照往年经验，大部分毕业的学生都能进入带编制的知名高校和三甲医院的核心团队，能够独挡一面，具有极高的认可度。本团队还长期招聘具有生物信息学、基因组学、医学遗传学、流行病与卫生统计学、计算机科学等专业或背景的助理研究员（带编制）、技术员（带编制）或博士后（优先留院），具体要求可访问课题组主页（http://www.genemed.tech/jclab）或医见生信公众号。
+课题组优势
+1、注重学生培养
+团队特别注重研究生的培养，以兴趣和创新为导向并结合研究生本科专业背景指导学生开展课题，培养学生的模式灵活高效，针对性强，实现团队内老师对学生的一对一指导；
+2、数据资源丰富
+团队依托多个国家级（老年疾病国家临床医学研究中心、国家精神与心理疾病临床医学研究中心）、省部级平台（湖南省精准分子医学重点实验室、湖南省医学遗传学重点实验室、湖南省神经退行性疾病重点实验室、湖南省芙蓉实验室），建立了高标准的临床样本库和基因组数据库，目前拥有神经精神类疾病（包括孤独症、帕金森病等）生物样本及临床资料超50000例，WES/WGS数据超过25000例，多组学数据超过2000例（基因组、转录组、蛋白组、代谢组、微生物组、抗体组等），第三代测序数据超过500例（PacBio HiFi等）；
+3、分析体系完善
+团队建立了多个整合临床表型和遗传信息的数据库及生信分析平台，能够独立完成基因组为核心的所有生信信息分析，为精准挖掘致病基因和分子以及鉴定疾病发病机制奠定了坚实的基础；
+4、科研成果丰硕
+课题组成员在科研产出方面实力突出，有极强的创新能力；每年产出IF>10分的SCI论文3-5篇（均为课题组学生或博士后为第一作者）,课题组多名已毕业的博士及硕士研究生均在国内高校、科研院所、医院等继续深造或工作；
+5、全套培训课程
+团队召集生信专职人员及专家定期开展一系列生物信息学专题培训，如2025年团队内部组织开展了6场生信培训，以提高本团队成员的生信基础，推动研究成果产出；此外，创立“医见生信”公众号、视频号以及B站，发布医学遗传与生物信息的最新研究动态、生信技术、生信培训以及组会论文(http://genemed.tech/lilab)，以提高本团队成员的生信基础，推动研究成果产出；
+6、团队氛围融洽
+课题组坚持“尊重、诚信、团结、创新”的价值观，具有非常融洽的学术氛围，尊重成员研究兴趣和个人特长，为成员制定个性化科研课题及发展规划；
+7、成员优势互补
+团队凝聚了生物信息学，临床医学、医学遗传学、计算机科学、分子生物学等多学科交叉科研人才，在导师的带领下，团队成员齐心协力，通过有效融合激发出创新的火花，能够从多个角度审视问题并提出全面的解决方案；
+8、未来前景可期
+优秀硕士毕业可以选择留在课题组或者推荐到其他课题组继续深造，也可以进入各大高校、科研院所、三甲医院、科技公司，从事遗传学、临床医学、生物信息学等学科的科研、教学、医疗及数据分析等相关工作。
+教育经历
+[1]
+2014.9-2017.6
+中南大学
+|
+遗传学
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2011.9-2014.6
+温州医科大学
+|
+遗传学
+|
+硕士学位
+|
+硕士研究生毕业
+[3]
+2007.9-2011.6
+重庆邮电大学
+|
+生物信息学
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+2024.9-至今
+芙蓉实验室
+|
+生物计算与生物信息分析中心
+|
+主任
+|
+在职
+[2]
+2021.3-至今
+中南大学湘雅医院
+|
+生物信息中心
+|
+主任
+|
+在职
+[3]
+2020.3-至今
+老年疾病国家临床医学研究中心
+|
+数据挖掘与应用中心
+|
+主任
+|
+在职
+[4]
+2017.9-至今
+中南大学湘雅医院
+|
+湘雅医院
+|
+特聘教授
+|
+在职
+[5]
+2017.9-至今
+中南大学生命科学学院
+|
+医学遗传学研究中心
+|
+特聘研究员
+|
+在职
+社会兼职
+[1]
+中国生物工程学会计算生物学与生物信息学专业委员会委员
+[2]
+中国遗传学会行为遗传分会秘书长
+[3]
+湖南省生物医学工程学会副理事长
+[4]
+湖南省神经科学学会神经退行性疾病专委会副主委
+[5]
+湖南省遗传学会理事
+[6]
+湖南省生物信息学学会理事
+研究方向
+[1]  计算生物学
+[2]  生物信息学
+[3]  医学遗传学
+其他联系方式
+[6]  邮箱： 754fc92be330944703e28ef3ba75c47b9b5258489ff1d1ac8c158927ba5cf8df09ebeffe063163d3c7e8d3bf5ffd58e09a035644ad4d90a6877508e373e61bcf44723c025b2483e7f32340c0315ea02dcef3d420141dcf21d1ca09c678cca7947e0b80e25d57e88fae72b0f5c0b94cb45a27a1e53c7dcaf5f1f57931658115fb
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 李蔚
+
+- **网址**: https://faculty.csu.edu.cn/liweijt/zh_CN/index.htm
+- **姓名**: 李蔚
+- **邮箱**: liweijt@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 李蔚
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李蔚
+English
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+李蔚
+个人信息Personal Information
+教授
+博士生导师
+硕士生导师
+教师拼音名称：liwei
+电子邮箱：3f9e9ce8a5d3aec659b22b5683f639aaf5733284c7bb70890baa9b1c39a07ab28b7410e590c182fe46c464e7d7cb430cb565e4d3c6eb24405ce349d67bd8c8f7beb0b8a7f7897804654ad8c4ddb6af3719ef4fe192ea06e6454f546ed5395d1c0209579c9b7136248de5cd511a184c2ac76c1df3618df7bbddb705e48896ba03
+所在单位：交通运输工程学院
+学历：博士研究生毕业
+性别：男
+学位：工学博士学位
+在职信息：在职
+毕业院校：中南大学
+学科：控制科学与工程
+交通运输工程
+同专业博导
+同专业硕导
+个人简介Personal Profile
+李蔚，男，中南大学, 交通运输工程学院
+工学博士，博士后，教授，硕士生及博士研究生导师
+地址：湖南省长沙市天心区韶山南路22号中南大学铁道校区交通运输工程学院，邮编410075
+邮箱：liweijt@csu.edu.cn
+研究生招生学科：交通运输工程（一级学科）、智能科学与技术（一级学科）
+教育经历
+本科毕业于华南理工大学自动控制专业，获工学学士学位，博士毕业于中南大学交通设备与信息工程专业，获工学博士学位，于中南大学“控制科学与工程”博士后流动站与南车株洲电力机车有限公司（现中车株洲电力机车有限公司）博士后工作站完成博士后。
+工作经历
+1992~2010年期间, 大学本科毕业后进入铁道部株洲电力机车研究所（现中车株洲电力机车研究所有限公司）工作，主要从事列车控制系统及电气自动化系统研发，历任见习生、助理工程师、工程师、高级工程师、教授级高级工程师等职。之后进入中南大学任职，在中南大学交通运输工程学院从事教学与科研，现任教授。重载快捷大功率电力机车全国重点实验室重载列车控制技术方向学科带头人。
+讲授课程
+（1）自动控制原理/控制工程基础
+（2）现代控制理论
+（3）电力牵引传动与控制/电机及电力拖动
+（4）单片机原理及应用
+（5）列车通信网络与控制技术/列车通信网络前沿技术/先进列车网络及控制技术
+（6）磁浮列车技术
+（7）列车运行控制技术
+（8）智能控制技术
+主要研究方向
+（1） 列车控制与牵引电传动
+（2） 列车运行控制与智能驾驶
+（3） 重载列车无线重联协同控制
+（4） 磁浮列车控制及监控
+（5） 列车新能源动力及控制
+（6） 列车通信网络及控制系统
+主要科研
+长期致力于列车控制与牵引电传动领域方面的教学与科研，同时从事交通设备与控制工程、轨道交通信号与控制专业的教学及科研，具有丰富的轨道车辆系统研发、控制系统软硬件研发能力。主持国家重点研发计划项目、国家相关科研课题、国家自然科学基金重点项目（联合基金）、国家自然科学基金面上项目、湖南省自然科学基金面上项目等一系列科研项目及课题。主要的一些科研成果有：
+（1）主持“中华之星”高速列车控制与网络系统的研发；
+（2）主持列车分布式车载综合微机控制系统的研究；
+（3）主持SS4B电力机车微机控制系统以及国产电力机车相关控制系统的研发，主持“奥星”、出口哈萨克斯坦KZ4A、“天梭”等交流传动电力机车微机控制与列车通信网络系统研发；
+（4）主持重载组合列车分布动力机车无线重联控制系统的研发/重载列车服役协同运行安全调控系统研发/群组列车智能驾驶操纵控制系统研发；
+（5）主持高速磁浮列车、中低速磁浮列车悬浮系统监控及优化系统研究；
+多次获得国家、省部级科技奖，以及詹天佑铁道科学技术奖等，获得茅以升铁路教育专项奖。
+教育经历Education Background
+工作经历Work Experience
+暂无内容
+暂无内容
+研究方向Research Focus
+社会兼职Social Affiliations
+列车控制与牵引电传动
+列车运行控制与智能驾驶
+磁浮列车控制与状态感知辨识
+暂无内容
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+访问量：次
+开通时间： ..
+最后更新时间： ..
+
+---
+
+## 李学军
+
+- **网址**: http://faculty.csu.edu.cn/lixuejun/zh_CN/index.htm
+- **姓名**: 李学军
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 人工智能影像诊断、颅底、神经肿瘤临床与基础、基于中枢神经系统肿瘤大数据机器学习的智能诊断系统开发、胶质瘤抗血管生成治疗、胶质瘤免疫治疗、胶质瘤表观遗传学
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 李学军
+English
+李学军(
+主任医师
+、硕士生导师
+、博士生导师
+)
+性别：男
+学历：博士研究生毕业
+学位：博士学位
+所在单位：湘雅医学院
+职务：神经外科主任医师，博导
+电子邮箱：3e867666afaaf506118205975fbbae4a576a0120fbdc8b07667ecc566ce2391ebf65dbc0737f9e92c1d954f013fbcce4fc1882dd6654aa3da13e2f2632570139b82ca172b7b82113f16667120a713735e0882d6a89023d93a229c296bfb713d27fba884c2aaa96583e0de53045bceca9295495c5b8cce6a7c75c6f0664434e77
+入职时间：2023-09-26
+所在单位：湘雅医学院
+职务：神经外科主任医师，博导
+学历：博士研究生毕业
+性别：男
+学位：博士学位
+在职信息：在职
+主要任职：湖南省脑肿瘤国际研究中心主任，湖南省颅底外科与神经肿瘤临床医疗技术研究中心副主任，中南大学湘雅医院国际交流与合作办公室主任。
+毕业院校：中南大学湘雅医院
+学科：
+临床医学
+首页
+论文成果
+科研项目
+教授风采
+获奖信息
+研究概况
+其他栏目
+个人简介
+李学军，男，汉族，湖南浏阳人，中共党员，医学博士，湘雅医院神经外科一级主任医师、二级教授，博士研究生导师，博士后合作导师，斯坦福大学客座教授，中南大学湘雅医学院副院长，湖南省脑肿瘤国际科技创新合作基地主任，湖南省颅底外科与神经肿瘤临床医疗技术研究中心副主任，2014-2023任中南大学湘雅医院国际交流与合作办公室主任。
+主要科研方向为颅底、神经肿瘤临床与基础、基于中枢神经系统肿瘤分子靶标研究及大数据机器学习的智能诊断系统开发、神经肿瘤表观遗传学、人工智能影像诊断等。目前主持多项国家级科研课题，包括国家自然科学基金3项、国家重点研发计划课题1项、美国中华医学基金会CMB E-learning项目1项，主持各类省部级课题多项，包括湖南省科学技术厅新兴产业科技攻关重大科技成果转化项目1项，湖南省重点研发计划1项，长沙市科技重大专项1项。 发表学术论文100余篇，SCI70余篇，。
+现任中国老年医学学会智慧医疗技术与管理分会会长、中国医师协会脑胶质瘤基础与转化委员会副主任委员、中国抗癌协会脑胶质瘤专业委员会国际交流与合作学组副主任委员、国家医管中心3D打印医学应用专家委员会秘书长、中国医药教育协会医疗器械管理专业委员会常委，神经外科器械学组副主任委员、湖南省抗癌协会常务委员会副理事长、《中国中枢神经系统胶质瘤诊断和治疗指南》编写组成员，参与制定《中国胶质瘤分子诊疗指南》与我国首部及《CGCG成人弥漫性胶质瘤临床指南2020版》、获得2019年度第三届国之名医•优秀风范奖，2019第四届 “敬佑生命•荣耀医者” 神经外科专科精英奖，2021年年度“人民好医生（神经肿瘤）特别贡献奖”。中国研究型医院学会脑功能研究与转化专业委员会委员、北京医学奖励基金脑转移瘤专业委员会副主任委员、湖南省神经科学学会委员会理事兼秘书、湖南省神经科学学会神经影像专业委员会副主委、湖南省健康服务业协会第一届脑与脑健康分会副理事长、湖南省医学会神经外科会专业委员会委员、神经分子病理室主任。Cancer Letters、Journal of cancer、中国耳鼻咽喉颅底外科杂志、中华神经外科杂志英文版、肿瘤防治研究杂志、国际肿瘤学杂志等多种SCI及国内学术期刊编委、特约审稿专家；国家自然科学基金评审专家。
+社会兼职
+暂无内容
+教育经历
+1990.9-1995.6
+湖南医科大学
+学士学位   |
+大学本科毕业
+1998.9-2003.6
+中南大学
+博士学位   |
+博士研究生毕业
+工作经历
+2010.4-至今
+斯坦福大学 | 神经外科 | 客座教授
+2014.12-至今
+中南大学湘雅医院 | 神经外科 | 教授
+2008.12-2014.11
+中南大学湘雅医院 | 神经外科 | 副教授
+其他联系方式
+邮箱 : 3e867666afaaf506118205975fbbae4a576a0120fbdc8b07667ecc566ce2391ebf65dbc0737f9e92c1d954f013fbcce4fc1882dd6654aa3da13e2f2632570139b82ca172b7b82113f16667120a713735e0882d6a89023d93a229c296bfb713d27fba884c2aaa96583e0de53045bceca9295495c5b8cce6a7c75c6f0664434e77
+研究方向
+人工智能影像诊断
+颅底、神经肿瘤临床与基础
+基于中枢神经系统肿瘤大数据机器学习的智能诊断系统开发
+胶质瘤抗血管生成治疗
+胶质瘤免疫治疗
+胶质瘤表观遗传学
+手机版
+同专业博导
+同专业硕导
+访问量：
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+最后更新时间：..
+
+---
+
+## 廖伟华
+
+- **网址**: 
+- **姓名**: 廖伟华
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 刘恢
+
+- **网址**: http://faculty.csu.edu.cn/liuhui/zh_CN/index.htm
+- **姓名**: 刘恢
+- **邮箱**: leolau@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 大气污染物深度净化与资源化
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 刘恢
+刘恢
+教授
+博士生导师
+所在单位：冶金与环境学院
+职务：冶金与环境学院副院长
+办公地点：中南大学新校区金贵楼
+联系方式：0731-88576364
+leolau@csu.edu.cn
+主要任职：有色金属强化冶金新技术全国重点实验室副主任
+其他任职：国家重金属污染防治工程技术研究中心副主任
+学科：环境科学与工程
+学术荣誉：
+2017  当选：  国家优秀青年基金获得者
+2021  当选：  国家特支计划领军人才
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+二级教授、冶金与环境学院副院长、博士生导师、“万人计划”科技创新领军人才、教育部课程思政教学名师、国家优秀青年科学基金获得者，“科睿唯安”全球高被引科学家。
+国家级平台任职：
+有色金属强化冶金新技术全国重点实验室副主任
+国家重金属污染防治工程技术研究中心副主任
+国家清洁冶金国际联合研究中心副主任
+社会兼职：
+中国环境科学学会燃烧与环境保护专委会副主任委员
+中国环境科学学会重金属污染防治专委会副主任委员、
+中国有色金属学会有色冶金资源综合利用专委会副主任委员。
+主要从事大气污染控制与资源循环方面的教学科研工作，研究领域包括：（1）工业烟气重金属污染物资源化治理；（2）SO2、NOx等酸性大气污染物资源化治理；（3）CO2\CF4等温室气体控制与资源化治理。
+主持国家重点研发计划、国家优秀青年科学基金、国家自科重点基金、国家科技支撑计划等国家级项目与课题20余项。已在 Angewandte Chemie International Edition、Applied Catalysis B-Environment、Environment Science & Technology、Hydrometallurgy等化学、环境、冶金领域国际顶级期刊上发表学术论文百余篇，授权国家发明专利90余项。
+获国家科技进步二等奖、湖南省科技创新奖、中国有色金属工业科技进步奖一等奖等科技奖励。获中国有色金属创优争先奖、第二届全国有色金属优秀青年科技者奖、中国环境科学学会第十届青年科技奖、宝钢优秀教师奖等荣誉。
+办公地址：中南大学新校区金贵楼
+联系方式：0731-88576364；leolau@csu.edu.cn
+教育经历
+[1]
+1997.9-2001.6
+中南大学
+学士
+|
+大学本科毕业
+[2]
+2001.9-2004.6
+中南大学
+硕士
+|
+硕士研究生毕业
+[3]
+2008.10-2011.3
+九州大学
+博士研究生毕业
+[4]
+2004.9-2008.9
+上海交通大学
+博士
+|
+博士研究生毕业
+研究方向
+[1]  大气污染物深度净化与资源化
+其他联系方式
+[1]  邮编： c576f0c85848a14d10428d1b79269fc7d68bde9ba6ecb95648b168a03671c3821c778c2bedf0cae5d03c95a065c3a5efa4243241acb9eb6089885db6f9f3fa7f5b7491eb5af48e7ab43d253e29e0fa6991b0af260ac98903cc7fbca150cb2fc86cb6bd41d95f78a263ba3d6f6aa504ee56cdd8693f2e6f13b576940cee3633de
+[2]  传真： 521cd486bbbe281ba8f28eed1029c99dfcc789766fb5b268b0b9af1e88f003740eb7f9abd7c568d9639b88eb48ebf1b7d5df4b9834d267580049af57c9211c6482c5f8303e14fa04d1b604b9f1f019549d4b91deb4925c0832f3ef173f6bddd2b3e4d78a504d2247c07caf2fcc111f153cefdd0bc87ed744feeeaa12699dd0d7
+[3]  通讯/办公地址： 404b8fc986629f6d717d30d0afea2cb434c3c8b884776712da8bb046941f74182185de2300f827a03590c69eec0be929c580c30154ae5affe24f57fb5b1349427b4dd600c40d76c98eccb7b7a76e6a0e4c2a0a11fb958b5ca17603669797cbe0a17694fb55ed57a01179a0696cbcc029802c7486a8fec74bbf5ba2734eca87e8
+[4]  办公室电话： 37d19a157e61b117e68c235ec9d5191a18890a4d1ddcdc97bb6fda0f2882bde6fdf3c15e259f9f0615b85309e430f920dc97c6b2d2cf6be683e3ec8e9eb0b2a719e7ad0fd2fb5da3ddb11c3c15156bf1b82c07ad26cfff8a7244a1c2b39107e5f420127fc15e8d81ed37c5b35aeaaeeb5d06b20c6a7c2f9890c263b2a36fca65
+[6]  邮箱： 0e9011fdfdbd68fe4da1ff1dd8f99b2ec13c03a7635771e1cd04ac44c77744553380f0ea6e0e90ca07216397a05c0a680d29d210062b4c8b614fe6eb97dda68180ca5043797666e4cec24ee854025f8322aba2604e2a9d69da7dc4a3069bab87b5628f28d3fca10ee2617bdb471fa2f84fbab3175741c94d3828546690731a35
+团队成员
+团队名称：国家自然科学基金创新研究群体
+团队名称：长江学者创新团队
+团队名称：国家科技部重点领域创新团队
+团队名称：全国高校“黄大年”式教师团队
+团队名称：湖南省优秀研究生导师团队
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 刘辉
+
+- **网址**: https://faculty.csu.edu.cn/liuhui2/zh_CN/index.htm
+- **姓名**: 刘辉
+- **邮箱**: csuliuhui@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 交通运输工程/载运工具运用工程/智能控制、机器人及装备具身智能、生物医学工程及医学人工智能、大数据预测技术、视觉-信息融合的智能机械系统控制
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 刘辉
+刘辉
+教授
+博士生导师
+硕士生导师
+入职时间：2009-06-24
+所在单位：交通运输工程学院
+职务：副院长
+学历：研究生(博士)毕业
+性别：男
+联系方式：csuliuhui@csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学/德国罗斯托克大学
+学科：电气工程
+控制科学与工程
+交通运输工程
+曾获荣誉：
+2025-03-01  当选：  教育部长江学者特聘教授（2024年批次）
+2020-10-01  当选：  国家高层次人才计划-青年拔尖人才
+2024-11-19  当选：  世界互联网大会领先科技奖（排1）
+2024-01-20  当选：  中国工程院 - 中国工程前沿杰出青年学者
+2023-03-01  当选：  英国皇家工程院 - 杰出国际工程师奖
+2021-08-31  当选：  施普林格-自然“中国新发展奖”（排1）
+2025-11-02  当选：  湖南省芙蓉学者特聘教授
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+刘辉，1983年出生，中南大学二级教授、教育部“长江学者特聘教授”、中国工程院“中国工程前沿杰出青年学者”、交通运输部“科技创新领军人才”、湖南省“芙蓉学者特聘教授”、中南大学“升华学者领军岗教授”、博士生导师、博士后合作导师、中德双博士。现任交通运输工程学院副院长。主要从事人工智能、机器人、大数据与前沿装备交叉研究。
+一、教育经历：
+（1）中南大学，机械设计制造及其自动化，本科
+（2）中南大学，载运工具运用工程，硕士
+（3）中南大学，载运工具运用工程，博士（PhD）
+（4）德国生命科学自动化重点实验室/罗斯托克大学，自动化工程（人工智能），博士（Dr.-Ing.）
+二、工作经历：
+（1）2021- 至今：中南大学，交通运输工程学院，二级教授（2021年开始）、升华学者学科领军岗教授（2024年开始）
+（2）2015-2021：中南大学，交通运输工程学院，教授，三级教授
+（3）2015-2016：德国生命科学自动化重点实验室，机器人研究所所长，期间获德国教授文凭habil.（机器人教席），晋升W2教授
+（4）2013-2015：德国生命科学自动化重点实验室，德国联邦教育研究部冠名的BMBF Junior Group Leader (主持430万欧元)、机器人研究所所长、W1教授
+（5）2011-2013：德国生命科学自动化重点实验室，机器人研究所，研究科学家
+三、荣誉或计划：
+（1）  科睿唯安-全球高被引科学家
+（2）  教育部长江学者特聘教授
+（3）  国家高层次人才计划“青年拔尖人才”
+（4）  中国工程院“中国工程前沿杰出青年学者”
+（5）  英国皇家工程院“杰出国际工程师奖”
+（6）  交通运输部“中青年科技创新领军人才”
+（7）  交通运输部“青年科技英才”
+（8）  国家自然科学基金委与欧盟委员会“中欧人才计划”
+（9）  湖南省芙蓉学者特聘教授
+（10）爱思唯尔中国高被引学者
+（11）宝钢教育奖-优秀教师奖
+（12）中国智能交通协会科学技术奖-科技创新领军人才奖
+（13）中国物流与采购联合会科学技术奖-科技创新成就奖
+（14）湖南省青年科技奖、中国交通运输协会首届青年奖
+（15）斯坦福大学全球2%顶级科学家终身榜单（前0.065%）
+四、科技奖励：
+（1）世界互联网大会领先科技奖（排名1）
+（2）施普林格-自然“中国新发展奖”（排名1）
+（3）教育部自然科学奖二等奖（排名1）
+（4）教育部技术发明奖二等奖（排名1）
+（5）教育部科学研究优秀成果奖（人文社科）青年奖（排名1）
+（6）国家科技进步一等奖（排名15）
+（7）中国交通运输协会科技进步一等奖（排名1）
+（8）中国物流与采购联合会科技进步一等奖（排名1）
+（9）吴文俊人工智能科技奖（排名1）
+研究方向
+[1]  交通运输工程/载运工具运用工程/智能控制
+[2]  机器人及装备具身智能
+[3]  生物医学工程及医学人工智能
+[4]  大数据预测技术
+[5]  视觉-信息融合的智能机械系统控制
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 吕红斌
+
+- **网址**: http://faculty.csu.edu.cn/lvhongbin/zh_CN/index.htm
+- **姓名**: 吕红斌
+- **邮箱**: （未提供）
+- **职称**: 教授/主任医师
+- **导师类型**: 研究生导师
+- **招生学科**: 吕红斌
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 吕红斌
+吕红斌
+教授/主任医师
+博士生导师
+硕士生导师
+所在单位：湘雅医院
+性别：女
+学科：临床医学
+曾获荣誉：
+国家运动医学重点专科学科带头人；中南大学“升华学者计划”特聘教授；湖南省省级重点学科运动医学学科带头人；湖南省普通高等学校学科带头人（运动医学专业）；2012年美国骨科年会“Tendon and Ligament：Biology& Development”分会场主席；New Investigator Recognition Award（The 56th Annual Meeting of the Orthopaedic Research Society）
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+〇 吕红斌，女，中南大学运动医学科教授、主任医师、研究员、硕士/博士生导师，香港中文大学矫形外科暨创伤学博士。现任中南大学湘雅医院运动医学科主任、器官损伤衰老与再生医学湖南省重点实验室主任、中南大学湘雅医院-国际华人骨研学会（ICMRS）运动医学联合研究中心主任、中南大学运动医学研究中心主任、中南大学“升华学者计划”特聘教授；运动医学国家临床重点专科和湖南省重点学科运动医学的学科带头人。
+〇 吕红斌教授目前兼任中华医学会运动医疗分会委员；中华医学会运动医疗分会运动康复学组副组长；国家自然科学基金委员会医学科学领域学科评审组会议专家；湖南省医学会运动医疗专业委员会主任委员；美国骨科研究学会（ORS）会员；瑞士AO基金会（AO Foundation为国际上最大最具影响力的运动系统疾病的研究基金之一）基金项目的同行评议专家；国际华人骨研学会（ICMRS）终身会员；国家科学技术奖评审专家和国家自然科学基金委同行评议专家；北京市和湖南省自然科学基金同行评议专家。
+〇 长期以来从事运动系统的损伤与康复的临床和基础研究。具有运动医学专业广博、坚实的理论基础和丰富的实践经验，能及时掌握本学科国内外前沿发展动态，具有丰富的临床工作经验、良好的科研教学工作能力。在运动创伤、运动康复、运动营养、运动医务监督方面有较高的造诣。特别是在利用各类生物物理刺激方法促进运动系统损伤愈合的临床和基础方面，如利用低强度脉冲超声刺激（Low intensity pulsed ultrasound stimulations，LIPUS）、体外冲击波（Extracorporeal shock wave）、组合磁场（Combined Magnetic Field，CMF）等各类物理治疗方法促进骨-肌腱连接点的损伤愈合领域取得了突出的成绩。采用独特的运动康复技术治疗运动医学临床上常见的骨-肌腱连接点损伤疾病，如网球肘、肩周炎、肩袖损伤、肱二头肌腱损伤、股四头肌肌腱损伤、髌韧带损伤、髌腱炎、跟腱断裂、跟腱炎等疾病取得良好疗效。
+〇 吕红斌教授先后主持国家自然科学基金重点项目及面上项目、高等学校博士学科点专项科研基金、教育部科学技术研究重点项目、湖南省自然科学基金以及其他国际、国家、省部级各类科研项目30余项，获得各类科研经费资助近1500余万元。相关研究成果获得国内外同行高度认可， 以第一完成人获湖南省自然科学奖二等奖、湖南省科技进步三等奖、华夏医学科技奖各1项。2005年竞争性获得了国际上极具影响力的骨肌肉关节研究基金AO Research Fund 的资助，这是中国大陆地区第一次以主申请人身份成功获得该基金的资助。2010年在美国新奥尔良举行的第56届骨科研究年会上（Orthopaedic Research Society年会是本专业最具影响力的学术会议之一）获得New Investigator Recognition Award（新研究者识别奖）。2012年在美国旧金山举行的第58届骨科研究年会（ORS）任“Tendon and Ligament：Biology& Development”分会场主席。2017年在美国圣地亚哥ORS年会上荣膺“2016 Excellence in Basic Science Award”（骨科最佳基础研究大奖）。年均在国外举行的国际专业学术会议上做学术报告3次以上。迄今发表论文140余篇，其中SCI收录论文70余篇，主编专著2本，参编教材和教学参考书各1本。获国家发明专利4项。培养及联合培养博士生20位，硕士生50余位。
+〇 于2009年募集50万元设立“中南大学运动医学奖学助学金”，这是一项专用于资助和奖励运动医学及相关学科的在读研究生的校级奖励，资助并奖励学生数超过60余人次，通过资助的学生研究课题在国内外期刊发表文章若干篇。通过此项校级奖励金的颁发，扩大了湘雅医院运动医学科在校内外的知名度，同时也为吸引最优秀的学生投入运动系统疾病的基础与临床研究中，培养出更多品学兼优的运动医学以及相关基础、临床和应用学科的人才起到了极大的促进作用。
+教育经历
+[1]
+2003.7-2006.6
+香港中文大学
+博士学位
+|
+博士研究生毕业
+获矫形外科暨创伤学博士学位
+[2]
+1990.8-1993.6
+湖南医科大学
+硕士学位
+|
+硕士研究生毕业
+[3]
+同济医科大学
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+1988.1-1990.1
+湖南医科大学湘雅医院
+|
+康复科
+|
+经治医生
+[2]
+1993.1-1998.12
+湖南医科大学湘雅医院
+|
+运动医学科
+|
+主治医生
+[3]
+1999.1-2007.12
+中南大学湘雅医院
+|
+运动医学科
+|
+副教授、副主任医师
+|
+2003年 建立中南大学运动医学专业硕士点，硕士生导师
+2005年 竞争性获得了国际上最大最具影响力的骨肌肉关节研究基金AO Research Fund 的资助。这是中国大陆地区第一次以主申请人身份成功获得该基金的资助。
+2007年 建立中南大学运动医学研究中心，现任中心主任
+[4]
+2013.1-至今
+中南大学湘雅医院
+|
+运动医学科
+|
+湘雅医院运动医学科主任
+|
+2013年 成为运动医学国家临床重点专科学科带头人
+2013年 先后入选湖南省“531”人才工程、“225”人才工程。
+[5]
+2008.1-至今
+中南大学湘雅医院运动医学科
+|
+运动医学科
+|
+研究员、教授
+|
+2009年 受聘为中南大学“升华学者计划”特聘教授，博士生导师
+2011年 成为省级重点学科运动医学学科带头人（运动医学是一级学科特种医学下的二级学科）
+2012年 转主任医师
+社会兼职
+[1]
+2017.11-至今
+中华医学会骨科学分会委员
+[2]
+2010.1-至今
+美国骨科研究学会（ORS）会员
+[3]
+2010.1-至今
+瑞士AO基金会基金项目项目评议专家
+[4]
+2011.4-至今
+长沙市计划生育技术服务专家委员会委员
+[5]
+2011.9-至今
+中华医学会运动医疗分会委员
+[6]
+2016.11-2019.11
+骨科在线编委会运动医学副主编
+[7]
+2018.1-2020.12
+The American Journal of Sports Medicine《美国运动医学杂志》AJSM中文版编委会编委
+[8]
+2017.5-2020.5
+《中国医学工程》编委会副主编
+[9]
+2016年度湖南省卫生计生系列高级职称面试评审委员会评委
+[10]
+2016.11-2020.11
+中国残疾人康复协会肢残康复专业委员会矫形器与肢体功能重建学组常务委员
+[11]
+2017.1-至今
+国际华人骨研学会（ICMRS）终身会员
+[12]
+2012.9-至今
+中华医学会运动医疗分会运动康复专业学组副组长
+[13]
+2013.1-至今
+中华医学会医疗鉴定专家库成员
+[14]
+2016.10-2019.10
+中国医师协会骨科医师分会运动医学专业委员会委员
+[15]
+2016.8-2021.8
+中国老年学和老年医学学会运动健康科学分会常务委员
+[16]
+2016.11-2019.11
+中国健康促进基金会骨病专项基金骨科康复专家委员会委员
+[17]
+2017.8-2022.8
+中国医药教育协会肩肘运动医学专业委员会湖南培训中心副主任
+[18]
+2017.10-2020.10
+白求恩公益基金会运动医学专业委员会委员
+[19]
+2017.4-2022.4
+中国研究型医院学会骨科创新与转化专业委员会骨科基础研究学组副组长
+[20]
+2017.4-2022.4
+中国研究型医院学会骨科创新与转化专业委员会常务委员
+[21]
+2017.9-2021.9
+湖南省医学会运动医疗专业委员会主任委员
+[22]
+2010.1-至今
+瑞士AO基金会基金项目的同行评议专家
+[23]
+2010.1-至今
+美国骨科研究学会（ORS）会员及同行评议专家
+[24]
+2004.7-至今
+国际华人骨研学会会员
+[25]
+国家科学技术奖评审专家和国家自然科学基金委同行评议专家
+[26]
+2011.9-至今
+中华医学会运动医疗分会委员
+[27]
+2012.9-至今
+中华医学会运动医疗分会运动康复专业学组副组长
+[28]
+2013.1-至今
+中华医学会医疗鉴定专家库成员
+[29]
+北京市和湖南省自然科学基金同行评议专家
+[30]
+2007.4-至今
+湖南省医学会骨科专业委员会骨与关节损伤学组委员
+[31]
+2012.11-至今
+湖南省医学会运动医疗专业委员会副主任委员
+[32]
+2008.11-至今
+中南大学运动医学奖学助学金设奖人及评审负责人
+[33]
+2011.4-至今
+长沙市计划生育技术服务专家委员会委员
+[34]
+2006.12-至今
+湖南省医学会骨科专业委员会关节外科学组委员
+团队成员
+团队名称：中南大学运动医学研究中心
+团队介绍：团队长期以来从事运动系统的损伤与康复的临床和基础研究。2005年获得国际上极具影响力的骨肌肉关节研究基金AO Research Fund资助，这是中国大陆地区第一次以主申请人身份成功获得该基金的资助。相关研究成果获得国内外同行认可。发表论文140余篇，其中SCI收录论文70余篇。
+吕红斌教授
+擅长于运动系统的损伤与康复的临床和基础研究。
+邱续强副教授
+徐大启主治医师
+孙德毅主治医师
+李雄主治医师
+瞿瑾医师
+张涛医师
+瞿瑾医师
+贺曦医师
+蒋锦霞物理治疗师
+主页所有权及解释权归属本人
+手机版
+中南大学
+
+---
+
+## 彭平安
+
+- **网址**: http://faculty.csu.edu.cn/pengpingan/zh_CN/index.htm
+- **姓名**: 彭平安
+- **邮箱**: （未提供）
+- **职称**: 职称：副教授
+- **导师类型**: 研究生导师
+- **招生学科**: 智能矿山、无人驾驶、微震监测、查看全部
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 彭平安
+[endif]-->
+教师个人主页
+首页
+中南大学
+English
+教师个人主页
+首页
+中南大学
+访问量：次
+彭平安
+— 博士生导师、硕士生导师
+分享到：
+教师姓名：彭平安
+职称：副教授
+职务：副教授
+教师拼音名称：Peng Pingan
+性别：男
+所在单位：资源与安全工程学院
+学历：博士研究生毕业
+学位：博士学位
+毕业院校：中南大学
+在职信息：在职
+学科：矿业工程
+招生学科：矿业工程、人工智能
+邮箱
+200f6b308450ac80726d327e795ab8aa879abfcad397b4225b44b4f3c250cd7b3ba9c9a1ddfe4c6b849941207fd6672f4838c52d507602c0236e7e6b71d1a23e21bc11b57656e5882e18feed8aa439f0b18194ec671c7a92260b7df2979e935ad6edcf2ff839c3c38323672d4198fccc3c4d27ee3337efd932806aba4fddf95b
+个人简介
+彭平安，男，副教授、博导，湖南省湖湘青年英才、长沙市科技创新创业领军人才、全国有色金属优秀青年科技奖获得者、绿色矿山青年科技奖获得者、第二批智力援疆创新拓展人才计划“小组团”援疆团队队长，兼任中国有色金属学会矿山信息化智能化专业委员会副秘书长、萍乡市科技副总、中国有色金属产业技术创新联盟专家委员会委员。长期从事智能矿山、矿山安全等相关领域的研究工作，主持国家重点研发计划子课题、国家自然科学基金项目（面上、青年）、湖南省重点研发计划项目等多项国家和省部级项目，担任“十三五”国家重点研发计划、“十二五”国家863计划等国家重大项目秘书，主持研制了面向金属矿山具有完全自主知识产权的矿山微震监测系统及地下矿山装备无人驾驶系统，在矿山得到大规模推广应用，发表论文50余篇，授权发明专利10余项，主编标准1项，获省部级科技进步奖励6项。
+查看全部
+曾获荣誉
+›全国有色金属优秀青年科技奖（第八届）,2025-12-13
+›绿色矿山青年科学技术奖,2024-12-31
+›第二批智力援疆创新拓展人才计划“小组团”援疆团队队长,2024-04-28
+›第二期湖南省青年科技人才特训班,2023-10-29
+›湖湘青年英才,2023-09-03
+›长沙市科技创新创业领军人才,2023-01-06
+查看全部
+研究方向
+智能矿山
+无人驾驶
+微震监测
+查看全部
+教育经历
+中南大学学士
+2007.9-2011.7
+中南大学硕士
+2011.9-2014.7
+中南大学博士
+2014.9-2019.7
+查看全部
+工作经历
+2022-9 — 至今
+中南大学
+› 资源与安全工程学院
+› 副教授（破格）
+2020-12 — 2022-8
+中南大学
+› 资源与安全工程学院
+› 讲师
+查看全部
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+
+---
+
+## 苏修
+
+- **网址**: http://faculty.csu.edu.cn/suxiu/zh_CN/index.htm
+- **姓名**: 苏修
+- **邮箱**: xiusu1994@csu.edu.cn
+- **职称**: 特聘教授
+- **导师类型**: 研究生导师
+- **招生学科**: 具身智能、世界模型、多模态大模型、计算机视觉、自动化机器学习
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 苏修
+苏修
+特聘教授
+博士生导师
+入职时间：2024-03-05
+职务：人工智能学院 智能科学系系主任
+学历：研究生(博士)毕业
+办公地点：中南大学校本部科教南楼106室
+性别：男
+联系方式：xiusu1994@csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：The University of Sydney
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+苏修，男，中南大学人工智能学院教授，智能科学系系主任，博士生导师，CCF智能机器人委员会执行委员。先后入选 国家级高层次青年人才，第十六批湖南省“百人计划”人才，小米青年学者。博士毕业于悉尼大学，师从Chang Xu教授。在国际知名CCF/CAAI A类会议和期刊 TPAMI、CVPR、NeurIPS、ICML、ICCV、AAAI、KDD、ACMMM、ECCV、ICLR等发表论文40多篇，长期担任相关顶级会议和期刊的审稿人和程序委员会委员。个人研究内容主页：https://xiusu.github.io/。目前正在进行中南大学人工智能学院2027级（27年入学）博士 和 硕士 招生，入组需提前联系和考察。当前组内和过往的高年级博士毕业前均有5篇或以上CCF A/子刊，并已推荐名校教职/海外博后，欢迎同学们加入学习。招生重点关注3个方面：1. 人格担当；2. 个人能力；3. 自强不息，持之以恒的学习态度。
+【研究方向】具身智能、世界模型、多模态大模型（医学）、计算机视觉、自动化机器学习等。实验室长期专注于人工智能模型架构设计、多模态学习方法、具身机器人控制等领域，有深厚的人智能算法和软硬件积累。欢迎感兴趣的同学和合作者联系。
+【招生信息】博士、硕士、RA（过渡出国、读博）、本科生。课题组氛围融洽，与澳大利亚和香港众多顶尖名校深度合作，且国外顶尖名校长期有名额，每年多个入学季，欢迎有兴趣的同学加入(xiusu1994@csu.edu.cn)。
+【组内优势】 1. 硬件资源丰富。有充足的显卡等计算资源以及机器人（机械臂、灵巧手）资源，目前组内有 宇树、松灵、UR、因时 的 人形机器人、轮式机器人，包含 机械臂和机器手。
+2. 尊重学生的个人选择。无论是学术界或企业界发展，包括：出国留学、大学任教或企业工作，都会提供充足的指导和资源支持。
+3. 组内有众多 海外/国内 名校学生。学术氛围浓厚，能及时跟踪相关领域前沿技术和发展趋势。
+4. 与众多海外名校和国内知名AI企业保持长期深度科研合作关系。定期输送优秀人才去海外QS 前50学校读博/研 和 国内知名AI企业。
+5. 课题组经费充足，能保证科研所需的实验条件，并提供细致的科研指导和充足的助研津贴。
+【代表性论文】（详见 https://xiusu.github.io/）
+[1] Large Language Models Driven Neural Architecture Search for Universal and Lightweight Disease Diagnosis on Histopathology Slide Images (Digital Medicine, Nature Partner Journals)
+[2] A lightweight physics-aware framework for multi-scale marine heatwaves forecasting (Climate and Atmospheric Science, Nature Partner Journals)
+[3] BCNetV2: Searching for Network Width With Bilaterally Coupled Network. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
+[4] StateTrace: An Object-Centric Framework for Hidden-State Spatiotemporal Reasoning in Long Videos (ACMMM, CCF A), 2026
+[5] World2Act: Mining Spatiotemporal World-Model Priors for Efficient Visuomotor Control (ACMMM, CCF A), 2026
+[6] GeoClean: Training-Free Concept Erasure in Rectified Flow via Posterior-Competition Stabilization (ACMMM, CCF A), 2026
+[7] Towards Domain Generalized Neural Architecture Search via Language-Guided Visual Augmentation (ACMMM, CCF A), 2026
+[8] Geometric Probing for Isotropic Optimization Manifold in Sparse-View 3D Gaussian Splatting (ECCV, CAAI A), 2026
+[9] ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection (ECCV, CAAI A), 2026
+[10] VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model (ICML, CCF A), 2026
+[11] Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery (ICML, CCF A), 2026
+[12] Calibrated Multimodal Representation Learning with Missing Modalities (ICML, CCF A), 2026
+[13] Unlearning without Forgetting: Securely Removing Targeted Concepts from Large-Scale Vision-Language Open-Vocabulary Detectors (CVPR, CCF A), 2026
+[14] FedMOP: Achieving Enhanced Privacy and Performance in Federated Learning via Momentum Orthogonal Projection (CVPR, CCF A), 2026
+[15] Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation (CVPR, CCF A), 2026
+[16] Learning Distribution-wise Foundation Prior Consistency and Instance-wise Style Calibration for Medical Image Generalization (CVPR, CCF A), 2026
+[17] APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation (CVPR, CCF A), 2026
+[18] Injection without Distortion: Geometrically Constrained Knowledge Enhancement for Vision-Language Models (AAAI, CCF A, Oral), 2026
+[19] Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization (AAAI, CCF A, Oral), 2026
+[20] ROVER: Robust Generative Continual Identity Unlearning against Relearning Attacks (AAAI, CCF A), 2026
+[21] UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation (NeurIPS, CCF A), 2025
+[22] L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models (NeurIPS, CCF A), 2025
+[23] On the Stability and Generalization of Meta-Learning: the Impact of Inner-Levels (NeurIPS, CCF A), 2025
+[24] Modeling Inter-Gaussian Mutual Information for Dynamic Novel View Synthesis (ACMMM, CCF A), 2025
+[25] Graph Unlearning Meets Influence-aware Negative Preference Optimization (ACMMM, CCF A), 2025
+[26] Addressing Granularity-induced Semantic Drift in OvOD via Graph-guided semantically consistent representation (ACMMM, CCF A), 2025
+[27] DualFPT: Handling Data Heterogeneity in Federated Prompt Tuning from both Generalized and Personalized Perspective (ACMMM, CCF A), 2025
+[28] Identify, Isolate, and Purge: Mitigating Hallucinations in LVLMs via Self-Evolving Distillation (ACMMM, CCF A), 2025
+[29] CounterPC: Counterfactual Feature Realignment for Unsupervised Domain Adaptation on Point Clouds (ICCV, CCF A), 2025
+[30] Stable Fair Graph Representation Learning with Lipschitz Constraint. International Conference on Machine Learning (ICML, CCF A), 2025
+[31] TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging. International Conference on Machine Learning (ICML, CCF A), 2025
+[32] VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A, Oral), 2025
+[33] Harmonizing for defect visibility with Fine-Grained Hierarchical Interaction Learning. International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF B), 2025
+[34] HieClip: Hierarchical CLIP with Explicit Alignment for Zero-Shot Anomaly Detection. International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF B), 2025
+[35] Perturbating, Tuning, and Collaborating: Harnessing Vision Foundation Models for Single Domain Generalization on Medical Imaging. AAAI Conference on Artificial Intelligence (AAAI, CCF A), 2025
+[36] Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation. AAAI Conference on Artificial Intelligence (AAAI, CCF A), 2025
+[37] Universal Frequency Domain Perturbation for Single-Source Domain Generalization. ACM Multimedia (ACM MM, CCF A), 2024
+[38] Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models. Advances in Neural Information Processing Systems (NeurIPS, CCF A), 2024
+[39] Detecting Any Instruction-to-Answer Interaction Relationship:Universal Instruction-to-Answer Navigator for Med-VQA. International Conference on Machine Learning (ICML, CCF A), 2024
+[40] BEYOND THE LIMIT OF WEIGHT-SHARING: PIONEERING SPACE-EVOLVING NAS WITH LARGE LANGUAGE MODELS. International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF B), 2024
+[41] TCNAS: TRANSFORMER ARCHITECTURE EVOLVING IN CODE CLONE DETECTION. International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF B), 2024
+[42] PROMPTING LABEL EFFICIENCY IN FEDERATED GRAPH LEARNING VIA PERSONALIZED SEMI-SUPERVISION. International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF B), 2024
+[43] DiffNAS: Bootstrapping Diffusion Models by Prompting for Better Architectures. IEEE International Conference on Data Mining (ICDM, CCF B), 2023
+[44] Re-mine, Learn and Reason: Exploring the Cross-modal Semantic Correlations for Language-guided HOI detection. International Conference on Computer Vision (ICCV, CCF A), 2023
+[45] Neural Architecture Search for Wide Spectrum Adversarial Robustness. AAAI Conference on Artificial Intelligence (AAAI, CCF A), 2023
+[46] Searching for Better Spatio-temporal Alignment in Few-Shot Action Recognition. Conference and Workshop on Neural Information Processing Systems (NeurIPS, CCF A), 2022
+[47] Sufficient Vision Transformer. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, CCF A), 2022
+[48] Vision Transformer Architecture Search. European Conference on Computer Vision (ECCV, CAAI A), 2022
+[49] ScaleNet: Searching for the Model to Scale. European Conference on Computer Vision (ECCV, CAAI A), 2022
+[50] K-shot NAS: LearnableWeight-Sharing for NAS with K-shot Supernets. International Conference on Machine Learning (ICML, CCF A), 2021
+[51] BCNet: Searching for Network Width with Bilaterally Coupled Network. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A), 2021
+[52] Prioritized Architecture Sampling with Monto-Carlo Tree Search. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A), 2021
+[53] Locally Free Weight Sharing for Network Width Search. International Conference on Learning Representations (ICLR, CCF A, Spotlight), 2021
+[54] Data Agnostic Filter Gating for Efficient Deep Networks. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF B), 2022
+[55] Automatic bridge crack detection using a convolutional neural network. Applied Sciences, 2019
+[56] An efficient hole-filling method based on depth map in 3D view generation. 2017 International Conference on Optical Instruments and Technology: Optoelectronic Imaging/Spectroscopy and Signal Processing Technology
+[57] An improved three-dimension reconstruction method based on guided filter and Delaunay. 2017 International Conference on Optical Instruments and Technology: Optoelectronic Imaging/Spectroscopy and Signal Processing Technology
+教育经历
+[1]
+2020.7-2023.9
+悉尼大学
+|
+人工智能
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2016.9-2019.6
+天津大学
+|
+理学
+|
+硕士学位
+|
+硕士研究生
+[3]
+2012.9-2016.6
+天津大学
+|
+理学
+|
+学士学位
+|
+本科(学士)
+其他联系方式
+[5]  移动电话： 67d2007895c93958ed111ab4829965f0d89070befec2f5be25f4935c51d20cb7c410dd530e0a40e737eee1740b11c4a5456599338651d329e28c05b112a71516b7c6182ec8e87d03e12595e59ca1f8aa57aed5271359b573f7715086596742111d2c998d8fc03edc1580d811c758eb1af6437dad1837fd6d625ce418fef35499
+[6]  邮箱： a3538cab00655bc253b2634c5a4774f96335f124c3da85776a2e74deeae38360efea7dd191082d9e218f687d147c782b8fac84c19f72a2222a86ab944b4bbd4c870d474ef033da7aa4318305886a10700b72084b977b681910cadeb8507322456792ef0280c7ecdbb1cef671bdd31f3349354dcb8478f949026d65e138261b5f
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 陶超
+
+- **网址**: https://faculty.csu.edu.cn/taochao/zh_CN/index.htm
+- **姓名**: 陶超
+- **邮箱**: kingtaochao@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 陶超、遥感、人工智能、大数据陶超
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 陶超
+陶超
+教授
+博士生导师
+硕士生导师
+入职时间：2012-09-14
+学历：博士研究生毕业
+性别：男
+联系方式：kingtaochao@csu.edu.cn
+学位：博士学位
+在职信息：在职
+主要任职：人工智能学院
+毕业院校：华中科技大学
+学科：测绘科学与技术
+曾获荣誉：
+中组部国家万人计划青年拔尖人才，湖南省杰出青年基金获得者，湖湘青年英才计划，陈国达教育基金优秀教师，湖南省科技进步一等奖、湖南省科技进步二等奖，四川省科技进步一等奖、全国测绘科技进步二等奖，中南大学十佳青年，中南大学优秀共产党员，中南大学优秀班导师
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+最新动态
+代表性成果
+指导学生
+科研项目
+获奖信息
+专利成果
+研究领域
+其他栏目
+English
+个人简介
+陶超，教授，博导。国家四青人才（2022），湖南省杰出青年基金获得者（2022）、湖南省湖湘青年英才（科技创新类，2018），中南大学“升华学者”青年拔尖人才（2024）。兼任全国摄影测量与遥感专业委员会委员，大数据与人工智能工作组委员，《测绘学报》青年编委，《应用科学学报》青年编委。获评2021年陈国达教育基金优秀教师奖，多次获得中南大学课堂教学质量奖。
+在教学方面，主讲《数字图像处理》、《遥感应用与专题制图》、《模式识别与机器学习》、《多源遥感影像智能解译》等课程，主持校级教改项目两项，多次指导学生参加国家级大学生创新创业项目，连续三年指导本科生获得“全国高等学校测绘学科大学生科技创新论文大赛”特等奖，获首届全国大学生测绘创新开发大赛一等奖一项，指导研究生获“全国大学生类脑计算创新应用大赛暨国际邀请赛”二等奖一项，获中南大学校长拔尖奖学金2人次，国家奖学金4人次。
+在科研方面，自2007年起一直从事高分辨率遥感影像智能信息提取工作，致力于将人工智能技术应用于遥感影像解译过程中，为自然资源调查，GF安全等领域的相关应用提供智能化解决方案。主持国家级项目5项，省部级项目6项，并作为研究骨干参与国家973计划项目、国家863项目以及国家重点研发项目等。在人工智能领域高水平期刊IEEE TPAMI、遥感领域高水平期刊IEEE GRSM、RSE、IEEE TGRS、ISPRS JPRS、测绘学报等发表学术论文50余篇，被SCI收录30余篇, 其中ESI高被引论文6篇，领跑者5000-中国精品科技期刊顶尖学术论文2篇，易瑞智杯 测绘学报优秀论文2021年度优秀论文1篇，总被引超过5000余次（Google学术），SCI它引3400余次，在科学出版社出版学术专著一部、获授权国家发明专利10项（含美国和澳大利亚授权发明专利各一项），获湖南省科技进步一等奖、二等奖，四川省科技进步一等奖，测绘科学进步一等奖、二等奖等奖励。任《测绘学报》青年编委、国际SCI期刊《Sustainability》编委、《应用科学学报》青年编委，《Remote Sensing》、《Frontiers in Environmental Science》专刊编委。
+教育经历
+[1]
+2007.9-2012.6
+华中科技大学
+|
+模式识别与智能系统
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2003.9-2007.6
+华中科技大学
+|
+计算数学
+|
+学士学位
+|
+大学本科教育
+[3]
+2003.9-2007.6
+华中科技大学
+|
+计算机科学与技术
+|
+学士学位
+|
+大学本科教育
+第二学位（辅修）
+工作经历
+[1]
+2020.9-至今
+中南大学
+|
+地球科学与信息物理学院
+|
+教授
+|
+博士生导师
+[2]
+2015.9-2020.9
+中南大学
+|
+地球科学与信息物理学院
+|
+系副主任
+|
+副教授
+|
+博士生导师
+[3]
+2012.9-2015.9
+中南大学
+|
+地球科学与信息物理学院
+|
+讲师
+|
+硕士生导师
+[4]
+2010.6-2010.12
+香港中文大学
+|
+计算机学院
+|
+助理研究员
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 王建新
+
+- **网址**: http://faculty.csu.edu.cn/wangjianxin1/zh_CN/index.htm
+- **姓名**: 王建新
+- **邮箱**: jxwang@mail.csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 生物信息学、计算机算法与优化、深度学习、大数据处理、网络优化理论、虚拟实验环境
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 王建新
+王建新
+教授
+博士生导师
+硕士生导师
+所在单位：计算机学院
+学历：研究生(博士)毕业
+办公地点：中南大学校本部计算机楼303室
+性别：男
+联系方式：jxwang@mail.csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学
+曾获荣誉：
+教育部新世纪人才
+湖南省杰出青年基金获得者
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+王建新，中南大学计算机学院教授、博士生导师。2001年获得中南大学计算机应用技术博士学位。国务院学位委员会第七届学科评议组(计算机科学与技术)成员、享受国务院特殊津贴专家、新世纪优秀人才、湖南省杰出青年基金获得者、生物信息学湖南省重点实验室主任、ACM Sigbio China主席、国家重点研发计划项目和国家973计划前期专项项目首席科学家。
+担任TCBB、JCST、BDMA等国际期刊编委，FAW、ISBRA以及BIBM等多个国际会议的大会主席。主要研究方向计算机算法与优化、网络优化理论、大数据应用、深度学习、生物信息学、虚拟实验环境等。近年来主持国家重点研发计划项目、国家自然科学基金委原创探索计划项目、国家自然科学基金委重点项目等30余项，在Nature、Nature Communications、Briefings in Bioinformatics、Bioinformatics等生物信息学领域的国际权威期刊上发表论文300余篇，获授权发明专利50项，出版专著3部。2001年获得国家教育部高等学校骨干教师资助计划资助并被确定为湖南省普通高校青年骨干教师培养对象；2003年获得教育部科技进步一等奖（排名第二），2005年和2011年获得湖南省科技进步二等奖（排名第一）；2005年被确定为湖南省普通高校学科带头人培养对象并入选国家新世纪优秀人才支持计划；2006年获湖南省杰出青年基金，成为“计算机优化算法及其应用技术研究”教育部创新团队研究骨干；2013年获教育部高等学校科学研究优秀成果奖（科学技术）自然科学奖二等奖（排名第一）；2021年获得CCF科学技术奖自然科学二等奖（排名第一）和吴文俊人工智能科学技术奖自然科学三等奖（排名第二）；2022年获CCF科技成果奖技术发明二等奖（排名第二）；2023年获教育部高等学校科学研究优秀成果奖（科学技术）自然科学奖二等奖（排名第一）和湖南省高校知识产权创新团队奖（排名第一）。
+教育经历
+[1]
+2003.9-2005.11
+国防科学技术大学计算机学院
+研究生(博士后)
+[2]
+1997.9-2001.10
+中南大学信息科学与工程学院
+工学博士学位
+|
+博士研究生毕业
+[3]
+1994.9-1996.1
+中南工业大学计算机科学系
+工学硕士学位
+|
+硕士研究生毕业
+[4]
+1988.9-1992.7
+中南工业大学计算机科学系
+工学学士学位
+|
+大学本科毕业
+工作经历
+[1]
+2019.1-至今
+中南大学
+|
+计算机学院
+|
+教授
+[2]
+2019.1-2023.12
+中南大学
+|
+计算机学院
+|
+院长
+[3]
+2012.12-2013.2
+香港城市大学
+|
+计算机科学系
+|
+高级研究员
+[4]
+2009.9-2010.8
+美国
+|
+计算机科学系
+|
+高级研究学者
+[5]
+2003.11-2018.12
+中南大学
+|
+信息科学与工程学院
+|
+教授
+[6]
+2002.1-2002.12
+香港城市大学
+|
+计算机科学系
+|
+高级研究员
+[7]
+2000.11-2003.11
+中南大学
+|
+信息科学与工程学院
+|
+副教授
+[8]
+1997.11-2000.11
+中南大学
+|
+信息科学与工程学院
+|
+讲师
+[9]
+1992.7-1999.7
+中南大学
+|
+信息科学与工程学院
+|
+助理研究员
+社会兼职
+[1]
+编委：
+IEEE/ACM Transactions on Computational Biology and Bioinformatics（2019-present）
+Current Protein and Peptide Science（2016-present）
+International Journal of Data Mining and Bioinformatics（2014-present）
+International Journal of Bioinformatics Research and Applications（2012-present）
+Network Modeling Analysis in Health Informatics and Bioinformatics（2014-present）
+Current Bioinformatics (regional editor in Asia) Protein and Peptide letters（2019-present）
+[2]
+客座编委：
+BMC Bioinformatics, Special issue ISBRA2011
+IEEE/ACM Transactions on Computational Biology and Bioinformatics, Special issue ISBRA2012
+BMC Bioinformatics, Special issue ISBRA2012
+IEEE/ACM Transactions on Computational Biology and Bioinformatics, Special issue ISBRA2014
+IEEE Transactions on NanoBioscience, Special issue ISBRA2014
+BMC Bioinformatics, Special issue ISBRA2014
+BMC Genomics, Special issue ISBRA2014
+Theoretical Computer Science, Special issue FAW2015
+[3]
+项目主席/联系主席：
+FAW2015, BIBM2015 workshop co-chair, FAW2014, ISBRA2014, ISBRA2012
+IWCP2012, BIBM2013 workshop co-chair, ISBRA2011, BIBM2011 tutorial co-chair
+[4]
+程序委员会委员：
+FAW2016, BIBM2015，BICoB2015, ICWL2015, ISBRA2015, NCTCS2015, HIBIBI2015, TAMC2014, ICWL 2014, ISBRA2014，ISBRA2013, ICCABS2013, ICWL2013, HI-BI-BI2013，BICOB2013, ISBRA2012，FAW-AAIM 2012, ICCABS2012, ICWL2012, ICCABS2011, ICIE2011, ISBRA 2011, BICoB2011, Globecom2011, Globecom 2010, TAMC 2009 , Chinagraph2008, ISBRA2008, ICCCN2008, ICYCS2008, AINA2008, ISBRA2007, AINA2007, IBW 2006
+研究方向
+[1]  生物信息学； 计算机算法与优化 ；深度学习 ；大数据处理 ；网络优化理论； 虚拟实验环境
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 王接喜
+
+- **网址**: http://faculty.csu.edu.cn/wangjiexi/zh_CN/index.htm
+- **姓名**: 王接喜
+- **邮箱**: wangjiexikeen@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 锂电池及其关键材料、能源材料冶金物理化学、AI辅助能源材料设计与制备过程优化控制、团队成员、团队名称：新能源材料与器件及其资源研究团队、李新海 教授、王志兴 教授、郭华军 教授
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 王接喜
+王接喜
+教授
+博士生导师
+硕士生导师
+入职时间：2017-02-28
+所在单位：冶金与环境学院
+办公地点：中南大学本部冶金馆107
+学位：博士学位
+毕业院校：中南大学
+学科：冶金工程
+曾获荣誉：
+2023年第六届全国有色金属优秀青年科技奖
+2022年湖南省科技创新领军人才
+2021年国家优秀青年基金获得者
+2020年第十八届全国高校冶金院长奖
+2020年湖南省杰出青年基金获得者
+2019年芙蓉学者（青年学者）
+2019年湖湘青年英才
+2017年国家博士后创新人才支持计划
+2017年湖南省优秀博士学位论文
+2015年宝钢教育基金特等奖
+2015年湖南省优秀毕业生
+2014年中南大学十大杰出学子
+2014年中南大学拔尖创新博士生特等奖
+2013年芙蓉学子-榜样力量（学术创新奖）
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+团队动态
+研究领域
+论文成果
+科研项目
+获奖信息
+专利成果
+招生招聘
+其他栏目
+English
+个人简介
+王接喜，1987年生，湖南邵阳人，冶金物理化学博士，教授，博导，长沙新能源创新研究院副院长，冶金物理化学研究所所长。获国家优秀青年基金、湖南省杰出青年科学基金，入选湖南省科技创新领军人才计划、芙蓉学者计划、湖湘青年英才计划、博士后创新人才支持计划。担任中组部"西部之光"访问学者合作导师，《Chinese Chemical Letters》期刊（中科院一区，IF=9.4）副主编，《IJMMM》期刊学科编辑，《Future Batteries》期刊客座编辑，兼任先进储能材料国家工程研究中心副主任、国家能源金属资源与新材料重点实验室副主任。主要研究领域为锂（钠）电池及其关键材料开发、锂镍钴等新能源金属资源的功能材料冶金物理化学、AI辅助能源材料设计与制备过程优化控制等。主持国家自然科学基金优青、重点、面上等5项，省部及校企合作项目10余项。在Joule、Energy Environ Sci、Angew Chem、Chem、eScience、Sci Bull、Adv Energy Mater、ACS Nano、Hydrometallurgy等高影响力期刊发表学术论文180余篇，引用11000余次，H-index=57；出版英文专著1本，参编2章节；申请国家发明专利140余项，已授权90余项；获中国有色金属工业科技进步一等奖2项（排1、2）、湖南省自然科学二等奖1项（排1），成果入选全国有色金属十大进展1项（排1）。
+主讲本科生课程：《电化学原理》
+主讲研究生课程：《冶金物理化学原理与前沿》、《储能系统与工程》
+欢迎本科生、硕士生、博士生与博士后加入课题组！本课题组与国内外知名学府及科研机构建立了良好的合作关系，课题组氛围融洽，经费充足，毕业研究生均进入ATL、CATL、BYD、华为等该领域领头企业工作，已有60余名博士毕业生就职于全国高校！
+邮箱: wangjiexikeen@csu.edu.cn
+教育经历
+[1]
+2010.9-2015.6
+中南大学
+|
+冶金物理化学
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2006.9-2010.6
+中南大学
+|
+冶金工程
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+2020.10-至今
+中南大学
+|
+冶金与环境学院
+|
+冶金物理化学与材料化学研究所所长
+|
+教授
+[2]
+2019.11-2020.9
+中南大学
+|
+冶金与环境学院
+|
+冶金物理化学与材料化学研究所所长
+|
+特聘副教授
+[3]
+2017.2-2019.10
+中南大学
+|
+冶金与环境学院
+|
+特聘副教授
+[4]
+2015.10-2017.5
+The University of Hong Kong
+|
+Research Associate,  合作导师: X.Y. Li (李晓岩 教授);  K. Shih (施凯闵 教授)
+[5]
+2015.8-2015.10
+The Hong Kong University of Science and Technology
+|
+Visiting Scholar,  合作导师: T.S. Zhao (赵天寿 院士)
+社会兼职
+[1]
+2024.1-至今
+《Chinese Chemical Letters》副主编
+[2]
+2019.12-2026.3
+《IJMMM》学科编辑
+[3]
+2024.2-至今
+《Future Battery》客座编辑
+[4]
+2019.12-至今
+《材料导报》执行编委
+[5]
+2024.1-至今
+先进储能材料国家工程研究中心 副主任
+[6]
+2025.1-至今
+国家能源金属资源与新材料重点实验室 副主任
+[7]
+2025.1-至今
+先进电池材料教育部工程研究中心 常务副主任
+[8]
+2025.1-至今
+有色金属增值冶金湖南省重点实验室 副主任
+研究方向
+[1]  锂（钠）电池及其关键材料（包括液态电池、固态电池、水泥电池）
+[2]  能源材料冶金物理化学
+[3]  AI辅助能源材料设计与制备过程优化控制
+团队成员
+团队名称：新能源材料与器件及其资源研究团队
+团队介绍：团队长期从事材料、冶金与电化学的基础理论研究与新技术开发，注重将冶金物理化学基本原理向能源材料领域应用，深入开展储能材料构效关系和电化学机理研究。主持国家973课题、国家科技支撑计划课题、国家自然科学基金，湖南省重大专项、国家教委博士点基金及校企业合作项目40多项，在新型储能材料、新型化学电源、有色金属资源高效利用等领域取得系列重大创新性成果。在Nature Communications、Chemical Society Reviews、Advanced Energy Materials等期刊发表SCI论文500余篇，获省部级以上科技成果奖8项，其中“高能量密度、高安全性锂离子电池及其关键材料制造技术”获得2008年度国家科学技术进步二等奖。团队荣获首届“湖南青年科技创新十大杰出集体”。多项成果实现产业化，先后孵化了湖南杉杉等一系列新能源领域知名企业。培养研究生广泛就职于国内外知名高校和ATL、CATL、BYD、华为等行业领头企业。
+李新海 教授
+二级教授，博士生导师，中组部万人计划领军人才，享受政府特殊津贴专家，中国有色金属学会冶金物理化学学术委员会主任委员。从事冶金、材料与电化学的基础理论研究与新技术开发，在新型储能材料、新型化学电源、有色金属资源高效利用等领域的生产技术及其产业化方面取得重大创新性成果。主持国家973课题、国家科技支撑计划等项目40多项，获授权发明专利100余项，发表SCI学术论文300余篇，出版专著《化学电源》。获省部级以上科技成果奖12项，其中“高能量密度、高安全性锂离子电池及其关键材料制造技术”获得2008年度国家科学技术进步二等奖（第1完成人）。先后被授予教育部通用汽车中国高校汽车领域创新人才奖，团队荣获首届“湖南青年科技创新十大杰出集体”。
+王志兴 教授
+二级教授，博士生导师，曾任冶金与环境学院副院长、教授委员会主任。1998年毕业于中南工业大学（现中南大学），获得冶金物理化学博士学位。2001~2002年在日本东京工业大学留学。研究方向涉及电化学、材料化学、新能源材料等领域。主持国家973课题、国家自然科学基金、教育部留学回国人员基金等课题10余项。在新能源材料与器件领域取得突出成就，获中国授权发明专利130余项，发表学术论文200余篇，撰写专著《现代电化学》，成果“高能量密度、高安全性锂离子电池及其关键材料制造技术”获得国家科学技术进步二等奖。培养的3名硕士研究生的学位论文被评为湖南省优秀硕士学位论文。
+郭华军 教授
+二级教授，博士生导师，冶金物理化学博士，材料学博士后。2001年博士毕业后留校，2008-2009年公派留学加拿大不列颠哥伦比亚大学，2010年晋升为教授。研究方向主要涉及新能源材料、新型化学电源、电化学冶金、资源高效利用等领域。主持和参与了国家973项目、国家科技支撑计划、国家发改委高技术产业化专项、国家绿色制造示范工程、国家自然科学基金、湖南省重大专项、湖南省战略新兴产业专项等项目40多项。获省部级以上科技奖励12项，其中国家科技进步二等奖1项（高能量密度、高安全性锂离子电池及其关键材料制造技术），获授权发明专利120余项，发表SCI收录论文300多篇，参与编写专著2部。
+彭文杰 教授
+教授，博士生导师，湖南省第三批新世纪121人才工程第二层次人才。主要从事能源材料、新型化学电源、电化学等领域的研究，先后承担和参与国家973项目、国家科技支撑计划、国家自然科学基金、湖南省科技计划和校企合作项目20余项，成功地开发了锂离子电池及其关键材料，产业化成绩显著。
+王接喜 教授
+教授，博士生导师，冶金物理化学与化学新材料研究所所长，国家优青。主要研究领域为锂（钠）电池等新型化学电源体系及其关键材料开发、锂镍钴等新能源金属资源的功能材料冶金物理化学、AI辅助能源材料设计与制备过程优化控制。主持国家自然科学基金5项，省部及校企合作项目10余项。在Energy Environ Sci、Angew Chem、Chem、eScience、Adv Energy Mater、ACS Nano、J Hazard Mater、J Clean Prod、Hydrometallurgy等期刊发表论文180余篇，授权发明专利90余项。获中国有色金属工业科技进步一等奖2项、湖南省自然科学二等奖1项。
+颜果春 副教授
+博士，副教授，博士生导师，湖南省杰青。2016年毕业于中南大学，2016-2018年在法国巴黎公学院从事博士后科研工作，合作导师为J.M. Tarascon。研究方向：新能源材料与器件，主要从事二次电池及其界面电化学研究，在电化学原位谱学方法、高效稳定电化学界面构筑及高性能二次电池设计与模拟仿真方面作出了一定成绩。主持国家自然科学基金青年、面上项目各一项；在Nature Communications, Advanced Energy Materials, Journal of Power Sources, Journal of the Electrochemical Society, Electrochimica Acta等国际著名期刊发表SCI论文20余篇；申请专利40余项，其中授权30余项，欧洲专利3项。
+段惠 特聘教授
+特聘教授，博士生导师，国家海外高层次青年人才。2019年获中国科学院化学研究所博士学位，随后前往加拿大西安大略大学从事博士后研究，并获加拿大Mitacs Accelerate Postdoctoral Fellowship项目支持。主要围绕高安全、高能量密度固态电池体系，开展固体电解质、正负极材料及界面的研究。相关研究成果以第一作者和共同第一作者发表于J. Am. Chem. Soc.、Angew. Chem. Int. Ed.、Adv. Mater.、ACS Energy Lett.、Adv. Energy Mater.和Energy Storage Mater.等期刊，其中多篇入选ESI高被引论文，并获2018年度“爱思唯尔”全球能源储存材料最佳论文奖。申请国际和中国专利10余项，其中获授权专利7项。
+李广超 特聘副教授
+特聘副教授，硕士生导师。2020年毕业于中南大学，获冶金物理化学博士学位，后从事博士后研究工作，主要围绕高能量密度锂离子电池电容、电催化开展研究工作。相关研究成果以第一作者和共同第一作者发表于Adv. Energy Mater.、Energy Storage Mater.、Nano Res.和J. Mater. Chem. A等期刊，主持国家自然科学基金-青年基金、湖南省自然科学基金-青年基金、中国博士后科学基金会-面上项目和特别资助（中期）等项目，获湖南省优秀博士论文、中国有色金属学会优秀博士论文、中南大学升华博士后。
+吴弼朝 讲师
+博新计划B类资助获得者，主持国家自然科学基金青年项目、博士后面上基金、校企合作项目，目前在香港中文大学进行联合培养。
+主要研究方向：冶金工业废气资源化治理、电化学催化碳氮偶联反应设计与强化
+丑佳 博士后
+博新计划B类资助获得者，主要研究方向：固态电池
+Zishan Ahsan (Post Doc)
+主要研究方向：钠离子电池磷酸盐正极材料
+陈翰宇 科研助理
+主要研究方向：储能材料数据库与垂域大模型
+沈才衍 科研助理
+已录取为香港城市大学博士生，与中南大学联合培养。
+主要研究方向：高电压金属锂电池电解液化学
+曾婷婷 行政助理
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 王亲猛
+
+- **网址**: http://faculty.csu.edu.cn/wangqinmeng1/zh_CN/index.htm
+- **姓名**: 王亲猛
+- **邮箱**: qmwang@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 有色金属冶金与资源循环利用及先进材料制备、国家优秀青年科学基金项目、国家重点研发计划课题、湖南省杰出青年科学基金项目、湖南省科技创新计划项目、企业科技攻关课题科研项目20余项、在行业知名国际期刊Metall. Mater. Trans. B、Hydrometallurgy、Energy Stor. Mater.、J. Clean. Prod.、出版学术专著3部、授权国家发明专利、软件著作权知识产权40余项、在铜铅镍钴钨锑及金银铂钯稀贵金属清洁提取与冶金固废资源化利用、冶金过程模拟仿真与智能优化调控、电子废弃物、废旧动力电池、废催化剂绿色回收、电子级超细铜粉、氧化铜粉、氧化亚铜粉、银粉、银包铜粉先进功能粉体材料与导电浆料制备方面取得原始创新成果、多项科研成果实现产业化应用、获国家科技进步二奖1项、省部级及行业协会科技一奖6项、先后荣获第四届全国有色金属优秀青年科技奖、首届邱定蕃有色冶金青年科技奖、首届中国循环经济科技创新青年突出贡献奖、湖湘青年英才、中南大学创新驱动青年人才、湖南省优博学术荣誉、硕士生、博士生、博士后加入我们团队！、学术博士、专业博士、085600材料与化工、085700资源与环境、学术硕士、080600冶金工程、140500智能科学与技术
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 王亲猛
+语言选择
+English
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+王亲猛
+已经得到个称赞     给我点赞
+教授
+博士生导师
+硕士生导师
+所在单位：冶金与环境学院
+职务：院党委委员、副院长
+联系方式：qmwang@csu.edu.cn
+个人简介
+研究方向社会兼职教育经历工作经历团队成员
+其他联系方式
+王亲猛，山东济宁人，博士，教授，博士生导师 ，国家高层次青年人才，中南大学冶金与环境学院副院长，资源循环研究院副院长，有色金属资源循环利用湖南工程研究中心主任，新能源创新研究院能源金属提取与资源循环利用研究中心主任，中国有色金属清洁冶金研究中心副主任，中国有色金属学会重冶学委会委员兼副秘书长，中国有色金属产业技术创新战略联盟秘书长，“十五五”国家重点研发计划“资源循环利用”重点专项实施方案编写组专家。
+研究方向：有色金属冶金与资源循环利用及先进材料制备。主持国家自然科学基金联合基金重点项目、国家优秀青年科学基金项目、国家重点研发计划课题、湖南省杰出青年科学基金项目、湖南省科技创新计划项目、企业科技攻关课题等科研项目20余项。在行业知名国际期刊Metall. Mater. Trans. B、Hydrometallurgy、Energy Stor. Mater.、J. Clean. Prod.、Trans. Nonferrous Met. Soc. China发表学术论文80余篇，出版学术专著3部，授权国家发明专利、软件著作权等知识产权40余项。在铜铅镍钴钨锑及金银铂钯等稀贵金属清洁提取与冶金固废资源化利用，冶金过程模拟仿真与智能优化调控，电子废弃物、废旧动力电池、废催化剂等绿色回收，电子级超细铜粉、氧化铜粉、氧化亚铜粉、银粉、银包铜粉等先进功能粉体材料与导电浆料制备等方面取得原始创新成果，多项科研成果实现产业化应用，获国家科技进步二等奖1项、省部级及行业协会科技一等奖6项。先后荣获第四届全国有色金属优秀青年科技奖、首届邱定蕃有色冶金青年科技奖、首届中国循环经济科技创新青年突出贡献奖、湖湘青年英才、中南大学创新驱动青年人才、湖南省优博等学术荣誉。
+承担本科生、研究生及留学生课程《资源循环学》、《资源循环工程》、《冶金资源工程》、《Metallurgical Resource Engineering》等教学任务，指导学生参加全国大学生冶金科技竞赛荣获特等奖、全国大学生可再生能源优秀科技作品竞赛一等奖、湖南省大学生节能减排社会实践与科技竞赛一等奖，入选湖南省优秀研究生导师团队。
+本团队依托中南大学冶金与环境学院、资源循环研究院进行人才培养，与美国普渡大学、犹他大学、澳大利亚昆士兰大学、瑞士洛桑联邦理工学院、日本东京大学、清华大学、中科院等国际知名学府及科研机构建立了良好的合作关系，毕业生就职于中科院、华中科技大学、中南大学等高校及科研院所，五矿集团、中色集团、中国黄金等央企，以及宁德时代、比亚迪、格林美、中伟新能源、厦钨新能源、信达证券、招商证券等知名企业工作。
+欢迎优秀本科生、硕士生、博士生、博士后加入我们团队！
+博士生招生专业
+（一）学术博士：
+080603有色金属冶金、0806Z3材料冶金 、140500智能科学与技术、0806Z1冶金环境工程
+（二）专业博士：
+085600材料与化工、085700资源与环境
+硕士生招生专业
+（一）学术硕士：
+080600冶金工程、140500智能科学与技术
+（二）专业硕士：
+085600材料与化工、085700资源与环境
+联系邮箱: qmwang@csu.edu.cn
+暂无内容
+暂无内容
+暂无内容
+暂无内容
+暂无内容
+邮箱:2eb69462ea498447ab593933f9ec4049ff5c9d51c83429eb12847f9f2d0289e205b6a182d5372ec58f41b81371669e6d9b8355b8c7f531652c57825bc3097134f9c8a090d85ae9d89d108d158471c52727ec9479ca31c141c7be2f650e1870dec73f70bbd90d82ced70c49f7657bfdd0a84959794d5d88fc06ba36c0d05423cb
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+您是第位访客
+手机版
+中南大学
+最后更新时间：--
+同专业博导
+同专业硕导
+扫描二维码
+
+---
+
+## 王劭恺
+
+- **网址**: http://faculty.csu.edu.cn/wangshaokai/zh_CN/index.htm
+- **姓名**: 王劭恺
+- **邮箱**: （未提供）
+- **职称**: 特聘教授
+- **导师类型**: 研究生导师
+- **招生学科**: 面向复杂生物数据的人工智能方法研究、- 单细胞与空间组学的表示学习与多模态建模、- 三维基因组解析的图神经网络与结构学习方法、- 面向纳米孔测序与质谱数据的深度信号解析方法、- 图学习驱动的药物研发与蛋白质设计、视频理解与多模态智能分析、- 基于视觉大模型的图像与长视频理解、- 关键事件检测、多模态内容分析与结构化表达、课题组每年可招收1-2名博士研究生和3名硕士研究生
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 王劭恺
+王劭恺
+特聘教授
+博士生导师
+硕士生导师
+入职时间：2026-01-13
+所在单位：计算机学院
+性别：男
+联系方式：skwang[at]csu.edu.cn
+在职信息：在职
+毕业院校：滑铁卢大学
+学科：计算机科学与技术
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+王劭恺，现为中南大学人工智能学院特聘教授、博士生导师、硕士生导师，入选国家优秀自然科学基金（海外）。博士毕业于加拿大滑铁卢大学，2025年在香港科技大学出站，2026年入职中南大学。主要从事人工智能与机器学习方法在生物信息学中的研究与应用。围绕高维、多模态生物数据，构建数据驱动的建模框架与智能分析算法，重点包括单细胞与空间转录组数据的深度表示学习、三维基因组数据的结构建模与推断、生物量测信号的时序建模，以及基于图神经网络的生物关联网络构建与推断。致力于以人工智能方法提升复杂生物系统的建模能力与解释能力。在这些研究领域共发表20+篇论文，其中包括Nature Communications（IF 15.7）、Nature Structural & Molecular Biology（IF 10.1）、Advanced Science（IF 14.1）等； 获得了国际会议 ISBRA2024 最佳论文奖(Best paper award)。担任 Nature、Nature Methods、Nature Communications等国际期刊审稿人，担任ISBRA、BIBM等国际会议PC Member。
+除学术研究外，亦参与人工智能技术在产业场景中的应用实践，主要聚焦长视频理解与智能剪辑分析，围绕关键事件检测、时序建模、多模态表示学习与大规模模型优化开展算法研发。
+【研究方向】
+面向复杂生物数据的人工智能方法研究
+- 单细胞与空间组学的表示学习与多模态建模
+- 三维基因组解析的图神经网络与结构学习方法
+- 面向纳米孔测序与质谱数据的深度信号解析方法
+- 图学习驱动的药物研发与蛋白质设计
+视频理解与多模态智能分析
+- 基于视觉大模型的图像与长视频理解
+- 关键事件检测、多模态内容分析与结构化表达
+【论文发表】详见Google Scholar主页
+【2027招生信息】
+课题组每年可招收1-2名博士研究生和3名硕士研究生。
+课题组鼓励学生在理论研究与工程实践之间建立扎实能力体系。本人具有海外及香港高校学习背景，并在头部人工智能企业及创业团队从事算法研发工作，可为学生在学术深造、国际合作、算法研发岗位发展及技术创业探索等方面提供指导与资源支持。
+欢迎对生物信息学和人工智能感兴趣的同学，可通过邮箱联系。
+教育经历
+[1]
+2019.9-2024.4
+滑铁卢大学(University of Waterloo)
+|
+计算机科学与技术
+|
+哲学博士学位
+[2]
+2015.9-2019.6
+中南大学
+|
+计算机科学与技术
+|
+工学学士学位
+工作经历
+[1]
+2026.1-至今
+中南大学
+|
+计算机学院
+|
+特聘教授
+[2]
+2024.7-2025.12
+香港科技大学
+|
+博士后
+[3]
+2023.1-2023.12
+Rapid Novor Inc
+|
+算法工程师
+[4]
+2019.3-2019.6
+字节跳动
+|
+实习软件工程师
+研究方向
+[1]  三代测序技术
+[2]  空间组学研究
+[3]  视觉大模型
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 王田天
+
+- **网址**: 
+- **姓名**: 王田天
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 王运波
+
+- **网址**: http://faculty.csu.edu.cn/wangyunbo/zh_CN/index.htm
+- **姓名**: 王运波
+- **邮箱**: wangyunbo@csu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 研究生导师
+- **招生学科**: 跨媒体分析、多模态基础模型、计算机视觉与AI
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 王运波
+王运波
+副教授
+硕士生导师
+学历：研究生(博士后)
+办公地点：湖南省长沙市麓山南路932号
+联系方式：wangyunbo@csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：中国科学院自动化研究所
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+王运波，博士，人工智能学院副教授，硕士生导师，北大博后。2019年12月在中国科学院自动化研究所模式识别国家重点实验室获得博士学位（导师：孙哲南 研究员，谭铁牛院士团队），2020年6月-2022年5月在北京大学王选计算机研究所从事博士后研究（合作导师： 彭宇新 教授，国家杰青）。主持国家自然科学青年基金、国家重大项目子课题、湖南省自然科学青年基金、湖南省研究生教学改革项目等5项，参与国家自然科学重点项目、联合基金项目、面上项目等5项。《计算机科学》期刊优秀审稿人，《通信学报》青年编委，中国计算机学会委员，中国图象图形学会-视频图像与安全专委会委员。
+研究兴趣：跨媒体分析、多模态基础模型、计算机视觉与AI。在 IEEE Transactions on Image Processing、IEEE Transactions on Pattern Analysis and Machine Intelligence、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Transactions on Instrumentation and Measurement、AAAI Conference on Artificial Intelligence、ACM International Conference on Multimedia、European Conference on Computer Vision、Information Fusion等国际期刊会议发表学术论文20余篇。担任国际学术期刊IEEE-TIP、IEEE-TCSVT、IEEE-TMM、IEEE-TNNLS、IEEE-TIFS、Pattern Recognition、Information Fusion等审稿人，国内学术期刊计算机科学、计算机工程、仪器仪表学报等审稿人，CCF-A类会议AAAI、ACMMM、IJCAI、NeurIPS、ICML等程序委员会委员。
+欢迎对跨媒体分析、大模型、AIGC等方面感兴趣的同学与我联系（邮箱：wangyunbo@csu.edu.cn）。
+代表论文（第一或通讯作者）：
+l BioDPP: Dynamic Prompt Policy Learning for Biomedical Vision-Language Models. The 40th AAAI Conference on Artificial Intelligence  (AAAI), pp. 1-9, January 2026. (CCF-A)
+l Decoupled Low-Rank Prompt Subspace Learning for VLMs Adaptation in Biomedical Domain. The 34th ACM International Conference on Multimedia (ACMMM), pp. 1-10, 2026. (CCF-A)
+l Temporal-Spatial Coupling via Graph Diffusion Gated Recursion for Flotation Grade Monitoring. IEEE Transactions on Instrumentation and Measurement  (IEEE-TIM), pp. 1-13, 2026.
+l Yunbo Wang, YuJie Wu, Zhien Dai, Can Tian, Jun Long, Jianhai Chen. Noisy Correspondence Rectification via Asymmetric Similarity Learning. The 39th AAAI Conference on Artificial Intelligence  (AAAI), pp. 1-9, February 2025. (CCF-A)
+l Yunbo Wang, Yuxin Peng. MARS: Learning Modality-agnostic Representation for Scalable Cross-media Retrieval. IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), 32(7): 4765-4777, 2022. (CCF-B, 中科院1区top)
+l Yunbo Wang, Xianfeng Ou, Jian Liang, Zhenan Sun. Deep Semantic Reconstruction Hashing for Similarity Retrieval. IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT),  31(1): 387-400, 2021. (CCF-B, 中科院1区top)
+l Yunbo Wang, Jian Liang, Dong Cao, Zhenan Sun. Local Semantic-aware Deep Hashing with Hamming-isometric Quantization. IEEE Transactions on Image Processing  (IEEE-TIP), 28(6): 2665-2679, 2019. (CCF-A)
+l Yunbo Wang, Zhenan Sun. Towards Joint Multiply Semantics Hashing for Visual Search. International Conference on Image and Graphics (ICIG), pp. 47-58, August 2019. （CCF-C）
+l Jian Liang, Dapeng Hu, Yunbo Wang, Ran He, Jiashi Feng. Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI),  44(11): 8602-8617, 2022. (CCF-A, IF 24.314)
+l Xin Jia, Shourui Yang, Yunbo Wang, Jianhua Zhang, Yuxin Peng, Shengyong Chen. Towards Dual-view 3D Reconstruction via Aligning and Understanding Point Cloud Structures. IEEE Transactions on Image Processing   (IEEE-TIP), 31: 6831-6846, 2022 (CCF-A)
+l Zhenyu Huang, Xianlai Chen, Taixiang Li, Xing Zhao, Ying An, Yunbo Wang*. HiGraphSum: Hierarchical Hypergraph-Based Dual-Stage Automatic Summarization of Discharge Summaries. International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2025. (CCF-B)
+l Zhenyu Huang, Xianlai Chen, Yunbo Wang*, Jincai Huang, Xing Zhao. A Survey on Biomedical Automatic Text Summarization with Large Language Models. Information Processing and Management (IPM), pp. 1-48, 2025. (CCF-B, 中科院1区top)
+l Xin Jia, Jinglei Zhang, Lei Jia, Yunbo Wang*, Shengyong Chen*. Rotation Invariant Dual-view 3D Point Cloud Reconstruction with Geometrical Consistency Based Feature Aggregation. Information Fusion (InfFus), pp. 1-14, 2025. (CAAI-A, 中科院1区top)
+l Hongxiao Fei, Xi Zhang, Jun Long, Limin Liu*, Yunbo Wang*. Towards Multi-Satellite Collaborative Computing via Task Scheduling Based on Genetic Algorithm. Aerospace, 2023, 10(2):95. （JCR-1区）
+l Jun Long, Shimin Wu, Xiaodong Han, Yunbo Wang*, Limin Liu*. Autonomous Task Planning Method for Multi-Satellite System Based on a Hybrid Genetic Algorithm. Aerospace, 2023, 10(1):70. （JCR-1区）
+l Jian Liang, Yunbo Wang, Dapeng Hu, Ran He, Jiashi Feng. A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation, European Conference on Computer Vision (ECCV), pp. 1-17, August 2020.  (CCF-B）
+竞赛指导：
+l 第二十七届中国机器人及人工智能大赛全国总决赛三等奖（指导老师）
+l 第二十七届中国机器人及人工智能大赛湖南赛区二等奖 （指导老师）
+l 第十六届中国大学生服务外包创新创业大赛中部区域赛三等奖（指导老师）
+科研项目：
+[1]   国家自然科学基金青年基金，62402532，面向不完备动态数据的跨模态检索方法研究，2025/01-2027/12，主持
+[2]    科技部科技创新重大项目子课题，2020AAA0106601，以自然语言为核心的语义理解研究，2020/11- 2023/10，主持
+[3]    湖南省自然科学基金青年基金，2024JJ6526，基于知识嵌入与多目标优化的医学影像报告生成研究，2024/01-2026/12，主持
+[4]    湖南省研究生教学改革项目，2025JGYB040，生成式AI赋能研究生教学培养模式的探索与实践，2025/08-2027/07，主持
+[5]    国家自然科学基金面上项目，62272013，知识增强的可解释细粒度多模态分析研究, 2023/01-2026/12，项目骨干
+[6]    国家自然科学基金面上项目，62272013，面向大规模深度学习模型的稀疏张量异构并行算法研究，2026/01-2029/12，项目骨干
+[7]    国家自然科学基金联合基金项目，U22B2048，面向跨模态大数据智能标注的机器学习理论和方法, 2023/01-2026/12，项目骨干
+[8]    国家自然科学基金联合基金项目，U21B2025，知识引导的自然场景跨模态图文生成方法研究, 2022/01-2025/12，项目骨干
+[9]    国家自然科学基金重点项目，62132001，跨媒体知识驱动的文本生成视觉内容基础理论与技术, 2022/01-2026/12，项目骨干
+教育经历
+[1]
+2015.9-2019.12
+中国科学院自动化研究所
+|
+模式识别与智能系统
+|
+博士学位
+|
+博士研究生毕业
+[2]
+2012.9-2015.6
+四川大学
+|
+电路与系统
+|
+硕士学位
+|
+硕士研究生毕业
+[3]
+2008.9-2012.6
+四川大学
+|
+电子信息工程
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+2025.10-至今
+中南大学
+|
+大数据研究院
+|
+副教授
+[2]
+2022.6-2025.9
+中南大学
+|
+大数据研究院
+|
+讲师
+[3]
+2020.6-2022.5
+北京大学
+|
+王选计算机研究所
+|
+博士后研究
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 颜旭
+
+- **网址**: http://faculty.csu.edu.cn/yanxu1/zh_CN/index.htm
+- **姓名**: 颜旭
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 颜旭
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 颜旭
+English
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+颜旭
+个人信息Personal Information
+教授
+博士生导师
+硕士生导师
+教师拼音名称：yanxu
+出生日期：1988-12-02
+入职时间：2018-06-25
+所在单位：冶金与环境学院
+职务：研究生党支部书记
+办公地点：中南大学金贵楼302
+性别：女
+学位：博士学位
+毕业院校：中南大学
+学科：环境科学与工程
+其他联系方式Other Contact Information
+邮箱 : b2b70de3adc97dd7b707b26f3e9f7048f795d948940d7fe21cfd5411f3fe38e8a67bc1fac2d4635765c4a9b2930bfe45ec6f52a7abb51d1db6ffb833bd653a3017a4989ab3b0363cff6e66884a9740a74017048b10960472b7e0042c5fcc636cc3193b68c312e60a8173f287c006a53b4c1bcbfe2322c0721a218839b61135be
+同专业博导
+同专业硕导
+个人简介Personal Profile
+颜旭，工学博士，中南大学冶金与环境学院教授、博士生导师，教育部课程思政教学名师（冶金环境工程学），入选中国科协第六届“青年人才托举工程”项目。担任中国有色金属学会有色冶金资源综合利用专业委员会副秘书长，有色金属强化冶金新技术全国重点实验室、国家重金属污染防治工程技术研究中心骨干成员。
+研究领域为有色金属冶金环境工程新技术开发、有色冶金固废减量与循环利用。主持国家“循环经济关键技术与装备”“固废资源化”重点研发计划项目课题、国家自然科学基金面上项目、青年基金项目，参与国家“循环经济关键技术与装备”重点研发青年科学家项目；在Water. Res.、Chem. Eng. J.、J. Hazard. Mater.、Hydrometallurgy等国际期刊上发表SCI论文60余篇，获得国家级教学成果二等奖和首届NFSOC高等教育教学成果特等奖，以及湖南省科技进步奖、中国有色金属工业科学技术奖、环境保护科学技术奖、冶金科学技术奖等省部级一等奖6项，获得邱定蕃有色冶金青年科技奖和第一届循环经济科技创新青年突出贡献奖，获授权国家发明专利40余项，参与编制5项国家/省部级环保标准。
+教育经历Education Background
+工作经历Work Experience
+2011.9
+2016.5
+中南大学
+工学博士学位
+导师：柴立元 院士
+2007.9
+2011.6
+中南大学
+工学学士学位
+2016.7
+2018.5
+中南大学
+资源加工与生物工程学院
+博士后
+研究方向Research Focus
+社会兼职Social Affiliations
+有色冶金环境工程新技术
+有色冶金固废减量与循环利用
+数据驱动的重金属污染防治理论与技术
+暂无内容
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+访问量：次
+开通时间： ..
+最后更新时间： ..
+
+---
+
+## 阳国平
+
+- **网址**: 
+- **姓名**: 阳国平
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 张德宇
+
+- **网址**: http://faculty.csu.edu.cn/zhangdeyu/zh_CN/index.htm
+- **姓名**: 张德宇
+- **邮箱**: zdy876@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 面向智能应用的端-边融合系统研究、具有能量和频谱获取能力的传感器网络资源分配问题研究
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 张德宇
+张德宇
+教授
+博士生导师
+硕士生导师
+入职时间：2017-03-30
+办公地点：校本部升华后楼404
+联系方式：邮箱：zdy876@csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学
+学科：计算机科学与技术
+曾获荣誉：
+国家自然科学基金青年科学基金项目（B类）[原优秀青年科学基金项目]
+2023  当选：  湖南省自然科学基金委优秀青年基金
+2021年  当选：  ACM China 新星奖-长沙分会
+2022-11-01  当选：  第三届湖南省研究生人工智能创新大赛-优秀指导老师
+湖南省高等教育教学成果二等奖
+2021-10-26  当选：  “百度飞桨杯”第二届湖南省人工智能创新大赛-优秀指导老师
+微软亚洲研究院-铸星计划
+中南大学教师奖励金
+中南大学校级优秀博士论文
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+教授，博士生导师，国家级青年人才。本科毕业于解放军信息工程大学，专业为通信工程；硕士毕业于中南大学，专业为信息与通信工程；博士毕业于中南大学，专业为计算机科学与技术。2017年留校任讲师，2019年晋升副教授，2025年晋升教授。本人于2014年至2016年到加拿大滑铁卢大学博士联合培养，2019年8月到2020年2月在微软亚研院交流访问，研究兴趣包括边缘计算，物联网，移动端深度学习加速等。现已出版英文专著一部，发表（含录用）论文50余篇。其中一作/通信作者在 ACM MobiCom, MobiSys, SenSys，IEEE IWQoS，Globecom等国际权威会议和期刊上发表论文30余篇。申请国家专利8项，授权5项。Google Scholar 引用2000余次，H-index为24，5篇论文进入ESI前1%高被引，入选2020年度科学影响力排行榜（World’s Top 2% Scientists 2020）。作为项目负责人主持国家和省部级相关项目和课题4项，主要包括：湖南省自然科学基金优秀青年基金，国家自然科学基金面上基金，国家自然科学基金青年基金，湖南省自然科学基金重大项目“揭榜挂帅”项目课题负责人。获得多项学术奖励，包括：ACM CHINA新星奖-长沙分会，湖南省高等教育教学成果二等奖，2018-2019年度微软亚洲研究院铸星计划，入选2018年度中南大学优秀博士论文奖，2017年中南大学励志奖教金等。
+欢迎在代码或理论方面有较深造诣的同学联系我，联系邮箱：zdy876@csu.edu.cn。
+教育经历
+[1]
+2012.9-2016.12
+中南大学
+|
+计算机科学与技术
+|
+博士学位
+|
+研究生(博士)毕业
+[2]
+2009.9-2012.6
+中南大学
+|
+信息与通信工程
+[3]
+2005.9-2009.6
+解放军信息工程大学
+|
+信息与通信工程
+|
+学士学位
+|
+大学本科毕业
+工作经历
+[1]
+中南大学
+社会兼职
+[1]
+KSII Transactions on Internet and Information 编辑
+研究方向
+[1]  面向智能应用的端-边融合系统研究
+[2]  具有能量和频谱获取能力的传感器网络资源分配问题研究
+其他联系方式
+[1]  邮编： 49296eeb1c67f065b4380271f3bfc42b094b310de8baf5d65a0ad74abdd875514e794b1c4db2e03ca43c3b4dd4b3422fcf41a26837ec151b5f2a93cad9fef5f59d36b12570b102d951fa191dfa1bf64e1fe22ffcd2e171e8612fddd0f9fbb4200eb1368ed6af0e4c8a0e2b694f10d21b4e528ec085a7d9f3c1d50e799ff4afc8
+[3]  通讯/办公地址： 5c99a2882df91894ff96b07dfb5638a55363b8bfe13304d845c0d4017a1241f8b166fbe29477fb9fb4405c429f4f1fe62703d6c397f9a02262c212262219fffb22f759c392282ed29e09f270c964a5011d6015ea2a62bc708e3b95d0352fe707a82d5fe92646539b76188e438260aac9fa85e02f136c2f3cfcef7336f21b3076
+[6]  邮箱： 9c70cf17fa91e6b207dc025de52ee982bc21e1227fe713d0b67a140e7228db5a300c05338aeabf9d9f0e32d627c7c82c64d0c813924d1d2582e5ed88e847a966816590633d2e76f437432b856a979bd2d12b720482a7c77ed30cb76f0ae99411ef742e90e9641a41086cab58f4c41989a99711163fb267e1db2e8740767ed92b
+团队成员
+团队名称：博士生
+罗威
+贾富程
+唐寅
+张仁吉
+张熙铖
+团队名称：硕士生
+李云皓
+陈温昕
+蔡维君
+陈卓尔
+孙旺
+何榜文
+杨欢
+谢禹
+成恩
+徐慕聪
+黄维
+王斌
+团队名称：已毕业
+章晋睿
+中南大学特聘教授
+王彦波
+留校读博
+许晓晖
+当前工作于Intel亚太研发中心（上海），人工智能工程师，Deep Learning Compiler Engineer。
+发表3篇CCF A、CCF B类论文、2021国家奖学金，毕业获字节、阿里、腾讯、美团、小米等sp、ssp offer，
+曾磊
+阿里巴巴杭州
+张琳
+目前就职于字节跳动，工作地点在深圳。
+谭龙
+字节跳动
+乔滢
+保送至湖南大学攻读博士
+罗云臻
+保送至湖南大学攻读博士
+何雅琪
+李稳
+美团(上海) - 金融服务平台 - 数据算法质量
+章桐
+中国农业银行总行研发中心
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 张红亮
+
+- **网址**: http://faculty.csu.edu.cn/zhanghongliang/zh_CN/index.htm
+- **姓名**: 张红亮
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 科研项目
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 张红亮
+张红亮
+教授
+博士生导师
+硕士生导师
+所在单位：冶金与环境学院
+学历：博士研究生毕业
+办公地点：中南大学新校区金贵楼519
+联系方式：13574831278
+学位：博士学位
+在职信息：在职
+主要任职：支部书记、副所长
+毕业院校：中南大学
+曾获荣誉：
+2014年国家科技进步二等奖1项、省部级科技一等奖3项、省级教学成果奖1项、省部级教学竞赛奖1项
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+个人介绍
+研究方向
+科研项目
+论文成果
+教师风采
+获奖信息
+专利成果
+其他栏目
+English
+个人简介
+张红亮，1979年7月生，男，湖南临湘人，工学博士，教授，博士生导师，美国TMS学会、中国有色金属学会会员，主要学术方向为智能铝冶金，重点围绕铝电解强耦合、材料第一性原理/分子动力学计算、铝电解人工智能与数字孪生，负责智能冶金模块课程（《冶金过程仿真》、《冶金大数据分析》等）、研究生课程1门《智能冶金前沿》。
+【科研经历】：负责国家科技重大专项1项、结题主持国家重点研发计划课题2项、国家自然科学基金面上项目2项、山东省与云南省科技重大专项各1项、企业横向课题20余项。
+【学术成果】：第一发明人授权国家发明专利70余项；发表学术论文120篇，获得国家科学技术进步二等奖1项及省部级一等奖5项。
+【产业化成果】：铝电解槽帮与氧化铝浓度动态仿真技术、梯度保温密闭槽成套技术、铝电解柔性运转成套技术等技术已在行业推广应用，有力推动了我国铝电解智能化水平提升及能耗持续降低，
+【研究团队】：正指导由20位研究生（含10名博士）组成的智能冶金研究团队，计划每年招收硕士3-4名、博士1-2名（导师为李劼教授或张红亮教授）。
+教育经历
+[1]
+2012.7-2013.7
+Purdue University（USA）
+|
+Mechanical Engineering
+|
+访问学者
+[2]
+2002.9-2008.7
+中南大学
+|
+有色金属冶金
+|
+博士学位
+|
+博士研究生毕业
+[3]
+1998.9-2002.7
+中南大学
+|
+冶金工程
+|
+学士学位
+|
+本科(学士)
+工作经历
+[1]
+2018.9-至今
+中南大学
+|
+冶金与环境学院
+|
+教授
+[2]
+2011.9-2018.9
+中南大学
+|
+冶金与环境学院
+|
+副教授
+[3]
+2008.11-2011.9
+中南大学
+|
+冶金科学与工程学院
+|
+讲师
+研究方向
+[1]  锂/钠离子电池材料第一性原理与实验相结合的优化
+[2]  电化学冶金的机理研究
+[3]  冶炼过程人工智能与大数据
+[4]  数字孪生冶金工厂
+其他联系方式
+[3]  通讯/办公地址： 9a35e6bea34ce8f1879c99177d4adf5cd36bbdf7528a527cdffbd7e3c24fbc61dba57769853e79726d45a6c99b18984040492e5722590ffc87649807e140c59b9811600a0d66964ae386d8ced8b5e95f66d73d0ad5f10263ffdf7ef6c9e3ad970aaa75a688d62f4a8fffc0cf652fd550ec8688473696bdd184afb46e327592b5
+[5]  移动电话： c55a854b2a5c52c5dd375c9d2ed17d7a561b5aa8180d6507e41fd4483ace4c654e4669d1d53bab42ec898b622c352c10425bbd931466198205b4bd37f69709ff459c0b7e7048dc3bdc5462ffb7dee1bc7407907de00cbb2382701520f35bf4e14ae5982a527d2e9522412e2a18d77726632b1ba16ad2b53d16b6ae041f830540
+[6]  邮箱： baf4d82b0e1d55fa927540fb54922e4493cd2106d9fb86bdf6ac976300433de494cba3612359938da3a483d03907adfd206810a3532ee1d803077db9123138aa8bdb62ad8d28a7fedb70b95f805d3a30d3896e4f5c36c8e1f8c5dee1195e1af6b9bcc4ff0818abf2b3684a324e99a055c1c44f15c0f7df61696cf20774800e58
+团队成员
+团队名称：冶金与材料多尺度仿真组
+团队名称：已毕业学生
+---------------<<<<<----------欢迎加入冶金材料多尺度仿真与智能制造课题组！--------------->>>>>----------
+手机版
+中南大学
+
+---
+
+## 张乐
+
+- **网址**: 
+- **姓名**: 张乐
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 赵爽
+
+- **网址**: 
+- **姓名**: 赵爽
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 赵中伟
+
+- **网址**: http://faculty.csu.edu.cn/zhaozhongwei/zh_CN/index.htm
+- **姓名**: 赵中伟
+- **邮箱**: （未提供）
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 赵中伟
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 赵中伟
+赵中伟
+教授
+博士生导师
+硕士生导师
+所在单位：冶金与环境学院
+学历：研究生(博士)毕业
+办公地点：中南大学主校区 冶金楼 312
+性别：男
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学（原中南工业大学）
+访问量：
+最后更新时间：..
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+赵中伟，男，汉族，1966年9月出生，河北邯郸人，中共党员。毕业于中南工业大学有色金属冶金专业并获学士学（1989）、硕士（1992）、博士（1995）学位；1995留校任教，1997年获聘中南工业大学副教授，1998-2000年由教育部公派在日本名古屋大学材料系从事博士后科研工作；2000年获聘中南大学教授。现任中南大学教授、博士生导师，湖南省稀有金属冶金与材料制备重点实验室主任，兼任中国金属学会冶金过程物理化学委员会委员、中国有色金属学会稀有金属冶金学术委员会副主任委员、中国钨业协会理事。2023年当选为中国工程院院士。
+长期从事有色金属冶金提取与分离的研究。发明了难冶钨资源深度开发应用关键技术、低品位白钨矿硫磷混酸协同浸出技术、选择性沉淀法钨钼分离技术、电化学脱嵌法盐湖卤水提锂技术。获国家科技进步一等奖1项（排1）、国家技术发明二等奖2项（排1、4）、中国专利金奖1项（排1）、中国有色金属工业科学技术一等奖3项（均排1）。入选教育部“长江学者奖励计划”特聘教授，获全国创新争先奖状、全国优秀科技工作者、全国杰出专业技术人才、全国五一劳动奖章、何梁何利科学与技术进步奖、湖南光召科技奖等荣誉。
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 郑亮
+
+- **网址**: http://faculty.csu.edu.cn/zhengliang/zh_CN/index.htm
+- **姓名**: 郑亮
+- **邮箱**: zhengliang@csu.edu.cn
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 智能交通系统仿真优化、自动驾驶仿真建模与安全测试、路网交通状态估计与预测
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 郑亮
+郑亮
+博士生导师
+硕士生导师
+入职时间：2013-07-13
+所在单位：交通运输工程学院
+职务：交通运输系统工程研究所所长
+学历：研究生(博士)毕业
+办公地点：中南大学铁道校区交通楼311室
+性别：男
+联系方式：zhengliang@csu.edu.cn
+学位：博士学位
+在职信息：在职
+毕业院校：天津大学
+学科：管理科学与工程
+交通运输工程
+学术荣誉：
+2010  当选：  学术新人奖
+曾获荣誉：
+2023-11-17  当选：  2023年湖南省普通高校教师信息化教学竞赛二等奖
+2023-09-15  当选：  中南大学2023年研究生课程思政教学竞赛一等奖
+2023-05-27  当选：  华为ICT智慧公路行业全球总决赛一等奖
+2017-01-16  当选：  中国公路学会科学技术二等奖
+2019-12-01  当选：  2019年首届芯创杯高校未来汽车人机交互设计大赛优秀指导老师
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+著作成果
+专利成果
+教学成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+【基本简介】
+郑亮，教授，博士生导师。天津大学与威斯康辛麦迪逊分校联合培养博士，湖南省科技厅杰出青年人才，湖南省教育厅优秀青年人才，中南大学“升华育英计划”与“创新驱动计划”青年人才，智慧交通湖南省重点实验室副主任，交通运输系统工程研究所所长，湖南省智能驾驶工程技术研究中心副主任专家。主要研究方向：智能交通系统仿真优化，自动驾驶仿真建模与安全测试，路网交通状态估计与预测。已在国内外期刊及会议上发表学术论文80余篇，其中SCI/SSCI论文60余篇，包括《Transportation Research Part B》、《Transportation Research Part C》、《European Journal of Operational Research》、《Computers & Operations Research》、《Annals of Operations Research》、《Computer-Aided Civil and Infrastructure Engineering》、《IEEE Transactions on Intelligent Transportation Systems》、《IEEE Transactions on Intelligent Vehicles》、《Applied Mathematics and Computation》、《Applied Soft Computing》、《Neurocomputing》等国际著名期刊，申请国家发明专利13项（9项已授权），主持/参与了20余项国家级/省部级课题，获得了中国公路学会科学技术二等奖，2023年湖南省普通高校教师信息化教学竞赛二等奖，首届芯创杯高校未来汽车人机交互设计大赛优秀指导老师，华为ICT智慧公路行业全球总决赛一等奖（指导教师），“船视宝”杯第二十届全国大学生交通运输科技大赛二等建（指导教师），中南大学2023年研究生课程思政教学竞赛一等奖。同时，担任《Digital Transportation and Safety》副主编、《铁道科学与工程学报》栏目主编、《Transportation Safety And Environment》青年编委、《交通信息与安全》青年编委、《交通运输工程学报》青年编委，CICTP2019-2022区域主编，世界交通运输大会（WTC）交通工程学部委员，中国管理科学与工程学会交通运输管理分会委员，中国仿真学会智能仿真优化与调度专委会委员，中国公路学会自动驾驶（标准化）工作委员会委员，交通工程与管理青年论坛创始委员，国家自然科学基金委项目评议专家，多个国内外权威期刊的审稿人。
+【代表性学术论文】
+1. Liang Zheng*, Yanzhan Chen, Guangwu Liu, Ji Bao. A unified robust optimization approach for problems with costly simulation-based objectives and constraints. Computers & Operations Research, 2025, DOI: 10.1016/j.cor.2025.107179.
+2. Pengjie Liu, Liang Zheng*, Nan Zheng*. Bi-objective robust nonlinear decision approach for en-route bus speed control considering implementation errors and trafffc uncertainties. Transportation Research Part C: Emerging Technologies, 2024, 169: 104870.
+3. Yanzhan Chen, Liang Zheng*, Zhen Tan. Roadside LiDAR placement for cooperative traffic detection by a novel chance constrained stochastic simulation optimization approach. Transportation Research Part C: Emerging Technologies, 2024, 167: 104838.
+4. Liang Zheng, Ji Bao*, Zhen Tan*. Robust Simulation-based Optimization for Multiobjective Problems with Constraints. Annals of Operations Research. 2024, 10.1007/s10479-024-05963-0.
+5. Fan Liu, Zhen Tan*, Hingkai Chan, Liang Zheng*. Ramp metering control on wireless charging lanes considering optimal traffic and charging efficiencies. IEEE Transactions on Intelligent Transportation Systems. 2024, 25(9): 11590-11601.
+6. Ning Wang, Kunpeng Zhang, Liang Zheng*, Jaeyoung Lee, Shukai Li. Network-wide traffic state reconstruction: An integrated generative adversarial network framework with structural deep network embedding. Chaos, Solitons and Fractals. 2023, 174: 113830.
+7. Liang Zheng*, Pengjie Liu. Robust nonlinear decision mapping approach for online bus speed control under uncertainty. Computer-Aided Civil and Infrastructure Engineering. 2023, DOI: 10.1111/mice.13064.
+8. Liang Zheng*, Ji Bao, Zhenyu Mei. Urban Traffic Signal Control Robust Optimization Against Risk-averse and Worst-case Cyberattacks. Information Sciences. 2023, 640: 119067.
+9. Ji Bao, Liang Zheng*, Xuegang (Jeff) Ban. Biobjective robust network-wide traffic signal optimization against Cyber-attacks. Transportation Research Part C. 2023, 151: 104124.
+10. Liang Zheng, Pengjie Liu, Huimin Huang, Bin Ran, Zhengbing He*. Time-of-day pricing for toll roads under traffic demand uncertainties: A distributionally robust simulation-based optimization method. Transportation Research Part C. 2022, 144: 103894.
+11. Liang Zheng*, Xiaoru Li. Simulation-based optimization method for arterial signal control considering traffic safety and efficiency under uncertainties.Computer-Aided Civil and Infrastructure Engineering.2023, 38(5): 640-659.
+12. Liang Zheng, Youpeng Yang, Guanqi Fu, Zhen Tan, Xuekai Cen. A Surrogate-Based Optimization Method with Dynamic Adaptation for High-Dimensional Mixed-Integer Problems.Swarm and Evolutionary Computation. 2022, 72:101099.
+13. Kunpeng Zhang, Liang Zhao, Chengxiang Dong, Lan Wu*, Liang Zheng*. AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving. IEEE Transactions on Intelligent Vehicles, 2022, DOI:10.1109/TIV.2022.3155236.
+14. Liang Zheng*, Ji Bao, Chengcheng Xu, Zhen Tan. Biobjective Robust Simulation-Based Optimization for Unconstrained Problems. European Journal of Operational Research. 2022, 299(1): 249-262.
+15. Kunpeng Zhang, Zhengbing He, Liang Zheng*, Liang Zhao, Lan Wu. A Generative Adversarial Network for Travel Times Imputation Using Trajectories data. Computer-Aided Civil and Infrastructure Engineering, 2021, 36(2): 197-212.
+16. Kunpeng Zhang, Liang Zhang*, Zijian Liu, Ning Jia. A Deep Learning based Multitask Model for Network-wide Traffic Speed Predication. Neurocomputing, 2020, 396: 438-450.
+17. Kunpeng Zhang, Zijian Liu*, Liang Zheng*. Short-Term Prediction of Passenger Demand in Multi-Zone Level: Temporal Convolutional Neural Network With Multi-Task Learning. IEEE Transactions on Intelligent Transportation Systems, 2020, 21(4): 1480-1490.
+18. Liang Zheng*, Xinfeng Xue, Chengcheng Xu, Bin Ran. A stochastic simulation-based optimization method for equitable and efficient network-wide signal timing under uncertainties. Transportation Research Part B: Methodological, 2019, 122: 287-308.
+19. Kunpeng Zhang, Jia Ning, Liang Zheng*, Zijian Liu*. A novel generative adversarial network for estimation of trip travel time distribution with trajectory data. Transportation Research Part C: Emerging Technologies, 2019, 108:223-244.
+20. Liang Zheng*, Chengcheng Xu, Peter J. Jin, Bin Ran. Network-wide signal timing stochastic simulation optimization with environmental concerns. Applied Soft Computing, 2019, 77: 678-687.
+21. Zaitao Wang, Liang Zheng*, Ting Zhao, Tian He, Junfang Tian. Mitigation Strategies for Overuse of Chinese Bikesharing Systems based on Game Theory Analyses of Three Generations Worldwide. Journal of Cleaner Production, 2019, 227: 447-456.
+22. Zhengbing He, Liang Zheng, Lili Lu*, Wei Guan. Erasing Lane Changes from Roads: A Design of Future Road Intersections. IEEE Transactions on Intelligent Vehicles, 2018, 3(2): 173-184.
+23. Liang Zheng, Zhengbing He*, Tian He. A flexible traffic stream model and its three representation of traffic flow. Transportation Research Part C: Emerging Technologies, 2017, 75: 136-167.
+24. Zhengbing He, Liang Zheng*, Peng Chen, Wei Guan. Mapping to cells: a simple method to extract traffic dynamics from probe vehicle data. Computer-Aided Civil & Infrastructure Engineering, 2017, 32: 252-267.
+25. Zhengbing He, Liang Zheng*, Liying Song, Ning Zhu. A jam-absorption driving strategy for mitigating traffic oscillations. IEEE Transactions on Intelligent Transportation Systems, 2016, 18(4), 802-813.
+26. Liang Zheng, Peter J. Jin, Helai Huang*. An Anisotropic Continuum Model Considering Bi-directional Information Impact. Transportation Research Part B: Methodological, 2015, 75: 36-57.
+27. Zhengbing He, Liang Zheng, Wei Guan*. A simple nonparametric car-following model driven by field data. Transportation Research Part B: Methodological, 2015, 80: 185-201.
+28. Ni Dong, Helai Huang*, Liang Zheng. Support vector machine in crash prediction at the level of traffic analysis zones: Assessing the spatial proximity effects. Accident Analysis & Prevention, 2015, 82: 192-198.
+29. Helai Huang, Duo Wang, Liang Zheng*, Xiaoqing Li. Evaluating time-reminder strategies before amber: Common signal, green flashing and green countdown. Accident Analysis & Prevention, 2014, 71: 248-260.
+30. Liang Zheng*. An improved monkey algorithm with dynamic adaption. Applied Mathematics and Computation, 2013, 222: 645-657.
+工作经历
+[1]
+2013.7-至今
+中南大学
+|
+交通运输工程学院
+|
+在职
+社会兼职
+[1]
+《交通信息与安全》青年编委
+[2]
+《Digital Transportation and Safety》副主编
+[3]
+中国公路学会自动驾驶（标准化）工作委员会委员
+[4]
+中国管理科学与工程学会交通运输管理分会委员
+[5]
+《铁道科学与工程学报》栏目主编
+[6]
+交通工程与管理青年论坛创始委员
+[7]
+《交通运输工程学报》青年编委
+[8]
+国家自然科学基金委项目评议专家
+[9]
+《中国公路学报》智能网联交通流专刊组稿专家
+[10]
+世界交通运输大会（WTC）交通工程学部委员
+[11]
+中国仿真学会智能仿真优化与调度专委会委员
+[12]
+CICTP2019-CICTP2022区域主编
+研究方向
+[1]  智能交通系统仿真优化
+[2]  自动驾驶仿真建模与安全测试
+[3]  路网交通状态估计与预测
+其他联系方式
+[1]  邮编： 79d1e3f13cda2a64dbd52019254d5091eb55e55354eef3f5fa76970c202553335807812e02a1ef5e731d31dbe54f9071df0d7ae0bba537755058fd7bf4418138bba9533bdd1402618e90f561c71ea255c43218d0a200d17d57f9db7be0bbf05973423c8d284936fc91a35485b614e1422f813a3daf461e9dbc6aa3751de1faee
+[3]  通讯/办公地址： c6f4722e13eb2e012aba5df4c6873676c80ca2db573affbe768b66d418363cdbd75bccb71b8e7c5cbb892d97701a621332bc3e886b1297d3c6d6e2deb6d95744c670f899db1177d8c69f68bfd145a0e92473ed6e24336b83880e5fc22cb86909c6aa45e69b0783601b2ea5c1ecee909d98efe9dfd9080eac81cc06d18fc55ce7
+[6]  邮箱： a797f603356dbe68fcc4ee4da7682fac3e72388c421bf4d9e7aa53a8590b06e62e5ede2399d49962fd5900a08338294ee20ba17819bf89997702261a9d16a47ed6fa6fd85c5bf7459842ecd15b0fef8d399266c3a13775b9bb80cfea6326fb5a9b83f7189126b291f3632417dda21c1ff4a3febbf4f2d7ce31d11c42ade374ca
+团队成员
+团队名称：郑亮课题组
+团队介绍：该团队包括博士研究生5人，硕士研究生8人。该团队主要成员在智能交通系统管控优化、交通系统仿真建模、仿真优化算法设计、自动驾驶仿真建模与安全测试、深度学习算法等方面各有专长。
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
+
+## 钟达
+
+- **网址**: 
+- **姓名**: 钟达
+- **邮箱**: （未提供）
+- **职称**: （未提供）
+- **导师类型**: 研究生导师
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+（暂无个人主页链接）
+
+---
+
+## 周蓉蓉
+
+- **网址**: http://faculty.csu.edu.cn/zhourongrong/zh_CN/index.htm
+- **姓名**: 周蓉蓉
+- **邮箱**: rrzhou99@yahoo.com
+- **职称**: 教授
+- **导师类型**: 研究生导师
+- **招生学科**: 肺癌靶区勾画与AI、肺癌脑转移的基础及临床、胸部肿瘤的放化疗及靶向免疫治疗
+- **所属目录**: 研究生导师（含兼聘）
+
+### 个人信息
+
+中南大学 周蓉蓉
+周蓉蓉
+教授
+博士生导师
+硕士生导师
+入职时间：1993-08-01
+所在单位：中南大学湘雅医院
+职务：中南大学湘雅医院肿瘤放射治疗科主任兼肿瘤科副主任
+学历：博士研究生毕业
+办公地点：湖南长沙开福区湘雅路87#中南大学湘雅医院肿瘤科
+性别：女
+联系方式：rrzhou99@yahoo.com
+学位：博士学位
+在职信息：在职
+毕业院校：中南大学
+学科：临床医学
+访问量：
+最后更新时间：..
+同专业博导
+同专业硕导
+首页
+论文成果
+科研项目
+教授风采
+著作成果
+获奖信息
+研究领域
+其他栏目
+English
+个人简介
+医学博士，留美博士后，主任医师，教授，博士研究生导师。毕业于湖南医科大学，先后获得中南大学临床医学硕士学位及临床医学博士学位。1999年-2002年在美国排名第一的肿瘤中心MD Anderson Cancer Center从事肿瘤学博士后研究工作，2014年8月-2015年9月再次到美国MD Anderson Cancer Center的肿瘤放射治疗科从事胸部肿瘤放射治疗的临床研工作, 导师为美国著名的胸部放射肿瘤学专家Dr Zhongxing Liao，2018年10月在美国Dana Farber 癌症中心短期进修，现任中南大学湘雅医院肿瘤科副主任兼肿瘤放射治疗科主任，湖南省国际医学交流促进会精准放疗与人工智能专业委员会主任委员，中国毒理学会特种医学毒理专业委员会副主任委员，湖南省医学会放射肿瘤学专委会副主任委员，湖南省抗癌协会精准放疗技术专业委员会副主任委员，湖南省抗癌协会脑转移瘤专业委员会副主任委员，湖南抗癌协会肺癌专业委员会副主任委员，湖南省医学会肿瘤学专委会常委，中华医学会放射肿瘤治疗学分会近距离治疗学组委员，中国医师协会放射肿瘤治疗专业委员会食管癌学组委员，中国抗癌协会胶质瘤专业委员会脑转移癌学组委员，中国生物化学与分子生物学临床医学专业分会中国生物化学与分子生物学临床医学专业分会委员，美国ASTRO学会会员，中国生物化学与分子生物学临床医学专业分会中国生物化学与分子生物学临床医学专业分会委员，湖南省医学会肿瘤放射治疗专业委员会胸部肿瘤学组组长，CSWOG肺癌专业委员会委员，湖南省抗癌协会肿瘤协作专业委员会常委，中国研究型医院学会精准医学与肿瘤MDT专业委员会肺癌学组委员。
+临床上主攻胸部恶性肿瘤的放化疗及靶向和免疫治疗，具有较强的临床工作能力，能够熟练解决各类复杂性、难治性胸部肿瘤的诊疗问题。不但善于吸收国内外先进理念，还勇于开拓、敢于创新。是湘雅医院肿瘤科胸部肿瘤的学科带头人，湘雅医院肺癌脑转移疑难病诊疗团队负责人，并且是胸部肿瘤肺癌、食道癌疑难病诊疗团队放疗负责人。其中胸部肿瘤两篇论文分别发表在国际放射治疗界最顶级杂志Int.J.Radiat.Oncol,（红皮）和Radiotherapy and Oncology（绿皮）上。以第一完成人身份先后荣获中南大学湘雅医院医疗新技术奖一等奖一项，中南大学临床研究与医疗新技术成果奖二等奖一项，《非小细胞肺癌规范化治疗与基础研究及其应用》获湖南省科技进步三等奖，达到了国内先进水平、部分达到国际领先水平。积极参与各类胸部肿瘤的防治活动，得到卫生行政部门的一致好评。2018年上榜胡润研究院与平安好医生联合发布第一届《胡润•平安中国好医生榜》。
+主持各类科研课题12项（其中国家级科研课题2项和省部级科研课题2项）；共计经费300余万元。参与多项国家级课题，作为湘雅医院中心主PI， 参与多项国际及国内多中心临床试验， 共计临床试验经费1000多万元，在国内外共发表科研论文50余篇，以第一作者或通讯作者发表SCI论文30多篇，累积IF ≧200余，主译《脑转移癌放射治疗学》及副主编《医学临床“三基”训练技能图解-医技分册》和参编专著7本，其中两本为英文专著。培养硕士研究生20多名，指导博士研究生8名，在国家卫计委西部人才第11期培养项目带教工作中，被评为优秀带教老师。
+教育经历
+[1]
+1988.9-1993.6
+湖南医科大学
+学士学位
+|
+本科
+[2]
+1997.9-2002.6
+中南大学
+硕士学位
+|
+硕士研究生毕业
+[3]
+1999.9-2002.2
+美国德克萨斯大学， MD AndersonCancer Center
+|
+临床医学
+研究生(博士后)
+Department  of Cancer biology ,MD Anderson Cancer center,
+tutor：Dr. Eugenie S. Kleinerman
+[4]
+2005.9-2010.6
+中南大学
+博士学位
+|
+博士研究生毕业
+工作经历
+[1]
+1993.8-1999.8
+湖南医科大学附属湘雅医院
+|
+医师
+[2]
+2002.3-2004.7
+中南大学湘雅医院
+|
+肿瘤科
+|
+助理研究员
+[3]
+2004.8-2009.8
+中南大学湘雅医院
+|
+肿瘤科
+|
+主治医师
+[4]
+2009.8-2017.8
+中南大学湘雅医院
+|
+肿瘤科
+|
+副主任医师
+[5]
+2014.9-2015.8
+美国德克萨斯大学MD Anderson Cancer Center
+|
+Department of Radiation Oncology
+|
+访问学者
+|
+visiting scholar
+[6]
+2017.9-至今
+中南大学湘雅医院
+|
+肿瘤科
+|
+肿瘤科副主任兼肿瘤放射治疗科主任
+|
+主任医师
+社会兼职
+[1]
+湖南省国际医学交流促进会精准放疗与人工智能专业委员会主任委员
+[2]
+中华医学会放射肿瘤治疗学分会第八届委员会近距离治疗学组 委员
+[3]
+中国医师协会放射肿瘤治疗医师分会第二届委员会食管癌放疗学组 委员
+[4]
+中国抗癌协会脑胶质瘤分会脑转移瘤专业委员会  委员
+[5]
+中国生物化学与分子生物学临床医学专业分会中国生物化学与分子生物学临床医学专业分会委员
+[6]
+湖南省医学会放射肿瘤学专业委员会副主任委员
+[7]
+湖南抗癌协会肺癌专业委员会副主任委员
+[8]
+湖南省抗癌协会精准放疗技术专业委员会副主任委员
+[9]
+湖南省医学会肿瘤学专委会常委
+[10]
+湖南省医学会肿瘤放射治疗专业委员会胸部肿瘤学组组长
+[11]
+中国南方肿瘤临床研究协会（CSWOG）肺癌专业委员会 委员
+[12]
+中国研究型医院学会精准医学与肿瘤 MDT 专业委员会肺癌学组 委员
+[13]
+北京医学奖励基金会脑转移瘤专家委员会 常委委员
+[14]
+湖南省医学会肿瘤放射治疗专业委员会立体定向专业学组副组长
+[15]
+湖南省抗癌协会肿瘤放射治疗专业委员会 常委委员
+[16]
+湖南省抗癌协会临床肿瘤协作专业委员会 常委委员
+[17]
+湖南省慈善总会医疗专家库专家
+[18]
+湖南省医院协会医院医保管理专业委员会合理用药指导专家
+研究方向
+[1]  肺癌靶区勾画与AI
+[2]  肺癌脑转移的基础及临床
+[3]  胸部肿瘤的放化疗及靶向免疫治疗
+其他联系方式
+[1]  邮编： 9a49c97c6893c744a325b48a3262d94f487045f24033622bca83ee091e2cafd653123d09609be05a20314a7a5db597a6629c78675263aeed112299ead5c57e3682f709c04d293adca0f099e5db123be18327f9e1e42033b189372f5299edaa9f1794acf7727d6c3efc7e37fd2b8859c44763a1481460d28c529794362a8a77cb
+[2]  传真： 12e0293f9ec0818bdb2aabe3ee6471f48d2458962000e0be4f5c3e4533527d64c2fbe89d8dae4901e3c6261c0c43ae72d467381e85e57b53b5c6c97aeae965596fb7467328a4dcbb7ce11c8947911b77e182ea144eaa186cd47896194121917600ead88e703264e654b121a3a6331abe0f5236bf41e19185f343340b93ea9ea4
+[3]  通讯/办公地址： 452ef621aec68cad625b70c6b16a551ab3c2d558d6a7093cb6611d4e100e1285678ae4d65ea82ab6155050ce5334880e9f03368fe0f54caba4a78ae859f201553e8843215f9f24d9bff7a52ace83efa8bf2cbd3ffe1c09348ce625bf70cbb03f9e4380147861d2387c68e5b88f98d98641a2f2d8c7cefc311f22aad6373d6ce5
+[4]  办公室电话： 12e0293f9ec0818bdb2aabe3ee6471f48d2458962000e0be4f5c3e4533527d64c2fbe89d8dae4901e3c6261c0c43ae72d467381e85e57b53b5c6c97aeae965596fb7467328a4dcbb7ce11c8947911b77e182ea144eaa186cd47896194121917600ead88e703264e654b121a3a6331abe0f5236bf41e19185f343340b93ea9ea4
+[6]  邮箱： ba35f1d2051cd924728fc7208f023bc334466045070b15fb79460fed50d6f8e35f7c5d27ccd8388c0c30f0ef776a7231cfb117ceccc4e46342cf8abe45b8e465a4f44f546e210e3917567fd9fb1815ff39ee56aecdfe938057931556be96dc99fefd6c5e0ef91b48119595a6f8a0d91041e55dc563e8f1a362823f8c65c5b57f
+中南大学版权所有 湘ICP备05005659号-1
+信息与网络中心
+手机版
+中南大学
+
+---
