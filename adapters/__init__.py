@@ -1,5 +1,8 @@
 from adapters.buaa_cs import BuaaCsAdapter
 from adapters.buaa_soft import BuaaSoftAdapter
+from adapters.bjtu_cs import BjtuCsAdapter
+from adapters.bupt_sice import BuptSiceAdapter
+from adapters.bupt_scs import BuptScsAdapter
 from adapters.csu_ai import CsuAiAdapter
 from adapters.dlmu_ist import DlmuIstAdapter
 from adapters.dlut_ice import DlutIceAdapter
@@ -16,6 +19,7 @@ from adapters.sia_cas import SiaCasAdapter
 from adapters.siat_dsdw import SiatDsdwAdapter
 from adapters.shanghaitech_sist import ShanghaitechSistAdapter
 from adapters.suda_scst import SudaScstAdapter
+from adapters.suda_scst_fulltime import SudaScstFulltimeAdapter
 from adapters.tju_cs_sssds import TjuCsSssdsAdapter
 from adapters.tju_txgcx import TjuTxgcxAdapter
 from adapters.zju_oc import ZjuOcAdapter
@@ -24,6 +28,9 @@ from adapters.zuel_xagx import ZuelXagxAdapter
 ADAPTERS = {
     "buaa": BuaaCsAdapter,
     "buaa_soft": BuaaSoftAdapter,
+    "bjtu_cs": BjtuCsAdapter,
+    "bupt_sice": BuptSiceAdapter,
+    "bupt_scs": BuptScsAdapter,
     "csu_ai": CsuAiAdapter,
     "dlmu_ist": DlmuIstAdapter,
     "dlut_ice": DlutIceAdapter,
@@ -40,6 +47,7 @@ ADAPTERS = {
     "siat": SiatDsdwAdapter,
     "shanghaitech_sist": ShanghaitechSistAdapter,
     "suda_scst": SudaScstAdapter,
+    "suda_scst_fulltime": SudaScstFulltimeAdapter,
     "tju": TjuTxgcxAdapter,
     "tju_cs": TjuCsSssdsAdapter,
     "zju_oc": ZjuOcAdapter,

@@ -22,7 +22,15 @@ def fetch(url: str) -> str:
     if url.startswith("http://faculty.nuaa.edu.cn"):
         url = "https://" + url[len("http://") :]
     url = quote_url(url)
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Connection": "keep-alive",
+        },
+    )
     context = None
     if urlparse(url).netloc.lower() in {"www.cse.neu.edu.cn", "cse.neu.edu.cn"}:
         context = ssl._create_unverified_context()
@@ -391,7 +399,8 @@ def run_scraper(adapter, delay: float = 0.25) -> list[dict]:
     key_fn = getattr(adapter, "dedup_key", None)
     for page_url in list_pages:
         print(f"  解析: {page_url}")
-        html = fetch(page_url)
+        fetch_list_page = getattr(adapter, "fetch_list_page", None)
+        html = fetch_list_page(page_url) if fetch_list_page else fetch(page_url)
         for t in adapter.extract_teachers_from_list(html):
             key = key_fn(t) if key_fn else (t.get("url") or t.get("dsbh") or t["name"])
             if key in index:
@@ -421,7 +430,8 @@ def run_scraper(adapter, delay: float = 0.25) -> list[dict]:
                 t.setdefault("email", t.get("list_email", ""))
                 t["profile"] = t.get("profile") or "（无个人主页链接）"
             else:
-                html = fetch(t["url"])
+                fetch_profile_page = getattr(adapter, "fetch_profile_page", None)
+                html = fetch_profile_page(t) if fetch_profile_page else fetch(t["url"])
                 adapter.parse_profile(html, t)
         except Exception as exc:
             print(f"    失败: {exc}")
