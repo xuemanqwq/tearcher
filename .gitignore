@@ -11,6 +11,7 @@ documents
 outputs/html
 outputs/rendered
 outputs/pdf
+outputs/docx
 
 scripts
 tmp
