@@ -1,55 +1,40 @@
-from adapters.buaa_cs import BuaaCsAdapter
-from adapters.buaa_soft import BuaaSoftAdapter
-from adapters.bjtu_cs import BjtuCsAdapter
-from adapters.bupt_sice import BuptSiceAdapter
-from adapters.bupt_scs import BuptScsAdapter
-from adapters.csu_ai import CsuAiAdapter
-from adapters.dlmu_ist import DlmuIstAdapter
-from adapters.dlut_ice import DlutIceAdapter
-from adapters.ecnu_ieeic import EcnuIeeicAdapter
-from adapters.hhu_cies import HhuCiesAdapter
-from adapters.hfut_ci import HfutCiAdapter
-from adapters.jlu_sai import JluSaiAdapter
-from adapters.muc_xingong import MucXingongAdapter
-from adapters.nankai_cs import NankaiCsAdapter
-from adapters.neu_cse import NeuCseAdapter
-from adapters.nuaa_ai_ei import NuaaAiEiAdapter
-from adapters.sdu_cs import SduCsAdapter
-from adapters.sia_cas import SiaCasAdapter
-from adapters.siat_dsdw import SiatDsdwAdapter
-from adapters.shanghaitech_sist import ShanghaitechSistAdapter
-from adapters.suda_scst import SudaScstAdapter
-from adapters.suda_scst_fulltime import SudaScstFulltimeAdapter
-from adapters.tju_cs_sssds import TjuCsSssdsAdapter
-from adapters.tju_txgcx import TjuTxgcxAdapter
-from adapters.zju_oc import ZjuOcAdapter
-from adapters.zuel_xagx import ZuelXagxAdapter
+from importlib import import_module
 
 ADAPTERS = {
-    "buaa": BuaaCsAdapter,
-    "buaa_soft": BuaaSoftAdapter,
-    "bjtu_cs": BjtuCsAdapter,
-    "bupt_sice": BuptSiceAdapter,
-    "bupt_scs": BuptScsAdapter,
-    "csu_ai": CsuAiAdapter,
-    "dlmu_ist": DlmuIstAdapter,
-    "dlut_ice": DlutIceAdapter,
-    "ecnu_ieeic": EcnuIeeicAdapter,
-    "jlu": JluSaiAdapter,
-    "muc_xingong": MucXingongAdapter,
-    "nankai_cs": NankaiCsAdapter,
-    "neu_cse": NeuCseAdapter,
-    "hhu": HhuCiesAdapter,
-    "hfut_ci": HfutCiAdapter,
-    "nuaa": NuaaAiEiAdapter,
-    "sdu_cs": SduCsAdapter,
-    "sia_cas": SiaCasAdapter,
-    "siat": SiatDsdwAdapter,
-    "shanghaitech_sist": ShanghaitechSistAdapter,
-    "suda_scst": SudaScstAdapter,
-    "suda_scst_fulltime": SudaScstFulltimeAdapter,
-    "tju": TjuTxgcxAdapter,
-    "tju_cs": TjuCsSssdsAdapter,
-    "zju_oc": ZjuOcAdapter,
-    "zuel_xagx": ZuelXagxAdapter,
+    "buaa": ("adapters.buaa_cs", "BuaaCsAdapter"),
+    "buaa_soft": ("adapters.buaa_soft", "BuaaSoftAdapter"),
+    "bjtu_cs": ("adapters.bjtu_cs", "BjtuCsAdapter"),
+    "bupt_sice": ("adapters.bupt_sice", "BuptSiceAdapter"),
+    "bupt_scs": ("adapters.bupt_scs", "BuptScsAdapter"),
+    "csu_ai": ("adapters.csu_ai", "CsuAiAdapter"),
+    "csu_ngce": ("adapters.csu_ngce", "CsuNgceAdapter"),
+    "csu_ngce_phd": ("adapters.csu_ngce", "CsuNgcePhdAdapter"),
+    "dlmu_ist": ("adapters.dlmu_ist", "DlmuIstAdapter"),
+    "dlut_ice": ("adapters.dlut_ice", "DlutIceAdapter"),
+    "ecnu_ieeic": ("adapters.ecnu_ieeic", "EcnuIeeicAdapter"),
+    "jlu": ("adapters.jlu_sai", "JluSaiAdapter"),
+    "muc_xingong": ("adapters.muc_xingong", "MucXingongAdapter"),
+    "nankai_cc": ("adapters.nankai_cc", "NankaiCcAdapter"),
+    "nankai_cs": ("adapters.nankai_cs", "NankaiCsAdapter"),
+    "neu_cse": ("adapters.neu_cse", "NeuCseAdapter"),
+    "hhu": ("adapters.hhu_cies", "HhuCiesAdapter"),
+    "hfut_ci": ("adapters.hfut_ci", "HfutCiAdapter"),
+    "hnu_csee": ("adapters.hnu_csee", "HnuCseeAdapter"),
+    "nuaa": ("adapters.nuaa_ai_ei", "NuaaAiEiAdapter"),
+    "sdu_cs": ("adapters.sdu_cs", "SduCsAdapter"),
+    "sia_cas": ("adapters.sia_cas", "SiaCasAdapter"),
+    "siat": ("adapters.siat_dsdw", "SiatDsdwAdapter"),
+    "shanghaitech_sist": ("adapters.shanghaitech_sist", "ShanghaitechSistAdapter"),
+    "suda_scst": ("adapters.suda_scst", "SudaScstAdapter"),
+    "suda_scst_fulltime": ("adapters.suda_scst_fulltime", "SudaScstFulltimeAdapter"),
+    "tju": ("adapters.tju_txgcx", "TjuTxgcxAdapter"),
+    "tju_cs": ("adapters.tju_cs_sssds", "TjuCsSssdsAdapter"),
+    "xmu_iai": ("adapters.xmu_iai", "XmuIaiAdapter"),
+    "zju_oc": ("adapters.zju_oc", "ZjuOcAdapter"),
+    "zuel_xagx": ("adapters.zuel_xagx", "ZuelXagxAdapter"),
 }
+
+
+def load_adapter(key: str):
+    module_name, class_name = ADAPTERS[key]
+    return getattr(import_module(module_name), class_name)

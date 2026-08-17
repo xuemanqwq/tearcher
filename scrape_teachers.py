@@ -17,7 +17,7 @@ Usage:
 import argparse
 import sys
 
-from adapters import ADAPTERS
+from adapters import ADAPTERS, load_adapter
 from core import run_scraper
 
 
@@ -37,7 +37,8 @@ def main():
 
     if args.list or not args.school:
         print("可用学校:")
-        for key, cls in ADAPTERS.items():
+        for key in ADAPTERS:
+            cls = load_adapter(key)
             adapter = cls()
             print(f"  {key:6}  {adapter.school_name}")
             print(f"         {adapter.list_url}")
@@ -51,7 +52,7 @@ def main():
         print(f"可用: {', '.join(ADAPTERS)}")
         sys.exit(1)
 
-    run_scraper(ADAPTERS[key]())
+    run_scraper(load_adapter(key)())
 
 
 if __name__ == "__main__":

@@ -1,0 +1,5485 @@
+# 湖南大学信息科学与工程学院（/teacher/syjs/25） — 教师信息
+
+数据来源: [https://csee.hnu.edu.cn/teacher/syjs/25](https://csee.hnu.edu.cn/teacher/syjs/25)
+
+共 63 位教师。
+
+---
+
+## 林剑新
+
+- **网址**: https://csee.hnu.edu.cn/people/linjianxin
+- **姓名**: 林剑新
+- **邮箱**: linjianxin@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉；视频图像处理；生成模型
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉；视频图像处理；生成模型
+联系方式：linjianxin@hnu.edu.cn
+教师介绍
+林剑新，副教授，岳麓学者，湖湘青年英才。2015年本科毕业于中国科学技术大学，2020年博士毕业于中国科学技术大学。2016-2017年于微软亚洲研究院进行研究实习。曾获中科院院长优秀奖，中国科学技术大学优博提名奖，ACMMM会议Top论文奖。
+研究方向为计算机视觉，医学图像处理和生成模型等。迄今为止以第一作者在CVPR、ECCV、AAAI、IJCAI、TPAMI等计算机视觉和人工智能领域的国际顶尖会议和期刊发表多篇论文，并且长期担任CVPR、NeurIPS、ICLR、ICML、AAAI、IJCV、TCSVT、TNNLS、TPAMI等期刊会议的程序委员和审稿人。
+中文名：
+林剑新
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+linjianxin@hnu.edu.cn
+研究方向：
+计算机视觉；视频图像处理；生成模型
+联系地址：
+所属机构：
+学院教师
+计算机科学系
+个人主页
+近期更新（Recent Updates）
+-- Graduate student Zhao Wei (赵薇) won the National Graduate Award (研究生国奖)，Big Congs to 赵薇。
+-- Our work "Visual Correspondence Learning and Spatially Attentive Synthesis via Transformer for Exemplar-Based Anime Line Art Colorization" has been accepted by IEEE TMM 2023.
+-- Our work "Steformer: Efficient Stereo Image Super-Resolution with Transformer" has been accepted by IEEE TMM 2023.
+-- Our work "CACOLIT: Cross-domain Adaptive Co-learning for Imbalanced Image-to-Image Translation" has been accepted by ACM MM 2022 as Oral Presentation and Top Rated Papers (8/691).
+-- We have won the People's Selection Award in Conversational Head Generation Challenge ACM MM 2022. Congrats to Wei Zhao, Peng Xiao, Rongju Zhang.
+-- I gave the tutorial about "Advances in Cross-Domain Image Generation" at ISCAS 2022 with Prof. Zhibo Chen.
+代表性论文（Google Scholar）
+--Jianxin Lin, Lianying Yin, Yijun Wang. Steformer: Efficient Stereo Image Super-Resolution with Transformer. (IEEE TMM 2023) (中科院一区，CCF-B)
+--Yijun Wang, Tao Liang, Jianxin Lin*. CACOLIT: Cross-domain Adaptive Co-learning for Imbalanced Image-to-Image Translation. (ACM MM-22) (Oral Paper) (Top Rated Papers, 8 among 691 papers) (CCF-A)
+-- Jianxin Lin, Yingce Xia, Sen Liu,Tao Qin, Zhibo Chen, Jiebo Luo. Exploring Explicit Domain Supervision forLatent Space Disentanglement in Unpaired Image-to-Image Translation. (IEEE Trans. Pattern Analysis and Machine Intelligence 2021) (中科院一区，CCF-A)
+-- Jianxin Lin#, Yingxue Pang#, Yingce Xia, Zhibo Chen, Jiebo Luo, “TuiGAN:Learning Versatile Image-to-Image Translation with Two Unpaired Images”. The European Conference on Computer Vision (ECCV-20).(Spotlight Paper)  (CCF-B)
+-- Jianzhao Liu#, JianxinLin#, Xin Li, Wei Zhou, Sen Liu, Zhibo Chen, “LIRA: Lifelong ImageRestoration from Unknown Blended Distortions”. The European Conference onComputer Vision (ECCV-20). (CCF-B)
+-- Jianxin Lin, Yijun Wang, Tianyu He, Zhibo Chen. Learning to Transfer:Unsupervised Domain Translation via Meta-Learning. The Thirty-Fourth AAAIConference on Artificial Intelligence (AAAI-20).  (CCF-A)
+-- Jianxin Lin#, Yingce Xia#,Yijun Wang, Tao Qin, Zhibo Chen.  Image-to-Image Translation withMulti-Path Consistency Regularization. The 28th International Joint Conferenceon Artificial Intelligence (IJCAI-19).  (CCF-A)
+-- Jianxin Lin, Yingce Xia, Tao Qin, Zhibo Chen, Tie-Yan Liu. Conditional Image-to-ImageTranslation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-18).  (CCF-A)
+-- Jianxin Lin, Tiankuang Zhou, Zhibo Chen. Multi-Scale Face Restorationwith Sequential Gating Ensemble Network. Thirty-Second AAAI Conference on ArtificialIntelligence (AAAI-18).  (CCF-A)
+
+---
+
+## 边耐政
+
+- **网址**: https://csee.hnu.edu.cn/people/biannaizheng
+- **姓名**: 边耐政
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: IT治理、EA等架构
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：IT治理、EA等架构
+教师介绍
+边耐政，硕士，男，1969年3月出生于浙江省嘉兴市。现任湖南大学信息科学与工程学院副教授，湖南大学IT治理研究所所长。1987年9月进入湖南大学化学化工学院分析化学专业学习，1991年毕业后留校，历任政治辅导员、院分团委书记、校职改办副主任兼师资办副主任。2000年赴美留学，就读于美国弗吉尼亚学院及州立大学（VirginiaPolytechnicInstituteandStateUniversity）计算机系，2002年5月取得计算机科学与应用硕士学位。2002年9月回国后至湖南大学软件学院任教至今。
+2006年在湖南大学软件学院开创软件工程“做中学”教学改革，在全国范围内有较大影响，为软件工程专业学生的工程素质培养做出了有益的探索。
+目前，从事IT治理、EA等架构领域的研究，在软件项目开发、IT架构设计方面有丰富的经验。
+中文名：
+边耐政
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+IT治理、EA等架构
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+
+---
+
+## 蔡敏捷
+
+- **网址**: https://csee.hnu.edu.cn/people/caiminjie
+- **姓名**: 蔡敏捷
+- **邮箱**: caiminjie@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉，多媒体信息处理，人机交互
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉，多媒体信息处理，人机交互
+联系方式：caiminjie@hnu.edu.cn
+教师介绍
+副教授、博士生导师、湖南省优青。另兼任东京大学生产技术研究所 (Institute of Industrial Science) 合作研究员。东京大学博士，西北工业大学本科及硕士毕业。研究方向为计算机视觉及其在人机交互和多媒体等方面的应用。迄今为止在CVPR、ECCV、ICRA等相关领域的国际顶尖会议，以及TPAMI、TIP、TCYB等国际顶尖期刊上发表系列论文，长期担任CVPR、ICCV、ECCV、NeurIPS等国际顶尖学术会议的审稿人。
+Hi! I am Minjie Cai, an associate professor at Hunan University and a cooperative research fellow at The University of Tokyo. I received my Ph.D. in Information Science and Technology at The University of Tokyo, supervised by Prof. Yoichi Sato. I received my M.S. in Communication and Information Engineering and B.S. at Northwestern Polytechnical University. My main research domain is computer vision.
+homepage: https://cai-mj.github.io
+email: caiminjie (at) hnu.edu.cn
+中文名：
+蔡敏捷
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+caiminjie (at) hnu.edu.cn
+研究方向：
+计算机视觉，多媒体信息处理，人机交互
+联系地址：
+信息科学与工程学院461
+所属机构：
+计算机科学系
+学院教师
+代表性学术论文 (Publications)
+*通讯作者 ▽共同一作 (For full publication list, please refer to my homepage)
+F. Chen, X. Zhong, and M. Cai*, "Who is Talking to Me? Addressing Egocentric TTM with Speaker-aware Conversational Context," INTERSPEECH (国际语音通信协会大会), 2026. (CCF B)
+D. Liu, Y. Feng, B. Liu, T. Zhang, H. Chen*, and M. Cai*, "Amulet: Integrating Sensitive Information Access with Identity Authentication on Mobile Device," Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp), 2025. (CCF A)
+N. Lin▽, T. Ohkawa▽, Y. Huang*, M. Zhang, M. Li, M. Cai*, R. Furuta, and Y. Sato, "SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training," International Conference on Learning Representations (ICLR), 2025.
+H. Huang, H. Yu, D. Liu, H. Chen*, and M. Cai*, "Egocentric Speaker Diarization with Vision-Guided Clustering and Adaptive Speech Re-detection," International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.
+M. Cai, J. Kezierbieke, X. Zhong, and H. Chen, "Uncertainty-Aware and Class-Balanced Domain Adaptation for Object Detection in Driving Scenes," IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. (SCI中科院1区, IF: 8.5)
+X. Ren, J. Luo, X. Zhong, and M. Cai*, "Emotion-aware audio-driven face animation via contrastive feature disentanglement," INTERSPEECH (国际语音通信协会大会), 2023.
+C. Xue, X. Zhong, M. Cai*, H. Chen, and W. Wang, "Audio-visual event localization by learning spatial and semantic co-attention," IEEE Transactions on Multimedia (TMM), vol. 25, pp. 418–429, 2023. (SCI中科院1区, IF: 7.3)
+H. Yu▽, M. Cai▽, Y. Liu, and F. Lu, "First and third-person video co-analysis by learning spatial-temporal joint attention," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 45, no. 6, pp. 6631–6646, 2023. (CCF A & SCI中科院1区，IF: 17.861)
+M. Cai, F. Lu, and Y. Sato, "Generalizing hand segmentation in egocentric videos with uncertainty-guided model adaptation," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (CCF A, 接收率: 22%)
+Y. Huang, M. Cai*, Z. Li, F. Lu, and Y. Sato, "Mutual context network for jointly estimating egocentric gaze and actions," IEEE Transactions on Image Processing (TIP), DOI:10.1109/TIP.2020.3007841, 2020. (CCF A & SCI中科院1区, IF: 6.79)
+Y. Huang, M. Cai*, and Y. Sato, "An ego-vision system for discovering human joint attention," IEEE Transactions on Human-Machine Systems (THMS), DOI:10.1109/THMS.2020.2965429, 2020. (CCF B, IF: 3.332)
+H. Yu▽, M. Cai▽, Y. Liu, and F. Lu, "What I see is what you see: joint attention learning for first and third person video co-analysis," ACM International Conference on Multimedia (MM), 2019. (CCF A，接收率: 26.8%)
+Y. Huang, M. Cai*, Z. Li, and Y. Sato, "Predicting gaze in egocentric videos by learning task-dependent attention transition," European Conference on Computer Vision (ECCV), 2018. (CCF B，接收率: 2.4% [oral])
+M. Cai, F. Lu, and Y. Gao, "Desktop action recognition from first-person point-of-view," IEEE Transactions on Cybernetics (TCYB), DOI:10.1109/TCYB.2018.2806381, 2018. (SCI中科院1区，IF: 8.803)
+M. Cai, K. Kitani, and Y. Sato, "An ego-vision system for hand grasp analysis," IEEE Transactions on Human-Machine Systems (THMS), vol. 47, no. 4, pp. 524–535, 2017. (CCF B, IF: 2.563)
+M. Cai, K. Kitani, and Y. Sato, "Understanding hand-object manipulation with grasp types and object attributes," Robotics: Science and Systems (RSS), 2016. (机器人领域顶级会议, 接收率: 20%)
+M. Cai, K. Kitani, and Y. Sato, "A scalable approach for understanding the visual structures of hand grasps," IEEE International Conference on Robotics and Automation (ICRA), 2015. (CCF B)
+科研课题 (Funding)
+纵向课题(funded by governments)：
+2024年--2027年，“面向具身智能的第一人称交互行为感知与理解”，国家自然科学基金面上项目（主持）
+2022年--2024年，“第一人称视频的分析与理解”，湖南省优秀青年科学基金项目（主持）
+2020年--2022年，“基于第一人称视频的手部操作活动自动分析理解关键技术研究”，国家自然科学基金青年项目（主持）
+2020年--2022年，“可扩展的日常手对象交互视频分析与理解方法研究”，湖南省青年科学基金项目（主持）
+2020年--2021年，“基于第一人称视频的眼动注视建模与应用研究”，国家重点实验室开放课题（主持）
+2018年--2022年，“基于注意力转移机制的第一人称视频显著性研究及应用”，中央高校科研启动费（主持）
+横向课题(funded by corporations)：
+2020.4--2020.12，“基于移动相机的用户眼动注视建模与应用研究”，百度开放主题研究项目（主持）
+授权发明专利 (Patents)
+ZL202510077271.5，“一种基于视听融合聚类的说话人日志生成方法”，发明人：蔡敏捷、黄河、陈浩文
+ZL202411903607.0，“一种结合无噪图像和噪声图像的联合去噪训练方法”，发明人：陈诗铭、蔡敏捷
+ZL202411833524.9，“一种基于多尺度特征融合的稀疏新视角图像合成方法”，发明人：刘婧雯、蔡敏捷
+ZL202310401054.8，“基于音频特征分离情感并驱动人脸动画合成方法及系统”，发明人：蔡敏捷、任新
+ZL202110764822.7，“一种基于不确定性引导的自适应跨域目标检测方法”，发明人：蔡敏捷、罗敏怡
+ZL202010395785.2，“一种基于不确定性引导的自适应图像分割方法”，发明人：蔡敏捷
+讲授课程 (Teaching)
+机器学习(Machine Learning): 春学期硕士研究生专业选修课，面向计算机科学与技术专业
+计算机视觉(Computer Vision): 春学期本科生专业选修课，面向计算机科学与技术专业
+学生培养 (Students)
+研究生（Graduate students）：
+Ke Zhang 张轲（PhD, 2021~）
+Fei Chen 陈飞（PhD, 2024~）
+Feiyi Huang 黄非毅（PhD, 2024~）[共同指导]
+Ze Wang 王泽（PhD, 2025~）
+Yaru Zhao 赵娅汝（Master, 2024~）
+Fukun Chen 陈付坤（Master, 2024~）
+Yijie Huang 黄艺杰（Master, 2024~）
+Yi Liu 刘亿（Master, 2025~）
+Hao Yang 杨皓（Master, 2025~）
+Jiahao Zeng 曾家浩（Master, 2025~）
+Yanyan Zhang 张严严（Master, 2025~）
+Shengxu Lei 雷升旭（Master, 2025~）[共同指导]
+Xinyi Huang 黄欣怡（Master, 2025~）[共同指导]
+Shixian Li 李士贤（Master, 2026~）
+【欢迎编程能力强且对计算机视觉领域的研究感兴趣的同学报考】（目前团队有若干硕士名额，欢迎邮件联系）
+1. 本实验室目前兼顾人工智能相关学术研究,以及信息化、智能化应用研究
+2. 根据实际经费情况会尽可能对学生进行研究补助
+3. 对于发表CCF B类以上会议论文的学生将资助参加会议，对于发表SCI二区以上期刊论文的学生将进行物质奖励
+4. 对于满足第三条的优秀学生，可以考虑推荐到东京大学、北京航空航天大学等具有紧密合作关系的课题组读博
+已毕业学生(Alumni)：
+2026届：金琦(国家电网-南昌)
+2025届：黄河(北京大学长沙计算与数字经济研究院-长沙)、陈诗铭（网易有道-杭州）、刘婧雯（美团-北京）
+2024届：贾那热斯·克孜尔别克(中国工商银行-北京)、温平平（美团-北京）
+2023届：任新(中兴-武汉)、戴艺晨（华为-上海）
+2022届：余冶(华为-杭州)、罗敏怡(国家电网-衡阳)、薛冰洁(中国联通-郑州)、薛程[共同指导](阿里巴巴-杭州)
+本科毕业设计(Undergraduate thesis)：
+欢迎对计算机视觉感兴趣的同学报名。邮件联系时请附上简历，并说明毕业后的去向或计划。
+学术服务 (Academic Service)
+领域主席 (Area Chair)：CVPR 2024 - 2026
+审稿 (Reviewer)：ICCV,  ECCV,  NeurIPS,  ICLR,  ICML (Gold Reviewer of 2026) et al.
+
+---
+
+## 曹达
+
+- **网址**: https://csee.hnu.edu.cn/people/caoda
+- **姓名**: 曹达
+- **邮箱**: caoda@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉、多媒体分析、信息检索、自然语言处理
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉、多媒体分析、信息检索、自然语言处理
+联系方式：caoda@hnu.edu.cn
+教师介绍
+曹达，副教授，博士生导师，岳麓学者，湖南省优青。研究方向包括计算机视觉、多媒体分析、信息检索、自然语言处理等。主持国家自然科学基金1项、湖南省自然科学基金3项、校企合作项目10项，参与国家重点研发计划1项、湖南省重点研发计划1项。迄今为止以第一或通讯作者发表论文20余篇（含CCFA类论文10篇），其中包括CVPR、MM、SIGIR等国际顶尖会议，以及TNNLS、TOIS、TKDE、TOMM等国际顶级期刊，同时担任SIGIR、KDD、TKDD、TKDE、TII、INS、KBS等会议、期刊的审稿人。申请国家发明专利10项，其中9项已授权。
+中文名：
+曹达
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+caoda@hnu.edu.cn
+研究方向：
+计算机视觉、多媒体分析、信息检索、自然语言处理
+联系地址：
+院楼566办公室
+所属机构：
+智能计算系
+学院教师
+代表性学术论文
+[1] Shu Luo, Qiwei Ma, Jiawei Wang, Da Cao, Shaofei Lu*. AutoVMR: An Autonomous Event Generation and Localization Approach for Video Moment Retrieval [J]. Information Sciences, 2025 (CCF B, SCI 2#)
+[2] Shu Luo, Shijie Jiang, Da Cao*, Huangxiao Deng, Jiawei Wang, Zheng Qin. Weakly-Supervised Spatial-Temporal Video Grounding via Spatial-Temporal Annotation on a Single Frame [J]. Knowledge-Based Systems, 2025 (CCF C, SCI 2#)
+[3] Shu Luo, Jingyu Pan, Da Cao*, Jiawei Wang, Yuquan Le, Meng Liu. Spatial–temporal video grounding with cross-modal understanding and enhancement [J]. Expert Systems with Applications, 2025 (CCF C, SCI 2#)
+[4] Jiawei Wang, Shaofei Lu*, Da Cao, Dongyu Wang, Yuquan Le, Zhe Quan, Tat-Seng Chua, Neural causal graph for interpretable and intervenable classification [C]. The 13th International Conference on Learning Representations, 2025
+[5] Jiawei Wang, Da Cao*, Shaofei Lu, Zhanchang Ma, Junbin Xiao, Tat-Seng Chua, Causal-driven Large Language Models with Faithful Reasoning for Knowledge Question Answering [C]. The 32nd ACM International Conference on Multimedia, 2024 (CCF A)
+[6] Jiawei Wang, Yuquan Le, Da Cao*, Shaofei Lu*, Zhe Quan, Meng Wang, Graph Reasoning with Supervised Contrastive Learning for Legal Judgment Prediction [J]. IEEE Transactions on Neural Networks and Learning Systems, 2024 (CCF B, SCI 1#)
+[7] Jiawei Wang, Zhanchang Ma, Da Cao*, Yuquan Le, Junbin Xiao, Tat-Seng Chua, Deconfounded Multimodal Learning for Spatio-temporal Video Grounding [C]. The 31st ACM International Conference on Multimedia, 2023 (CCF A)
+[8] Yajing Zhai, Yawen Zeng, Zhiyong Huang, Zheng Qin*, Xin Jin*, Da Cao. Multi-Prompts Learning with Cross-Modal Alignment for Attribute-Based Person Re-identifcation [C]. The 38th AAAI Conference on Artificial Intelligence, 2024 (CCF A)
+[9] Yajing Zhai, Yawen Zeng, Da Cao*, Shaofei Lu*. TriReID: Towards Multi-Modal Person Re-Identification via Descriptive Fusion Model [C]. The ACM International Conference on Multimedia Retrieval, 2022 (CCF B)
+[10] Shiyu Chen, Yawen Zeng, Da Cao*, Shaofei Lu*. Vision Talks: Visual Relationship-Enhanced Transformer for Video-Guided Machine Translation [J]. Expert Systems with Applications, 2022 (CCF C, SCI 2#)
+[11] Shiyu Chen, Yawen Zeng, Da Cao*, Shaofei Lu*. Video-guided Machine Translation via Dual-level Back-translation [J]. Knowledge-Based Systems, 2022 (CCF C, SCI 2#)
+[12] Yawen Zeng, Da Cao*, Shaofei Lu*, Hanling Zhang, Jiao Xu, Zheng qin. Moment is Important: Language-Based Video Moment Retrieval via Adversarial Learning [J]. ACM Transactions on Multimedia Computing, Communications, and Applications, 2022 (CCF B, SCI 3#)
+[13] Yawen Zeng, Da Cao*, Xiaochi Wei, Meng Liu, Zhou Zhao, Zheng Qin*. Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval [C]. 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021 (CCF A)
+[14] Da Cao, Xiangnan He, Lianhai Miao, Guangyi Xiao*, Hao Chen, Jiao Xu. Social-Enhanced Attentive Group Recommendation [J]. IEEE Transactions on Knowledge and Data Engineering, 2021 (CCF A, SCI 2#)
+[15] Da Cao, Yawen Zeng, Xiaochi Wei, Liqiang Nie, Richang Hong, Zheng Qin*. Adversarial Video Moment Retrieval by Jointly Modeling Ranking and Localization [C]. The 28th ACM International Conference on Multimedia, 2020 (CCF A)
+[16] Da Cao, Yawen Zeng, Meng Liu, Xiangnan He, Meng Wang, Zheng Qin*. STRONG: Spatio-Temporal Reinforcement Learning for Cross-Modal Video Moment Localization [C]. The 28th ACM International Conference on Multimedia, 2020 (CCF A)
+[17] Da Cao, Lianhai Miao, Huigui Rong*, Zheng Qin, Liqiang Nie. Hashtag Our Stories: Hashtag Recommendation for Micro-Videos via Harnessing Multiple Modalities [J]. Knowledge-Based Systems, 2020 (CCF C, SCI 2#)
+[18] Lianhai Miao, Da Cao*, Juntao Li, Weili Guan. Multi-modal product title compression [J]. Information Processing and Management, 2020 (CCF B, SCI 2#)
+[19] Guangyi Xiao, Qi Wu, Hao Chen, Da Cao*, Jingzhi Guo, Zhiguo Gong. A Deep Transfer Learning Solution for Food Material Recognition Using Electronic Scales [J]. IEEE Transactions on Industrial Informatics, 2020 (SCI 1#)
+[20] Da Cao, Zhiwang Yu, Hanling Zhang*, Jiansheng Fang, Liqiang Nie, Qi Tian. Video-Based Cross-Modal Recipe Retrieval [C]. The 27th ACM International Conference on Multimedia, 2019 (CCF A)
+[21] Da Cao*, Ning Han, Hao Chen, Xiaochi Wei, Xiangnan He. Video-Based Recipe Retrieval [J]. Information Sciences, 2019 (CCF B, SCI 2#)
+[22] Da Cao, Jingjing Chu, Ningbo Zhu*, Liqiang Nie. Cross-Modal Recipe Retrieval via Parallel- and Cross-Attention Networks Learning [J]. Knowledge-Based Systems, 2019 (CCF C, SCI 2#)
+[23] Da Cao, Xiangnan He, Lianhai Miao, Yahui An, Chao Yang*, Richang Hong. Attentive Group Recommendation [C]. The 41st International ACM SIGIR Conference, 2018 (CCF A)
+[24] Da Cao, Liqiang Nie, Xiangnan He, Xiaochi Wei, Shunzhi Zhu*, Tat-Seng Chua. Embedding Factorization Models for Jointly Recommending Items and User Generated Lists [C]. The 40th International ACM SIGIR Conference, 2017 (CCF A)
+[25] Da Cao, Xiangnan He, Liqiang Nie, Xiaochi Wei, Xia Hu, Shunxiang Wu*, Tat-Seng Chua. Cross-Platform App Recommendation by Jointly Modeling Ratings and Texts [J]. ACM Transactions on Information Systems, 2017 (CCF A, SCI 3#)
+[26] Da Cao, Liqiang Nie, Xiangnan He, Xiaochi Wei, Jialie Shen, Shunxiang Wu*, Tat-Seng Chua. Version-sensitive mobile App recommendation [J]. Information Sciences, 2017 (CCF B, SCI 2#)
+代表性专利
+[1] 曹达、曾雅文、荣辉桂、朱宁波、陈浩、秦拯，“基于强化学习的对抗性视频时刻检索方法、装置、计算机设备和存储介质”，授权，ZL202010557372.X
+[2] 曹达、翟亚静、曾雅文、陆绍飞，“生成描述多模态行人重识别方法、装置及电子设备”，授权，ZL202110834682.6
+[3] 曹达、陈诗雨、曾雅文、章成源、陆绍飞、荣辉桂，“神经网络机器翻译模型训练方法、机器翻译方法和装置”，授权，ZL202110395391.1
+[4] 曹达、陈诗雨、曾雅文、陆绍飞、荣辉桂、秦拯，“神经网络机器翻译模型训练方法、机器翻译方法和装置”，授权，ZL202110704424.6
+[5] 曹达、陈燃、缪莲海、高春鸣、陈浩、秦拯，“基于神经网络的旅行计划推荐方法、装置、计算机设备和存储介质”，授权，ZL202010648908.9
+[6] 曹达、曾雅文、荣辉桂、朱宁波、陈浩、秦拯，“基于时空强化学习的跨模态视频时刻定位方法”，授权，ZL202010562550.8
+[7] 曹达、马守兴、曾雅文、陈诗雨、陆绍飞、陈浩，“物品推荐方法、装置及存储介质”，授权，ZL202111439526.6
+[8] 曹达、潘景渝、陆绍飞、荣辉桂、陈浩、秦拯，“滞留目标的检测方法、装置及存储介质”，授权，ZL202211501603.0
+[9] 尚兴帆、曹达、 马启伟、 王嘉伟、 陆绍飞，“基于多智能体仿真与对抗训练的多模态工具调用数据生成系统及方法”，实审，202511393727.5
+[10] 曾雅文、曹达、魏骁驰、刘萌、赵洲、秦拯，“一种基于多模态关系图的视频时刻定位方法及设备”，授权，ZL202011292346.5
+科研项目
+2023年01月--2025年12月，“时空视频片段检索方法研究”，湖南省自然科学基金优秀青年项目（主持）。
+2022年01月--2024年12月，“基于主观内容查询的跨模态行人重识别方法研究”，湖南省自然科学基金面上项目（主持）。
+2019年01月--2021年12月，“面向短视频的可解释性推荐方法研究”，湖南省自然科学基金青年项目（主持）。
+2019年01月--2021年12月，“基于多模态数据融合的短视频信息检索及推荐方法研究”，国家自然科学基金青年项目（主持）。
+2017年07月--2022年06月，“基于深度学习的可解释性推荐方法研究”，中央高校基本科研业务费（主持）。
+2019年07月--2022年06月，“科技大数据理论与技术研究”，国家重点研发计划项目子课题（排名第2）。
+2021年01月--2022年12月，“肥胖及其代谢并发症全病程管理智慧医疗体系构建”，湖南省重点研发计划项目子课题（排名第2）。
+讲授课程
+博士课程：模式识别与机器学习、神经网络与深度学习
+硕士课程：机器学习、深度学习与强化学习
+本科课程：人工智能、计算机视觉导论、信息检索
+指导学生
+博士研究生：
+2020级：翟亚静
+2021级：王嘉伟
+2022级：罗曙
+2025级：何文彬
+2026级：王胜豪
+硕士研究生：
+2017级：于志旺、储晶晶、李海舟
+2018级：陈燃、张麒、陈福有
+2019级：曾雅文、陈诗雨、蔡成娜、杨鹏举、马守兴、资西湖、代安楚
+2020级：季晗婕、吴蕊、徐然怡
+2021级：潘景渝、麻展畅
+2022级：王向宇、江世杰、邓黄潇
+2023级：马启伟、李绍辉、洪银霞、尚兴帆
+2024级：张振明、曹浩旭、王胜豪、曹伟彬、赵龙
+2025级：张泽霄、李昱村、胡佳慧
+本科生：
+2014级：康兆年、郭孝镇、Messhari
+2015级：覃鑫、陈裕豪、刘琼
+2016级：冯振炜、佘超、莽天阳、曾诚、陈寅秋、杜帅
+2017级：冯秋实、熊威怡、丁亦凡、张鼎、冉珂凡
+2018级：罗璐莹、李孟豪、王向宇、潘高成、陈奇
+2019级：于峻沣、刘航、王炫奇、苏比·阿不力克木、德西拉措
+2020级：丑怡丹、张龙飞、王雨梦、庄勋宇、黄琦、姜雨彤
+2021级：崔毓璇、刘卓凡、金颖希、刘一凡、王明扬
+2022级：郝青林、王磊、税越、尹磊、邱振宇、陈逸珅
+
+---
+
+## 陈长建
+
+- **网址**: https://csee.hnu.edu.cn/people/chenchangjian
+- **姓名**: 陈长建
+- **邮箱**: changjianchen@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 交互式机器学习、可视分析、以数据为中心的人工智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：交互式机器学习、可视分析、以数据为中心的人工智能
+联系方式：changjianchen@hnu.edu.cn
+教师介绍
+陈长建，博士，副教授,博士生导师，湖南省芙蓉计划青年人才。2017年本科毕业于中国科学技术大学，2022年博士毕业于清华大学。主要研究方向为交互式机器学习、可视分析、以数据为中心的人工智能等，已在国际顶级学术期刊与重要学术会议发表论文20余篇，获中国图学学会优秀博士论文激励计划。担任VIS(CCF-A)档案主席，VIS(CCF-A)、PacificVis、ChinaVis的程序委员会委员，《计算机辅助设计与图形学学报》编委、《Visual_Informatics》青年编委。
+个人主页：https://changjianchen.github.io/
+中文名：
+陈长建
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+changjianchen@hnu.edu.cn
+研究方向：
+交互式机器学习、可视分析、以数据为中心的人工智能
+联系地址：
+超算中心1号楼310
+所属机构：
+计算机科学系
+学院教师
+科研状况
+News
+● 2026.4 关于法律法规约束下的异常检测工作被CCF-A类会议ACL接收
+● 2025.10 关于评估大模型对信息图表理解能力的数据集被CCF-A类会议NeurIPS接收
+● 2025.7 关于数据生成的工作被CCF-A类会议ACM MM接收，以及关于智能育种的工作被CCF-A类会议IEEE VIS接收
+● 2025.4 关于大规模网格数据探索的工作被CCF-A类期刊IEEE TVCG接收
+● 2025.2 获得CADCG优秀审稿人
+● 2025.1 关于可控图像生成的工作被CCF-A类期刊IEEE TVCG接收
+学生培养
+【2026年7月26日更新：27级硕士名额已满，27级直博名额还充足，欢迎校内同学联系】
+团队目前有若干博士生和硕士生名额，有意向者可提前联系。同时也欢迎本科生加入参与科研。
+研究方向课题组目前研究方向为面向时序数据的智能感知与辅助决策，聚焦复杂动态场景中的多元时序信息理解、状态感知、行为规划与辅助决策，构建从数据建模到智能决策的完整方法体系，涵盖大模型、演绎推理、机器学习、可视分析等领域，已经在气象、育种、审计等领域落地应用。
+希望你：
+1.对做研究有兴趣和热情，并且有自我驱动力【兴趣是最好的老师】
+2.编程能力强，数学知识扎实，能够正常阅读英文文献
+3.对机器学习和深度学习有一定基础【自学课程：实用机器学习，动手学深度学习】
+感兴趣的同学可以将简历和成绩单发至我邮箱。
+代表性论文
+- Haoliang Huang, Zihuang Cai, Zhuo Tang, Yifan Liu, Chen Tian, Kenli Li, Changjian Chen. Integrating Data Validation with Large Language Models for Regulation-Guided Tabular Anomaly Detection. ACL (CCF A). 2026.
+- Tianchi Xie, Minzhi Lin, Mengchen Liu, Yilin Ye, Changjian Chen, Shixia Liu.  InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts. NeurIPS (CCF A). 2025.
+- Ting Xiang, Changjian Chen, Zhuo Tang, Qifeng Zhang, Fei Lv, Li Yang, Jiapeng Zhang, Kenli Li. Enhancing Small-Scale Dataset Expansion with Triplet-Connection-based Sample Re-Weighting. ACM MultiMedia (CCF A). 2025.
+- Changjian Chen, Pengcheng Wang, Fei Lv, Zhuo Tang, Li Yang, Long Wang, Yong Cai, Feng Yu, Kenli Li. Interactive Hybrid Rice Breeding with Parametric Dual Projection. IEEE VIS (CCF A). 2025.
+- Yuxing Zhou, Changjian Chen, Zhiyang Shen, Jiangning Zhu, Jiashu Chen, Weikai Yang, Shixia Liu. Hierarchical Fuzzy-Cluster-Aware Grid Layout for Large-Scale Data. IEEE Transactions on Visualization and Computer Graphics (CCF A). 2025.
+- Changjian Chen, Fei Lv, Yalong Guan, Pengcheng Wang, Shengjie Yu, Yifan Zhang, Zhuo Tang. Human-Guided Image Generation for Expanding Small-Scale Training Image Datasets. IEEE Transactions on Visualization and Computer Graphics (CCF A). 2025.
+- Changjian Chen, Jiashu Chen, Weikai Yang, Haoze Wang, Johannes Knittel, Xibin Zhao, Steffen Koch, Thomas Ertl, Shixia Liu. Enhancing Single-Frame Supervision for Better Temporal Action Localization. IEEE Transactions on Visualization and Computer Graphics (CCF A). 2024.
+- Changjian Chen, Yukai Guo, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu. A Unified Interactive Model Evaluation for Classification, Object Detection, and Instance Segmentation in Computer Vision. IEEE Transactions on Visualization and Computer Graphics (CCF A, IEEE VIS), 2024 Vol. 30(1): 76-86.
+- Changjian Chen, Jing Wu, Xiaohan Wang, Shouxing Xiang, Song-Hai Zhang, Qifeng Tang, Shixia Liu. Towards Better Caption Supervision for Object Detection. IEEE Transactions on Visualization and Computer Graphics (CCF A), 2022 Vol. 28(4): 1941-1954.
+- Changjian Chen, Zhaowei Wang, Jing Wu, Xiting Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia Liu. Interactive Graph Construction for Graph-Based Semi-Supervised Learning. IEEE Transactions on Visualization and Computer Graphics (CCF A), 2021 Vol. 27(9): 3701-3716.
+- Changjian Chen, Jun Yuan, Yafeng Lu, Yang Liu, Hang Su, Songtao Yuan, and Shixia Liu. OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples. IEEE Transactions on Visualization and Computer Graphics (CCF A), 2021 Vol. 27(7): 3335-3349.
+
+---
+
+## 陈华
+
+- **网址**: https://csee.hnu.edu.cn/people/chenhua
+- **姓名**: 陈华
+- **邮箱**: chua@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉、智能信号与信息处理、人工智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉、智能信号与信息处理、人工智能
+联系方式：chua@hnu.edu.cn
+教师介绍
+长期从事计算机视觉、智能信息处理的理论研究和应用研发工作，主持国家自然科学基金面上项目两项、青年基金一项、国家高技术船舶重大项目课题一项，湖南省自然科学基金面上项目一项，在国内外权威期刊发表相关论文三十余篇，获授权发明专利二十余项。
+中文名：
+陈华
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+chua@hnu.edu.cn
+研究方向：
+计算机视觉、智能信号与信息处理、人工智能
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+代表性学术论文
+1.Zhengzhao Pan, Hua Chen*, Xiaogang Zhang*. DiffAdvMAP: Flexible Diffusion-Based Framework for Generating Natural Unrestricted Adversarial Examples. the 42nd International Conference on Machine Learning (ICML2025,CCF A).
+2.Wenbin Yan, Hua Chen*, Qingwei Wu,et al.. LFSSMam: Efficient Aggregation of Multi-Spatial-Angular-Modal Information Using Selective SSM for Light Field Semantic Segmentation. IEEE Transactions on Circuits and Systems for Video Technology.2025,35(12):12592-12606.(一区TOP）
+3.Kai Wang, Hua Chen*,Xiaogang Zhang*, et.al.. A Temporal-spatial Causal Variational Network foraccurate sintering temperature forecasting in rotary kilns. Engineering Applications of Artificial Intelligence.175(2026) 114600.(一区TOP）
+4.Shuran Wang, Hua Chen*,Heng Xiong, et al.. NAR Broad Learning System for dynamicalsystems prediction. Neural Networks.198 (2026) 108617.(二区TOP）
+5.Hua Chen, Yu Jiang, Xiaogang Zhang, et al. Spatio-Temporal graph attention network for
+sintering temperature long-range forecasting
+in rotary kilns.  IEEE Transactions on Industrial Informatics. 2023,19(2):1923-1932.(一区TOP）
+6.姜羽, 陈华*,张小刚*, 等. 基于启发式时空图神经网络的多变量时序异常检测. 中国科学: 信息科学, 2023,  doi: 10.1360/SSI-2022-0425.（院定A类）
+7. Xiaogang Zhang ,Yanying Lei , Hua Chen* ,et al.. Multivariate time-series modeling for forecasting sintering temperature in rotary kilns using DCGNet. IEEE Transactions on Industrial Informatics. 2021,17(7):4635-4645.(一区TOP）
+8. Hua Chen, Tingting Yan, Xiaogang Zhang*. Burning condition recognition of rotary kiln based on spatiotemporal features of flame video. Energy. 211(2020) 118656.(一区TOP）
+近年主持科研项目
+1.分段焊接关键数字化短板装备研制。国家高技术船舶重大项目课题，2024-2027；
+2.多模态数据驱动的燃煤工况检测关键技术研究。国家自然科学基金面上项目，2023-2026；
+3.燃煤烧结工况的鲁棒视觉检测方法研究与应用。国家自然科学基金面上项目，2017-2018；
+4.熟料质量稳健检测中的关键技术与并行实现方法研究。 国家自然科学基金青年项目，2013-2015；
+5.基于相位一致性的燃煤火焰图像分割和视觉特征提取。湖南省自然科学基金面上项目，2018-2020；
+6.青岛杰瑞自动化有效公司，分布式海上环境协同感知软件平台研发。横向，2021-2022；
+7.哈尔滨工程大学青岛船舶科技有限公司，面向不均衡样本条件下的机器学习算法开发。横向，2020；
+
+---
+
+## 陈湘涛
+
+- **网址**: https://csee.hnu.edu.cn/people/chenxiangtao
+- **姓名**: 陈湘涛
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 数据挖掘与机器学习，社交网络，大数据技术，模式分类，迁移学习，数据库与数据仓库等
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：数据挖掘与机器学习，社交网络，大数据技术，模式分类，迁移学习，数据库与数据仓库等
+联系方式：lbcxt at hnu.edu.cn
+教师介绍
+博士，副教授，中国计算机学会会员。1996年于湖南师范大学获学士学位，2000年、2004年于中南大学分别获硕士、博士学位。2005年8月至今，在湖南大学计算机学院从事数据挖掘与机器学习方面的教学研究工作。2010年1月至2011年1月，美国WrightStateUniversity计算机科学与工程系访问学者。目前研究兴趣为数据挖掘与机器学习，社交网络，大数据技术等。近年来，主持湖南省自然科学基金2项；参与国家自然科学基金6项，国家科技支撑计划项目2项，博士点基金1项，省部级项目4项；主持或参与企业横向课题10余项。在国内重要学术期刊公开发表学术论文40余篇，其中SCI,EI检索20余篇，参编专著1部。
+中文名：
+陈湘涛
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+lbcxt at hnu.edu.cn
+研究方向：
+数据挖掘与机器学习，社交网络，大数据技术，模式分类，迁移学习，数据库与数据仓库等
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机科学系
+学院教师
+学习经历
+2000.09-2004.04，中南大学，博士
+1997.09-2000.06，中南大学，硕士
+1992.09-1996.06，湖南师范大学，学士
+工作经历
+2006.12-至今，湖南大学，计算机学院，副教授
+2010.01-2011.01，美国wright state university，计算机科学与工程系，访问学者
+2005.06-2006.12，湖南大学，计算机与通信学院，讲师
+2004.06-2006.12，中南大学，信息科学与工程学院，博士后
+2001.9-2005.6，湖南中大业翔科技有限公司，项目开发（兼职）
+1998.9-2000.8，长沙中力大方信息技术有限公司，项目开发（兼职）
+研究领域
+1.数据挖掘与机器学习
+2.社交网络
+3.大数据技术
+4.数据库
+主讲课程
+本科生：数据库原理，机器学习，算法设计与分析
+研究生：数据挖掘技术，高等算法设计与分析
+科研状况
+参与或主持的纵向课题列表：
+1.国家自然科学基金面上项目，62472166，多模态图联邦学习隐私保护关键技术研究，2025/01至2028/12，进行中，参加
+2.国家自然科学基金面上项目，62372165，面向单细胞和空间组学数据的细胞异质性分析和药物反应预测方法研究，2024/01至2027/12，进行中，参加
+3.国家自然科学基金组织间国际（地区）合作研究项目，62361166662，高通量药物发现大模型关键技术研究，2024/01至2026/12，进行中，参加
+4.湖南省自然科学基金，2021JJ30134、基于对比模式的大规模不平衡数据分类学习研究、2021/01-2023/12、已结题，主持。
+5.国家自然科学基金面上项目，61873089，MicroRNA对基因的调控作用及其与疾病关联关系的计算方法研究，2019/01至2022/12，已结题，参加
+6.国家科技部，国家重点研究发展计划，2018YFC0910405，精准医学大数据的有效挖掘与关键信息技术研发-课题5高通量生物医学数据高效算法与并行计算， 2018/06至2020/12，已结题，骨干
+7.国家自然科学基金面上项目，61572180、基于新一代测序数据的复杂疾病特异共调控网络构建及分析方法研究、2016/01-2019/12、已结题、参加。
+8.湖南省自然科学基金，2015JJ2032、交叉领域共享知识结构挖掘算法研究、2015/01-2017/12、已结题、主持。
+9.国家科技支撑计划项目，2014BAK08B01、文化旅游资源挖掘与体验式平台研发与示范、2014/01-2016/12、已结题、参加。
+参与或主持的横向课题列表：
+1.铝电解智能优化制造APP服务平台开发
+2.用户画像软件系统的设计与开发
+3.新能源材料2+1项目MES系统
+4.长远锂科智能生产MES系统
+5.光电智能分选技术咨询服务项目
+6.锂电池正极材料智能工厂信息化咨询服务项目
+7.云平台下铝电解槽况分类器的研究与开发
+8.基于物联网的港口物流信息服务平台建设
+近年发表的论文
+[1] Chen Xiangtao, Fang Shurui, Wang Ying, Li Linghan, Lu Xinguo. HEAMWalk: Heterogeneous Network Embedding Based on Attribute Combined Multi-view Random Walks. Advanced Intelligent Computing Technology and Applications - 20th International Conference, ICIC 2024,2024(14874 LNCS):199-211.(CCF C会议)
+[2] Xiangtao Chen, Yuting Bai, Peng Wang, Jiawei Luo. Data augmentation based semi-supervised method to improve COVID-19 CT classification[J]. Mathematical Biosciences and Engineering, 2023, 20(4): 6838-6852.(中科院SCI四区)
+doi: 10.3934/mbe.2023294
+[3] He Yezi, Chen Xiangtao*, Tu Nguyen Hoang, Luo Jiawei. Deep Multi-Constraint Soft Clustering Analysis for Single-Cell RNA-Seq Data via Zero-Inflated Autoencoder Embedding. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2023,20(3):2254-2265. (中科院SCI三区)
+[4] Zehao Xiong, Xiangtao Chen*, Jiawei Luo*, Cong Shen, Zhongyuan Xu. scSAGAN: A scRNA-seq data imputation method based on Semi-Supervised Learning and Probabilistic Latent Semantic Analysis. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Las Vegas, NV, USA, 2022:178-181.(CCF B会议)
+doi: 10.1109/BIBM55620.2022.9995463.
+[5] Xiangtao Chen, Meijie Zhao. A Stable Community Detection Approach for Large-Scale Complex Networks Based on Improved Label Propagation Algorithm. In: Huang, DS., Jo, KH., Jing, J., Premaratne, P., Bevilacqua, V., Hussain, A. (eds) Intelligent Computing Methodologies. ICIC 2022. Lecture Notes in Computer Science, vol 13395. Springer, Cham. (CCF C会议)
+https://doi.org/ 10.1007/978-3-031-13832-4_25
+[6] Xiangtao Chen*, Lan Zhang, Xiaohui Wei, Xinguo Lu. An effective method using clustering-based adaptive decomposition and editing-based diversified oversamping for multi-class imbalanced datasets[J]. Applied Intelligence, 2021,51:1918- 1933.(EI，SCI三区)
+[7] Chen Xiangtao*, Li Juan. Community detection in complex networks using edge-deleting with restrictions[J]. Physica A: Statistical Mechanics and its Applications, 2019, 519: 181-194.(EI，SCI三区)
+[8] Wu Ronghui, Li Qing, Chen Xiangtao*. Mining contrast sequential pattern based on subsequence time distribution variation with discreteness constraints[J]. Applied Intelligence, 2019,49(12):4348-4360.(EI，SCI三区)
+
+---
+
+## 丁岩
+
+- **网址**: https://csee.hnu.edu.cn/people/dingyan
+- **姓名**: 丁岩
+- **邮箱**: ding@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 高性能计算、并行计算、分布式处理、体系结构、边缘智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：高性能计算、并行计算、分布式处理、体系结构、边缘智能
+联系方式：ding@hnu.edu.cn
+教师介绍
+丁岩，博士，副教授，博士生导师，中国科协青年托举人才、湖南省湖湘青年英才、中国电子学会青年托举人才。2021年12月博士毕业于湖南大学，同年在湖南大学计算机科学与技术学科从事博士后研究。2023年12月留校任助理教授，2025年9月晋为副教授。主要研究领域涉及高性能计算、边缘智能、并行与分布式处理、体系结构等。以第一作者或通讯作者身份在领域顶级学术期刊或会议IEEE-TPDS、IEEE-TC、IEEE-TSC、ACM/IEEE-DAC等上发表论文多篇，获2019年ISPA会议杰出论文奖（排名第1/5）、教育部科学研究优秀成果一等奖（排名第6/13）。主持国家自然科学基金面上项目、青年项目，中国博士后科学基金特别资助等省部级及以上项目多项。
+中文名：
+丁岩
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+ding@hnu.edu.cn
+研究方向：
+高性能计算、并行计算、分布式处理、体系结构、边缘智能
+联系地址：
+湖南大学信息科学与工程学院
+所属机构：
+计算机科学系
+学院教师
+招生说明
+课题组2027年剩余招生指标：博士研究生2人，硕士研究生2人（更新时间2025年12月2日）
+一、研究方向
+我的课题组主要围绕异构算力平台、并行计算、AI加速体系结构、云边端协同等方向开展研究，重点解决国产异构算力管理和调度、大模型训练推理加速、自主可控AI硬件架构设计、云边端算力协同适配等关键问题，助力构建自主、高效、安全的国产算力支撑体系。
+二、培养模式与发展支持
+（一）博士生培养
+·满足湖南大学博士毕业基本条件前提下，支持博士3年级期间赴海外顶尖高校/科研机构开展联合培养；
+·鼓励博士在三年半内完成学位论文答辩；
+·积极协调国（境）内外高性能计算、体系结构、AI领域顶尖团队间的合作。
+（二）硕士生/本科生培养
+·针对想继续深造的同学，协助申请国（境）内外顶尖高校及科研团队的博士/硕士深造机会；
+·针对想去工业界的同学，协调字节跳动、华为、阿里巴巴、腾讯等头部企业的技术研发类实习机会；
+·针对想投身社会公共服务事业的同学，提供政策解读及综合能力培养。
+三、申请条件与流程
+（一）基本素养要求
+·尊重自己和他人；（本/硕/博）
+·具备强烈的上进心与科研热情；（本/硕/博）
+·熟练掌握一门编程语言（如 Python、C/C++）；（硕/博）
+（二）联系流程
+·联系前准备：精读 1 篇体系结构、AI 领域顶级会议论文（如 HPCA、ISCA、NeurIPS、ICML等），梳理个人对论文的兴趣点及理解；
+·邮件投递：发送邮件至我的邮箱（建议注明 “硕士/博士申请-姓名-院校-意向方向”），邮件请包含：对所选论文的兴趣阐述与深度理解，读研/读博的核心原因、学术目标及未来职业规划，并附个人简历（含教育背景、科研经历、项目实践、获奖情况）；
+·适配分析：收到邮件后，我将对“学生需求与个人能力”进行适配评估，争取做到“不误人子弟”。
+四、双选与预培育
+·初步筛选：根据申请材料评估基础能力与科研潜力，重点关注与课题组研究方向的匹配度；
+·双向了解：通过线下/线上面谈，充分沟通研究预期与培养计划；
+·潜力培育：一经确认科研潜力，立即提供综合性指导和帮助（如课题调研、科研实操、论文写作）。
+五、培养理念与学术要求
+（一）科研与生活的平衡
+·鼓励研究生在学期间丰富生活体验，鼓励学生结合个人兴趣在课题组研究方向内选择研究课题；
+·坚决杜绝“混日子”（拖延进度、敷衍任务、无故停滞）与“浮于表面的形式主义”（无实质文档、重复无意义实验），要认真对待生活和科研，注重过程质量与自我价值。
+（二）学术目标要求
+·博士生：聚焦高水平科学研究，需在中国计算机学会推荐期刊会议列表中的A类期刊和会议，或者ACM/IEEE权威会刊上发表至少2篇学术成果；
+·硕士生：注重科研思维和创新实践能力培养，不强制成果数量，优先保障社会化能力提升；
+·本科生：注重实践能力培养和学术兴趣发掘，重点保障升学和就业方向的自主选择权。
+（三）长远发展支持
+·博士生：支持赴国内外顶尖高校/机构从事博士后研究，或入职科研院所、高校、头部企业；
+·硕士生：根据职业规划提供升学深造、工业实践、公共服务等方向的指导；
+·本科生：提供科研入门训练，支持参与竞赛、申请创新项目，助力未来升学或职业发展。
+六、特别说明
+（一）课题组内相处核心原则
+·师生间、同学间均要秉持“相互尊重、平等相待、携手并进、互利共赢”的基本关系准则。
+（二）针对不同招生群体的说明
+·核心招募群体：有志于攻读计算机硕士/博士学位，对计算机理论、国产算力生态建设、AI大模型并行优化、体系结构、边缘智能、AI创新应用感兴趣的同学；
+·本科生：欢迎学有余力的本科生加入，参与课题研究，开拓科研视野，提升实践能力，支持并鼓励在课题组内攻读博士学位（需获得推免资格）；
+·潜力型同学：欢迎“对科研有兴趣、对生活有热情、对未来有期待”的同学，欢迎对计算机技术感兴趣的数学、自动化、机械、物理等相关专业背景的同学，共同探索未知。
+七、附则
+·本招生说明最新更新时间：2025 年 12 月 2 日（基于研究方向、培养模式及招生群体补充更新）；
+·未尽事宜可通过邮件沟通。
+学术论文
+[* indicates corresponding author ]
+· Yan Wang, Runyue Li, Yan Ding*, Keqin Li, and Cen Chen. Efficient Inference Scheduling with Edge and Cloud Collaboration for LLMs under Resource constraints, IEEE Transactions on Computational Social Systems, inpress, 2026.
+· Haotian Wang, Yan Ding*, Wangdong Yang, Zhuo Tang, Chubo Liu, and Kenli Li. Polarity-Aware and Adaptive Sparse Aggregation for Implicit Heterophilic Graph Classification, Transactions on Knowledge and Data Engineering, in press, 2026.   (CCF A)
+· Haotian Wang, Yan Ding*, Huilong Pi, Keqin Li, Kenli Li, and Wangdong Yang. STCG: Sparse Tensor Code Generation via Adaptive Tile Scheduling on GPUs with Tensor Cores, 63nd ACM/IEEE Design Automation Conference (DAC), 2026.  (CCF A)
+· Shidan Ma, Yan Ding*, Xu Zhou, Peng Peng, Youhuan Li, Zhibang Yang, and Kenli Li. Property-Induced Partitioning for Graph Pattern Queries on Distributed RDF Systems,  IEEE Transactions on Knowledge and Data Engineering, in press, 2026.  (CCF A)
+· Zheng Li, Yan Ding*,  Yikun Hu*, Mingxing Duan, Zhuo Tang, and Kenli Li. Intrusion Detection for Cyber-Physical-Social Systems: A Collaborative Hybrid Recursive Feature Addition-Based Approach, IEEE Transactions on Computational Social Systems, in press, 2026.
+· Junjie Chen, Yan Ding*, Chubo Liu, and Keqin Li. CAMVA: An ExtensionArchitecture of CNN Accelerators for Multi-View Acceleration, IEEE Transactions on Computers, in press, 2025.  (CCF A)
+· Dong Yin, Huizhang Luo*, Yan Ding*, Chubo Liu, Wenchao Zhao, and Kenli Li. AEIS: A New Energy Efficiency Improvement Scheme for MLC STT-MRAM, IEEE Transactions on Computers, in press, 2025.   (CCF A)
+· Yuquan Le, Zheng Xiao*, Yan Ding*, Eng Siong Chng, and Kenli Li. On Imbalance in Case Types: Evaluating and Enhancing PLMs for Criminal Court View Generation, IEEE Transactions on Neural Networks and Learning Systems, in press, 2025.   (CCF B)
+· Yunzhen Luo, Yan Ding*, Zhuo Tang, Keqin Li, Kenli Li, and Chubo Liu*. BEAST-GNN: A United Bit Sparsity-Aware Accelerator for Graph Neural Networks, IEEE Transactions on Computers, vol. 74, no. 7, pp. 2402-2416, 2025.  (CCF A)
+· Jingyu Zhu, Yan Ding*, Lu Xiao, Kenli Li, Chubo Liu, and Zheng Xiao*. A Post-Implementation Performance Prediction Method with HLS Optimization Directives, 62th ACM/IEEE Design Automation Conference (DAC), 62nd ACM/IEEE Design Automation Conference (DAC), 2025.  (CCF A)
+· Shengle Lin, Chubo Liu*, Yan Ding, Joey Tianyi Zhou, Kenli Li, and Wangdong Yang*. SSpMV: A Sparsity-aware SpMV Framework Empowered by Multimodal Machine Learning, 62th ACM/IEEE Design Automation Conference (DAC), 62nd ACM/IEEE Design Automation Conference (DAC), 2025.  (CCF A)
+· Meng Wang, Yan Ding*, Yumeng Liu*, Yunchuan Qin, Ruihui Li, and Zhuo Tang. MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion, IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no. 6, pp. 5684-5696, 2025.  (CCF B)
+· Haotian Wang, Yan Ding*, Yumeng Liu*, Weichen Liu, Chubo Liu, Wangdong Yang, and Kenli Li. A Context-Awareness and Hardware-Friendly Sparse Matrix Multiplication Kernel for CNN Inference Acceleration,  IEEE Transactions on Computers, vol. 74, no. 4, pp. 1182-1195, 2025.  (CCF A)
+· Xiaoxue Li, Yan Ding*, Ruihui Li, Zhuo Tang, and Kenli Li. MoNeRF: Deformable Neural Rendering for Talking Heads via Latent Motion Navigation, Computer Graphics Forum, vol. 44, no. 1, 2025.  (CCF B)
+· Zhan Gao, Yan Ding*, Ningbo Zhu,  Hongjie Zhang, Chunlian Wang, Shengli Li and Kenli Li. Automated Screening Network for Fetal Closed Spina Bifida With Semantic Enhancement and Projected Attention, IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3503679, 2024. (JCR1区)
+· Qilin Hu,Yan Ding*, Chubo Liu*,  Keqin Li, Kenli Li, and Albert Zomaya. CBANA: A Lightweight, Efficient, and Flexible Cache Behavior Analysis Framework, IEEE Transactions on Computers, vol. 73, no. 9, pp. 2262-2274, 2024. (CCF A)
+· Shengyi Ji, Chubo Liu*, Yan Ding*, Qing Liao, and Zhuo Tang. A Real-time Execution System of Multimodal Transformer through PIM-GPU Collaboration, 61nd ACM/IEEE Design Automation Conference (DAC), 2024. (CCF A)
+· Yan Ding, Chubo Liu*, Mingxing Duan, Wanli Chang, Keqin Li, and Kenli Li. HAIMA: A Hybrid SRAM and DRAM Accelerator-in-Memory Architecture for Transformer, 60nd ACM/IEEE Design Automation Conference (DAC), 2023. (CCF A)
+· Yan Ding, Kenli Li*, Chubo Liu, Zhuo Tang, and Keqin Li*. Budget-Constrained Service Allocation Optimization for Mobile Edge Computing, IEEE Transactions on Services Computing, vol.16, no.1, pp.147-161, 2023. (CCF A)
+· Yan Ding, Kenli Li*, Chubo Liu, and Keqin Li*. A Potential Game Theoretic Approach to Computation Offloading Strategy Optimization in End-Edge-Cloud Computing, IEEE Transactions on Parallel and Distributed Systems, vol.33, no.6, pp.1503-1519, 2022. (CCF A)
+· Yan Ding, Kenli Li*, Chubo Liu, Zhuo Tang, and Keqin Li*. Short- and Long-term Cost and Performance Optimization for Mobile User Equipments, Journal of Parallel and Distributed Computing, vol.150, pp.69-84, 2021. (CCF B)
+· Yan Ding, Chubo Liu*, Xu Zhou, Zhao Liu, and Zhuo Tang. A Code-Oriented Partitioning Computation Offloading Strategy for Multiple Users and Multiple Mobile Edge Computing Servers, IEEE Transactions on Industrial Informatics, vol.16, no.7, pp.4800-4810, 2020. (JCR1区Top)
+· Yan Ding, Chubo Liu*, Kenli Li, Zhuo Tang, and Keqin Li. Task Offloading and Service Migration Strategies for User Equipments with Mobility Consideration in Mobile Edge Computing, 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2019. (CCF C，Outstanding Paper Award)
+· Yan Ding, Nurbol Luktarhan*, Keqin Li, and Wushour Slamu. A Keyword-based Combination Approach for Detecting Phishing Webpages, Computers & Security, vol.84, pp.256-275, 2019. (CCF B)
+科研项目
+一、横向课题
+·面向省级能源可信数据空间的隐私计算与高效互联关键技术研究,国网湖南电力公司，202604-202704，主持
+·适配国产超算系统的XXX高效异构协同与运行时并行关键技术研究，XXX委托，202604-202804，主持
+·基于XXX的演示验证系统开发与应用验证，XXX委托，202509-202609，结题，主持
+·一种自适应的盘古模型优化方法，华为技术有限公司委托，202511-202602，结题，主持
+二、纵向课题
+·脑科学与类脑研究国家科技重大专项，类脑计算系统资源管理与调度（子课题：融合类脑处理器的大规模异构计算系统资源管理器），202509-203008，在研，主持
+·国家自然科学基金面上项目，面向边缘智能的大模型并行处理架构与动态编译优化研究，No.62572180，202601-202912，在研，主持
+·国家自然科学基金青年项目，面向大规模深度神经网络的云边端协同并行处理框架与体系结构研究，No.62202154，202301-202512，结题，主持
+·中国博士后科学基金第4批特别资助（站前），面向边缘智能的云边端协同并行处理关键技术研究，No.2022TQ0102，202207-202311，结题，主持
+课程教学
+一、本科生课程
+·2025-2026学年秋季，计算机网络，CS05103，核心课程
+·2025-2026学年秋季，计算与人工智能概论B，TB001XK24B，通识课程
+·2024-2025学年秋季，机器学习，CS06144，选修课程
+·2024-2025学年春季，计算与人工智能概论A，TB001XK24A，通识课程
+二、研究生课程
+·2026-2027学年春季，高等计算机网络，A2510004M
+·2024-2025学年春季，智能计算系统，A2010020M
+
+---
+
+## 杜四春
+
+- **网址**: https://csee.hnu.edu.cn/people/dusichun
+- **姓名**: 杜四春
+- **邮箱**: jt_dsc@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能、类脑智能、存算一体集成电路、AI芯片设计
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能、类脑智能、存算一体集成电路、AI芯片设计
+联系方式：jt_dsc@hnu.edu.cn
+教师介绍
+姓名:杜四春，男，生于1975年2月，湖南邵东人，博士，湖南大学信息科学与工程学院副教授、博士研究生导师、先进通信技术湖南省高校重点实验室核心成员。长期从事人工智能、类脑智能、存算一体集成电路、AI芯片设计等方面教学和科研工作，主持承担国家自然科学基金项目2项，部省级项目3项，参与国家及省部级项目8项，在国内外学术期刊上及国际会议上发表论文30余篇，其中SCI检索30篇。联系方式：jt_dsc@hnu.edu.cn
+中文名：
+杜四春
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+jt_dsc@hnu.edu.cn
+研究方向：
+人工智能、类脑智能、存算一体集成电路、AI芯片设计
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+学术论文
+(1) Sichun Du S ; Zedi Zhang; Jun Li; Chen Sun; Jingru Sun; Qinghui Hong ; MultidirectionalAssociative Memory Neural Network Circuit Based on Memristor, IEEE Transactions on BiomedicalCircuits and Systems, 2023, 17(3): 433-445 (期刊论文 期 ) ( 本人标注: 唯一第一作者 )
+(2) Sichun Du S ; Jun Li; Chen Sun; Pingdan Xiao; Qinghui Hong; Jiliang Zhang ; Analog In-memoryCircuit Design of Polynomial Multiplication for Lattice Cipher Acceleration Application, ACMTransactions on Embedded Computing Systems, 2023, 1-23 (期刊论文 期 ) ( 本人标注: 唯一第一作者)
+(3) Qinghui Hong; Pingdan Xiao; Ruijia Fan; Sichun Du S ; Memristive Neural Network CircuitDesign Based on Locally Competitive Algorithm for Sparse Coding Application, Neurocomputing,2024, 578(2024): 1-11 (期刊论文 期 ) ( 本人标注: 唯一通讯作者 )
+(4) Sichun Du S ; Qing Deng; Qinghui Hong; Chunhua Wang ; A Memristor-based Circuit Design ofPavlov Associative Memory With Secondary Conditional Reflex and Its Application, Neurocomputing,2021, 463(2021): 341-354 (期刊论文 期 ) ( 本人标注: 唯一第一作者 )
+(5) Sichun Du S ; Qing Deng; Qinghui Hong; Jun Li; Haiyang Liu; Chunhua Wang ; A Memristor-basedCircuit Design and Implementation for Blocking on Pavlov Associative Memory, Neural Computing andApplications, 2022, 34(17): 14745-14761 (期刊论文 期 ) ( 本人标注: 唯一第一作者 )
+研究工作简历
+[1]  2008/09-2014/03，湖南大学，信息科学与工程学院，副教授、计算中心主任
+[2]  2012/08-2013/07，加拿大里贾纳大学（UNIVERSITY OF REGINA），应用科学与工程学院，访问学者
+[3]  2001/06-2008/08，湖南大学，计算机与通信学院，讲师、计算机应用系副主任
+科研状况
+(1) 国家自然科学基金委员会, 面上项目, 62471177 , 基于模拟电路的控制系统实时稳定性判定新方法研究,2025-01-01 至 2028-12-31, 50万元, 在研, 主持
+(1) 国家自然科学基金委员会, 面上项目, 62371186, 大规模矩阵方程的模拟电路快速求解新方法研究,2024-01-01 至 2027-12-31, 53万元, 在研, 参与
+(2) 国家自然科学基金委员会, 面上项目, 62273139, 多模态数据驱动的燃煤工况检测关键技术研究,2023-01-01 至 2026-12-31, 53万元, 在研, 参与
+(3) 国家自然科学基金委员会, 面上项目, 62271197, 基于忆阻器的注意力机制大脑情感学习网络, 2023-01-01 至 2026-12-31, 55万元, 在研, 参与
+(4) 国家自然科学基金委员会, 面上项目, 61971185, 基于VDCCTA具有长时记忆特性的忆阻器电路及其构成的神经网络, 2020-01-01 至 2023-12-31, 65万元, 资助期满, 参与
+研究方向
+1. 模拟矩阵计算，包括基本矩阵计算单元设计、模拟电路与模拟计算理论，及面向机器学习、科学计算、无线通信等领域的应用；
+2.新型存储器及基于忆阻器的存算一体，涵盖从器件、工艺集成、架构、算法、芯片以及系统等多个层次；
+3.基于阻变动力学的神经网络模型，包括阻变存储器电路的动力学特性与应用、吸引子网络理论与算法；
+学生培养
+近年研究生去向：
+2024届 张泽迪 硕士 国防科大（读博）
+黎俊 硕士 华星光电（武汉）
+2023届 刘海洋 博士 湖南财经学院
+2022届 宋雨平 硕士 中兴微
+申佩佩 硕士 成都银行
+2021届 邓青 硕士 深信服
+2020届 欧伟 硕士 中兴微
+黎赛 硕士 湖南大学（读博）
+孙钰盛 硕士 东南大学（读博）
+2019届 李丹 硕士 海格通信
+2018届 金季春 硕士 湖南联通
+2017届 韩祥闯 硕士 山东联通
+2016届 朱雄辉 硕士 深圳中兴
+2015届 章彬 硕士 华为南宁分公司
+2014届 张光祥 硕士 深圳中兴
+2013届 黄文彬 硕士 深圳华为
+
+---
+
+## 付彬
+
+- **网址**: https://csee.hnu.edu.cn/people/fubin
+- **姓名**: 付彬
+- **邮箱**: fubin@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 车联网、车内网、物联网、深度学习
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：车联网、车内网、物联网、深度学习
+联系方式：fubin@hnu.edu.cn
+教师介绍
+付彬，博士，副教授，硕士生导师。2013年博士毕业于湖南大学计算机科学与技术专业，2005年起在湖南大学工作。主要研究方向为车联网、车内网、物联网、深度学习等。联系方式：fubin@hnu.edu.cn.
+中文名：
+付彬
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+fubin@hnu.edu.cn
+研究方向：
+车联网、车内网、物联网、深度学习
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机工程系
+学院教师
+科研状况
+近年来主要项目：
+1、软件定义的VANET动态QoS路由及流表更新机制研究（国家自然科学基金61502162，主持，2016-2018）
+2、新一代汽车嵌入式系统功能安全的建模与算法研究（国家自然科学基金61672217，参与，2017-2020）
+3、新型计算环境下绿色节能虚拟化资源分配方法研究（国家自然科学基金61672220，参与，2017-2020）
+4、城市多网空间下软件定义物联网的移动接入机制研究（国家自然科学基金61602168，参与，2017-2019）
+5、“E级计算机关键技术验证系统”子课题：体系结构感知的程序优化方法（国家重点研发计划2016YFB0200405，参与，2016-2018）
+6、汽车嵌入式系统服务与数据融合中间件研究（国家自然科学基金61370094，参与，2014-2017）
+7、认知无线传感器网络中的信道感知与分配算法（国家自然科学基金61370096，参与，2014-2017）
+8、车载自组网实时协作定位系统及多数据源融合算法研究（国家自然科学基金61272061，参与2013-2016）
+9、以汽车为例的CPS若干问题研究（国家自然科学基金61173036，参与，2012-2015)
+10、一类复杂环境下的无线传感器网络定位算法研究（国家自然科学基金60673061，参与）
+11、矿井无线传感器网络移动节点定位与动态轨迹跟踪研究（湖南省自然科学基金06JJ50111，参与）
+12、基于无线传感器网络的矿井瓦斯监控平台的研究（博士点基金20060532024，参与）
+发表论文
+发表的论文：
+1.  RuchengJiang, Bin Fu, Renfa Li, Rui Li, Danny Z. Chen, Yan Liu, Guoqi Xie, Keqin Li. Adual-branch convolutional neural network with domain-informed attention forarrhythmia classification of 12-lead electrocardiograms.Engineering Applications of ArtificialIntelligence,2025
+2.  Yan,W., Fu, B., Huang, J., Lu, R., Li, R., Xie, G. A conflict-free CAN-to-TSNscheduler for CAN-TSN gateway. Journal of Systems Architecture,153, 103188,2024
+3.  Yan,W., Wei, D., Fu, B., Li, R., Xie, G.. A Mixed-Criticality Traffic Schedulerwith Mitigating Congestion for CAN-to-TSN Gateway. ACM Transactions on DesignAutomation of Electronic Systems, 2024.
+4.  Ran Li, Bin Fu, Guoqi Xie,Fei Peng, Renfa Li. Efficient holistic timing analysis with low pessimism forrate-constrained traffic in TTEthernet. Journal of Systems Architecture,2023
+5.  Zhenzhen Hu, Fanzi Zeng, ZhuXiao, Bin Fu, Hongbo Jiang, Hailiang Xiong, Yongdong Zhu, and Mamoun Alazab. JointResources Allocation and 3D Trajectory Optimization for UAV-enabledSpace-Air-Ground Integrated Networks. IEEE TRANSACTIONS ON VEHICULARTECHNOLOGY, 2023
+6.  Yinyin Gong, Rui Li, Bin Fu ,Yan Liu , Jilong Wang , Renfa Li , and Danny Z. Chen. A CNN-LSTM Ensemble Modelfor Predicting Protein-Protein Interaction Binding Sites. IEEE-ACM Transactionson Computational Biology and Bioinformatics, 2023
+7.  付彬，查理佳，李仁发，肖雄仁.软件定义的VANET下流表用量感知的QoS路由机制.计算机研究与发展，2017，54(11):2628-2638
+8.  付彬, 李仁发, 肖雄仁,等. 基于社团结构的容迟传感器网络多副本数据传输策略研究.通信学报, 2013,34(7):174-183
+9.  付彬, 李仁发, 肖雄仁. 容迟移动传感器网络预测辅助的数据传输机制. 小型微型计算机系统，2013, 34(10):2286-2292
+10.  付彬, 李仁发, 刘彩苹, 肖雄仁. 无线传感器网络中一种基于网络编码的拥塞感知可靠路由协议. 计算机研究与发展, 2011, 48(6)
+11.  周兰花，付彬，李仁发，刘新忠，黄晶. 基于异构计算的三维FDTD并行算法及其在电磁仿真中的应用. 计算机工程与科学，2017,39(7): 1241-1248
+
+---
+
+## 付巍
+
+- **网址**: https://csee.hnu.edu.cn/people/fuwei
+- **姓名**: 付巍
+- **邮箱**: fuwei@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 图像处理、机器学习、深度学习及其在遥感和智能导航等领域的应用。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：图像处理、机器学习、深度学习及其在遥感和智能导航等领域的应用。
+联系方式：fuwei@hnu.edu.cn
+教师介绍
+2019年博士毕业于湖南大学控制科学与工程专业（模式识别与智能系统方向）。于2016-2017年在冰岛大学校长、遥感信息处理领域知名专家JonAltiBenediktsson教授（IEEEFellow）团队联合培养1年。长期从事图像（遥感图像）信息获取与智能处理算法研究，机器人视觉语言导航与定位研究等内容。在相关领域的国际期刊/会议发表论文20余篇，其中IEEETransactions期刊论文11篇，中科院SCI一区论文12篇。主持国家自然科学基金2项，主持湖南省和长沙市自科基金2项，横向项目1项。在国家自然科学基金创新研究群体项目、教育部“111”引智基地、湖南省“视觉感知与人工智能”重点实验室中担任研究骨干。目前担任智能计算系副系主任。
+中文名：
+付巍
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+fuwei@hnu.edu.cn
+研究方向：
+图像处理、机器学习、深度学习及其在遥感和智能导航等领域的应用。
+联系地址：
+信科院533
+所属机构：
+智能计算系
+学院教师
+个人简历
+付巍，男，博士。现为湖南大学信息科学与工程学院副教授，智能计算系副主任。本人研究方向主要分为两部分：1、智能机器人的视觉导航控制系统：在工程应用方面，现阶段致力于研发实用型、稳定工作的AGV，已研发样机并在实际工厂试运行，后续将瞄准消费级人型机器人智能系统的研发；在科学研究方向，目前主要围绕vision-language navigation和BEV视角3D目标检测两个topic。2、卫星、高空无人机遥感图像的地面目标识别、关键要素提取，现阶段主要致力于国产高分卫星的型号级舰船、飞机等典型目标的检测识别，以及道路、建筑、桥梁等重点要素的分割提取，为潜在的国防应用提供技术支持。
+联系邮箱：fuwei@hnu.edu.cn
+主要学习与工作经历:
+2023/12-至今，  湖南大学，信息科学与工程学院，副教授
+2019/11- 2023/12，  湖南大学，信息工程与科学学院，助理教授，硕导
+2014/9 - 2019/6，湖南大学，控制科学与工程系，博士，导师: 李树涛 教授(IEEE Fellow)
+2016/2–2017/2, 冰岛大学，联合培养博士，联合培养导师，Jon Atli Benediktsson 教授(冰岛大学校长，IEEE Fellow)
+2012/9 - 2014/8，  湖南大学，控制科学与工程系，硕士
+2008/9 - 2012/6，  湖南大学，自动化，学士
+学术论文
+期刊论文:
+l W. Fu*, K. Xie, L. Fang, Complementarity-Aware Local-global Feature Fusion Network for Building Extraction in Remote Sensing Images,  IEEE Transactions on Geoscience and Remote Sensing, 2024, published online，Doi: 10.1109/TGRS.2024.3370714 (中科院SCI 一区, CCF B)
+l T. Lu, Y. Fang, W. Fu*, K. Ding, and X. Kang, Dual-Stream Class-Adaptive Network for Semi-Supervised Hyperspectral Image Classification, IEEE Transactions on Geoscience and Remote Sensing, 2024, vol. 62 (中科院SCI 一区, CCF B)
+l W. Fu, K. Ding, X. Kang, and D. Wang, Local-Global Gated Convolutional Neural Network for Hyperspectral Image Classification, IEEE Geoscience and Remote Sensing Letters, 2024, vol. 21 (中科院SCI 三区)
+l T. Lu, M. Liu, W. Fu*, and X. Kang, Grouped Multi-Attention Network for Hyperspectral Image Spectral-Spatial Classification, IEEE Transactions on Geoscience and Remote Sensing, 2023, vol. 61 (中科院SCI 一区, CCF B)
+l T. Lu, K. Ding, W. Fu*, S. Li, and A. Guo, Coupled Adversarial Learning for Fusion Classification of Hyperspectral and LiDAR data, Information Fusion, 2023, vol. 93(中科院SCI 一区，IF=18.6)
+l T. Lu, Y. Hu, W. Fu*, K. Ding, B. Bai, and L. Fang, SCL-NET: An End-to-End Supervised Contrastive Learning Network for Hyperspectral Image Classification, IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60 (中科院SCI 一区, CCF B)
+l K. Ding, T. Lu, W. Fu,  S. Li, and F. Ma,  Global-local Transformer Network for HSI and LiDAR DataJoint Classification, IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60 (中科院SCI 一区, CCF B)
+l S. Zhang, T. Lu, W.Fu*,  and S. Li, Superpixel-Level Hybrid Discriminant Analysis for Hyperspectral Image Feature Extraction, IEEE Transactions on Geoscience and Remote Sensing. 2022, vol. 60 (中科院SCI 一区, CCF B)
+l  S. Zhang, T. Lu, S. Li and W.Fu, Superpixel-Based Brownian Descriptor forHyperspectral Image Classification, IEEETransactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5520112.  (中科院SCI 一区, CCF B)
+l  B. Bai, W. Fu*, T. Lu, and S. Li, Edge-Guided Recurrent Convolutional Neural Network for Multitemporal RemoteSensing Image Building Change Detection, IEEE Transactions on Geoscience and Remote Sensing. 2021, doi:10.1109/TGRS.2021.3106697  (中科院SCI 一区, CCF B)
+l W. Fu, T. Lu and S. Li, Context-Aware Compressed Sensing ofHyperspectral Image, in IEEE Transactions on Geoscience and Remote Sensing, vol. 58,no. 1, pp. 268-280, Jan. 2020. (中科院SCI 一区, CCF B)
+l W. Fu, S. Li, L. Fang and J. A. Benediktsson, "ContextualOnline Dictionary Learning for Hyperspectral Image Classification,  IEEETransactions on Geoscience and Remote Sensing, vol. 56, no. 3, pp. 1336-1347, March 2018. (中科院SCI 一区, CCF B)
+l W. Fu, S. Li, L. Fang and J. A. Benediktsson, AdaptiveSpectral–Spatial Compression of Hyperspectral Image With Sparse Representation,IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 2, pp. 671-682, Feb. 2017. (中科院SCI 一区, CCF B)
+l W. Fu, S. Li, L. Fang, X. Kang and J. A. Benediktsson, HyperspectralImage Classification Via Shape-Adaptive Joint Sparse Representation, in IEEEJournal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 9, no. 2, pp. 556-567, Feb. 2016. (中科院SCI 二区)
+会议论文:
+l  Wei Fu, K. Xie, T. Lu, and X. Du, Semantic Alignment Network for Building Extraction From Remote Sensing Images, IGARSS 2024 - 2024 IEEE InternationalGeoscience and Remote Sensing Symposium, Athens.(Accepted)
+l  Wei Fu and Lishuang Yang, Remote Sensing Image Scene Classification via Multi-Level Representation Learning, International Conference on Pattern Recognition (ICPR), 2022, Canada Montréal.
+l  M. Liu, T. Lu, and Wei Fu, "Cross-Layer Multi-Attention Guided Spectral-Spatial Classification ofHyperspectral Images," IGARSS 2022 - 2022 IEEE InternationalGeoscience and Remote Sensing Symposium, Kuala Lumpur, Malaysia, 2022, pp.3131-3134.
+l  W. Fu and S. Li, "Semi-Tensor Compressed Sensing for HyperspectralImage," IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018, pp. 2737-2740.
+l  W. Fu, S. Li, L. Fang and J. A. Benediktsson, "Spectral-spatialonline dictionary learning for hyperspectral image classification," 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), FortWorth, TX, USA, 2017, pp. 3724-3727.
+l  W. Fu, S. Li and L. Fang, "Spectral-spatial hyperspectral imageclassification via superpixel merging and sparse representation," 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Milan,Italy, 2015, pp. 4971-4974.
+l  W. Fu, S. Li, L. Fang, X. Kang and J. A. Benediktsson,"Spectral-spatial hyperspectral classification via shape-adaptive sparserepresentation," 2014 IEEE Geoscience and Remote Sensing Symposium,Quebec City, QC, Canada, 2014, pp. 3430-3433.
+科研项目
+l  国家自然科学基金面上项目， 2025.01-2028.12，50万，主持。
+l 国家自然科学基金青年科学基金项目， 2021.01-2023.12，24万，主持。
+l  湖南省自然科学基金青年科学基金项目， 2022.01-2024.12，5万，主持。
+l  长沙市自然科学基金青年科学基金项目， 2021.01-2022.7，10万，主持。
+l 智能搬运车多模感知与导航调度技术研究（系列项目），2023.8-2026.8，71万，主持。
+l 中央高校基本科研业务费，2019.12-2022.07，25万，主持。
+l  国家自然科学基金重大项目子课题, 多维高分辨图像解混、重构、融合与增强方法研究,2019.01-2023.12，323万，主研。
+l  国家自然科学基金国际合作与交流重点项目 ，高分辨率高光谱遥感图像信息获取与处理, 2016.01-2020.12，245万，主研。
+主讲课程
+本科生课程: 《机器学习》《计算机视觉导论》《生物特征识别》《人机交互技术》《图形图像处理技术》
+研究生课程：《机器学习及其应用技术》
+学生培养
+招收硕士研究生，同时欢迎对无人车自主导航、多车智能调度、机械臂视觉感知定位等具身智能技术开发感兴趣的本科生提前进组锻炼，学生校内培养依托省级重点实验室平台，并与校外的智能设备生产企业紧密开展产学研合作，欢迎有良好数学基础、或编程及软件设计基础、或光学工程基础、或遥感地理信息基础的同学加入，研究成果丰富者将推荐到德国、西班牙、法国、冰岛等遥感领域优秀科研团队继续升造，欢迎感兴趣的同学及时联系（请发邮件fuwei@hnu.edu.cn）。
+讨论与活动
+
+---
+
+## 洪庆辉
+
+- **网址**: https://csee.hnu.edu.cn/people/hongqinghui
+- **姓名**: 洪庆辉
+- **邮箱**: hongqinghui@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 超低功耗模拟计算电路设计、先进计算架构、存算一体与可重构计算、人工智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：超低功耗模拟计算电路设计、先进计算架构、存算一体与可重构计算、人工智能
+联系方式：hongqinghui@hnu.edu.cn
+教师介绍
+洪庆辉，湖南大学副教授、博士生导师、通信工程系副主任，获湖南大学青年教师托举计划、CCF杰出演讲者、湖南省自然科学三等奖、电子信息学报优秀编委。担任中国计算机学会容错计算专委委员，集成电路设计专委委员，中国电子学会混沌与非线性电路专委委员，电子与信息学报青年编委。主要从事超低功耗模拟计算电路设计、先进计算架构、存算一体与可重构计算、深度学习、图像处理等研究，主持国家自然科学重点项目课题、国家自然科学基金面上/青年项目、CCF-华为胡杨林基金、湖南省重点研发计划、湖南省“湖湘青年英才”、湖南省自然科学基金等科研项目10项。在TC、TIE、TII、TCAD、TCAS-I、DAC等顶级期刊上以一作或通信作者发表SCI论文60余篇，IEEE论文35篇，其中CCF-A或中科院一区20篇，IF>10论文8篇。欢迎具有通信、电子、控制、计算机背景的同学报考硕士和博士生。
+中文名：
+洪庆辉
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+hongqinghui@hnu.edu.cn
+研究方向：
+超低功耗模拟计算电路设计、先进计算架构、存算一体与可重构计算、人工智能
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学信息科学与工程学院
+所属机构：
+通信工程系
+学院教师
+工作经历
+2022.12-至今        湖南大学信息科学与工程学院 副教授/博士生导师、硕士生导师
+2022.01-2022.11  湖南大学信息科学与工程学院 副教授/硕士生导师
+2019.07-2021.12  湖南大学信息科学与工程学院 助理教授/硕士生导师
+科研项目（主持）
+2024年-2027年，大规模矩阵方程的模拟电路求解新方法研究，国家自然科学基金面上项目
+2023年-2027年，持续感知芯片的安全可信关键技术，国家自然科学基金重点项目课题
+2021年-2023年，面向全并行编程与在线学习的忆阻神经网络电路研究，国家自然科学基金青年项目
+2024年-2026年，高能效的模拟存内计算芯片关键技术研究与应用，湖南省重点研发计划项目
+2024年-2025年，湖南省科技特派员
+2023年-2025年，湖南省湖湘青年英才
+2022年-2023年，基于模拟存内计算的格密码高效硬件电路研究，CCF-华为胡杨林基金
+2022年-2025年，湖南大学青年教师托举计划
+2019年-2024年，忆阻神经网络的全电路设计及应用研究，中央高校科研业务费
+2020年-2022年，具有类脑记忆特性的忆阻神经网络设计，湖南省高校创新实验室开放基金
+2020年-2022年，智能家居照明芯片设计，广东省科技特派员项目
+2021年-2023年，面向可穿戴式的忆阻在线学习电路研究，湖南省自然科学基金项目
+研究内容
+面向感存算一体的类脑智能软硬件研究
+受人脑工作机制启发，发展类脑智能逐渐成为人工智能与计算科学领域研究的热点。而另一方面，人工智能的高速发展，需要底层硬件的计算性能不断提升。受制于传统冯诺依曼体系架构，现有的通用硬件平台（CPU、GPU和FPGA等）难以实现相关算法。从器件、算法、电路和类脑智能等多个角度出发，在面向存算一体的类脑智能软件与硬件两方面展开工作，研究如何利用类脑学习、情感、记忆等特性进行存算一体的软件算法与硬件电路设计，并应用在物联网和边缘计算、机器人、图像处理、人脸识别、可穿戴设备等领域。具体研究方向如下：
+1）类脑智能算法
+2）生理信号处理算法及其智能硬件实现
+3）面向感存算一体的智能硬件
+4）在线学习，深度学习，图像处理
+5）仿生控制与仿生学习系统设计
+学术论文
+近5年一作或通信代表性论文
+Sichun Du,Zhengmiao Wei,Pingdan Xiao,Yu Dong,Shiping Wen,Qinghui Hong*,"Analog Matrix Inversion Circuit Design for Solving Tridiagonal Linear Systems: A Compact and Decoupled Approach"，IEEE Transactions on Very Large Scale Integration (VLSI) Systems, DOI: 10.1109/TVLSI.2025.3612422.(2025)
+Pingdan Xiao,Yiliu Gu,Haoyou Jiang, Qinghui Hong*,"Memristive Neural Network Circuit Implementation of Model Predictive Control for Trajectory Tracking,"IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,DOI:10.1109/TCAD.2025.3592587.(2025)
+Haoyou Jiang, Tao Li, Pingdan Xiao, Sichun Du, Qinghui Hong*，"EDCSSM: Edge Detection with Convolutional StateSpace Model," IEEE Transactions on Circuits and Systems I: Regular Papers.(2025)
+Sen Zhang, Pingdan Xiao, Qinghui Hong*, Lin Tang, Zhengdao Xie, Rui He, Bei Jiang, Xitong Hong, Xinjie Li, Haodi Zhu, Ruohao Hong, Chang Liu, Xingqiang Liu, Yawei Lv, Yang Chai, Lei Liao*, Xuming Zou*, "Rational design of a vision fusion system with visible and near-infrared spectral integration for improved environmental perception," National Science Review, 2025, https://doi.org/10.1093/nsr/nwaf204.(2025)(中科院一区)
+Qinghui Hong, Jiping Kang, Pingdan Xiao, Zhengmiao Wei and Sichun Du, "Universal Programmable Transfer Function Modeling Circuit based on Memristors for PID Simulation Application,"  IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3567628.(2025)
+Pingdan Xiao, Junjie Fang, Zhengmiao Wei,Yu Dong,Sichun Du,Shiping Wen,Qinghui Hong*, "A Riccati Matrix Equation Solver Design Based Neurodynamics Method and Its Application,"  IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 15163-15176, 2025, doi: 10.1109/TASE.2025.3567981.(2025)
+Pingdan Xiao, Zhengmiao Wei, Sichun Du, Wanli Chang*, Qinghui Hong*, "ACIM-QMM: Efficient Analog Computing-in-Memory Accelerator for QC-MDPC McEliece Cryptosystem", ACM/IEEE Design Automation Conference (DAC), Accepted.(CCF A类会议)(2025)
+Sichun Du, Haodi Zhu, Yang Zhang and Qinghui Hong*, "An Encoder-Decoder Model Based On Spiking Neural Networks For Address Event Representation Object Recognition,"IEEE Transactions on Cognitive and Developmental Systems, Doi: 10.1109/TCDS.2025.3548868.(2025)
+Qinghui Hong, Haoyou Jiang, Pingdan Xiao, Sichun Du and Tao Li, "A Parallel Computing Scheme Utilizing Memristor Crossbars for Fast Corner Detection and Rotation Invariance in the ORB Algorithm," IEEE Transactions on Computers, Doi: 10.1109/TC.2024.3504817.(CCFA)(2025)
+Pingdan Xiao, Sichun Du, Zhengmiao Wei, Qinghui Hong* and Shiping Wen. Design and Application of Programmable Analog Computing Circuit for Kalman Filter Algorithm Based on Memristive Array. IEEE Transactions on Circuits and Systems for Artificial Intelligence. Doi: 10.1109/TCASAI.2024.3493039.(2024)
+Pingdan Xiao, Qinghui Hong*, Sichun Du, and Jiliang Zhang. 2024. CIM-KF: Efficient Computing-in-memory Circuits for Full-Process Execution of Kalman Filter Algorithm. In Proceedings of the 53rd International Conference on Parallel Processing (ICPP '24), https://doi.org/10.1145/3673038.3673079. (CCF B类会议)(2024).
+Jiliang Zhang, Xinjie Li, Pingdan Xiao, Qinghui Hong*. Design of Optoelectronic In-Sensor Computing Circuit Based on Memristive Crossbar Array for In-Situ Edge Extraction.IEEE Transactions on Circuits and Systems I: Regular Papers.DOI: 10.1109/TCSI.2024.3391281.(2024)
+Qinghui Hong, Qing Li , Jia Li, Jingru Sun , and Sichun Du.Programmable Bionic Control Circuit Basedon Central Pattern Generator.IEEE Transactions on Cognitive and Developmental Systems.DOI:10.1109/TCDS.2024.3388152.(2024)
+Ya Li, Shaojun Ji, and Qinghui Hong*. Circuit Implementation of Memristive Fuzzy Logic for Blood Pressure Grading Quantification. IEEE Transactions on Emerging Topics in Computational Intelligence,10.1109/TETCI.2024.3404004.(2024)
+Pingdan Xiao, Qinghui Hong*, Jingru Sun, Sichun Du and Jiliang Zhang, Design and Application of Programmable Analog Circuit for Solving Lyapunov Matrix Equation Based on Memristors,IEEE Transactions on Industrial Electronics, DOI: 10.1109/TIE.2023.3299044. (中科院一区)(2023)
+Pingdan Xiao, Qinghui Hong*, Sichun Du and Jiliang Zhang, Analog-in-memory Accelerator Design based on Memristive Arrays for Opposite Directional Interference Alignment Algorithm, IEEE Transactions on Industrial Informatics, 20(3): 3628-3638 . (中科院一区)(2023)
+Hegan Chen, Qinghui Hong*, Zhongrui Wang, Chunhua Wang, Xiangxiang Zeng and Jiliang Zhang. Memristive Circuit Implementation of Caenorhabditis Elegans Mechanism for Neuromorphic Computing. IEEE Transactions on Neural Networks and Learning System, DOI: 10.1109/TNNLS.2023.3250655.(中科院一区) (2023)
+Sichun Du, Zedi Zhang, Jun Li, Chen Sun, Jingru Sun and Qinghui Hong*, Multidirectional Associative Memory Neural Network Circuit Based on Memristor, IEEE Transactions on Biomedical Circuits and Systems, doi: 10.1109/TBCAS.2023.3276077. (2023)
+Qinghui Hong, Shen Man,Jingru Sun, Jiliang Zhang.Programmable In-Memory Computing Circuit for Solving Combinatorial Matrix Operation in One Step, IEEE Transactions on Circuits and Systems I: Regular Papers, DOI:10.1109/TCSI.2023.3263217. (2023)
+Qinghui Hong, Haotian Fu, Yiyang Liu and Jiliang Zhang. In-Memory Computing Circuit Implementation of Complex Valued Hopfield Neural Network for Efficient Portrait Restoration. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. DOI: 10.1109/TCAD.2023.3242858.(CCF A类) (2023)
+Qinghui Hong, Bang He, Zedi Zhang, Pingdan Xiao, Sichun Du and Jiliang Zhang. Circuit Design and Application of Discrete CosineTransform based on Memristor. IEEE Journal on Emerging and Selected Topics in Circuits and Systems.DOI: 10.1109/JETCAS.2023.3243569. (2023)
+Sichun Du, Jun Li, Chen Sun, Pingdan Xiao, Qinghui Hong*, and Jiliang Zhang. 2023. Analog In-memory Circuit Design of Polynomial Multiplication for Lattice Cipher Acceleration Application. ACM Transactions Embedded Computing Systems. https://doi.org/10.1145/3605891. (2023)
+Jingru Sun, Mu Peng, Hongbo Jiang, Qinghui Hong*,Yichuang Sun. a Hierarchical Mapping and Interactive Attention Data Fusion Network for Traffic Forecasting, IEEE Internet of Things Journal,vol. 9, no. 24, pp.25685 - 25697,2022. (中科院一区) (2022)
+Qinghui Hong, Lanxin Yang, Sichun Du and Ya Li. Memristive Recurrent Neural Network Circuit for Fast Solving Equality-Constrained Quadratic Programming with Parallel Operation, IEEE Internet of Things Journal, vol. 9, no. 23, pp. 24560-24571, 1 Dec.1, 2022, doi: 10.1109/JIOT.2022.3189407. (中科院一区) (2022)
+Qinghui Hong, Renao Yan, Chunhua Wang and Jingru Sun. Memristive Circuit Implementation of Biological Nonassociative Learning Mechanism and Its Applications, IEEE Transactions on Biomedical Circuits and Systems, vol. 14, no. 5, pp. 1036-1050, Oct. 2020, doi: 10.1109/TBCAS.2020.3018777.  (仿生电路领域权威期刊) (2022)
+Hegan Chen, Qinghui Hong*, Wenqi Liu, Zhongrui Wang and Jiliang Zhang. Design and Application of Biomimetic Memory Circuit based on Hippocampus Mechanism, IEEE Transactions on Cognitive and Developmental Systems, 2022, doi: 10.1109/TCDS.2022.3205033.(2022)
+Yiyang Liu, Chunhua Wang, Jingru Sun, Sichun Du and Qinghui Hong*. One-Step Calculation Circuit of FFT and Its Application, IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 7, pp. 2781-2793, July 2022. (电路与系统领域权威期刊) (2022)
+Hanpu Zhou, Zhuoying Fei, Qinghui Hong*, Jingru Sun, Sichun Du, Tao Li and Jiliang Zhang. Bionic Dual-loop Emotional Learning Circuit and Its Application In Radiation Early Warning Monitoring, IEEE Transactions on Cognitive and Developmental Systems, 2022, doi: 10.1109/TCDS.2022.3200470. (2022)
+Renao Yan, Qinghui Hong*, Chunhua Wang, Jingru Sun and Ya Li. Multilayer Memristive Neural Network Circuit based on Online Learning for License Plate Detection, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.vol. 41, no. 9, pp. 3000-3011, Sept. 2022, doi: 10.1109/TCAD.2021.3121347.(CCF A类) (2021)
+Haotian Fu, Qinghui Hong*, Chunhua Wang, Jingru Sun and Ya Li. Solving Non-Homogeneous Linear Ordinary Differential Equations Using Memristor-Capacitor Circuit, IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 11, pp. 4495-4507, Nov. 2021. (电路与系统领域权威期刊) (2021)
+Z. Chen, J. Zhang, S. Wen, Y. Li and Q. Hong*, Competitive Neural Network Circuit Based on Winner-Take-All Mechanism and Online Hebbian Learning Rule, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 29, no. 6, pp. 1095-1107, June 2021. (CCF B类) (2021)
+Qinghui Hong*, Ya Li, Xiaoping Wang and Zhigang Zeng. A Versatile Pulse Control Method to Generate Arbitrary Multidirection Multibutterfly Chaotic Attractors, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no. 8, pp. 1480-1492, Aug. 2019. (CCF A类) (2019)
+Qinghui Hong, Hegan Chen, Jingru Sun and Chunhua Wang. Memristive Circuit Implementation of a Self-Repairing Network Based on Biological Astrocytes in Robot Application. IEEE Transactions on Neural Networks and Learning Systems. vol. 33, no. 5, pp. 2106-2120, May 2022, doi: 10.1109/TNNLS.2020.3041624. (中科院一区) (2020)
+Qinghui Hong, Qiujie Wu, Xiaoping Wang and Zhigang Zeng. Novel Nonlinear Function Shift Method for Generating Multiscroll Attractors Using Memristor-Based Control Circuit, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 27, no. 5, pp. 1174-1185, May 2019.  (CCF B) (2019)
+学生培养
+2026年博士招生中，请联系。
+人生目标：1.优秀自己、成就他人、解决模拟计算领域一些关键问题；2.做学生的人生导师：培养学生，爱生如子，传道授业解惑，做学生的“好老师，好朋友”。
+(1) 将根据你的专业背景及个人兴趣以及毕业后是去企业工作还是继续深造，制定一套详细的培养计划；(2) 自始至终提供全方面的科研指导，特别是对研究方向及研究内容可提供具体的思路及指导；（3）定期与你进行学术交流与讨论，及时解决相关问题，并提供经费支持参加国内外相关学术会议；(4) 对于你取得的学术成果，将根据论文级别从个人科研经费里进行现金奖励；(5）对于表现优秀的学生，我很乐意推荐你到国内大型企业工作或海内外高校深造。欢迎有志之士报考我的研究生，同时接收有远大理想、脚踏实地的本科生进行科研培训。有意者请Email联系。
+对20名本科生进行研究生式指导，长期为学生组织论文写作培训、科研方法培训、讨论会、组会等，每年对新进组学生进行为期一个月的全方面科研能力培训，训练学生的科研能力和写作能力，指导本科生发表IEEE T论文12篇，所培养的本科生前往香港大学，香港科技大学，清华大学深圳研究院，北京大学深圳研究院，南京大学，天津大学，华科大，北京理工大学，中科院空天院读研深造20人。指导本科毕业设计3人获信科院优秀创新论文一等奖，获得2020，2021年湖南大学本科毕业设计优秀指导老师。指导学生国家级SIT项目3项，其中一项获第十五届全国大学生创新创业年会推荐项目（全校1/7）。
+本科生：陈和甘 香港大学（IEEE TNNLS, IEEE TNNLS, IEEE T COGN DEV SYST）；颜任遨 清华大学深研院（IEEE TCAD，IEEE TBCAS）；杨兰馨 南京大学（IEEE INTERNET THINGS）；石子锐 天津大学（NEURAL COMPUT APPL）；满慎 中科院空天院（IEEE TCAD）；周涵谱 北京理工大学（IEEE T COGN DEV SYST）；李晴 中科院空天院直博（IEEE T COGN DEV SYST）；付皓天 香港科技大学直博（IEEE T CIRCUITS-I, IEEE TCAD）彭文龙 华科 樊锐佳 北京大学深研院。
+研究生: 刘祎洋（IEEE T CIRCUITS-I，IEEE TC） 张居迪（IEEE TVLSI） 黎俊（IEEE TVLSI） 肖平旦（中国科学：计算机科学, NEURAL COMPUT APPL, Neurocomputing）。
+所获奖励
+2025年湖南大学“优秀教师”
+湖南大学2024年度教学优秀奖
+2022 CCF 杰出演讲者
+电子信息学报优秀编委
+湖南大学青年教师托举计划
+湖南大学新进教师微格演练二等奖
+信科院青年教师教学基本功大赛一等奖
+2021、2022湖南大学本科毕业设计优秀指导老师
+2022本科毕业实习优秀指导教师
+指导的国家级大学生创新项目获第十五届全国大学生创新创业年会成果展示奖
+指导国家级大学生创新项目获湖南大学二等奖2项
+学术交流
+2024年CCF芯片大会程序委员会主席
+2023年CCF容错计算大会组委会主席（CCF CFTC 2023）
+论坛主席，首届CCF芯片大会（CCF Chip2022）
+专题主编：“存内计算”，电子与信息学报，2022
+中国电子学会电路与系统分会“第三十届学术年会”：忆阻神经网络的全电路设计及应用 2019.11
+广东技术师范大学：基于忆阻器的神经网络电路设计方法 研究生小白科研方法及写作技巧培训 2019.12
+中国地质大学：类脑智能电路设计及应用 2021.9
+湖南工学院：科技论文写作实战经验分享 2021.10
+湘潭大学：基于忆阻器的存内计算电路 科技论文写作实战经验分享 2021.10  2022.3
+长沙理工大学：面向存算一体的类脑智能电路设计及应用 2022.5
+华中科技大学 华中农业大学：存算一体智能计算电路及应用 2022.6
+Electronics专题研讨会：新型计算范式：模拟存内计算电路设计及应用 2024.06      成都大学：高水平科技论文写作经验分享 2024.12
+中国电子学会电路与系统分会混沌与非线性电路年会 新型模拟计算电路 2025.4
+
+---
+
+## 黄柯文
+
+- **网址**: https://csee.hnu.edu.cn/people/huangkewen
+- **姓名**: 黄柯文
+- **邮箱**: huangkewen@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 无线通信，物理层安全，隐蔽通信
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：无线通信，物理层安全，隐蔽通信
+联系方式：huangkewen@hnu.edu.cn
+教师介绍
+黄柯文，博士，副教授。
+2022年2月加入湖南大学信息科学与工程学院通信系。
+2021年获得西安交通大学信息与通信工程专业博士学位。
+2019年10月至2020年10月，至加州大学戴维斯分校访学。
+2015年获得西安交通大学信息工程专业学士学位。
+中文名：
+黄柯文
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+huangkewen@hnu.edu.cn
+研究方向：
+无线通信，物理层安全，隐蔽通信
+联系地址：
+湖南大学信息科学与工程学院 304
+所属机构：
+通信工程系
+学院教师
+课题组主要围绕面向6G的无线通信技术、无线安全技术开展研究，2026年秋季研究生尚有名额，欢迎联系咨询。
+学术论文
+1.    Ke-Wen Huang, H. -M. Wangand L. Yang, "Covert RIS-Based Symbiotic Radio in Artificial Noise-AidedSecure Communications Systems," in IEEE Transactions onWireless Communications,
+2.  Ke-Wen Huang, S. Shi, H. -M. Wang and L.Yang, "Covert Communications in Active Reconfigurable Intelligent SurfaceBased Symbiotic Radio Systems," in IEEE Transactions on VehicularTechnology, vol. 74, no. 3, pp. 5164-5169, March 2025
+3. Ke-Wen Huang, H.-M Wang, L. Yang, Smart Jamming Using Reconfigurable IntelligentSurface:Asymptotic Analysis and Optimization, IEEETransactions on Wireless Communications, 2024.
+4.    Ke-Wen Huang, H.-M Wang, and H. V.Poor, “On Covert Communication Against SequentialChange-Point Detection” IEEETransactions on Information Theory, vol. 67, no.11, pp. 7285– 7303, Aug. 2021.
+5.  Ke-Wen Huang, H. Deng, and H.-MWang,“Jamming aided covert communication with multiple receivers” IEEETransactionson Wireless Communications, vol. 20, no. 7, 4480–4494, July 2021.
+6.  Ke-Wen Huang and H. -M.Wang,“Intelligent reflecting surface aided pilot contamination attack anditscountermeasure,” IEEE Transactions on Wireless Communications, vol. 20, no.1,pp. 345–359, Jan. 2021.
+7.      Ke-Wen Huang and H.-MWang,“Passive beamforming for IRS aided wireless networks,” IEEEWirelessCommunications Letters, vol. 9, no. 12, pp. 2035–2039, Dec. 2020.
+8.     Ke-Wen Huang, H.-M Wang, D. Towsleyand H. V. Poor, “LPD communication: Asequential change-point detectionperspective,” IEEE Transactions onCommunications, vol. 68, no. 4, pp.2474-2490, April 2020.
+9.   Ke-Wen Huang, H.‐M. Wang, J. Hou,andS. Jin, “Joint spatial division and diversity for massive MIMO systems,”IEEETransactions on Communications, vol. 67, no. 1, pp. 258–272, Jan. 2019.
+10. H.‐M. Wang, Ke-Wen Huang, and T. A.Tsiftsis, “Base station cooperation inmillimeter wave cellular networks:Performance enhancement of cell–edge users,”IEEE Transactions onCommunications, vol. 66, no. 11, pp. 5124–5139, Nov. 2018.
+11. Ke-Wen Huang and H.‐M.Wang,“Identifying the fake base station: A location based approach,”IEEECommunications Letters, vol. 22, no. 8, pp. 1604‐1607, Aug. 2018.
+12. Ke-Wen Huang and H.‐M.Wang,“Combating the control signal spoofing attack in UAV systems,”IEEETransactions on Vehicular Technology, vol. 67, no. 8, pp. 7769‐7773, Aug.2018.
+13.   H.‐M. Wang, Ke-Wen Huang, and T. A. Tsiftsis, “Multipleantennassecure transmission under pilot spoofing and jamming attack,” IEEEJournal onSelected Areas in Communications, vol. 36, no. 4, pp. 860‐876, April2018.
+14. Ke-Wen Huang, H.‐M. Wang, Y. Wu,andR. Schober, “Pilot spoofing attack by multiple eavesdroppers,”IEEETransactions on Wireless Communications, vol. 17, no. 10, pp. 6433‐6447,Oct.2018.
+15.   H.‐M. Wang, Ke-Wen Huang, Q. Yang and Z. Han, “Jointsource‐relaysecure precoding for MIMO relay networks with direct links,” IEEETransactionson Communications, vol. 65, no. 7, pp. 2781‐2793, Jul. 2017.
+16.   Y. Ju, X. Qiu, Y. Chen, Ke-Wen Huang, Q. Yin and H. Wang,“Beamformingdesign for interference management in millimeter wave cellularnetworks withpartial CSI,” 2017 9th International Conference on WirelessCommunications andSignal Processing (WCSP), Nanjing, 2017, pp. 1‐6.
+17. Y. Xu, H. Wang, Q. Yang, Ke-Wen Huang, and T.Zheng,“Cooperative transmission for physical layer security by exploringsocialawareness,” 2017 IEEE Globecom Workshops, Singapore, 2017.
+18.  H. -M. Wang, Y. Xu, Ke-Wen Huang, Z. Han and T. A. Tsiftsis,“Cooperativesecure transmission by exploiting social ties in random networks,”IEEETransactions on Communications, vol. 66, no. 8, pp. 3610‐3622.
+19.  J. Lyu, H. Wang and Ke-Wen Huang, “Physical layersecurity in D2Dunderlay cellular networks with poisson cluster process,” IEEETransactions onCommunications.
+20.  J. Lyu, T. Zheng, Ke-Wen Huangg, Y. Feng and H. Wang,“Securetransmissions of D2D underlay cellular networks with poisson clusterprocess,”2019 IEEE Global Communications Conference (GLOBECOM).
+21. T.Zheng, Q. Yang, Ke-WenHuang,H. Wang, Z. Wei and J. Yuan,“Physical-layer secure transmissions incache-enabled cooperative small cellnetworks,” 2018 IEEE Global CommunicationsConference (GLOBECOM).
+
+---
+
+## 黄贤伟
+
+- **网址**: https://csee.hnu.edu.cn/people/huangxianwei
+- **姓名**: 黄贤伟
+- **邮箱**: xianweihuang@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 联系地址：
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：联系地址：
+联系方式：xianweihuang@hnu.edu.cn
+教师介绍
+黄贤伟，湖南大学计算机学院副教授，博士生导师。
+主要研究方向为激光传输与调控、量子关联成像/单像素成像、空间光通信等。主持军口项目/国家自然科学基金、湖南省自然科学基金、博士后基金、研究所/企业技术开发项目等国家级与部省级项目多项，作为核心成员参与国家级项目8项，发表学术论文40余篇，申请国家发明专利多项。《激光与光电子学进展》青年编委，OL、OE等国际权威期刊审稿专家，曾获IOP旗下期刊优秀评审人奖。
+中文名：
+黄贤伟
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+xianweihuang@hnu.edu.cn
+研究方向：
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+研究兴趣及方向
+主要研究方向：
+1，激光传输与调控；
+2，量子关联成像/鬼成像/单像素成像；
+3，光信号检测与处理；
+4，量子成像在空间光通信等领域的应用。
+学术论文
+Qi Zhou, Yanfeng Bai*, Xiaohui Zhu, Xiaoqian Liang, Jian Li, Weijun Zhou, Xianwei Huang*, and Xiquan Fu*, Rotational Doppler-Enabled Single-Pixel Imaging: A Multimode Sensing Approach for Velocity and Structural Monitoring of High-Speed Rotating Targets. IEEE Transactions on Instrumentation and Measurement, 2026, 75, 4503911.
+Nanni Wang, Yue Peng, Zian Su, Yanfei Zeng, Xianwei Huang*, Yanfeng Bai and Xiquan Fu*, Ghost imaging for a rough target embedded in
+the rough background. Optics Express, 2026, 34(9), 16355-16365.
+Siqing Xiang, Lingxi Mao, Yanfeng Bai*, Xianwei Huang*, Jintao Zhai , Xiquan Fu, Translation-rotation single-pixel imaging through dynamic scattering media via temporal correction at low sampling rates. Optics & Laser Technology, 2026, 199, 115043.
+Siqing Xiang, Yanfeng Bai*, Ranyi Fan, Jintao Zhai, Jianxia Chen, Xuan Liu, Tengfei Liu, Xiquan Fu and Xianwei Huang*,  Anti-noise computational ghost imaging based on dual-tree complex wavelet adaptive threshold denoising. Journal of Optics, 2026, 28, 025701.
+Wanru Dan(本科生),  Zian Su, Xianwei Huang*, Yanfei Zeng, Yanfeng Bai, and Xiquan Fu*, Propagation dynamics and radiation forces of circular Airyprime
+beams with a fractional-order vortex phase. Chaos, Solitons and Fractals, 2026, 202, 117542.
+Weijun Zhou, Jian Li, Liyu Zhou, Yuning Yi, Kai Li, Chen Li, Xiaoqian Liang, Xiaohui Zhu, Qi Zhou, Jianxia Chen, Jintao Zhai, Qin Fu, Xianwei Huang*, Yanfeng Bai and Xiquan Fu*, A generalized method to extend the maximum unambiguous range of LiDAR with any point acquisition rate and a small sampling window. IEEE Transactions on Instrumentation and Measurement, 2025, 74, 8513614.
+Jingying Che(本科生), Xianwei Huang*, Hao Zhao, Yanfeng Bai, and Xiquan Fu*, Spiral Spectrum of a ring Airy vortex beam and a ring Airyprime vortex beam in atmosphere turbulence and a comparative analysis of their bit error rate and channel capacity. Journal of the Optical Society of America A, 2025, 42(10).
+Taoran Sun(本科生), Wenyi Ni(本科生,共一), Yanfeng Bai, Hao Zhao, Xianwei Huang*, Xiquan Fu*, Controllable autofocusing properties and radiation forces of a spectrally chirped symmetric Airyprime beam. Chaos, Solitons and Fractals, 2025, 200, 116965.
+Hao Zhao, Xianwei Huang*, Yanfeng Bai,  Xiquan Fu, Propagation properties of a finite energy Airyprime beam in atmospheric turbulence. Journal of the Optical Society of America A, 2025, 42(7), 862-869.
+Shoukui Zhao(本科生),Xianwei Huang*, Yanfeng Bai, Xiquan Fu*, Abruptly autofocusing properties andradiation forces of an Airy derivative beam array with an optical vortex. Chaos, Solitons and Fractals, 2024, 187, 115480.
+Shoukui Zhao(本科生), Juncen Li, Tianqi Li, Xianwei Huang*, Yanfeng Bai and Xiquan Fu, Dynamics of Airyprime beams with higher-order spectral phase modulation in the fractional Schrodinger equation. Laser  Physics, 2024, 34, 095001.
+Xuanpengfan Zou, Xianwei Huang(共同一作), Wei Tan, Liyu Zhou, Xiaohui Zhu, Qin Fu, Xiaoqian Liang, Suqin Nan, Yanfeng Bai* and Xiquan Fu**, Target extraction through strong scattering
+disturbance using characteristic-enhanced pseudo
+thermal ghost imaging. Chinese Optics Letters, 2024, 22(12). (DOI: 10.3788/COL202422.121103)
+Xianwei Huang, Wei Tan, Teng Jiang, Suqin Nan, Yanfeng Bai and Xiquan Fu, Ghost Imaging Through a Supersonic Wind-induced Environment Under Weak Illumination. Advanced Quantum Technologies, 2024, 7, 2300257.
+Xianwei Huang, Yangting Xu, Yanfeng Bai, and Xiquan Fu, Fast focusing method in ghost imaging with tracking trajectory. Optics Letters, 2023, 48(20), 5543-5546.
+Xuanpengfan Zou, Xianwei Huang(共同一作), Cong Liu, Wei Tan, Yanfeng Bai, and Xiquan Fu, Target recognition based on pre-processing in computational ghost imaging with deep learning. Optics & Laser Technology, 2023, 167, 109807.
+Caoyi Jiao(本科生), Xianwei Huang*, Yanfeng Bai, and Xiquan Fu, Controlling beams dynamics with spectral quadratic phase modulation in fractional Schrodinger equation. Journal of the Optical Society of America A, 2023, 40(11), 2019-2025.
+Xianwei Huang, Wei Tan, Teng Jiang, Suqin Nan, Yanfeng Bai, and Xiquan Fu. Investigation on free space optical communication with binary ghost imaging. Journal of the Optical Society of America B, 2023, 40(3), 567-573.
+Xianwei Huang, Teng Jiang, Wei Tan, Suqin Nan, Yanfeng Bai, and Xiquan Fu.  Propagation dynamics and crosstalk of orbital angular momentum beams influenced by a supersonic wind-induced environmental disturbance. Optics Express, 2022, 30(20), 35624-35635.
+Xianwei Huang, Wei Tan, Teng Jiang, Suqin Nan, Yanfeng Bai, and Xiquan Fu. Propagation dynamics of modulated vortex beams in nonlocal nonlinear media. Optics Communications, 2022, 128970.
+Weijun Zhou(本科生), Aixin Liu, Xianwei Huang*, Yanfeng Bai and Xiquan Fu.  Propagation dynamics of Laguerre-Gaussian beams in the fractional Schrodinger equation with noise disturbance. Journal of the Optical Society of America A, 2022, 39(4), 736-743.
+傅喜泉,黄贤伟(共同一作),谭威,白艳锋.信道气流干扰下的关联成像研究,激光与光电子学进展,2021,58(10):1011017.
+Xianwei Huang, Suqin Nan, Wei Tan, Yanfeng Bai, XiquanFu. Ghost imaging influenced by a supersonic wind-induced random environment. Optics Letters, 2021, 46(5): 1009-1012.
+Xianwei Huang, Suqin Nan, Wei Tan, Yanfeng Bai, XiquanFu. Ghost imaging for detecting trembling with random temporal changing. Optics Letters, 2020, 45(6): 1354-1357.
+Xianwei Huang, Yanfeng Bai, Xiquan Fu. Image transmission with binary coding for free space optical communications in the presence of atmospheric turbulence. Applied Optics, 2020, 59(33): 10283-10288.
+Xianwei Huang, Yijun Yang, Wei Tan, Suqin Nan, YanfengBai, Xiquan Fu. Dynamics of rogue waves based on a Gaussian pulse with tunable noise modulation in optical fiber. Optics Communications, 2020, 458: 124798.
+Xianwei Huang, Suqin Nan, Wei Tan, Yanfeng Bai, Xiquan Fu. Statistical properties of Gaussian Schell-model beams propagating through anisotropic hypersonic turbulence. OSA Continuum, 2019, 2(12):3584-3597.
+Xianwei Huang, Xiaohui Shi, Suqin Nan, Yanfeng Bai,Xiquan Fu. Investigation on the behavior of a laser propagating through a random environment induced by wind. Optics Express, 2019, 27(7): 9420-9428.
+Xianwei Huang, Yanfeng Bai, Xiquan Fu. Stable and secure image transmission based on temporal ghost imaging, Journal of Optics, 2019, 21, 055701.
+Xianwei Huang, Zhixiang Deng, Xiaohui Shi, Yanfeng Bai,Xiquan Fu. Average intensity and beam quality of optical coherence lattices inoceanic turbulence with anisotropy. Optics Express, 2018, 26(4):4786-4797.
+Xianwei Huang, Xiaohui Shi, Zhixiang Deng, Yanfeng Bai,Xiquan Fu. Potential barrier-induced dynamics of finite energy Airy beams in fractional Schrodinger equation. Optics Express, 2017, 25(26):32560-32569.
+Xianwei Huang, Yanfeng Bai, Xiquan Fu. Propagation factors of partially coherent model beams in oceanic turbulence. IEEE Photonics Journal, 2017, 9(5): 1-11.
+Xianwei Huang, Xiaohui Shi, Zhixiang Deng, Yanfeng Bai, Xiquan Fu. Effects of a modulated vortex structure on the diffraction dynamics of ring Airy Gaussian beams. Journal of the Optical Society of America A, 2017, 34(9): 1720-1726.
+Xianwei Huang, Zhixiang Deng, Xiaohui Shi, Xiquan Fu. Propagation characteristics of ring Airy beams modeled by fractional Schrodinger equation. Journal of the Optical Society of America B, 2017, 34(10): 2190-2197.
+Xianwei Huang, Zhixiang Deng, Xiquan Fu. Dynamics of finite energy Airy beams modeled by the fractional Schrodinger equation with a linear potential. Journal of the Optical Society of America B, 2017, 34(5): 976-982.
+主持及参与项目
+散射环境中深度学习预处理赝热光的鬼成像研究，2026-2029，国家自然科学基金面上项目（主持）
+大气时变湍流干扰对弱光鬼成像的影响及其抑制研究，2021.1-2023.12，国家自然科学基金青年项目（主持）
+GFKJCXTQ项目，2022.7-2023.12（副组长）
+时间演化近场气流影响下的弱光关联成像研究，2022-2024，湖南省自然科学基金青年项目（主持）
+基于关联成像机制的光信息传输研究，2022-2026，中央高校基本科研业务费（主持）
+大气时变湍流干扰对弱光鬼成像的影响及其抑制研究，2021.1-2023.12，国家自然科学基金青年项目（主持）
+GFKJCXTQ项目，2020.5-2021.12（主持）
+近场气流对微弱光鬼成像目标检测的影响研究，2019.11-2021.7，博士后基金面上项目（主持）
+GFKJCXTQ项目，2021.11-2022.10（参与）
+GFKJCXTQ项目，2019.1-2020.12（参与）
+GFKJCXTQ项目，2018.1-2018.12（参与）
+GFKJCXTQ项目，2017.1-2017.12（参与）
+面向空间光通信的光子计数量级探测条件下的鬼成像研究，2020.1-2023.12，国家自然科学基金面上项目（参与）
+学生培养
+欢迎对科研有兴趣的学生加入课题组，主要从事量子成像与量子信息、激光雷达、空间光通信、光信号检测与处理等方面的研究，有独立的实验室和实验平台，能提供良好的科研软硬件条件！如感兴趣请与我联系。
+
+---
+
+## 胡军
+
+- **网址**: https://csee.hnu.edu.cn/people/hujun
+- **姓名**: 胡军
+- **邮箱**: hujun_111@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 深度学习；多Agent系统；软件工程；人工智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：深度学习；多Agent系统；软件工程；人工智能
+联系方式：hujun_111@hnu.edu.cn 15116118063
+教师介绍
+胡军，男，湖南长沙，汉族，中共党员，1971年11月出生，副教授，博士。联系方式：湖南省长沙市岳麓区湖南大学信息科学与工程学院（410082）。电话：15116118063。邮箱：hujun_111@hnu.edu.cn
+中文名：
+胡军
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+15116118063
+电子邮件：
+hujun_111@hnu.edu.cn
+研究方向：
+深度学习；多Agent系统；软件工程；人工智能
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+学习经历
+1990年－1993年，长沙大学， 计算机系，机电工程专业
+2000年－2003年，昆明理工大学， 信息与自动化学院，工学硕士
+2003年－2006年，浙江大学，计算机科学与技术学院，工学博士
+研究工作经历
+2006年－2008年，湖南大学，计算机与通信学院，讲师
+2007年－2008年，联合国大学，软件技术研究所，访问学者
+2010年－2011年，英国南安普顿大学，电子与计算机学院，访问学者
+2008年－至今，  湖南大学，信息科学与工程学院，副教授，硕士生导师
+研究领域
+深度学习、智能Agent与多Agent系统、人工智能；
+软件体系结构、软件工程等。
+主讲课程
+本科生课程： 软件工程导论、 软件设计模式
+研究生课程： IT项目管理、软件体系结构与设计、智能Agent原理与技术
+留学生课程： 软件工程
+科研状况
+主要科研项目：
+湖南省自然科学基金项目：“基于可废止逻辑的政策导向型软件主体可信协同模型及关键技术研究”，编号：11JJ3065，经费3万元，主持，起止日期：2011年1月至2013年12月。
+国家自然科学基金项目：“政策驱动的自治、可控协同机理研究”，编号：60773208，经费26万元，主持，起止日期：2008年1月至2010年12月。
+高等学校博士学科点专项科研基金项目：“政策驱动的基于主体的自主协同机理研究”，编号：20070532075，经费3.6万元，主持，起止日期：2008年1月至2010年12月。
+国家自然科学基金项目：“开放环境下的软件动态演化研究”，编号：60773110，经费28万元，排名第二，起止日期：2008年1月至2010年12月。
+973重大研究项目：“语义网格的基础理论、模型、方法和关键技术”的子课题“知识网格环境下支持产品创新设计和虚拟生产的理论与技术”，编号：2003CB317000，经费200万元，主要成员, 起止日期：2007年1月至2012年12月。
+湖南省自然科学基金项目：“基于扩展粒度计算的软件体系结构模型和ADL研究”，编号：04JJ3052，经费2万元，主要成员，起止日期：2004年1月至2006年12月。
+云南省省院省校科技合作项目：“青鸟软件生产线技术的引进、开发、应用、示范工程”编号：B9801G，经费200万元，主要成员，已完成。
+软件著作权：
+胡军, 李正通. 基于政策的多AGENT系统V1.0，登记号：2010SR016693。
+学术论文
+发表的主要论文
+1） Jun Hu；Wendong Zheng. A deep learning model to effectively capture mutation information in multivariate time series prediction. Knowledge-Based Systems, https://doi.org/10.1016/j.knosys.2020.106139. (JCR SCI 1区, 中科院二区(升级版一区)，IF 5.101)
+2） Jun Hu；Wendong Zheng.Multistage Attention Network for Multivariate Time Series Prediction. Neurocomputing，2020，383：122–137. (JCR SCI 1区, 中科院二区，IF 4.072)
+3）Jun Hu；Wendong Zheng. Transformation-gated LSTM: efficient capture of short-term mutation dependencies for multivariate time series prediction tasks. The 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, July 14-19, 2019. (CCF C 类会议)
+4）  Jun Hu；Wendong Zheng. An Adaptive Optimization Algorithm Based on Hybrid Power and Multidimensional Update Strategy.  IEEE Access,2019 ,7(1):19355 - 19369. (JCR SCI 1区, 中科院二区，IF 3.557)
+5）  Hu，J；Zou，L；Xu,Ru; Bilateral Multi-Issue Negotiation Model for a Kind of  Complex Environment[J]. The International ArabJournal of Information  Technology, 2018,15(3):396-404. (SCI 收录)
+6）  胡军，肖德育，陈灿. 基于信任度变化趋势的云服务选择模型[J].湖南大学学报：自然科学版,2016,(10):134-138. （EI收录）
+7）  胡军,张振兴,邹立. 基于协作度的分布式自动协商联盟形成机制[J]. 计算机研究与发展, 2015, 52(5): 1080-1090. （校定重点期刊 EI收录）
+8）  Walaa,El-Ashmawi; Hu, Jun; Li, Renfa。“Stability Coalition Formation with CostSharing in Multi-Agent Systems Based on Volume Discount”, The International Arab Journal of InformationTechnology,2015, 12(3):296-303 (SCI 收录)
+9）  El-Ashmawi,Walaa H; Jun, Hu（胡军）; Renfa, Li。“Proposed discount group formation modelbased on cooperative search in agent graph”，Journalof Computers (Finland)，2013，8(10)：2497-2506。（EI收录）
+10）  Walaa,El-Ashmawi; Hu, Jun（胡军）; Li, Renfa。“A proposed feasible coalition formationmodel based on agent weighted graph”，Journalof Computational Information Systems，2013，9(16)：6333-6341。（EI收录）
+11）  Jun Hu（胡军）, Yinghui Song, Ye Sun，“Multi-agent Oriented Policy-based Management System for Virtual Enterprise”，Journalof Software, 2012,7(10):2357-2364. （EI收录）
+12）  WalaaH. El-Ashmawi, Hu Jun（胡军）, LI Renfa, "A Novel Distributed Fuzzy-basedNegotiation Model for Coalition Formation in Multi-Agent Systems", IJACT:International Journal of Advancements in Computing Technology, 2012，4（15）：270 -279。（EI收录）
+13）  胡军，李志昂。Agent组织中的政策导向型协作模型.计算机研究与发展，2012，49(7):1474-1493（校定重点期刊 EI收录）
+14）  Jun Hu（胡军）, Yang Yu. A Controllable Reputation BDI Model [J]. Journal of Software, 2012,7(1):110-117. （EI收录）
+15）  Ramchurn,Sarvapali D., Gerding, Enrico, Jennings, N.R. and Hu, Jun（胡军） (2012) Practicaldistributed coalition formation via heuristic negotiation in social networks.In, Fifth International Workshop on Optimisation in Multi-Agent Systems(OPTMAS), Valencia, ES, 05 Jun 2012. 8pp
+16）  胡军, 邓磊, 宋颖辉. 面向议题关联的双边多议题协商模型研究[J].湖南大学学报：自然科学版,2011,38(12):66~71. （EI收录）
+17）  胡军，李志昂. 面向虚拟组织的政策导向型自治、可控Agent模型[J].湖南大学学报：自然科学版,2010,37(6):71~76. （EI收录）。
+18）  Hu Jun（胡军）, Gao Ji. “ASelf-organising Agent Assistant System”.International Conference on Intelligent Computing. August 16-19, 2006. Kunming, PR China. LNAI (Lecture Notes inArtificial Intelligence). Vol. 4114, 421-430, Springer-Verlag, 2006.（SCI收录）
+19）  胡军, 高济, 李长云. 多主体系统中基于本体论的服务相容匹配机制. 计算机辅助设计与图形学学报,2006,18(5):694-701. （EI收录）
+20）  Hu Jun（胡军）, Gao Ji, Liao Beishui, ChenJiujun. “An Agents-based GridInfrastructure of Social Intelligence”. International Conference on AdvancedWorkshop on Content Computing. Nov. 15-17, 2004. Zhenjiang, JiangSu, PR China. LNCS (LectureNotes in Computer Science). Vol. 3309, 33-38, Springer-Verlag, 2004.（SCI收录）
+21）  Hu Jun（胡军）, Gao Ji. “IMCAG: Infrastructure forManaging and Controlling Agent Grid”. The Second International Workshop on Gridand Cooperative Computing. December 7-10, 2003. LNCS (Lecture Notes in Computer Science). Vol. 3033,161-165, Springer-Verlag, 2004.（SCI收录）
+
+---
+
+## 胡逸騉
+
+- **网址**: https://csee.hnu.edu.cn/people/huyikun
+- **姓名**: 胡逸騉
+- **邮箱**: yikunhu@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 高性能计算;并行计算；智能计算
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：高性能计算;并行计算；智能计算
+联系方式：yikunhu@hnu.edu.cn 13873160076
+教师介绍
+主要研究高性能计算相关问题，从事交叉学科应用以及国产计算平台的支持以及开发工作。作为团队骨干完成了国产计算平台在高性能计算、人工智能、跨域异构并行编程、物联网、智慧城市等方向上的开发工作同时个人独立承担相关国家科研项目。
+获奖情况：吴文俊人工智能科学技术奖科技进步奖一等奖（排名10）；中国电子学会科学技术技术发明一等奖（排名4）；中国人民解放军军队进步二等奖（排名9）；博士后站中优秀博士后站中支持
+欢迎想要报考博士硕士的同学提前联系沟通。
+中文名：
+胡逸騉
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+13873160076
+电子邮件：
+yikunhu@hnu.edu.cn
+研究方向：
+高性能计算;并行计算；智能计算
+联系地址：
+湖南大学超算中心1号楼
+所属机构：
+计算机科学系
+学院教师
+
+---
+
+## 劳奕臻
+
+- **网址**: https://csee.hnu.edu.cn/people/laoyizhen
+- **姓名**: 劳奕臻
+- **邮箱**: yizhenlao@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉；摄影测量；计算摄影学
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉；摄影测量；计算摄影学
+联系方式：yizhenlao@hnu.edu.cn; lyz91822@gmail.com
+教师介绍
+劳奕臻，1991年8月生，副教授，博士生导师，湖湘青年英才，长沙市杰出创新青年，华为青年学者，芒果TV技术专家顾问，湖南大学“岳麓学者”，湖南大学青年教工党员示范岗。
+研究方向为计算机视觉以及计算摄影学。先后主持新一代人工智能国家科技重大专项课题，国家自然科学基金青年基金等科研项目。曾以第一作者或通讯作者身份在计算机视觉顶级期刊以及会议，例如T-PAMI、IJCV、CVPR、ICCV、ECCV、ACMMM上发表论文多篇，同时担任Neurips、ICML、ICLR、CVPR、ICCV、ECCV以及AAAI的审稿人。
+研究成果获2023年度中国电影电视学会科技进步奖二等奖、2024年度三等奖，2023年湖南大学优秀教师新人奖，2019年国家优秀自费留学生奖学金奖。教学成果获2023年度湖南省计算机学会优秀高等教育教学奖一等奖。
+个人网站/Personalwebsite：https://yizhenlao.github.io/
+中文名：
+劳奕臻
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+yizhenlao@hnu.edu.cn; lyz91822@gmail.com
+研究方向：
+计算机视觉；摄影测量；计算摄影学
+联系地址：
+所属机构：
+计算机科学系
+学院教师
+个人简历
+教育经历：
+2010年9月—2014年6月，武汉大学，空间信息与数字技术，工学学士
+2014年9月—2016年3月，Faculty ITC, 特文特大学（University of Twente），地理信息科学与地球观测，理学硕士
+2016年5月—2019年5月，克莱蒙奥弗涅大学（Université Clermont Auvergne），电子与系统，哲学博士
+学术论文
+Google Scholar: https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en
+DBLP: https://dblp.org/pers/l/Lao:Yizhen.html
+代表性论文(#共同一作，*通讯作者)：
+[1]  Yongcong Zhang, Bangyan Liao, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, and Yizhen Lao*. Ego-motion Estimation for Vehicles with a Rolling Shutter Camera. IEEE Transactions on Intelligent Vehicles (T-IV), 2024. (中科院1区top，影响因子 14)
+[2]  Yongcon Zhang#, Bangyan Liao#, Yifei Xue, Lu Chen, Peidong Liu and Yizhen Lao*. RSL-BA: Rolling Shutter Line Bundle Adjustment. ECCV, 2024. (CCF-B)
+[3]  Jin Chen, Yi Yu, Shien Song, Xinying Wang, Jie Yang, Yifei Xue, Yizhen Lao*. ACM Multimedia 2023 Grand Challenge Report: Invisible Video Watermark. ACM Multimedia, 2023.(CCF-A)
+[4]  Delin Qu#, Yizhen Lao#，Dong Wang, Zhigang Wang, Xuelong Li and Bin Zhao*. Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction. ICCV, 2023. (CCF-A)
+[5]  Delin Qu#, Bangyan Liao#，Huiqing Zhang， Omar Ait-Aider and Yizhen Lao*. Fast Rolling Shutter Correction in the Wild. IEEE Transactions on Pattern Analysis and Machine Intelligence （T-PAMI）, 2023. (CCF-A, 1区Top, 影响因子：23.6, 本科生一作)
+[6] Bangyan Liao#, Delin Qu#, Yifei Xue, Huiqing Zhang and Yizhen Lao*. Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution. CVPR, 2023. (CCF-A，本科生一作)
+[7] Yongcon Zhang#, Yifei Xue#, Ming Liao, Huiqing Zhang and Yizhen Lao*. DFR: Depth from Rotation by Uncalibrated Image Rectification with Latitudinal Motion Assumption. ICME, 2023. (CCF-B，本科生一作)
+[8] Yizhen Lao#, Jie Yang#, Xinying Wang, Jianxin Lin, Yu Cao, Shien Song*. Augmenting TV Shows via Uncalibrated Camera Small Motion Tracking in Dynamic Scene. ACM Multimedia, 2021. (CCF-A)
+[9] Yizhen Lao*, Omar Ait-Aider, Adrien Bartoli. Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity. International Journal of Computer Vision (IJCV), 2020. (CCF-A, 1区Top, 影响因子 19.5)
+[10] Yizhen Lao*, Omar Ait-Aider. Rolling Shutter Homography and its Applications. IEEE Transactions on Pattern Analysis and Machine Intelligence （T-PAMI）, 2020. (CCF-A, 1区Top, 影响因子：23.6)
+[11] Yizhen Lao*, Omar Ait-Aider. A Robust Method for Strong Rolling Shutter Effects Correction Using Lineswith Automatic Feature Selection. CVPR, 2018. (CCF-A)
+[12] Yizhen Lao*, Omar Ait-Aider, Adrien Bartoli. Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. ECCV, 2018. (CCF-B)
+其他论文(#共同一作，*通讯作者)：
+[1] Jingpeng Xie, Shiyu Wang, Yuanlei Wang, Tianle Du, Yifei Xue, Yizhen Lao*, IOVS4NeRF: Incremental Optimal View Selection for Large-Scale NeRFs. ICASSP, 2025. (CCF-B)
+[2] Yiting Wang, Yan Chen, Jianqiang Wang, Yizhen Lao*. The impacts of medical insurance payment methods on medical bills and medical service quality: Evidence from Xiangtan, China. Journal of Business Research (JBR), 2023. (中科院1区Top，ABS三星，影响因子：11.3)
+[3] Yu Cao, Yancheng Wang, Yifei Xue, Huiqing Zhang, Yizhen Lao*. FEC: Fast Euclidean Clustering for Point Cloud Segmentation, Drones, 2022. (中科院2区，影响因子: 4.1)
+[4]  Yizhen Lao*, Omar Ait-Aider, Helder Araujo. Robustified Structure from Motion with rolling-shutter camera using straightness constraint, Pattern Recognition Letters, 2018. (CCF-C, 中科院3区，影响因子：5.1)
+学生培养
+欢迎对计算机视觉或计算摄影学领域的研究感兴趣的同学加入研究团队。请有意者发送简历和成绩单至yizhenlao@hnu.edu.cn:
++ 招收2025级博士研究生2名（截止2025年4月3日，剩余0个名额）
++ 招收2025级硕士研究生3名（截止2025年4月3日，剩余0个名额）
++ 招收2026级博士研究生2名（截止2025年4月3日，剩余2个名额）
++ 招收2026级硕士研究生3名（截止2025年4月3日，剩余2个名额）
++ 欢迎优秀的本科生（年级不限）加入进行前沿研究
+毕业研究生：
+2025届：
+张永聪（Université Clermont Auvergne，攻读博士学位（CIFRE全奖），国家奖学金，一作发表ECCV1篇、T-IV1篇、ICME1篇）
+2024届：
+张惠晴（萍乡学院，任教）
+2023届：
+曹羽（一作发表中科院2区论文1篇，字节跳动实习，顺丰科技工作）
+指导本科生：
+2025届：
+谈诗语 （保送清华大学，共一发表CCF-B类论文1篇，获批湖南省自然科学基金青年学生项目）
+王咨婷（香港科技大学直博（全奖））
+彭靖（保送清华大学）
+吴俊德（美团，发表中科院1区top期刊1篇）
+张昊 （保送湖南大学）
+黄政（保送武汉大学）
+王远磊（保送中山大学，发表CCF-B类论文1篇）
+张宇（保送湖南大学，直博）
+张鸿图（保送湖南大学，直博）
+2024届：
+李婉婷 （保送湖南大学）
+雷楠（保送中山大学）
+吕钊（保送华中科技大学）
+金胜宇 （保送华中科技大学）
+2023届：
+廖邦彦（共一发表CCF- A类论文2篇，保送西湖大学，直博）
+张一啸 （新加坡国立大学，智能系统专业硕士）
+李诗宇（保送浙江大学）
+黄雅妮（保送北京航空航天大学）
+杨杰 （保送武汉大学）
+2022届：
+张永聪（共一发表CCF-B类论文1篇，保送湖南大学）
+屈德林（共一发表CCF-A类论文2篇，保送复旦大学，直博）
+吴文杰（保送华中科技大学）
+沈琪（保送天津大学）
+王馨语（保送中国科学技术大学）
+科研状况
+承担的科研项目：
+[1] 新一代人工智能国家科技重大专项课题，2022ZD0119003，融合AIXXXXXX，2023-2027，主持
+[2] 国家自然科学基金青年项目，62102145，智能驾驶眼中的鲁棒三维重建，2022-2024，主持
+[3] 江西省03专项及5G项目课题，20224ABC03A05（课题3），基于VR/AR的自然资源实景三维时空基底研发及应用，2022-2023，主持
+[4] 长沙市杰青创新青年，kq2306002, 多源视觉大数据测图方法，2024-2027，主持
+[5] 湖湘青年英才， 2024RC3092，2024-2027，主持
+[6] 湖南省重点研发计划，2024JK2020，2024-2026，基于表示学习的异构全息音视频检
+索平台研究与应用，课题主持
+[7] 湖南省重点研发计划，2024JK2021，2024-2026，面向智慧文博的 AI 赋能智能交互技术研究与应用，课题主持
+[8] 湖南省自然科学基金青年学生基础研究项目，2024JJ10027, AidDrone-NeRF：使用神经辐射场进行无人机摄影测量中的三维建模的自适应规划, 唯一指导老师
+奖励
+2024年“马栏山杯”国际音视频算法大赛音视频领域关键技术突破奖三等奖
+2024年度江西省计算机学会科学技术奖一等奖（排名第6）：地质灾害智能化风险防控与应急救援决策关键技术研究与应用
+2024年度中国电影电视学会科技进步奖三等奖（排名第2）：基于音视频垂类大模型的内容生产创新与实践
+2023年度中国电影电视学会科技进步奖二等奖（排名第2）：基于AI的下一代内容生产新引擎系统
+2023年度湖南大学教学优秀奖
+2023年湖南大学优秀教师新人奖
+2024年度湖南省计算机学会优秀高等教育教学奖一等奖（排名第8）
+2023年度湖南省计算机学会优秀高等教育教学奖一等奖（排名第6）
+2019年度国家优秀自费留学生奖学金（全球500人）
+
+---
+
+## 廖骎
+
+- **网址**: https://csee.hnu.edu.cn/people/liaoqin
+- **姓名**: 廖骎
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 量子通信；量子密码；智能量子计算；量子机器学习；网络安全
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：量子通信；量子密码；智能量子计算；量子机器学习；网络安全
+联系方式：llqqlq#hnu.edu.cn（请将#替换成@） 微信 llqqlqdtc
+教师介绍
+廖骎(qīn)，湖南大学计算机学院副教授、博士生导师，通信工程系副主任，湖南省青年人才，CCF量子计算专委会、信息保密专委会执行委员，湖南省密码协会专家委员。主要从事量子通信、量子密码、智能量子计算、量子机器学习、网络安全等相关领域的研究工作。近年发表SCI学术论文50余篇，出版学术专著1本，授权发明专利11项，主持国家自然科学基金、湖南省重点研发计划、湖南省自然科学基金、国家重点实验室开放课题、企业技术开发项目等多个科研项目，获湖南省自然科学二等奖。担任Information、Frontiers_in_Quantum_Science_and_Technology期刊编委，以及Entropy、Symmetry、Mathematics等期刊的客座编辑，是多个领域内高质量期刊（如NC、Phys.Rev.系列、Optica、PhotonicsResearch、QST、QUTE、OE、OL、QINP、IEEETCOM、TIFS、TCCN等）的审稿专家。
+中文名：
+廖骎
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+微信 llqqlqdtc
+电子邮件：
+llqqlq#hnu.edu.cn（请将#替换成@）
+研究方向：
+量子通信；量子密码；智能量子计算；量子机器学习；网络安全
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+研究方向
+1. 网络安全/密码学
+2. 光通信/量子信息处理/量子保密通信
+3. 数据挖掘/人工智能/大数据/量子机器学习/智能量子计算
+教授课程
+信息与通信工程导论
+计算机通信网络
+量子保密通信
+数据挖掘
+网络交换与路由
+学生培养
+课题组招收量子保密通信、光通信、量子密码、智能量子计算等方向的研究生，目前26级还有少量名额，欢迎希望在科研上有所成绩的学子加入！（同时也欢迎对相关领域感兴趣的本科生加入课题组参与研究）。
+课题组将根据每位同学的科研兴趣等实际情况制定专门的培养计划、提供良好的学习环境，并根据科研情况进行额外奖励。课题组师生相处融洽，与国内外从事相关研究的课题组（包括但不限于：中科大、北大、北邮、国防科大、中南、上海交大、中科院信工所、剑桥、约克大学、多大、南洋理工、新加坡国立等）保持紧密的合作交流关系。对于取得一定成果的研究生，将推荐去往上述单位继续深造。有意者请提早通过Email：llqqlq#hnu.edu.cn（防止垃圾邮箱设置，请将#替换成@）或微信：llqqlqdtc与我联系。
+往届毕业生去向企业就业国家电网、华为、腾讯、阿里巴巴、小米、字节跳动、中国银联、OPPO 等知名企业
+攻读博士国防科技大学、清华大学、上海交通大学、南京大学、中南大学、中国人民大学、北京邮电大学等顶尖高校
+课题组汇聚了一批优秀的科研伙伴，全力支持学生继续深造读博；对表现优异者，将提供国内外学术交流机会与优质升学、就业推荐。
+部分论著
+High-performance continuous-variable quantum secret sharing using a state-discrimination detector. npj Quantum Information. (2026).
+基于相不敏感放大器的高斯调制连续变量量子秘密共享. 中国科学：信息科学, 56, 1-13. (2026).
+Practical continuous-variable quantum secret sharing using local local oscillator. Communications Physics, 8, 138. (2025).
+High-rate discretely-modulated continuous-variable quantum key distribution using quantum machine learning. Chaos, Solitons and Fractals, 196, 116331. (2025).
+《光纤信道连续变量量子密钥分发原理与应用》，学术专著，科学出版社，ISBN：978-7-03-079507-6. (2024).
+Security boundaries of an optical-power limiter for protecting quantum-key-distribution systems. Physical Review Applied, 21, 014026. (2024).
+Continuous-variable quantum secret sharing based on multi-ring discrete modulation. IEEE Transactions on Communications, 71, 6051–6060. (2023).
+Detecting practical quantum attacks for continuous-variable quantum key distribution using density-based spatial clustering of applications with noise. Physical Review A, 106, 022607. (2022).
+......
+发明专利
+1.基于机器学习的新型连续变量量子密钥分发方法。已授权，中国
+2.基于离散调制非正交态的量子秘密共享方法。已授权，中国
+3.基于外差检测的一维调制连续变量量子密钥分发系统及其实现方法。已授权，中国
+4.基于连续变量量子密钥分发的数据流加密系统及其实现方法。已授权，中国
+5.基于独立时钟源的连续变量量子密钥分发系统及实现方法。已授权，中国
+6.基于连续变量量子密钥分发的指纹认证方法。已授权，中国
+7.基于聚类算法的量子攻击检测方法及量子密钥分发方法。已授权，中国
+8.高精度态区分检测方法、系统、介质、计算机设备及应用。已授权，中国
+9.一种基于本地本振的连续变量量子秘密共享方法。已授权，中国
+10.基于量子k近邻算法的连续变量量子密钥分发方法。已授权，中国
+11.基于多环离散调制相干态的量子秘密共享方法。已授权，中国
+获奖情况
+湖南大学信息科学与工程学院教师教学比赛二等奖，2024
+湖南大学教学优秀奖，2024
+新一代信息通信技术大赛全国总决赛优秀指导教师，2023
+湖南省自然科学二等奖，2022
+大学生移动通信5G技术大赛全国总决赛优秀指导教师，2022
+湖南大学2021-2022学年度优秀班主任
+湖南大学2020-2021学年度优秀班主任
+湖南大学新进教师微格演练比赛一等奖，2019
+
+---
+
+## 李锦新
+
+- **网址**: https://csee.hnu.edu.cn/people/lijinxin
+- **姓名**: 李锦新
+- **邮箱**: jxli@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 5G/6G/物联网通信及微波射频技术、基于AI的微波器件设计、生物/医疗/遥测传感器、人工智能、多物理场分析、电机设计与控制、雷达算法。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：5G/6G/物联网通信及微波射频技术、基于AI的微波器件设计、生物/医疗/遥测传感器、人工智能、多物理场分析、电机设计与控制、雷达算法。
+联系方式：jxli@hnu.edu.cn
+教师介绍
+电子科技大学&DukeUniversity联合培养工学博士，电子科技大学理学学士。任湖南大学信息科学与工程学院副教授，硕士/博士研究生导师。毫米波国家重点实验室（东南大学）、广西无线宽带通信与信号处理重点实验室、射频集成与微组装技术国家地方合联合工程实验室客座研究员。兼任聊城大学学报青年编委。先后主持国家自然科学基金面上项目、省自然科学基金、国家重点实验室基金、国家地方联合工程实验室基金和军工研究所及企业合作技术开发项目多项。在IEEETAP等国内外一流期刊和会议上发表近三十余篇论文，长期担任IEEEJSAS、IEEETAP、IEEEJBHI等国际期刊审稿人。中国研究生电子设计竞赛全国总决赛一等奖、最佳论文奖和华为专项赛季军指导老师、本科毕业实习优秀指导教师。
+研究方向与研究兴趣：5G/6G/物联网通信及微波射频技术、基于AI的微波器件设计、生物/医疗/遥测传感器、人工智能、多物理场分析、电机设计与控制、雷达算法。
+Email:jxli@hnu.edu.cn
+中文名：
+李锦新
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+jxli@hnu.edu.cn
+研究方向：
+5G/6G/物联网通信及微波射频技术、基于AI的微波器件设计、生物/医疗/遥测传感器、人工智能、多物理场分析、电机设计与控制、雷达算法。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+招生说明
+目前课题组处于高速发展中
+2023年招收学术博士一名（获得计算机科学与技术博士学位），欢迎积极联系。特别说明：期望一起成长，尤其欢迎已经撰写发表了trans论文的同学。课题组硕士人均完成SCI论文3篇，其中方炯建同学完成5篇trans水平文章，3篇已经发表，两篇在修改。所以只要一起努力，一定大有可为）
+此外也招收博士后（不做横向），共同做大做强
+每年招收3到4名研究生，欢迎保送，欢迎选报
+热忱欢迎有通信工程、电子信息工程、计算机、编程及程序设计、电子科学与技术、物理或其他相关背景的有志青年与我联络，了解相关研究方向，保送或报考本人的研究生，尤其欢迎具有机器学习、深度学习或者微波相关基础的同学。本人主要研究领域是人工智能、机器学习、无人机集群通信、AI驱动的微波器件设计、生物/医疗/遥测传感器、智能天线、5G/6G/物联网通信及微波射频技术、智能可穿戴设备、智能图像识别。所以，目前可供学生选择的研究方向大体分为：第一个大方向，偏计算机方向的人工智能、机器学习、深度学习及其应用；第二个大方向，偏向无线通信的算法和硬件的融合研究，主要包括射频微波前端器件设计；第三个大方向是上述两大方向的交叉与融合，也就是软件和硬件协同研究，需要同时具备良好的编程能力和通信知识储备。
+我将为每一位研究生提供就业指导和帮助，基于与工业界、研究所等相关单位的合作与联系，积极推荐至各大知名企业和科研院所。本人诸多朋友和师兄弟就职于阿里巴巴、华为、中兴、大疆创新、小米、烽火通信、VIVO、OPPO、TP-LINK、腾讯、中国电子科技集团、航天科技集团、中船集团等国内外知名企事业单位。团队的实验平台已经成熟，各项经费充沛，学科及研究方向广泛、热门且前沿，支持学生参加各类型的国内外的学术会议。此外，学生在保质保量完成科研工作的前提下，基于学生的具体贡献度给予具有竞争力的科研补助。
+此外，也非常欢迎有志出国深造或者提高保研竞争力、就业竞争力等意向的本科生，积极联系并加入课题组。课题组依据兴趣和意愿，提供不同领域的课题和项目，积累了实际的科研工程经验的同时，并最终产生高水平论文、专利等成果。
+其他简介：
+团队实验室拥有微波暗室、天线测量系统、矢量网络分析仪、微波信号源、频谱仪、高端数字示波器及逻辑分析仪等价值两千万余元的科研设备，实验环境优越，并与国内多家研究院所建立了良好的合作关系。课题组毕业研究生主要去向为国家重点研究机构，高等院校和大型公司以及继续读博深造。
+指导学生
+研究生
+尹春燕（推免生）
+邱文璐（推免生）
+叶肯 陈庆聪
+衣婉淇 朱兆猛 段江辰
+工程硕士研究生
+毛云鹤、严茂林
+毕业研究生就业情况
+方炯建（华为）
+张琪（阿里巴巴物联网）
+郑梦瑜（大疆创新）
+谭含颖（国家电网）
+刘浩甜（推免生）（中国电信）
+薛冰洁（推免生）
+本科毕业生
+周张霖 蔡昊浙 段宇宁 张娇娇 曹立坤
+于舒 王思滔 邱冠聪
+张语頔 赵素雅 聂小溪 杨学津 袁勇杰
+讲授课程
+1、微波通信技术 （主要面向通信工程专业大四所有学生）
+2、现代数字通信系统 （主要面向通信工程专业大四所有学生及部分计算机专业学生）
+3、天线原理与设计 （主要面向信息与通信工程研究生）
+合作资源
+合作团队和学者包括杜克大学Joines教授团队、柳教授团队；电子科技大学、加拿大西蒙弗雷泽大学、新加坡南洋理工大学、香港城市大学等。
+Prof. Joines's group  https://ece.duke.edu/faculty/william-joines
+Prof. Liu's group https://ece.duke.edu/faculty/qing-liu
+科研项目
+“射频系统数据库分析软件采购项目合同”，校企合作横向项目
+“铝基复合材料雷达阵列天线技术研发项目”，校企合作横向项目
+“无人机防御系统GPS干扰信号定位技术”，校企合作横向项目
+“数据驱动的云边端协同智能系统关键技术研究”，国家自然科学基金委
+“高速公路门架雷达天线设计”，校企合作横向项目
+“信息物理网络数据感知与安全体系”，国家自然科学基金委
+“面向车联网的基于互耦抑制的高隔离度阵列天线”，校企合作横向项目
+“ 应用于移动通信微基站的 MIMO 天线设计与研究”，华为校企合作项目
+“ 应用于微基站的高隔离度 MIMO 天线设计与研究”，华为校企合作项目
+“面向无人系统的网络协同理论与技术”，国家自然科学基金面上项目
+“应用于全双工无线通信的无源自干扰信号对消馈电网络”，华为校企合作项目
+“应用于提高无线中继基站天线阵列隔离度的电磁隔离结构的设计与研究”，华为校企合作项目
+备注：因相关信息可能较为敏感，故相关关键词用XX隐藏
+
+---
+
+## 李军义
+
+- **网址**: https://csee.hnu.edu.cn/people/lijunyi
+- **姓名**: 李军义
+- **邮箱**: junyilee@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 隐私保护、软件工程与大数据、区块链技术
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：隐私保护、软件工程与大数据、区块链技术
+联系方式：junyilee@hnu.edu.cn
+教师介绍
+博士，副教授，CCF会员。现为湖南大学信息科学与工程学院软件工程系教师，主要研究兴趣为隐私保护、软件工程与大数据、区块链技术。
+中文名：
+李军义
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+junyilee@hnu.edu.cn
+研究方向：
+隐私保护、软件工程与大数据、区块链技术
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+
+---
+
+## 林红利
+
+- **网址**: https://csee.hnu.edu.cn/people/linhongli
+- **姓名**: 林红利
+- **邮箱**: hllin@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉、人工智能、多模态大模型
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉、人工智能、多模态大模型
+联系方式：hllin@hnu.edu.cn 18692263239
+教师介绍
+林红利，女，工学博士，硕士生导师。主要从事计算机视觉、人工智能、智能医学、和大模型应用等研究。承担国家国家自然科学基金多项项，湖南省自然科学基金2项，多项校企合作项目。目前主要从事视频分析算法及软硬件一体化产品研发，多模态文档分析算法及产品研发，多模态情感计算，设备维保大模型研发。发表论文多篇。
+联系方式：湖南大学信息科学与工程学院，410082
+邮箱：hllin@hnu.edu.cn，电话：18692263239（微信同号）
+中文名：
+林红利
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+18692263239
+电子邮件：
+hllin@hnu.edu.cn
+研究方向：
+计算机视觉、人工智能、多模态大模型
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+智能计算系
+学院教师
+个人简介
+个人简介
+女，副教授，硕士生导师。研究领域涉及计算机视觉、人工智能、深度学习等。目前在研项目包括场景文字识别（零售小票识别、面向金融领域的票证识别、古文识别）；面向投行的企业财务数据识别和分析；智慧工地智能算法开发和部署；生物特征识别算法（人脸识别、行人重识别）研究等。
+联系方式：
+Email：hllin@hnu.edu.cn,342897043@qq.com
+电话：18692263239
+qq：342897043
+欢迎电子信息大类、计算机科学、等专业的学生免试推荐或报考。
+目前和企业建有联合研究中心，从事计算机视觉、大数据等方面的项目和关键技术研究。
+研究方向：
+1、基于深度学习的目标识别方法研究；
+2、监控场景下的行人重识别方法研究；
+3、文字识别方法研究；
+4、肺部CT图像中的肺部病变识别方法研究。
+5、细粒度图像视觉分析
+科研状况
+最近五年主持和参与的科研项目
+一、横向项目
+1、基于深度学习的客流监控关键技术研究一期项目，完成
+2、基于鱼眼图像的目标识别项目，在研
+3、行人重识别关键技术研究，在研
+4、基于深度学习的图像识别关键技术研究，在研
+5、文字识别，在研
+二、纵向项目
+1、国家自然科学基金项目 “基于深度学习的产品创新设计关键技术研究”，在研
+2、科技部重大专项“基于医学影像的智能诊断标准及技术研究”，在研
+3、国家自然科学基金项目 “基于CT影像的肺结节计算机辅助诊断方法及关键技术研究”（81201151）主持
+4、湖南省自然科学基金“高维特征选择算法及其在肺癌计算机辅助诊断中的应用研究”（14JJ3050）主持
+5、央高校科研创新扶持基金项目“肺结节医学征象量化方法研究” 主持
+6、湖南省自然科学基金项目“基于计算机视觉和高层语义信息的肺癌CAD方法研究”（12JJ6061）
+7、湖南省科技计划项目 “肺癌计算机辅助诊断系统研究”（2012SK3185）
+三、产学研
+和广东电声市场营销股份有限公司，广州量视信息技术公司，广州贝叶斯信息技术公司建立了长期稳定的合作关系。成立了电声湖南大学智能营销研究中心，任中心主任。
+学术论文
+[1] A Content-Boosted Collaborative
+Filtering Algorithm for Personalized Training in the Interpretation of Radiological
+Imaging, Journal of Digital Imaging, 2014( SCI 源刊).
+[2] A Performance Weighted
+Collaborative Filtering Algorithm for Personalized Radiology Education, Journal of Biomedical Informatics,2014 (SCI源刊).
+[3] A Pulmonary Nodule View System for the Lung Image Database Consortium (LIDC), Academic radiology,2011(SCI源刊).
+[4] 医学图像计算机辅助诊断数据平台研究，中国生物医学工程学学报，2013（校定权威）.
+[5 ] An Approach to 3D Medical Registration Using Group Search Optimizer, Journal of Convrgence Information Technology, 2013.
+[6] Development of a Data Integration and Visualization Software for LIDC, Journal of Software,2013.
+[7] QRS Complex Detection Using Combination of Mexican-hat Wavelet and Complex Morlet Wavelet[J]. Journal of Computers, 2013.
+[8] 肺癌图像数据库及可视化工具的建立. 生物医学工程学杂志, 2012.
+[9] 肺癌数据库的改进及其集成工具的设计实现. 计算机工程, 2011.
+[10]  DICOM 医学图像显示算法改进与实现, 计算机系统应用,2010.
+实验室产品
+实验室长期从事计算机视觉和机器学习的前沿基础理论和工程应用的开发，专注于人工智能、计算机视觉算法创新与应用。 实验室以视频分析、智能文档分析基础算法研发为基座，推出了包括目标检测、图像分割、动作识别、文字检测、文字识别、表格识别、信息抽取在内的各种AI算法，赋能各行各业；实验室以AI算法为基础，结合具体应用场景，开发了融合AI算法的软硬件产品，提出了多种解决方案。实验室致力为产业提供丰富的人工智能算法与基建平台，赋能百业完成智能化转型升级。
+算法部分AI视频算法库实验室在视频图像、人工智能、边缘计算等领域深耕多年，形成了“算法+产品+应用”的核心优势，开发了多种AI算法，可为智慧工地、校园安全、工厂车间、智慧零售等多个行业赋能。所有算法均提供公有云API、私有化部署、软硬一体化部署方式。算法如下表所示。
+算法
+算法介绍
+应用场景
+成功案例
+物料识别
+识别图像中的钢筋、钢管、方木、圆木、轮扣、方钢并计数
+应用于建筑工程、建材租赁行业的物料验收、物料判断、物料租借和归还环节
+中建五局物料验收系统集成
+货架商品识别
+识别货架上的多达千种商品（SKU）的品名、货架层数、数量
+应用于线下零售的货架陈列合规性检查、自助结算、互动营销
+广州电声市场营销公司货架陈列合规检查、营销数据采集
+人脸识别
+人脸识别算法基于人工智能视觉技术，对人脸进行1:N人脸识别，与预置人脸库进行比对，识别人身份信息
+人脸考勤、vip识别等
+中建五局早会考勤系统
+行人重识别
+行人重识别算法基于人工智能视觉计数，对跨多个摄像头中出现的同一个行人进行识别、比对，识别人的身份信息
+作为人脸识别的补充，行人重识别算法可在公共安全领域用于监控和预防犯罪；在商业领域用于人流量统计和行为分析，用于营销决策。
+边缘计算一体机
+行人属性识别
+识别出行人的属性，包括年龄、性别、眼镜、帽子、上衣等
+可应用于公共安全领域用于视频检索，在商业领域用于营销决策等。
+广州电声市场营销数据采集系统
+吸烟识别
+识别视频中的人是否存在吸烟行为
+各种场景
+边缘计算一体机
+打手机识别
+识别视频中的人是否存在玩手机行为
+各种场景
+边缘计算一体机
+安全帽识别
+识别视频中的人是否佩戴安全帽
+各种场景
+边缘计算一体机
+反光衣识别
+识别视频中的人是否穿反光衣
+各种场景
+边缘计算一体机
+脱岗检测识别
+识别视频中的人是否存在脱离岗位的情况
+各种场景
+边缘计算一体机
+越界识别
+识别行人是否出现在特定的区域
+各种场景
+边缘计算一体机
+火焰识别
+识别环境中是否出现火焰
+各种场景
+边缘计算一体机
+烟雾识别
+识别环境中是否出现烟雾
+各种场景
+边缘计算一体机
+智能文档分析算法库智能文档分析基于光学字符识别（OCR）、计算机视觉（CV）、自然语言处理（NLP）、机器学习（ML）、深度学习（DL）等人工智能（AI）技术，从各种文档格式中捕获、提取和处理数据，并将其转换为结构化的可用数据，从而为以文档为中心的业务流程提供端到端的自动化。实验室专注智能文档分析技术研发，积累了丰富的算法。所有算法均支持公有云API、离线识别SDK、私有化部署、软硬一体化部署。
+算法
+算法介绍
+通用文字识别
+通过领先的深度学习技术，对各种表格，图片，文档、证件、面单等多种通用场景进行快速、精准的检测和识别，支持简体中文/英文/数字/手写数字/手写英文。
+表格识别
+支持识别图片/PDF/word格式文档中的表格内容，包括有线表格、无线表格、合并单元格表格，同时支持单张图片内的多个表格内容识别，返回各表格的表头表尾内容、单元格文字内容及其行列位置信息。
+印章检测识别
+支持检测并识别多行业合同文件和票据中的印章，结构化返回票据等样本上单个/多个印章上文字，支持红章/黑章，常规印章（圆章/方章等）。
+办公文档识别
+可对办公文档的图片版面进行分析，输出图、表、列表、文本、水印、页眉页脚、印章、公式的位置及文字，并输出分版块内容的OCR识别结果，支持手写、印刷体混排多种场景。
+证件分类
+支持对18种证件类型识别、分类，包括银行卡、香港身份证、身份证、社保卡、驾驶证、行驶证、户口本、护照、结婚证、离婚证、房产证、不动产证、营业执照、开户许可证、税务登记证等
+身份证识别
+支持对身份证正反面的全部字段进行结构化识别，包括姓名、性别、民族、出生日期、地址、身份证号、有效期限、签发机关，同时可返回头像切片位置信息，进行头像检测
+名片识别
+支持对各类名片上出现的文字内容识别为结构化文本
+银行卡识别
+支持对主流银行卡6个关键字段的高精度结构化识别，包括类型、发卡机构、发卡机构代号、有效期、卡号、持有人，同时可返回图像切边位置信息
+行驶证识别
+实现对机动车行驶证正副页中21个关键字段进行结构化高精准识别，包括号牌号码、车辆类型、所有人、车辆识别代码、发证日期、检验有效期等
+驾驶证识别
+支持对驾驶证正副页全部字段进行结构化识别，包括姓名、类型、驾驶证证号、性别、国籍、住址、出生日期、初次领证日期、准驾车型、有限期限始（至）、总计有效期限
+社保卡识别
+支持对全国各大省市社保卡全部字段结构化识别服务，包括姓名、社会保障号码、卡号、发卡日期、芯片下方号码
+营业执照识别
+可快速精准结构化识别企业营业执照（各类版式，支持新旧版本）中的注册号、公司名称、地址、主体类型、法定代表人等14个关键有效字段，同时支持单个或批量上传，可区分是否为副本
+税务登记证识别
+支持单个或批量化对税务登记证的全部字段进行结构化识别
+组织机构代码证识别
+提供迅速对组织机构代码证中所有关键字段结构化识别服务，包括代码、机构名称、机构类型、法定代表人、地址、有效期、颁发单位、登记号
+开户许可证识别
+支持对包括开户许可证的编号、基本存款银行、开户银行、账号、核准号、法定代表人的关键字段快速识别
+卫生许可证识别
+支持对卫生许可证扫描件或拍照图像的关键字段结构化识别服务，包括单位名称、法人代表/业主、地址、许可范围、食证号、有效期限
+事业单位法人证识别
+支持对事业单位法人证书中包括社会代码、名称、法定代表人、宗旨和业务范围、经费来源、开办资金、住所、承办单位、有效期在内的9个关键字段的识别
+票据分类
+支持对20+种票据进行票据类型识别，包括增值税专用发票、机动车销售统一发票、货物运输业增值税专用发票、增值税普通发票、增值税电子普通发票、增值税普通发票等
+增值税发票识别
+支持增值税专票、普票、电子发票的所有字段的结构化识别，包括价税合计、发票代码、发票号码、合计税额、合计金额、检验码、开票日期等，关键信息识别准确率行业靠前
+机动车购车发票识别
+自动识别机动车发票40个字段，快速输出结构化文本，包括类型、购货单位、厂牌型号、发票代码等
+产品与解决方案实验室在AI算法的基础上，形成算法+产品+应用核心优势，结合各领域的需求，形成了一系列的产品和解决方案。
+端边云协同的视频智能分析平台说明见端边云一体化平台.pdf
+公文内容提取软件公文内容提取软件采用OCR、NLP技术，自研的公文内容提取引擎，可对扫描图片、Word、PDF、OFD等格式的公文材料进行识别和元数据提取。可对公文类型进行识别，如命令、决定、公告、请示等公文类型；可自动提取公文的不同要素（元数据），如发文份号、密级和保密期限、紧急程度、发文机关标志、发文字号、签发人、标题、主送机关、正文、附件说明、发文机关署名、成文日期、印章、附注、附件、抄送机关、印发机关和印发日期、页码。
+公文内容提取可用于公文归档、公文收发文表单自动回填、公文深度分析（如公文主题识别、公文内容结构化等）等应用场景。
+银行流水智能核查解决方案说明见银行流水智能核验解决方案.pptx
+
+---
+
+## 李蕊
+
+- **网址**: https://csee.hnu.edu.cn/people/lirui
+- **姓名**: 李蕊
+- **邮箱**: rui@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 智慧医疗、深度学习、嵌入式智能、先进嵌入式计算、音视频处理、操作系统等
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：智慧医疗、深度学习、嵌入式智能、先进嵌入式计算、音视频处理、操作系统等
+联系方式：rui@hnu.edu.cn 微信：rui518290
+教师介绍
+博士，先进嵌入式计算技术与智能医疗系统湖南省工程研究中心理事，2001年毕业于湖南科技大学，获工学学士学位。2007年毕业于湖南大学计算机应用专业，获工学博士学位。2007年7月起在湖南大学任教至今。
+主持国家自然科学基金1项，湖南省科技计划重点项目1项、一般项目1项，横向项目多项；作为主要研究人员，曾参加“核高基”国家科技重大专项1项，国家发改委科技攻关项目1项，国家自然科学基金项目多项，获湖南大学“中央高校基本科研业务费”能力培养类项目1项，获教育部科技成果奖1项（排名第四）。
+现主要从事智慧医疗、嵌入式智能、先进嵌入式计算、操作系统等方面的研究和教学工作。
+中文名：
+李蕊
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+微信：rui518290
+电子邮件：
+rui@hnu.edu.cn
+研究方向：
+智慧医疗、深度学习、嵌入式智能、先进嵌入式计算、音视频处理、操作系统等
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机工程系
+学院教师
+个人简历
+2007/7-至今， 湖南大学，信息科学与工程学院
+其中：
+2008/9-2012/12，国防科学技术大学，计算机学院，博士后
+2012/9-2013/9，日本名古屋大学，访问研究员
+研究方向
+本研究组的研究方向总体来说就是：“嵌入式智能”，用一句话概括就是：“结合人工智能和嵌入式计算技术，赋能如医疗、媒体和国防等传统行业”。我们一方面希望推动前沿技术的落地，另一方面希望凝练并聚焦突破关键科学问题。大白话就是：根据个人意愿想念博士的同学一起努力发表高水平学术论文，想进入工业界的同学一起做新技术落地的项目。本组依托“先进嵌入式计算技术与智能医疗系统湖南省工程研究中心”和“嵌入式与网络计算湖南省重点实验室”两个省级重点实验室（中心），开展的小方向包括：
+（1）智能医疗。主要包括智能心电诊疗模型、可解释人工智能诊断系统、医用可穿戴设备、智能医疗系统与终端等领域。目前已与湖南省人民医院、理邦仪器等建立稳定的产学研用合作关系。
+（2）智能媒体处理。主要包括音视频转码、拆条、抠像、路由、合成等技术研发。目前已与湖南双菱等建立稳定的技术转化路径。
+（3）嵌入式平台中的深度学习。主要研究深度学习技术在嵌入式平台的部署和优化，包括深度学习轻量级模型的构建，深度学习模型的压缩、裁剪和部署等。
+欢迎同兴趣、有理想的同学与我联系，共同发展，不负韶华。
+合作研究
+本研究组主要与美国圣母大学（2023年US News美国最佳大学排名18）Danny Ziyi Chen 教授（IEEE Fellow）合作，合作方向包括智慧医疗，深度学习等。国家留学基金委与圣母大学签有合作协议，每年资助不超过40名学生赴该校攻读博士学位（相关链接：https://www.csc.edu.cn/news/xinwen/2289）。有意攻读博士学位的本组优秀学生将向陈老师推荐。
+学生培养
+一、竞赛获奖
+[1]  蔡佳成，兰少武，余沫然，黄佑华，刘锐康. 面向社区老年人的AIGC健康数字分身及多模态风险干预系统. 省级SIT项目， 2025
+[2]  张琼予，谢可欣，张益祥，薛前率. 基于深度学习的拍照搜题技术及优化， 国家级SIT项目，2023
+[3]  施展，李平凡，刘昊鹏. 全国大学生计算机系统能力大赛操作系统设计赛初赛优胜奖，2022.
+[4]  汪继龙. 理邦仪器第四届医疗算法创新设计竞赛一等奖，2021.
+[5]  刘春亚，陈李培，韦理静. 全国大学生电子设计竞赛嵌入式专题邀请赛三等奖，2016.
+[6]  李瑞辉，肖欢，马晓芳. 全国大学生电子设计竞赛嵌入式专题邀请赛二等奖， 2012.
+二、讲授课程
+[1]  操作系统原理（本科）
+本人编写的操作系统课程实验,欢迎选用、交流、讨论：鲲鹏社区、香橙派合作开发操作系统实验课程（需华为账号登录）   操作系统课程实验（2024 UniProton（ARM v8）版） 移植 blogos 到 ARM v8!
+[2]  高等操作系统（研究生）
+[3]  嵌入式操作系统（本科）
+近期发表论文
+一、期刊论文
+[1]  Xin Cheng, Lei Yang, Rui Li*. Unsupervised Video Summarization Based on Spatio-Temporal Semantic Graph and Enhanced Attention Mechanism. IEEE Transactions on Computational Social Systems, 2025 (CCF C)
+[2]  Lei Yang，Xin Cheng, Yuwei Liao，Rui Li*，and Guoqi Xie. Intra-trajectory Error Balancing and Inter-trajectory Feature Point Clustering for Spatio-temporal Data Compression. IEEE Transactions on Knowledge and Data Engineering, 2025 (CCF A)
+[3]  Rucheng Jiang, Bin Fu*, Renfa Li, Rui Li, Danny Z. Chen, Yan Liu, Guoqi Xie, Keqin Li: A dual-branch convolutional neural network with domain-informed attention for arrhythmia classification of 12-lead electrocardiograms. Engineering Applications of Artificial Intelligence, 139: 109480, 2025 (中科院一区)
+[4]  JILONG WANG, JIANHUI LV*, RUI LI*, YINYIN GONG, YIJIE CHEN, PARAMESHACHARI B.D, ADAM SLOWIK, WEI WEI: XDTEncoder: A Deep Explainable Arrhythmia Classification Framework for Smart Healthcare, ACM Transactions on Multimedia Computing, Communications and Applications, 2024 （CCF B，中科院三区）
+[5]  Yinyin Gong, Rui Li*, Yan Liu,  Jilong Wang, Buwen Cao, Xiangzheng Fu, Renfa Li, and Danny Z. Chen: MR2CPPIS: Accurate Prediction of Protein-Protein Interaction Sites Based on Multi-scale Res2Net with Coordinate Attention Mechanism. Computers in Biology and Medicine, 2024 (中科院2区）
+[6]  Yinyin Gong, Rui Li, Bin Fu*, Yan Liu,  Jilong Wang, Renfa Li, and Danny Z. Chen: A CNN-LSTM Ensemble Model for Predicting Protein-Protein Interaction Binding Sites. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2023 (CCF B，JCR1区）
+[7]  Yijie Chen, Rui Li*, Wanli Li, Jilong Wang, and Renfa Li*: Three-Stage Global Channel Pruning for Resources-Limited Platform. IEEE Transactions on Neural Networks and Learning Systems, 2023 (中科院1区，JCR1区）
+[8]  Jilong Wang, Rui Li*, Renfa Li*, Bin Fu, Danny Z.Chen: HMCKRAutoEncoder: An Interpretable Deep Learning Framework for Time Series Analysis. IEEE Transactions on Emerging Topics in Computing, 10(1): 99-111, 2022 (中科院2区，JCR 1区)
+[9]  Yijie Chen, Rui Li*, Renfa Li*: HRCP : High-ratio channel pruning for real-time object detection on resource-limited platform. Neurocomputing 463: 155-167, 2021 (中科院2区，JCR 1区）
+[10] Jilong Wang, Rui Li*, Renfa Li*, Bin Fu, Chunxia Xiao, and Danny Z. Chen：Towards Interpretable Arrhythmia Classification with Human-machine Collaborative Knowledge Representation[J]. IEEE Transactions on Biomedical Engineering, 2021 （中科院2区，JCR 1区）
+[11] Jilong Wang, Renfa Li, Rui Li*, Bin Fu: A knowledge-based deep learning method for ECG signal delineation. Future Generation Computer Systems 109: 56-66, 2020 （中科院1区，JCR 1区）
+[12] Xu He*, Yu Deng, Shizhe Zhou, Rui Li, Yao Wang, Yang Guo: Lithography Hotspot Detection with FFT-based Feature Extraction and Imbalanced Learning Rate. ACM Trans. Design Autom. Electr. Syst. 25(2): 15:1-15:21, 2020 （CCF B，JCR 3区）
+[13] Xinhui Peng, Rui Li*, Jilong Wang, Hao Shang: User-Guided Clustering for Video Segmentation on Coarse-Grained Feature Extraction. IEEE Access 7: 149820-149832, 2019 （中科院2区，JCR 1区）
+[14] Jilong Wang, Renfa Li, Rui Li*, Keqin Li, Haibo Zeng, Guoqi Xie, Li Liu: Adversarial de-noising of electrocardiogram. Neurocomputing 349: 212-224, 2019 （中科院2区，JCR 1区）
+二、会议论文
+[1]  Hao Shang, Rui Li*, Xu He, Jilong Wang, Xinhui Peng: Real-time Accurate Object Counting for Smart Farms. IJCNN 2019: 1-8 （CCF C）
+[2]  Junjie Guan, Rui Li*, Renfa Li*, Wanli Li, Jilong Wang, Guoqi Xie: Automated Dynamic Electrocardiogram Noise Reduction Using Multilayer LSTM Network. MobiQuitous 2018: 197-206 （CCF C）
+科研项目
+[1]     湖南省重点研发计划， 音视频媒体网络交换机（设备）的研究与应用，2024-2026，在研，参与单位负责人
+[2]     湖南省自然科学基金，具解释性的新型深度学习模型及其在心电辅助诊断上的应用，2024-2026， 在研，主持。
+[3]     长安汽车科研合作课题，多车感知融合优化机制及技术，2024， 在研，主持。
+[4]     横向课题，兼容AES67标准的嵌入式AOIP终端技术开发，2022-2023， 在研，主持。
+[5]     横向课题，音频云编及AI辅助拆条技术开发，2021-2022， 已结题，主持。
+[6]     横向课题，面向对空目标的红外图像生成算法, 2021-2022, 已结题，技术负责人。
+[7]     横向课题，基于AI的雷达自动目标识别系统， 2018，已结题，主持。
+[8]     横向课题，音视频拆条技术开发，2018，已结题，主持。
+[9]     湖南省科技计划项目(重点项目)，编号:2015GK3010，中高端汽车电控网络调度研究，2015，已结题，主持。
+[10]     国家自然科学基金，编号: 61202102，车用实时异构网络调度模型及算法研究，2013.1-2015.12，已结题，主持。
+[11]     国家自然科学基金，编号:61173036,，以汽车为例的CPS若干问题研究，2012.1-2015.12，已结题，参与(排名第二)。
+[12]     湖南省科技计划项目，汽车实时操作系统关键技术及应用研究，2012.1-2013.12，已结题，主持。
+[13]     核高基重大专项，编号:2009ZX01038-001，实时嵌入式操作系统及开发环境，2009.1-2010.12，已结题，联合单位分课题负责人。
+[14]  国家自然科学基金，编号: 60873074，复杂嵌入式软件构造技术研究，2009.1-2011.12，已结题，参与(排名第二)。
+
+---
+
+## 李涛
+
+- **网址**: https://csee.hnu.edu.cn/people/litao
+- **姓名**: 李涛
+- **邮箱**: jt_litao@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 智能电网、电路设计、信号处理、人工智能等
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：智能电网、电路设计、信号处理、人工智能等
+联系方式：jt_litao@hnu.edu.cn
+教师介绍
+湖南邵阳人，博士，拥有丰富的企业开发工作经验，主持和参与多项国家、省级项目和企业项目，发表论文十余篇，申请发明专利7项，其中已授权4项。
+中文名：
+李涛
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+jt_litao@hnu.edu.cn
+研究方向：
+智能电网、电路设计、信号处理、人工智能等
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+个人简历
+1997-1998年:湖南娄底电力局
+2001-2003年：深圳华为技术有限公司
+2003年至今：湖南大学
+学术论文
+[1]基于Agent的电能质量监测虚拟仪器.计算机应用，2008，28(1):254-256..
+[2] 基于面向服务体系结构的配电网自动化系统.湖南大学学报(自然科学版)，2008，35(2)：80-83..
+[3] 基于支持向量机与神经网络的间谐波测量混合算法.高电压技术，2008，34(8)：1710-1714.
+[4] 基于WPF及WWF的电能质量监测系统表现层设计. 计算技术与自动化, 2009, 28(3): 123-126.
+[5] 叠加暂态电能质量扰动的分形熵分析. 计算机应用, 2009, 29(8): 2288-2290.
+[6] 基于小波分形的电能质量暂态扰动多分辨率分析. 湖南大学学报(自然科学版), 2010, 37(1): 80-84.
+[7] 基于提升复小波的暂态电能质量扰动的检测与定位. 中国电机工程学报, 2011, 31(25): 66-72.
+[8]  基于MAP估计双树复小波的电能质量扰动信号去噪方法. 计算技术与自动化, 2012, 31(1): 33-38
+[9]基于提升小波的电能质量高效定位算法.仪器仪表学报，2013,34（2）：281-288
+[10] The Transformer ConditionAssessment Model is Based on the Fault Tree Analysis. 3rd InternationalConference on Computer Science and Service System (CSSS 2014)
+[11]基于符号动力学的变压器内部故障检测,电工技术，2015,30(20):57-64
+[12] 基于符号动力学的变压器内部故障检测，电气技术，2016，8:1-8
+[13]基于T_S模糊神经网络分解炉燃烧控制系统设计，计算技术与自动化，2017,36[4]:33-36
+科研状况
+主持的科研项目：
+[1]  基于小波变换及分形理论的网络型谐波分析软件研究(湖南省科技计划项目）
+[2]  基于分形复小波的电能质量模型研究(湖南省科技计划项目）
+[3] 远程心电平台，30万元(横向)
+[4] 绥宁光伏发电系统，127.71万元(横向)
+参与科研项目：
+[1] 射频集成电路设计的电流模式方法学研究（国家自然基金）
+[2] 新型差分式电流传输器及其构成的电流模式连续时间滤波器（国家自然基金）
+[3] OFDM超宽带通信前端射频芯片设计研究
+[4] 用开关电流集成电路技术实现小波函数与小波变换的研究（省自然基金）
+[5] 基于神经网络和专家系统的电路实时检测和故障诊断仪器（省自然基金）
+[6] 高能耗企业的电价、电力需求曲线及对电力企业经济效益关联度的研究（横向,省电力公司）
+[7] 湖南电力市场调查及分析应用软件（横向,省电力公司）
+发明专利
+1）  李涛，何怡刚，张宇，夏浪ZL 201110125546.6，一种电能质量扰动信号检测方法(授权)
+2）  何怡刚，李涛，夏浪，张宇ZL201110125650.5，一种电能质量暂态扰动实时检测方法(授权)
+3）李涛，高晓，刘俊，安吉尧201510821187.6, 一种电力变压器内部故障的状态检修方法（授权）
+4）李涛，梁凯，吕爱玲 201610905615.8 ，一种水泥分解炉燃烧自动控制方法（授权）
+5）  李涛，蒋红   201710491758.8 身份智能识别共享住宿快捷云服务系统（实审）
+6）李涛，吕爱玲201810034420.X基于模糊神经网络的分解炉优化燃烧控制系统（实审）
+7）李涛，蒋红201811088575.8基于智能身份识别的云房共享系统及商业方法（实审）
+
+---
+
+## 刘彩苹
+
+- **网址**: https://csee.hnu.edu.cn/people/liucaiping
+- **姓名**: 刘彩苹
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 机器视觉与图像处理、智能机器人系统
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：机器视觉与图像处理、智能机器人系统
+教师介绍
+中文名：
+刘彩苹
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+机器视觉与图像处理、智能机器人系统
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机工程系
+学院教师
+个人简历
+刘彩苹，女，1978年1月生，博士，副教授，博导。2000年7月湖南大学计算机系通信工程专业本科毕业，2005年6月获湖南大学计算机应用技术专业硕士学位，2011年6月获湖南大学计算机科学与技术专业博士学位。现为湖南大学信息科学与工程学院副教授，博士生导师。
+主要研究方向为机器视觉与图像处理、智能机器人系统，长期从事机器人视觉感知、数字孪生技术、工业检测算法等领域的教学科研工作。作为核心成员参与国家自然科学基金重点项目、国家重点研发计划等国家级课题3项，主持省部级1项。近年来在IEEE Transactions on Image Processing、IEEE Transactions on Instrumentation and Measurement等TOP期刊发表SCI论文10余篇（其中第一/通讯作者8篇），研究成果获湖南省科技进步二等奖2项、中国商业联合会一等奖1项。申请发明专利10项，参与研发的曲面屏校正算法、高光谱中药材鉴别技术等成果已应用于工业生产线，具备扎实的产学研转化基础。
+学术论文
+[1]Kai Zeng；Yaonan Wang；Jianxu Mao；Caiping Liu；Weixing Peng；Yin Yang；Deep Stereo Matching With Hysteresis Attention and Supervised Cost Volume Construction，IEEE Transactions on Image Processing，2022，31：812-822（期刊论文）（本人标注：唯一通讯作者）
+[2]Yao Zhang；Jianxu Mao；Yaonan Wang；Caiping Liu；Hui Zhang；Haoran Tan；Kai Zeng：Stitching Based on Corrections to Obtain a Flat Image on a Curved-Edge OLED Display，IEEE Transactions on Instrumentation and Measurement，2022，71：5023012（期刊论文）（本人标注：唯一通讯作者）
+[3]Yao Zhang; Jianxu Mao; Yaonan Wang; Liu Caiping; Hui Zhang; Haoran Tan; Haotian Wu AnEfficient Optical Mura Compensation System for Large Liquid-Crystal Display Panels，IEEE Transactions on Instrumentation and Measurement，2022，71：5023213（期刊论文）（本人标注：唯一通讯作者）
+[4]Caiping Liu：Xudong Wang：Jianxu Mao：Research on multi-focus image fusion algorithm based on total variation and quad-tree decomposition，Multimedia Tools and Applications，2020，79：10475-10488（期刊论文）（本人标注：唯一第一作者）
+[5]Caiping Liu；Yahui Long；Jianxu Mao；Hui Zhang：Ruizhi Huang；Yang Dai；An effective image fusion algorithm based on grey relation of similarity and morphology，Journal of Ambient Intelligence and Humanized Computing，2023，14（11）：14859-14872（期刊论文）（本人标注：唯一第一作者）
+[6]刘彩苹、毛建旭、李仁发、付彬，无线传感器网络中中位数查询近似算法研究，通信学报，第32卷，第6期，157-164页，2011
+[7]刘彩苹、李仁发、付彬，动态拓扑环境下无线传感器网络分簇算法研究.，仪器仪表学报，第30卷，第12期，2652-2658页，2009
+[8]刘彩苹、蔡玉武、毛建旭，蔡玉文.无线传感器网络不重复记录求和近似算法.计算机应用，第34卷，第2期，313-317，2014
+[9]刘彩苹、李仁发、刘喜苹，无线传感器网络分布式均值查询聚集算法研究，. 通信学报，第29卷，第11期，24-30页，2008
+[10]刘彩苹、李仁发、付彬、毛建频，无线传感器网络中位数查询抽样算法研究，计算机应用，第29卷，第11期，1153-1155页，1190页，2010
+[11]刘彩苹、毛建频、毛建旭、屈卫兰、蔡玉武，基于格的快速频繁项集挖掘算法.湖南大学学报（自然科学版），第40卷，第10期，52-57，2013
+[12]刘彩苹、李仁发、刘喜苹，面向嵌入数据库的改进B+-树索引机制，计算机工程与科学，第29卷，第1期，101-102页，137页，2007
+[13]Mao Jianxu、Liu Caiping、Wang Yaonan，Remote Sensing Images Classification Using Fuzzy-Rough Neural Network.，In: Proc of the IEEE Fifth International Conference on Bio-Inspired Computing: Theories and Applications，pp761-765，Changsha， 2010
+科研状况
+[1] 主持国家级一般项目1项，Z202403000221，单体机器人自主智能作业技术研究（国家重点研发计划子课题），2023-12-22至2026-11-30，合同经费60万；
+[2] 主持湖南省自然科学基金项目1项, 2018JJ3079, 基于无线多媒体传感器网络的农作物生长监测系统研究,2018-01 至2020-12, 合同经费5万元, 已结题；
+[3] 参与横向项目，H202091400222，OLED屏缺陷自动光学检测技术及设备研发，2020-06-05至2023-06-04；
+[4] 参与横向项目，H202291400441，声学成像技术在变压器声纹特征在线监测中的应用研究-声阵列图像识别算法研究，2022-07至2023-08；
+学生培养
+[1] 指导学生范双全等人获得“第八届‘博创·恩智浦’杯全国大学生嵌入式物联网设计大赛”全国总决赛“恩智浦平台专项奖”三等奖（2012）
+[2] 指导学生邹智强等人获得“兆易创新杯”第十五届中国研究生电子设计竞赛华中分赛区二等奖（2020）
+
+---
+
+## 刘代波
+
+- **网址**: https://csee.hnu.edu.cn/people/liudaibo
+- **姓名**: 刘代波
+- **邮箱**: dbliu@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 物联网安全，智能感知，无线网络
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：物联网安全，智能感知，无线网络
+联系方式：dbliu@hnu.edu.cn; dbliu.sky@gmail.com
+教师介绍
+刘代波，湖南大学副教授，博士生导师，岳麓学者，CCF高级会员，CCF物联网专委会与普适计算专委会执行委员。2018年6月毕业于电子科技大学计算机科学与工程学院，获工学博士学位。其中2014年7月-2016年4月，在清华大学信息科学与技术国家实验室进行联合博士培养；2016年9月-2017年9月在美国威斯康星麦迪逊大学Madison分校联合培养。2019年3月加入湖南大学。主要研究方向包括物联网安全、无线感知、边缘计算。主持参与多项国家重点基金与课题，包括国自科面上与青年基金、国自科区域创新发展联合项目等；在相关领域发表高质量SCI/EI收录论文70多篇，包括TON,TMC,JSAC等期刊和USENIXSecurity,CCS,NDSS,UbiComp,INFOCOM等会议，其中包括CCFA类期刊会议论文30多篇，IEEE/ACM-Transactions论文30余篇;获2021/2024/2025年湖南省计算机学会科学技术一等奖和二等奖三项。申请发明专利多项，获授权十多项。
+主页：https://sites.google.com/site/dbliuuestc/
+中文名：
+刘代波
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+dbliu@hnu.edu.cn; dbliu.sky@gmail.com
+研究方向：
+物联网安全，智能感知，无线网络
+联系地址：
+湖南大学信息科学与工程学院554办公室
+所属机构：
+软件工程系
+学院教师
+News
+课题组长期招收博士后、博士生、硕士、本科生! 【目前仍有2026级博士、硕士指标】，欢迎联系！
+[2025/07], Our paper "Amulet: Integrating Sensitive Information Access with Identity Authentication on Mobile Devices" was accepted to ACM IMWUT/UbiComp 2025  （CCF A类会议）
+[2025/04], One paper on Black-box Keystroke Inference Attacks to Mobile Devices was accepted to ACM IMWUT/UbiComp 2025（CCF A类会议）
+[2024/12],  One paper was accepted to IEEE ICASSP 2025.（CCF B类会议）
+[2024/10],  One paper "Measurement Study of DNS Query Protocols in Mobile Networks" was accepted to IEEE MSN 2024.
+[2024/09],  One paper on POS Terminal Passwords Eavesdropping with WiFi Beamforming Feedback was accepted to  IEEE Transactions on Mobile Computing. （CCF A类期刊）
+[2024/08],  Our paper "EM-Rhythm" on Heterogeneous IoT Devices Authentication was accepted to ACM Transactions on Sensor Networks.
+[2024/08], our paper "GPSBuster" on Hidden GPS Tracker Detection was accepted to  ACM CCS 2024. （CCF A类会议）
+[2024/07], one paper on EMR-based Drone Detection was conditioally accepted to  IEEE Transactions on Intelligent Transportation Systems. （SCI 一区期刊）
+[2024/06], one paper on Video Streaming QoE Optimization was accepted to  IEEE Transactions on Mobile Computing. （CCF A类期刊）
+[2024/05], Our paper on Energy Consumption Optimization for Mobile Video Streaminng was accepted to ACM Transactions on Sensor Networks.
+[2024/05], our paper "DEyeAuth" on User Authentication with Eyelid Patterns  was accepted to  IEEE Internet of Things Journal.
+[2024/05], Our paper named "WiShield: Privacy against Wi-Fi Human Tracking" was accepted to IEEE JSAC. （CCF A类期刊）
+[2024/02], our work on Uncovering the Root Causes of Android App Crashes was accepted to ACM Transactions on Sensor Networks.
+[2024/02], one paper on Passive Vibration-based Two-factor Authetication for smart locks was accepted to  IEEE Transactions on Mobile Computing. （CCF A类期刊）
+[2024/01], our work ESauron on Hidden Spy Cameras Detection was accepted to USENIX Security 2024, Congratulate to Qibo and all co-authors.  (湖南大学新闻) （CCF A类会议）
+[2023/12], one paper on Wi-Fi BFI-based password eavesdropping was accepted to IEEE INFOCOM 2024. （CCF A类会议）
+[2023/10], one paper on Earphone-based Head Motion Tracking   was accepted to IEEE Transactions on Mobile Computing.
+[2023/10], our paper on UWB Radar-based Contactless Eye Blink Detection  was accepted to  IEEE Transactions on Mobile Computing.
+[2023/06], our paper "Periscope" on Audio Eavesdropping based on Amplifier's EMR  was accepted to  NDSS 2024.  （CCF A类会议）
+[2023/06], our paper "LipAuth" on Securing Smartphone User Authentication with Dynamic Patterns of Lip Motion was accepted to  IEEE Internet of Things Journal.
+[2023/05], our paper "PupilHeart" on Pupil Morphology Sensing for Heart Rate Variability Monitoring was accepted to  IEEE Internet of Things Journal.
+[2023/04], our paper "LSTAloc" on Driver-Oriented Incentive Mechanism for Mobility-on-Demand Vehicular Crowdsensing Market  was accepted to IEEE Transactions on Mobile Computing
+[2023/04], Earphone-based Middle-Ear Effusion Detection was accepted to IEEE ICDCS 2023.
+[2022/12], our paper "LiveProbe"  on Voice Liveness Detection was accepted to  IEEE Internet of Things Journal
+[2022/11], our paper "LIPAuth"  on Hand-dependent Light Intensity Patterns for User Authentication was accepted to ACM Transactions on Sensor Networks.
+[2022/10], Invited to be a TPC member of IEEE ICDCS 2023.
+[2022/10], our papers "HandKey" and "MagSign" on User Authentication  were accepted to IEEE Transactions on Mobile Computing
+[2022/06], one paper on Pupil Morphology Sensing for Inferring User Preferences  was accepted to IEEE Internet of Things Journal
+[2022/05], Invited to be a PC member of ICPADS 2022.
+[2022/04], our paper on Mobile Video Streaming optimization was accepted to IEEE IWQoS 2022.
+[2022/04], our paper on UWB-based Eye-Blink Detection was accepted to IEEE ICDCS 2022.
+[2022/02], our paper on Concurrent Low Power Listening was accepted to ACM Transactions on Sensor Networks.
+[2021/11], our paper on distributed storage for mobile crowdsensing was accepted to ACM Transactions on Sensor Networks.
+[2021/10], our paper "Vibphone" on Telephone Conveersationo Eavesdropping with inbuilt accelerometer was accepted to ACM Ubicomp/IMWUT 2022.
+[2021/09], Invited to be a TPC member of IEEE ICDCS 2022.
+[2021/08], one paper on Poisoning Attacks Optimization was accepted to IEEE Transactions on Network Science and Engineering
+[2021/07], one paper on Driving State Monitoring  was accepted to ACM Ubicomp/IMWUT 2021
+[2021/03], one paper on Motion Tracking  was accepted to IEEE Internet of Things Journal
+[2021/03],"HandKey" and "PupilMeter" were accepted to IEEE ICDCS 2021
+[2021/01], Check out our work onUser Authentication (CACM News)
+[2020/11], Invited to be a TPC member of IEEE ICDCS 2021.
+[2020/10], one paper on Networking Flooding  was accepted to IEEE/ACM Transactions on Networking
+[2020/07], one paper on Taxi Revenue Efficiency Optimization was accepted to  IEEE Transactions on Network Science and Engineering
+[2020/07], our paper "SmileAuth" was accepted to Ubicomp/IMWUT 2020
+[2020/06], our paper "ALIGNER" was accepted to ACM Transactions on Sensor Networks
+[2020/05], Invited to be the publicity chair of EAI ICECI 2020.
+[2020/04], one paper on Indoor Navigation was accepted to IEEE Transactions on Mobile Computing
+[2020/03], one paper on UAV resource allocation was accepted to IEEE Transactions on Vehicular Technology
+Group
+实验室科研经费充足，研究基础良好，与国际顶级团队交流、合作机会多，欢迎各位加入！
+招收博士生，研究方向为：智能感知、低功耗网络传输、物联网安全、基于AI的网络技术
+招收硕士生（随时进组提前实习），学术/专业型不限，感兴趣的同学欢迎email联系
+欢迎本科生进组参与科研项目，优秀者可推荐到UCSD, UW-Madison, UCLA, U-Michigan, UMass Amherst, Rutgers University, NTU, THU，ZJU等深造。
+研究方向：
+1) Wireless networking: low power wireless communicaiton in IoTs (LPWAN, BLE, Zigbee, etc.), AI-based network analysis and protocol design, etc.
+2) Mobile and ubiquitous computing: ubiquitous and wireless sensing systems for healthcare, mobile interaction, video streaming, etc.
+3) Efficient computing and AI on edge and IoT devices
+Networking and Smart Sensing Group小组成员：
+1）PhD student: Hangcheng Cao, Ling Kuang, Xiangyu Shen, Shuzhen Xiang, Qibo Zhang, Jingyang Hu, Siyu Chen.  (Co-supervised with Prof. Hongbo Jiang, Prof. Fanzi Zeng, and Prof. Huigui Rong.)
+2）Master student: Yunpeng Feng, Long Shen, Taiyuan Zhang, Panyi Ji, Chao Qian, Shenmin Zha,  Ruize Wang, Xin Jiang
+3）Undergraduates: Weigao Su (2018 - 2022, now Ph.D student at Purdue), Tianli Shi (2019 -), Xiao Li (2020 - )
+学术论文(Selected Publications)
+部分一作/通讯作者论文列表    (Full list)
+[ACM TOSN] LIPAuth: Hand-dependent Light Intensity Patterns for Resilient User Authentication. ACM Transactions on Sensor Networks, Accepted for publication.
+[IEEE TMC] MagSign: Harnessing Dynamic Magnetism for User Authentication on IoT Devices. IEEE Transactions on Mobile Computing. Accepted for publication. CCF-A期刊
+[IEEE TMC] HandKey: Knocking-triggered Robust Vibration Signature for Keyless Unlocking. IEEE Transactions on Mobile Computing. Accepted for publication. CCF-A期刊 【ESI 高被引】
+[IEEE ICDCS'22] BlinkRadar: Non-Intrusive Driver Eye-Blink Detection, accepted to IEEE ICDCS 2022. [acceptance ratio = 114/573 (19.9%)], CCF B类会议
+[IEEE IWQoS'22] Harmonizing Energy Efficiency and QoE for Brightness Scaling-based Mobile Video Streaming, accepted to IEEE IWQoS 2022. [acceptance ratio = 64/263 (24.3%)], CCF B类会议
+[ACM TOSN] Concurrent Low Power Listening: A New Design Paradigm for Duty-Cycling Communication,  ACM Transactions on Sensor Networks, ACM Trans. Sens. Networks 19(1): 4:1-4:24 (2023). 【ESI 高被引，热点论文】
+[ACM TOSN] Compressive Sensing Based Distributed Data Storage for Mobile Crowdsensing,  ACM Transactions on Sensor Networks,
+[IEEE IOT-J] PupilRec: Leveraging Pupil Morphology for Recommending on Smartphones. IEEE Internet of Things Journal, 2022, 中科院一区    【ESI 高被引】
+[ACM IMWUT/UbiComp'22] Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer, Accepted to ACM UbiComp/IMWUT 2022.  CCF A类会议 (一作为本科生)
+[ACM IMWUT/UbiComp'21]  DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar,  ACM UbiComp/IMWUT 2021. CCF A类会议
+[IEEE ICDCS'21] Evidence in Hand: Passive Vibration Response-based Continuous User Authentication,  In proceedings of IEEE ICDCS 2021, [acceptance ratio = 97/489 (19.8%)] CCF B类会议
+[IEEE ICDCS'21] PupilMeter: Modeling User Preference with Time-Series Features of Pupillary Response,  In proceedings of IEEE ICDCS 2021, [acceptance ratio = 97/489 (19.8%)] CCF B类会议
+[IEEE IOT-J] CTrack: Acoustic Device-Free and Collaborative Hands Motion Tracking on Smartphones，IEEE Internet of Things Journal, 2021, 中科院一区
+[ACM IMWUT/UbiComp'20]  SmileAuth: Using Dental Edge Biometrics for User Authentication on Smartphones,  ACM UbiComp/IMWUT 2020.   CCF A类会议     [ACM News]媒体报道
+[ACM TOSN] Pushing the Limits of Transmission Concurrency for Low Power Wireless Networks,  ACM Transactions on Sensor Networks, 2020, CCF B类期刊
+[ACM TOSN] Exploiting Concurrency for Opportunistic Forwarding in Duty-cycled IoT Networks,  ACM Transactions on Sensor Networks, 2019, CCF B类期刊
+[ACM TECS] A Contention Detectable Mechanism for Receiver-Initiated MAC, ACM Transactions on Embedded Computing Systems, 2019，  CCF B类期刊
+[EWSN'19] Aligner: Make the Utmost of Transmission Concurrency for Low Power Wireless Networks, In proceedings of EWSN 2019，[acceptance ratio = 18/79 (22.8%)]
+[IEEE TVT] Adaptive Retransmission Layer for Duty Cycle Wireless Networks,  IEEE Transactions on Vehicular Technology,  2018
+[IEEE/ACM TON] Chase: Taming Concurrent Broadcast for Flooding in Asynchronous Duty Cycle Networks, IEEE/ACM Transactions on Networking, 2017,   CCF A类期刊
+[IEEE/ACM TON] Achieving Accurate and Real-Time Link Estimation in Low Power Wireless Sensor Networks, IEEE/ACM Transactions on Networking, 2017, CCF A类期刊
+[IEEE/ACM TON] Duplicate Detectable Opportunistic Forwarding in Duty-Cycled Wireless Sensor Networks, IEEE/ACM Transactions on Networking, 2016，CCF A类期刊
+[IEEE/ACM IPSN'16]  Frame Counter: Achieving Accurate and Real-Time Link Estimation in Low Power WirelessSensor Networks,  In proceedings of ACM/IEEE IPSN 2016, [acceptance Rate: 23/117=19.6%] CCF B类会议
+[IEEE ICNP'15] COF: Exploiting Concurrency for Low powerOpportunistic Forwarding,  In proceedings of IEEE ICNP 2015, [acceptance Rate: 38/187=20.3%]  CCF B类会议
+[IEEE SECON'15] CD-MAC: A Contention Detectable MAC for Low Duty-Cycled Wireless SensorNetworks,  In proceedings of IEEE SECON 2015, [acceptance Rate: 55/196=28%] CCF B类会议
+[IEEE ICDCS'15] TeleAdjusting:Using Path Coding and Opportunistic Forwarding for Remote Control in WSNs,  In proceedings of IEEE ICDCS 2015, [acceptance Rate: 70/543=12.9%]CCF B类会议
+[ACM MobiHoc'14] RxLayer: AdaptiveRetransmission Layer for Low Power Wireless,  In proceedings of  ACM MobiHoc 2014, [acceptance Rate: 40/211=18.9%]CCF B类会议
+[IEEE ICNP'13] DOF:Duplicate Detectable Opportunistic Forwarding in duty-cycled wireless sensornetworks.  In proceedings of IEEE ICNP 2013, [acceptance Rate: 46/251=18.3%] CCF B类会议
+授权发明专利：
+[1]  刘代波; 刘云浩 , 冲突可侦测的链路层控制方法, 2016.09.28, 中国, CN103687072B
+[2] 刘代波; 侯孟书; 刘云浩 , 一种无线传感器网络的时延测量方法, 2015.09.16, 中国, CN102917399B
+[3] 刘代波; 何源；曹志超；刘云浩，逆向路径的编码方法和装置 ，2018.10.12，中国，CN104579567B
+课程
+Computer Networks (Undergraduate course)
+Introduction to Internet of Things (Graduate course)
+参与的大型项目
+GreenOrbs(绿野千传) : A long-term kilo-scale wireless sensor network system in the vast forest
+CitySee : A long-term city-wide urban sensing system for Carbon balance evaluation and environmental surveillance
+科研课题
+1. 国家自然科学基金面上项目，62572183，面向用户隐私安全的物理空间隐蔽设备检测关键技术研究，2026/01-2029/12, 主持，50万
+2. 国家自然科学基金面上项目，62372166, 基于交互驱动的手指振动跨设备身份认证关键技术研究, 2024/01-2027/12，在研，主持，50万
+3. 国家自然科学基金青年项目，61902122, 面向低功耗无线网络无协调并发介质访问关键技术研究, 2020/01-2022/12，已结题，主持，23万
+4. 华为技术合作项目，基于无线感知的用户物理空间安全监测技术， 2024/12/30 - 2025/12/30, 主持，105万
+5. 华为技术合作项目，功耗时延双驱动的混合关键性多核多DAG调度技术，2023/01/01-2024/12/30，主持，267 万
+6. 湖南省自然科学基金面上项目, 2023JJ30164, 基于手指振动指纹跨智能设备用户识别关键技术研究, 2023/01-2025/12, 在研，主持，5万
+7. 湖南省自然科学基金青年项目, 2020JJ5089, 面向低功耗无线网络并发机会路由协议关键技术研究, 2020/01-2021/12, 已结题，主持，5万
+8. 中央高校基本科研业务费，低功耗无线网络共享信道资源方法研究， 在研，主持
+9. 湖南大学信息科学与工程学院学科人才培养项目（优秀人才A类），2020/01 - 2021/12，主持。
+10. 国家自然科学基金重点项目，61732017，面向无人系统的网络协同理论与技术，
+2018/01-2022/12, 已结题，参与
+11. 国家自然科学基金联合基金项目，U19A2067，面向复杂环境的边缘计算支撑关键技术，2020/01-2023/12，在研，参与
+12. 国家自然科学基金联合基金项目，U20A20181, 信息物理网络数据感知与安全体系，2021/01-2024/12，在研，参与
+学术兼职
+Publicity Chair:
+EAI ICECI 2020
+PC Memember for:
+IEEE DySPAN 2019
+IEEE ICDCS 2021
+ACM CHI 2021
+CloudNet 2014
+ACCSE 2017, 2018, 2019
+Journal Reviewer:
+IEEE/ACM Transactions on Networking (TON), IEEE Transactions on Mobile Computing (TMC), ACM Transactions on Sensor     Network (TOSN), IEEE Transactions on Vehicular Technology(TVT), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Computers (TC), ACM Transactions on Cyber-Physical Systems (TCPS), IEEE Transactions on Parallel and Distributed Systems (TPDS), IEEE Journal on Selected Areas in Communications (JSAC)
+Misc.
+CONFERENCE TRACKER!
+中国计算机学会（CCF）推荐国际学术会议和期刊目录
+Systems & Networking Group at Microsoft        Google Research          CSAIL         NEST-Lab
+Networks and Mobile Systems@MIT  Affective Computing@MIT   Stanford Computational Imaging Group
+AI Lab@Stanford     Networks & Mobile Systems@Washington         People-Aware Computing Lab
+Xinyu Zhang      Romit Roy Choudhury    Dina Katabi       Feng Qian       Morley Mao    Tian He   Yunhao Liu
+KANG G. SHIN      Mingyan Liu     Hari Balakrishnan     Sherman Shen   Arvind Krishnamurthy
+Hongbo Jiang     Yuan He        Jiliang Wang    Zhichao Cao   Jie Xiong    Mo Li
+Xiufeng Xie      Shyam Gollakota       Lothar Thiele
+
+---
+
+## 刘琴
+
+- **网址**: https://csee.hnu.edu.cn/people/liuqin
+- **姓名**: 刘琴
+- **邮箱**: gracelq628@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 云计算安全、人工智能安全、区块链安全、大数据安全与隐私保护
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：云计算安全、人工智能安全、区块链安全、大数据安全与隐私保护
+联系方式：gracelq628@hnu.edu.cn 13548577157
+教师介绍
+刘琴，女，1982年6月生，博士，副教授，湖南长沙人，中共党员。2004年获得湖南师范大学计算机科学与技术专业工学学士学位，2007年获得中南大学计算机应用技术专业工学硕士学位，2012年获得中南大学计算机应用技术专业工学博士学位。在2010年-2012年间，以联合培养博士身份在美国天普大学（TempleUniversity）访问学习了两年。2013年10月加入湖南大学。2014年湖南省自然科学奖二等奖（排名第二），2015年获得湖南省优秀博士论文奖励，2018年入选湖南省青年骨干教师，2020年获得湖南省自然科学基金优秀青年项目资助。
+中文名：
+刘琴
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+13548577157
+电子邮件：
+gracelq628@hnu.edu.cn
+研究方向：
+云计算安全、人工智能安全、区块链安全、大数据安全与隐私保护
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+主页
+https://qinliu-hnu.github.io/
+学术任职情况
+[1]INFOCOM 2018-至今 TPC member
+[2]General Chair of TrustData
+科研项目
+国家自然科学基金面上项目，62272150，面向云边协同搜索的多元安全机制研究，2023/01-2026/12，在研，主持
+国家自然科学基金面上项目，61872133，面向云端大数据的可搜索加密关键技术研究，2019/01-2022/12，主持
+国家自然科学基金重点项目，61632009，面向网络计算的新一代操作系统及关键技术，2017/01-2021/12，子课题负责人
+湖南省自然科学基金优秀青年基金项目，2020JJ3015，大数据安全搜索理论与关键技术的研究，2020/01-2022/12，主持
+国家自然科学基金青年科学基金项目，61402161，云计算环境下可扩展的细粒度加密关键技术研究，2015/01-2017/12，主持
+湖南省自然科学基金青年基金项目，2015JJ3046，面向安全云服务的加密关键技术研究，2015/01-2017/12，主持
+2016CCF-腾讯犀牛鸟基金项日，CCF-TencentIAGR20160113，社交网络中隐私保护机制的研究，2016/07-2017/12，主持
+2014CCF-腾讯犀牛鸟基金项目，CCF-TencentIAGR20140104，基于云计算平台的大数据安全机制研究，2014/07-2015/12，主持
+学术论文
+刘琴在CCS、AAAI、INFOCOM、TIFS、TKDE、TDSC、TPDS、TMC、TSC等国际顶级会议及期刊发表论文70余篇，谷歌学术H指数为37，谷歌学术引用总数超过5500次（单篇最高引用次数超过930）。
+代表性期刊论文
+Y. Zou, Q. Liu*, J. Wu, T. Wang, G. Chen, T. Peng, and G. Wang, "CAA: Toward Camouflaged and Transferable Adversarial Examples," IEEE Transactions on Information Forensics and Security, 2026. (CCF A)
+Q. Liu, Y. Peng, M. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "MPV: Enabling fine-grained query authentication inhybrid-storage blockchain," IEEE Transactions on Knowledge and Data Engineering, 2024. (CCF A)
+Q. Liu, Y. Peng, Z. Tang, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "veffChain: Enabling freshness authentication of richqueries over blockchain databases," IEEE Transactions on Knowledge andData Engineering, 2024. (CCF A)
+Q. Liu, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "Authorized keyword search on mobile devices in secure dataoutsourcing," IEEE Transactions on Mobile Computing, 2024. (CCF A)
+S. Wang, Q. Liu*, Y. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "Protecting inference privacy with accuracy Improvement in mobile-cloud deep learning," IEEE Transactions on Mobile Computing, 2024. (CCF A)
+Q.Liu, Y. Peng, Q. Xu, H. Jiang, J. Wu, T. Wang, T. Peng, G. Wang, and S. Zhang, "MARS: Enabling verifiable range-aggregate queries in multi-source environments," IEEE Transactions on Dependable and Secure Computing, 2023. (CCF A)
+Q. Liu, Y. Peng, H. Jiang, J. Wu, T. Wang, T. Peng, and G. Wang, "SlimBox: Lightweight packet inspection over encrypted traffic," IEEE Transactions on Dependable and Secure Computing, 2023.(CCF A)
+Q. Liu, Y. Peng, S. Pei, J. Wu, T. Peng, and G. Wang, “Prime inner product encoding for effective wildcard-based multi-keyword fuzzy search,” IEEE Transactions on Services Computing, 2022.(CCF A，ESI高被引论文)
+Q. Liu, Y.Tian, J. Wu, T. Peng, and G. Wang, "Enabling Verifiable and dynamic ranked search over outsourced data," Transactions on Services Computing, 2022.(CCF A，ESI高被引论文)
+Q. Liu, G.Wang, F. Li, S. Yang, and J. Wu, "Preserving privacy with probabilistic indistinguishability in weighted social networks," IEEE Transactionson Parallel and Distributed Systems, 2017. (CCF A)
+Q. Liu, C.C. Tan, J. Wu, and G. Wang, "Towards differential query services in cost-efficient clouds," IEEE Transactions on Parallel and DistributedSystems,2014. (CCF A类期刊)
+Q. Liu, G.Wang, and J. Wu, "Time-based proxy re-encryption scheme for secure data sharing in a cloud environment," Information Sciences, 2014. (CCF B类期刊)
+Q. Liu, G.Wang, and J. Wu, "Secure and privacy preserving keyword search for cloud storage," Journal of Network and Computer Applications, 2012. (CCF C类期刊)
+G. Wang, Q. Liu, and J. Wu, "Hierarchical attribute-based encryption and scalable user revocation for sharing data in cloud servers," Computers & Security, 2011. (CCF B类期刊)
+代表性会议论文
+Y. Zou, Q. Liu*, J. Wu, Y. Peng, G. Chen, H. Zhou, and G. Ye, "Boosting adversarial transferability via ensemble non-attention," Proc. of AAAI 2026. (CCF A)
+Q. Liu, J. Yang, H. Jiang, J. Wu, T. Peng, T. Wang, and G. Wang, "When deep learning meets steganography: Protecting inferenceprivacy in the dark," Proc. of INFOCOM 2022. (CCF A)
+Qin Liu, SiXia Wu, Shuyu Pei, Jie Wu, Tao Peng, and Guojun Wang "Secure and efficient multi-attribute range queries based on comparable inner product encoding," Proc. of CNS 2018.
+Q. Liu, X. Nie, X. Liu, T. Peng, and J. Wu, "Verifiable ranked search over dynamic encrypted data in cloud computing," Proc. of IWQoS 2017. (CCF B)
+G. Wang, Q. Liu*, F. Li, S. Yang, and J. Wu, "Outsourcing privacy-preserving social networks to a cloud," Proc. of INFOCOM 2013. (CCF A)
+Q. Liu, C. C. Tan, J. Wu, and G. Wang, "Efficient information retrieval for ranked queries in cost-effective cloud environments," Proc of INFOCOM 2012. (CCF A)
+G. Wang, Q. Liu, and J. Wu, "Hierarchical attribute-based encryption for fine-grained access control in cloud computing," Proc. of ACM CCS 2010. (CCF A)
+授权专利
+彭宇，刘琴，吴洋，吴杰，一种多密钥内积功能加密方法及系统，中国，ZL202510027417.5，授权日期：2025.11.04
+刘琴，王菲，陈浩，一种强化学习优化的基于扩散模型的图像融合方法，中国，ZL202510212614.4，授权日期：2025.10.17
+刘琴，徐铭作，一种混合存储区块链的细粒度身份验证方法，中国，ZL202310340101.2，授权日期：2025.07.18
+刘琴，许倩，一种多源聚合查询验证方法，中国，ZL202211037547.X，授权日期：2024.04.26
+刘琴，彭宇，一种动态可搜索加密方法，中国，ZL202210549179.0，授权日期：2024.04.12
+刘琴，宁渝筑，多源数据查询系统及方法，中国，202110398248.8，授权日期：2021.07.02
+刘琴，胡柏霜，一种云环境下基于层次属性的关键字查询方法，中国，ZL201810264897.7，授权日期：2021.05.04
+刘琴，裴书玉，云环境下基于密文的多关键词模糊查询方法，中国，ZL201810501660.6，授权日期：2021.10.15
+刘琴，一种社交网络中隐私保护方法及装置，中国，ZL201710220150.7，授权日期：2020.07.28
+刘琴，吴思霞，一种基于云环境的多属性范围查询方法，中国，ZL201810318428.9，授权日期：2020.06.30
+刘琴，一种基于云计算平台的数据访问方法及用户终端，中国，ZL201510546501.4，授权日期：2020.01.10
+王国军，刘琴，刘湘勇，齐芳，一种净室云计算数据处理方法及系统，中国，ZL201410083476.6，授权日期：2017.03.29
+
+---
+
+## 刘彦
+
+- **网址**: https://csee.hnu.edu.cn/people/liuyan
+- **姓名**: 刘彦
+- **邮箱**: liuyan@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能、汽车电子、计算机系统结构、金融大数据；近期关注多模态医疗信息处理方向；
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能、汽车电子、计算机系统结构、金融大数据；近期关注多模态医疗信息处理方向；
+联系方式：liuyan@hnu.edu.cn
+教师介绍
+湖南长沙人，博士，主讲《计算机系统》、《数字电路与逻辑设计》等本科生课程，主要研究方向为计算机体系结构、嵌入式系统和人工智能。
+中文名：
+刘彦
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+liuyan@hnu.edu.cn
+研究方向：
+人工智能、汽车电子、计算机系统结构、金融大数据；近期关注多模态医疗信息处理方向；
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机工程系
+学院教师
+个人简历
+1998-2002年，湖南大学，通信工程专业，学士
+2002-2005年，湖南大学，计算机应用技术专业，硕士
+2005-2010年，湖南大学，计算机应用技术专业，博士
+主要研究领域和方向为：人工智能、汽车电子、计算机体系结构、金融大数据。
+Yan Liu, Ph.D, associate professor of College of Computer Science and Electronic Engineering, Hunan University.
+Research Interesting: Computer Architecture,Artificial intelligence,Financial big data.
+Teaching: Computer Architecture and Orgnization, 2019 spring
+联系方式
+联系方式：
+邮箱：liuyan@hnu.edu.cn
+地址：湖南长沙，湖南大学，信息科学与工程学院，410082
+办公室：信息科学与工程学院 621室
+Contact Information：
+Email: liuyan@hnu.edu.cn
+Address: College of Computer Science and Electronic Engineering,Changsha, Hunan Province, P.R.China.
+欢迎对多模态医疗信息处理、人工智能、汽车电子、嵌入式计算系统、计算机体系结构感兴趣者加入！
+科研状况
+科研项目：
+主持国家自然科学基金、湖南省自然科学基金等项目5项。
+科研奖励：
+参与获得湖南省科技进步一等奖、二等奖和教育部科技进步二等奖。
+学术论文
+1、主要论文：
+计算机系统方向
+(1) Z. Yu, Y.
+Liu*, R. Li and W. Chang, LIDS: A Lightweight Intrusion Detection System
+for Controller Area Network. IEEE Transactions on Computer-Aided Design of
+Integrated Circuits and Systems, 2025, 44(9): 3303-3312.
+(2) Y. Huang, Y. Liu*, Y. Bai, S. Chen and R. Li. UMA-MF: A Unified Multi-CPU/GPU Asynchronous Computing Framework for SGD-Based Matrix Factorization. IEEE Transactions on Parallel and Distributed Systems, 2023, 34(11): 2978-2993.
+(3) Z. Yu, Y. Liu*, G. Xie, R. Li, S. Liu and L. T. Yang. TCE-IDS: Time Interval Conditional Entropy based Intrusion Detection System for Automotive Controller Area Networks.  IEEE Transactions on Industrial Informatics, 2023, 19(2): 1185-1195.
+(4) Yan Liu, Zaimei Zhang,
+Jilong Xu, Guoqi Xie, Renfa Li. Coded worn block mechanism to reduce garbage
+collection in SSD. Journal of Systems Architecture, 2022, 126: 102487.
+(5) Wenhong Ma,Yan Liu*, Guoqi Xie, Renfa Li,Laurence T. Yang. Security-Aware CAN-FD Message Packing in Intelligent Automotive Cyber-Physical Systems. IEEE Internet of Things Journal, 2022, 9(22): 22343-22356.
+智能数据处理方向
+(1) Yan Liu*, Xiner Li, Zaimei
+Zhang. A new approach in reject inference of using ensemble learning based on
+global semi-supervised framework. Future Generation Computer Systems, 2020,
+109: 382-391.
+(2) Kun Niu, Zaimei Zhang, Yan Liu*, Renfa Li. Resampling ensemble model based on data
+distribution for imbalanced credit risk evaluation in P2P lending. Information
+Sciences, 2020, 536: 120-134.
+2、专著：
+[1]刘彦，付彬，李仁发. 高性能嵌入式计算，机械工业出版社， 2016
+[1]徐成，秦云川，刘彦. WindowsCE内核定制与驱动程序开发，中国电力出版社，2011
+[2]徐成，凌纯清，刘彦，杨志邦. 嵌入式系统导论，中国铁道出版社，2011
+3、专利：
+[1]李仁发,陈宇,徐成,吴强,刘彦等,基于单位面积加速比的可重构资源管理方法,2012年7月,中国,ZL201010022083.6
+[2]李仁发,陈宇,徐成,吴强,刘彦等,软硬件协同函数库的构造方法，2012年8月，中国，ZL200910226667.2
+[3]李仁发,陈宇,徐成,吴强,刘彦等,一种过程级软硬件协同设计自动化开发方法，2012年7月，中国，ZL201010022084.0
+[4]李仁发,陈宇,徐成,吴强,刘彦等,考虑硬件预配置因素的动态软硬件划分方法，2012年6月，中国，ZL201010022085.5
+学生培养
+部分全职硕士生：
+2012级：安萌萌，赵一弘
+2013级：蔡向前
+2014级：李永伟，李洪贵，马啸啸
+2015级：邓斌，祝磊
+2016级：徐骥龙，唐宇晴，晋琳琳
+2017级：李心儿
+2018级：牛坤，赵剑豪
+2019级：袁玉洁，李一谈
+2020级：吕娟
+2021级：罗枭鸿
+博士生：
+2017级：黄一智
+2019级：庾章伟
+2020级：龚茵茵
+2021级：蒋汝成
+2022级：郑志凌
+
+---
+
+## 刘元盛
+
+- **网址**: https://csee.hnu.edu.cn/people/liuyuansheng
+- **姓名**: 刘元盛
+- **邮箱**: yuanshengliu@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能、生物信息学
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能、生物信息学
+联系方式：yuanshengliu@hnu.edu.cn
+教师介绍
+博士生导师，主持国家自然科学基金面上和青年项目，获湖南省自然科学奖一等奖（第二），ACM SIGBIO中国新星奖，入选湖南省人才项目湖湘青年英才。
+2019年在悉尼科技大学取得博士学位。2020年在悉尼科技大学从事博士后研究。
+近年来以第一或通讯作者身份在Nature Machine Intelligence、Bioinformatics、EMNLP重要期刊和会议上发表学术论文超过40篇。
+担任国际SCI期刊Journal of Translational Medicine（中科院二区，影响因子：6.1）和BMC Biology（中科院二区TOP，影响因子：4.5）副编辑。
+中文名：
+刘元盛
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+yuanshengliu@hnu.edu.cn
+研究方向：
+人工智能、生物信息学
+联系地址：
+所属机构：
+计算机科学系
+学院教师
+学生培养
+每年招收硕士研究生3名（无博士生指标）
+指导学生获湖南省优秀硕士学位论文1人次、研究生国家奖学金1人次。
+学术论文
+主要论文 (*为通讯作者)
+Cheng Yang, Yuansheng Liu*, ..., Xiao Luo*. Explicit dynamic cross-strand interactions for DNA sequence language modeling. Nature Machine Intelligence, 2026, 8, 880-900 . (Nature子刊)
+Wen Tao, Jing Tang*, Alvin Chan, Bryan Hooi, Baolong Bi, Nanyun Peng, Yuansheng Liu*, Yiwei Wang. How to Make Large Language Models Generate 100% Valid Molecules?. EMNLP, 2025, 26576-26591. (自然语言处理领域四大顶会之一)
+Leshan Lai, Yuansheng Liu*, Bosheng Song*, Keqin Li, Xiangxiang Zeng. Deep Generative Models for Therapeutic Peptide Discovery: A Comprehensive Review. ACM Computing Survey. 2025, 57(6), 1-29. (计算机顶级期刊、中科院一区)
+Yuansheng Liu, Yichen Li, Enlian Chen, Jialu Xu, Wenhai Zhang, Xiangxiang Zeng, Xiao Luo*. Repeat and haplotype aware error correction in nanopore sequencing reads with DeChat. Communications Biology. 2024, 7 1678. (Nature旗下期刊、中科院一区)
+Tao Tang, Tianyang Li, Weizhuo Li, Xiaofeng Cao, Yuansheng Liu*, Xiangxiang Zeng. Anti-symmetric-based framework for balanced learning of protein–protein interaction. Bioinformatics, 2024, 40(10): btae603. (CCF A类期刊)
+
+---
+
+## 刘志中
+
+- **网址**: https://csee.hnu.edu.cn/people/liuzhizhong
+- **姓名**: 刘志中
+- **邮箱**: liuzz@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 强化学习、无人智能、计算智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：强化学习、无人智能、计算智能
+联系方式：liuzz@hnu.edu.cn
+教师介绍
+本硕博毕业于中南大学。2019到2021年，在南方科技大学计算机科学与工程系担任助理研究员。2021年起在湖南大学信息科学与工程学院工作，先后为博士后、助理教授，目前为湖南大学信息科学与工程学院副教授、博士生导师。
+主要研究方向为强化学习、计算智能和无人智能。主持国家自然科学基金面上项目等多项国家级项目，作为骨干成员参与新一代人工智能重大项目等重大项目10余项，获湖南省自然科学奖二等奖和湖南省优秀博士学位论文奖一项，在TEVC等高水平期刊和会议上发表论文二十余篇，其中高被引论文3篇，授权受理国家发明专利三十余项。
+论文主页：https://www.researchgate.net/profile/Zhizhong-Liu/research
+中文名：
+刘志中
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+liuzz@hnu.edu.cn
+研究方向：
+强化学习、无人智能、计算智能
+联系地址：
+湖南省长沙市国家超算长沙中心1号楼307
+所属机构：
+计算机科学系
+学院教师
+招生信息
+团队有硕士生、博士生名额，欢迎大家联系！
+欢迎身心健康（必须有）、聪明（不强求）、热情（不强求）的同学加入！
+对研究生的期望是（不坑我）在老师的帮助下，解决一到二个问题，具备基本的科学素养。
+对博士生的期望是（带带我）发现一到两个重要问题并系统性的解决，具备独立科研的能力。
+硕士生或者博士生均会提供科研奖励（不白干）。
+科研方向
+目前主要聚焦分布式人工智能，包括分布式机器学习基础理论（偏理论，建议数学功底好、对理论感兴趣的同学考虑）、高效数据融合与自主协同感知（能提供设备和数据，建议对CV感兴趣的同学考虑）、大规模异构集群协同运动与控制（能提供算力和设备，建议对无人机、无人船和无人车等无人系统以及强化学习感兴趣的同学考虑）、知识增强的多模态具身决策方法及应用（能提供算力和设备，建议对大模型感兴趣的同学考虑）等。
+如果你有其他好方向，经过调研后表明确实可行，也可以按你的来。
+
+---
+
+## 李玮
+
+- **网址**: https://csee.hnu.edu.cn/people/liwei
+- **姓名**: 李玮
+- **邮箱**: rj_wli@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 深度学习与计算机视觉、自然语言处理（文本摘要自动生成、文本语义分析）、基于大数据的系统（设备）故障预测技术、政府/企事业单位信息化建设/智慧城市/数字经济发展规划与咨询。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：深度学习与计算机视觉、自然语言处理（文本摘要自动生成、文本语义分析）、基于大数据的系统（设备）故障预测技术、政府/企事业单位信息化建设/智慧城市/数字经济发展规划与咨询。
+联系方式：rj_wli@hnu.edu.cn 18900795910
+教师介绍
+李玮，男，博士，湖南大学计算机学院副教授/高级工程师，湖南省智慧法治研究院/湖南大学智慧司法交叉研究中心研究员，硕士生导师，美国马里兰大学访问学者,国际TOGAF认证企业架构设计师,软件工程造价师。华中科技大学本科及双硕士（材料加工、计算机软件与理论），湖南大学计算机科学与技术专业博士。1998年-2012年国内知名IT企业从事软件开发与管理工作，先后担任项目经理、产品经理、技术总监等职务，2004年调入湖南大学计算机学院从事教学科研工作。具有丰富多年企业工作工程经验和高校人工智能算法科研理论基础，同时具有材料加工专业和计算机专业学科背景。主要科研方向：深度学习与计算机视觉、自然语言处理（文本摘要自动生成、文本语义分析）、基于大数据的系统（设备）故障预测技术，并积极为政府/企事业单位提供信息化建设/智慧城市/数字经济发展规划与咨询（聚焦政府、公安、法院、教育、交通、电力、医疗等行业）。主持和参与60多项国家级、省部级、企业合作项目，国内一级学报、国际期刊（SCI、EI）及其他国内国际期刊上发表科研论文20余篇，获得国家专利授权4项，软件著作权7项。
+中文名：
+李玮
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+18900795910
+电子邮件：
+rj_wli@hnu.edu.cn
+研究方向：
+深度学习与计算机视觉、自然语言处理（文本摘要自动生成、文本语义分析）、基于大数据的系统（设备）故障预测技术、政府/企事业单位信息化建设/智慧城市/数字经济发展规划与咨询。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+工作经历
+1998-2012年，国内知名IT企业工作，先后担任软件工程师、项目经理、产品经理、技术总监等职务。
+2004年-现在，湖南大学计算机学院工作。
+教育及海外进修经历
+1991-1995年，华中理工大学（华中科技大学）机械工程二系学习（本科），获得工学学士学位；
+1995-1998年，华中科技大学材料科学与工程学院攻读硕士学位，获得工学硕士学位（免试保送）；
+2000-2002年，华中科技大学计算机科学与技术学院攻读硕士研究生，获得工学硕士学位；
+2007-2014年，湖南大学计算机学院攻读博士研究生，获得工学博士学位；
+2017-2018年，美国马里兰大学访问学者。
+学生培养
+实验室科研究基础良好，具有良好的实验环境（多台GPU服务器），目前主要从事深度学习与计算机视觉在智能制造领域应用研究，基于大数据的系统（设备）故障预测技术，欢迎各位加入！可以随时进入实验室实习。
+科研项目（纵向项目）
+1）以涉外法治以中心的跨国跨语种法律知识关联比对与分析技术研究,国家重点研发计划重点专项项目，2022.11-2024.12,主持（课题子任务）
+2）高效大尺寸激光选区熔化增材制造及复合工艺与装备，广东省重点领域研发计划“激光与增材制造”重大专项，2020.1-2023.1，主持
+3）复杂“学习”事件的大数据分析与预测 -大学生个性化学习过程优化关键技术研究与开发，浙江之江实验室开放课题，2019.10-2021.10，参与
+4）高性能计算应用软件协同开发工具与环境研究,国家重点研发计划项目，2017.9-2021.9，核心技术骨干
+5）基于临界晶核被有效识别的快凝深过冷形核特征分析，国家自然科学基金，2018.10-2021.10，核心技术骨干
+6）基于大数据的标准化信息服务平台关键技术研究，湖南省质量技术监督局科技计划项目，2015.12-2017年12月，主持
+7）基于高速公路多路径识别大数据支撑与分布式处理技术，湖南省交通厅科技计划项目，2014-05至2015-05，主持
+8）面向公共安全监测大数据处理的高精度多维计数布鲁姆过滤器，湖南省科技计划项目，2013-05至2016-03,主持
+9）湖南省高速公路联网机电系统网络安全技术条件，湖南省交通厅科技计划项目，2009-01至2010-12，主持
+10）基于矩阵填充的软件定义网络个矩阵测量方法研究,国家自然科学基金，2016-01至2019-12，参与
+11）基于图形处理单元的高性能网络包处理技术研究，国家自然科学基金，2015-01至2018-12，参与
+12）国产软硬件应用服务体系研究与示范应用评估，国家科技重大专项,2012-01至2012-12，参与
+13）面向领域的可信嵌入式软件开发环境的研究与应用，省科技厅，2010-10至2012-12，参与
+科研项目（横向）
+1）湖南省“十五五”网络安全和信息化发展规划，2025年6月-2026年6月，核心技术骨干；
+2）长沙市望城区中小学教学质量检测与评价管理平台初步设计，2025年9月-2025年12月，主持；
+3）长沙市望城区文旅望城智慧化平台项目初步设计，2025年6月-2025年12月，主持；
+4）长沙望城区行政中心多功能会议厅和人大常委会议室会议系统采购项目初步设计，2025年10月-2025年12月，主持；
+5）长沙市望城区职业中等专业学校机加专业群仿真实训室及旅游虚拟实训室建设项目初步设计，2025年4月-2025年7月，主持；
+6）长沙市望城区教育信息化2024年建设项目设计与咨询项目，2024年1月至2024年12月，主持；
+7）长沙市望城区城发集团项目管理系统初步设计服务项目，2024年3月至2024年12月，主持；
+8）长沙市望城区（公安局）雷锋义警智能管理系统初步设计咨询服务，2023年11月至2024年3月，主持；
+9）平高集团阀厅金具设备状态综合评估算法研究，2023年10月至2024年5月，主持
+10）长沙望城区教育信息化2023年建设项目设计与咨询项目，2023年1月至2023年12月，主持；
+11）长沙市望城区建设领域劳资专员培训监管系统及便民表单填报系统初步设计咨询服务,2023年1月-2023年8月，主持
+12）长沙市望城区检察院阅文批示与资产登记管理系统开发，2023年1月至2023年12月，主持；
+13）长沙市望城区职业中等专业学校改扩建项目二期(体艺馆)体育馆及报告厅声光电项目初步设计咨询服务，2023年1月至2023年12月，主持
+14）长沙市望城区人民法院智慧法院项目设计咨询项目，2022年8月至2023年3月，主持；
+15）长沙市望城区教育信息化2022年建设项目设计与咨询项目，2022年7月至2022年12月，主持；
+16）国家电网科技项目《电力电子驱动型高压开关的智能控制技术研究》，2021年12月至2023年12月，主持；
+17）长沙市望城区人民医院信息系统建设初步设计编制，2021年9月至2021年11月，主持；
+18）长沙市望城区无证城市（一期）建设项目技术咨询，2021年6月至2022年6月，主持；
+19）省调火电机组带负荷能力在线评估及应用开发与服务（带负荷能力评估模型开发），2020年11月至2021年11月，主持；
+20）智慧湘西十四五建设专项规划（数字经济），2020年6月至2021年2月，主研；
+21）国网株洲供电公司人事档案管理系统，2020年4月至2021年5月，主持；
+22）中通服创发科技有限责任公司软件测试管理咨询项目，2020年2月至2020年5月，主持；
+23）长沙轨道交通集团信息化标准规范编制咨询，2019年3月至2021年3月，主持；
+24）北京有鱼科技有限公司港股量化平台设计咨询，2019年3月至2022年3月，主持；
+25）智慧城市关键技术研究,2017年8月至2022年7月，主持；
+26）长沙市望城区智慧公安项目设计，2017年3月至2017年12月，主持；
+27）大数据技术在电力行业应用咨询，2015年12月至2016年12月，主研；
+28）Google公司Android精品课程项目，2012年9月至2013年9月，参与；
+29）湖南明园蜂业客户管理系统，2008年9月至2010年9月，主持；
+30）湖南省高速公路联网机电系统网络安全技术条件研究，2009年3月至2010年1月，主持；
+31）移动话单计费正确性验证系统，2009年10月至2010年10月，参与；
+32）世纪互联网联供系统监控与计费软件开发服务，2010年7月至2011年10月，主研；
+33）在线教育平台系统自动化测试用例开发，2011年3月至2011年6月，主持；
+34）湖南省高速公路机电系统网络安全技术条件要求，2011年12月至2012年12月，主研；
+35）企业知识内容管理(知识门户)系统，2011年11月至2013年11月，主持；
+36）企业信息工程项目管理与监理软件系统，2007年09月至2009年9月，主持。
+企业工作期间负责项目
+1）长沙威胜公司与山东滨州供电公司配变监测与用电管理系统（基于GPRS通讯技术）试点项目，项目经理
+2）长沙威胜公司与深圳供电公司大用户用电管理系统（基于GPRS通讯技术）试点项目，项目经理
+3）威胜公司公配变监测与用电管理系统，产品经理
+4）威胜公司夜景灯光自动监控系统，项目经理
+5）威胜公司电能计量系统，开发人员
+6）湖南省公安厅警务平台应用软件开发工程项目，总监理工程师
+7）湖南省公安厅金盾工程一期项目现状及实施效果调研和评价，项目经理
+8）湖南省长沙人防指挥通信系统 ，总设计师
+9）电力公司农配网工程管理系统，总设计师
+10）电费充值卡管理系统，总设计师
+发表论文
+1）TermDiffuSum: A Term-guided Diffusion Model for Extractive Summarization of Legal Documents，Xiangyun Dong, Wei Li(通信作者), Yuquan Le, Zhangyue Jiang, Junxi Zhong, and Zhong Wang，Proceedings of the 31st International Conference on Computational Linguistics,COLING2025,CCF B类会议论文，人工智能自然语言处理领域国际顶会
+2）Path Splitted and Energy Efficient Virtual Network Function Chains Embedding,Dan Chen, Wei Li,Kun Xie, Thabo Semong, Dafang Zhang, Shiming He, Baolin Sun, IEEE Access, DOI: 10.1109/ACCESS.2019.2921734 (SCI二区)
+3）Data Temperature-Aware Bloom Filters for Flash-Based Storage,Wei Li,Tianyun Zhang, Dafang Zhang, Yupeng Hu,Kun Xie,Ting Zhu,HPCC2019(CCF C类会议)
+4）面向大数据处理的高精度多维计数布鲁姆过滤器.李玮,张大方,黄昆，谢  鲲. 电子学报, 2015.43(4):652-657（CCF A）
+5）一种面向闪存键值存储的矩阵索引布鲁姆过滤器. 李玮,张大方,谢  鲲,黎文伟,何  杰. 计算机研究与发展,2015.52(5):1210-1222(CCF A)
+6) Correlation of the heredity of icosahedral clusters with the glass forming ability of rapidly solidified cuxzr100?x alloys. Wen, D. D. , Peng, P. , Jiang, Y. Q. , Tian, Z. A. , Li, W. , & Liu, R. S. . Journal of Non-Crystalline Solids, 2015, 427:199-207.(SCI)
+7）Accurate Counting Bloom Filters for Large-Scale Data Processing. Wei Li,Dafang Zhang,Zhen Qin. MATHEMATICAL PROBLEMS IN ENGINEERING(SCI).2013
+8）A Multi-Partitioning Approach to Building Fast and Accurate Counting Bloom Filters.Kun Huang, Jie Zhang, Dafang Zhang, Gaogang Xie, Kave Salamatian+, Alex X. Liu, and Wei Li. IPDPS 2013
+9）An AHP-Based Risk-Assessment Model of Expressway Network. 徐昆(学生),李玮,张大方. International Journal of Digital Content Technology and its Applications(EI).2012
+著作
+1）软件测试技术与管理，国家十一五规划教材
+专利
+1）一种基于路径拆分和能耗感知的虚拟网络映射方法，已进入实审，申请号：201910180943X，2019年3月
+2）面向NDN中名字查找的哈希布鲁姆过滤器及数据转发方法，已授权，专利号：201410804782.4，2017年9月
+3）一种高精度多维计数布鲁姆过滤器大数据处理方法，已授权，专利号：201210590482.1，2015年12月
+软件著作权
+1）大页内存管理系统，软著登记号：2018SR526508，2018年5月
+2）基于布鲁姆过滤器的NDN名字查找系统，软著登记号：2018SR047508，2017年12月
+3）基于SSD的冷热数据识别系统，软著登记号：2017SR089252，2017年2月
+
+---
+
+## 黎文伟
+
+- **网址**: https://csee.hnu.edu.cn/people/liwenwei
+- **姓名**: 黎文伟
+- **邮箱**: liww@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 网络测试与优化、网络管理
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：网络测试与优化、网络管理
+教师介绍
+黎文伟，男，1975年出生，湖南大学信息科学与工程学院副教授，2006年获博士学位，2012年国家公派赴美国乔治亚州立大学访学一年。主要研究方向为网络测试与优化、网络管理。主持国家自然科学基金项目2项，参与了多个国家自然科学基金、国家863计划等项目研究。获2006年度湖南省科学技术进步奖二等奖。已发表或录用论文近70篇，其中SCI、EI、ISTP检索30余篇次，获得国家发明专利2项，申请发明专利3项，软件著作权登记1项。e-mail:liww@hnu.edu.cn
+中文名：
+黎文伟
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+网络测试与优化、网络管理
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+
+---
+
+## 李晓灿
+
+- **网址**: https://csee.hnu.edu.cn/people/lixiaocan
+- **姓名**: 李晓灿
+- **邮箱**: hnulxc@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机网络，网络安全，大数据，人工智能
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机网络，网络安全，大数据，人工智能
+联系方式：hnulxc@hnu.edu.cn
+教师介绍
+李晓灿，CCF高级会员，先后主持国家自然基金面上项目、湖南省重点研发计划、国自科青年基金、博士后创新人才支持计划、博士后面上项目、湖南省芙蓉计划、湖南省自然科学基金青年基金等多个项目。发表CCFA类论文二十余篇。
+中文名：
+李晓灿
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+hnulxc@hnu.edu.cn
+研究方向：
+计算机网络，网络安全，大数据，人工智能
+联系地址：
+信科院
+所属机构：
+计算机工程系
+学院教师
+学术论文
+1、Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, DongliangXie, Zhenyu Li, Jigang Wen, Zulong Diao, Tian Wang, Quick and Accurate False Data Detection in Mobile Crowd Sensing, IEEE/ACM Transactions on Networking  (ToN CCF-A类推荐期刊)
+2、Kun Xie, Xiaocan Li(通信作者), XinWang, Gaogang Xie, Jigang Wen, Dafang Zhang, Active Sparse Mobile Crowd Sensing Based on Matrix Completion, ACM Conference on Management of Data（SIGMOD CCF-A类推荐会议）
+3、Kun Xie, Xiaocan Li(通信作者), Xin Wang, Gaogang Xie, Dongliang Xie, Zhenyu Li,Jigang Wen, Zulong Diao, Quick and Accurate False Data Detection in Mobile Crowd Sensing, International Conference on Computer Communications (INFOCOM CCF-A类推荐会议)
+4、Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, JigangWen, Guangxing Zhang, Zheng Qin, Online Internet Anomaly Detection With High Accuracy: A Fast Tensor Factorization Solution, International Conference on Computer Communications (INFOCOM CCF-A类推荐会议)
+5、Kun Xie, Xiaocan Li(通信作者),Xin Wang, Jiannong Cao, Gaogang Xie, Jigang Wen, Dafang Zhang, Zheng Qin, On-line Anomaly Detection with High Accuracy, IEEE/ACM Transactions on Networking,,(ToN CCF-A类推荐期刊)
+6、Kun Xie, Xiaocan Li(通信作者) Xin Wang, Gaogang Xie, Jigang Wen, Dafang Zhang, Graph based Tensor Recovery For Accurate Internet Anomaly Detection, International Conference on Computer Communications (INFOCOM CCF-A类推荐会议)
+7、Kun Xie, Xiaocan Li(通信作者), Xin Wang, Gaogang Xie,Jigang Wen, Jiannong Cao, Dafang Zhang, Fast Tensor Factorization for Accurate Internet Anomaly Detection, IEEE/ACM Transactions on Networking (ToN CCF-A类推荐期刊)
+8、Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, Kenli Li, Dafang Zhang, Jigang Wen, Order-preserved Tensor Completion For Accurate Network-wide Monitoring, IEEE/ACM International Symposium on Quality of Service (IWQoS CCF-B推荐会议)
+9、Xiaocan Li, Kun Xie, Gaogang Xie, Kenli Li, Jiannong Cao, Dafang Zhang, Jigang Wen, Multi-view Matrix Factorization For Sparse Mobile Crowd Sensing, IEEE Internet of Things Journal（SCI 1区 IoTJ）
+10、李晓灿,谢鲲,张大方,谢高岗,基于低秩分解的网络异常检测综述,计算机研究与发展 2022 （CCF-A推荐中文期刊）
+11、Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, Kenli Li, Jiannong Cao, Dafang Zhang, Jigang Wen, Tripartite Graph Aided Tensor Completion For Sparse Network Measurement, IEEE Transactions on Parallel and Distributed Systems（TPDS CCF-A推荐期刊）
+12、Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, Kenli Li, Jiannong Cao, Dafang Zhang, Hongbo Jiang, Jigang Wen, Neighbor Graph Based Tensor Recovery For Accurate Internet Anomaly Detection, IEEE Transactions on Parallel and Distributed Systems（TPDS CCF-A推荐期刊）
+13、Cheng Wang, Kun Xie, Jiazheng Tian, Jigang Wen, Xiaocan Li, Gaogang Xie, Kenli Li, HPETC: History Priority Enhanced Tensor Completion For Network Distance Measurement, IEEE Transactions on Parallel and Distributed Systems（TPDS CCF-A推荐期刊）
+14、Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, Kenli Li, Jiannong Cao, Dafang Zhang, Jigang Wen, A Light-Weight and Robust Tensor Convolutional Autoencoder For Anomaly Detection, IEEE Transactions on Knowledge and Data Engineering, (TKDE CCF-A推荐期刊)
+15、Kun Xie, Can Liu, Xin Wang, Xiaocan Li, Gaogang Xie, Jigang Wen, Kenli Li, Nerual Network Compression Based on Tensor Ring Decomposition, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), SCI一区
+16、Xiaocan Li, Kun Xie, Jigang Wen, Gaogang Xie, Wei Liang, Tensor Factorization for Accurate Anomaly Detection in Dynamic Networks, IEEE Transactions on Sustainable Computing, 2024, (SCI)
+17、  Qixue Lin, Xiaocan Li（共一）, Kun Xie, Jigang Wen, Shiming He, Gaogang Xie, Xiaopeng Fan, Quan Feng, Network Monitoring Data Recovery Based on Flexible Bi-direction Model, IEEE Transactions on Network Science and Engineering
+18、 Jigang Wen, Xiaocan Li（共一）, Kun Xie, Wei Liang, Gaogang Xie, J-Tucker: Joint Compression Scheme for EfficientDeployment of Multi-Task Deep Learning Modelson Edge Devices, lEEE Network Magazine
+19、Xiaocan Li, Kun Xie, Jigang Wen, Guangxing Zhang, Wei Liang, Gaogang Xie, Kenli Li, Joint Neural Matrix Completion for Multi-Attribute Mobile Crowd Sensing, INFOCOM (计算机学会CCF A类会议)
+20、Yuliu, Xiaocan Li（共一）, Kun Xie, Jigang Wen, Yuxiang Chen, Wei Liang, Fengquan, Gaogang Xie, Kenli Li, HDDI: A Historical Data-Based Diffusion Imputation Method for High-Accuracy Recovery in Sparse Mobile Crowd Sensing with High Missing Rate and Long-Term Gap,IWQoS (计算机学会CCF B类会议)
+21、Jigang Wen, Wenqian Nie, Xiaocan Li(通信作者), Kun Xie, Yong Xie, Yuxiang Chen, Zigeng Fu, Quan Feng BMI: A Bidirectional Spatio-Temporal Selective State Space Model for Data Imputation. 2025
+22、Jigang Wen, QiXue Lin, Xiaocan Li(通信作者), Kun Xie, Yuxiang Chen，Diff-BGC: A Diffusion Model-Based Framework for Network Traffic Imputation. 2025
+23、Xiaocan Li,Kun Xie,Zilong He,Jigang Wen,Jiannong Cao,Guangxing Zhang, Gaogang Xie, Wei Liang, AFFS: Adaptive Fast Frequency Selection Algorithm for Deep Learning Feature Extraction, IEEE Transactions on Knowledge and Data Engineering 2025, (TKDE CCF-A推荐期刊),
+24、Xiaocan Li, Yuhan Liu, Kun Xie, Jigang Wen, Yuxiang Chen, Wei Liang, Gaogang Xie,  Beyond Compression: A Novel Perspective to Maximize the Model's Accuracy Through Pruning, IEEE Network 2026
+25、Communication-Efficient Federated Learning Based on a Two-Stage Adaptive Basis Matrix for Gradient Compression，IEEE Transactions on Mobile Computing 2026  (TMC CCF-A推荐期刊)
+26、MLOTD: Meta-Learning and Adaptive-Rank Online Tucker Decomposition for Multi-Aspect Streaming Network Anomaly Detection，IEEE/ACM Transactions on Networking 2026 (ToN CCF-A类推荐期刊)
+27、LR-DSTC: Low-Rank Driven Secure TensorCompletion for Privacy-Preserving loT Data Recovery，CCS （网络安全 CCF-A会议）
+科研状况
+[1] 2024年国家自然科学基金面上项目，62472159，2025/01-2028/12， 主持。
+[2] 2025年湖南省重点研发计划，2025QK3003， 2025/07-2028/07，主持。
+[3] 2020年博士后创新计划，BX20200120，2020/07-2022/07， 主持。
+[4] 湖南省芙蓉计划 2025RC3081，2025/01-2028/12， 主持。
+[5] 国家自然科学基金项目青年基金，62102138 ，2022/01-2024/12， 主持。
+[6] 湖南省自然科学基金青年基金，2021JJ40115，2022/01-2024/12，主持。
+[7] 博士后面上项目，2020M682556，2020/07-2022 /07，主持。
+[8] 广东省自然科学基金面上项目，主持。
+奖励
+[1] 中国通信学会科学技术奖二等奖， 2025年
+[2] 中国通信学会算力网络十大创新成果，2024年
+[3] 湖南大学杰出博士后，2023年
+[4] 湖南省优秀博士论文，2022年
+[5] ACM长沙分会优秀博士论文，2021年
+[6] 2020年博士后创新人才支持计划，2020年
+[7] 湖南省人工智能学会优秀博士论文，2020年
+[8] 湖南大学优秀博士论文，2020年
+[9] 博士生国家奖学金，2018,2019年
+[10] 湖南大学博士生校奖学金，2018,2019年
+
+---
+
+## 李友焕
+
+- **网址**: https://csee.hnu.edu.cn/people/liyouhuan
+- **姓名**: 李友焕
+- **邮箱**: liyouhuan@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 聚焦大模型数据推理加速的前沿研究，也从事一些大模型应用研究，包括基于大模型的数据管理（text2sql等）以及大模型驱动的数据分析（安全攻防等）
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：聚焦大模型数据推理加速的前沿研究，也从事一些大模型应用研究，包括基于大模型的数据管理（text2sql等）以及大模型驱动的数据分析（安全攻防等）
+联系方式：liyouhuan AT hnu.edu.cn
+教师介绍
+Also：https://youhuanli.github.io
+ORCID:0000-0002-0650-0458
+邮箱地址：liyouhuan@hnu.edu.cn
+工作单位：湖南大学信息科学与工程学院软件工程系
+通信地址：湖南省长沙市岳麓区麓山南路湖南大学信息科学与工程学院
+李友焕，副教授，博导，湖南省青年骨干教师，CCF高级会员，CCF数据库专委会、信息系统专委会执行委员，大数据专委会通讯委员。分别于2013年和2018年获北京大学理学学士学位和理学博士学位，目前研究方向为基于大模型多智能体的数据处理优化技术。
+2018~2020年作为腾讯与北大联合培养博士后，参与风控、反欺诈等项目，聚焦图技术的应用落地，包括图数据库、图计算和图表示学习等。
+2021年3月加入湖南大学信息科学与工程学院。
+中文名：
+李友焕
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+liyouhuan AT hnu.edu.cn
+研究方向：
+聚焦大模型数据推理加速的前沿研究，也从事一些大模型应用研究，包括基于大模型的数据管理（text2sql等）以及大模型驱动的数据分析（安全攻防等）
+联系地址：
+湖南省长沙市岳麓区麓山南路湖南大学信息科学与工程学院
+所属机构：
+软件工程系
+学院教师
+招生信息
+有意加入团队者请发简历至 liyouhuan@hnu.edu.cn （来信必回，请避免用163、qq等易被识别为垃圾邮件的邮箱，多次在垃圾邮箱翻到过期半年的求加入邮件）
+2026秋季的硕士、博士名额已满。团队招收2026秋季入学博士，入学后研究方向拟定在大模型推理加速；同时招收2026年秋季入学硕士，主要从事大模型相关应用项目。
+校内本科生科研合作请在大二期末结束后及时联系我，合作建立后将在临近的暑假安排前期学习。
+联系入学名额的学生请来信附简历和本科成绩单，介绍清楚院系、排名以及编程语言能力情况。
+表现优秀的学生可以推荐至腾讯、阿里、华为、字节等大型企业实习、工作，以及推荐往北京大学、复旦大学、加拿大滑铁卢大学以及港中文等国内外名校交流访问。
+团队科研氛围浓厚，数据库方向招生注重C++的能力，大模型方向注重AI或大模型的经验，除了科研训练指导，本人也注重向学生分享我在企业的相关表达、汇报等方面经验，期待积极上进的学生加入我的团队。本人喜欢科研并乐于培养和指导学生，我在学术界和工业界均有丰富经历。目前三位21级、22级硕士生在其研一暑假时均在我推荐下获实习（两位入选腾讯精英人才计划，全国<50)，分别在国内知名研究机构、腾讯深圳、腾讯北京实习3~6月。科研合作的三位本科生分别在我推荐下获北大（23届）、复旦（24届）和北航（25届）录取。（另：本科生科研合作优先考虑有数据库基础的或熟悉后台开发的学生）
+研究兴趣
+目前聚焦的方向：大模型推理加速和Text2SQL
+大模型的兴起对应用产生巨大变革作用，本团队一方面在研究LLM在效果和效率方面的提升方法（大模型推理加速），也同时在LLM应用层面考虑相关问题的提升方法（Text2SQL）。
+另外，在博士期间以及入职高校前几年聚焦在图查询优化方面，后续仍会有一部分精力在深化这方面的研究，尤其是图数据管理在大模型应用方面的促进作用等。
+(ORCID: 0000-0002-0650-0458)
+Youhuan Li received his B.S. degree (2013) and Ph.D degree (2018)  in Peking University. He worked as a postdoc in Tencent and Peking University (2018~2020). He joined Hunan University as an associate professor at March 2021, his research interests include  LLM （reasoning） acceleration and LLM-based application technology.
+----
+E-mail:liyouhuan@hnu.edu.cn
+Institution:Department of Software Engineering, College of ComputerScience and Electronic Engineering, Hunan University
+Postal address: College of ComputerScience and Electronic Engineering, Hunan University, Yuelu Dist., Changsha, China
+部分学术论文（Selected publications）
+Full list are available on DBLP.
+Ziming Li, Youhuan Li*, Yuyu Luo, Guoliang Li, Chuxu Zhang. Graph Neural Networks for Databases: A Survey. IJCAI 2025 (CCF A).
+Ziming Li, Yuequn Dou, Youhuan Li*, Xinhuan Chen, Chuxu Zhang. RSM: Reinforced Subgraph Matching Framework with Fine-grained Operation based Search Plan. WSDM 2025 (CCF B).
+Zhichao Shi, Youhuan Li*, Ziming Li, Yuequn Dou, Xionghu Zhong, Lei Zou. MatCo: Computing Match Cover of Subgraph Query over Graph Data. SIGMOD 2025 (CCF A)
+Ziming Li, Youhuan Li*, Xinhuan Chen, Lei Zou, Yang Li, Xiaofeng Yang, Hongbo Jiang. NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs. ICDE 2024 (CCF A).
+Chuchu Gao, Youhuan Li*, Zhibang Yang, Xu Zhou. CSM-TopK: Continuous Subgraph Matching with TopK Density Constraints. ICDE 2024 (CCF A).
+Hangyu Zheng, Youhuan Li*, Fang Xiong, Xiaosen Li, Lei Zou, Peifan Shi, Zheng Qin. Vertex Encoding for Edge Nonexistence Determination with SIMD Acceleration. TKDE 2024 (CCF A).
+Youhuan Li, Hangyu Zheng, Lei Zou, Xiaosen Li, Ziming Li, Pin Xiao, Yangyu Tao, Zheng Qin. VEND: Vertex Encoding for Edge Nonexistence Determination. ICDE 2023 (CCF A).
+Youhuan Li, Lei Zou, M Tamer Ozsu, Dongyan Zhao. Space-Efficient Subgraph Search over Streaming Graph with Timing Order Constraint. TKDE 2022 （CCF A).
+Youhuan Li, Lei Zou, M Tamer Ozsu, Dongyan Zhao. Time constrained continuous subgraph search over streaming graphs. ICDE 2019 (CCF A) .
+Youhuan Li, Lei Zou, Huaming Zhang, Dongyan Zhao. Longest Increasing Subsequence Computation over Streaming Sequences. TKDE 2017 (CCF A) .
+Youhuan Li, Lei Zou, Huaming Zhang, Dongyan Zhao. Computing Longest Increasing Subsequence Over Sequential Data Streams. VLDB 2016  (CCF A) .
+团队项目
+（1）大模型相关项目
+2025-08~2026-08: “知识增强的 Text2SOL技术研究:语义理解与逻辑推理的融合” CCF蚂蚁科研基金项目（主持，30w）
+2025-11~2027-11： “基于大模型多智能体框架的数据模式生成”国家级实验室开放基金（主持, 20w）
+2025-11~2027-11： “基于大模型多智能体框架的数据平台故障检测”国家级实验室开放基金（主持, 30w）
+2024-12~2025-12： “基于大模型多智能体框架的渗透技术研发”横向（主持, 70w）
+2024-07~2025-04： “基于大模型结合订单需求文档自动生成生产配套通知单” 横向 （主持, 6w）
+（2）图计算/数据库相关项目
+2025-01~2028-12： “动态图上的结构化子图模式监控算法研究” 国家自然科学基金面上项目（主持, 50w，62472154）
+2024-10~2025~12： “基于TuGraph的图计算课程建设”教育部协同育人项目（主持，10w）
+2022-11~2025-07： “分布式图数据库研发” 中央部委预研项目（课题负责人，180w/700w）
+2022-01~2024-12：“图数据流的关联查询处理研究” 国家自然科学基金青年科学基金项目（主持, 30w，62102142）
+2022-01~2024-12：“动态图场景的子图模式匹配研究” 湖南省自然科学基金青年科学基金项目（主持, 5w，2022JJ40093）
+2021-03~2029-03： “图数据流的查询管理” 中央高校基本科研业务费（主持，50w）
+专利
+李友焕; 邹磊;  子图查询方法, 2020-08-07, 中国, ZL201711375508.X.
+李友焕；郑航宇；秦拯；图结构的查询方法、装置及存储介质，2024-06-25， 中国，ZL202210348471.6
+李友焕；石沛凡；袁知秋；分布式知识图谱的查询方法、装置及存储介质，2024-12-06，ZL202111440843.X
+李友焕；李梓铭；石沛凡；秦拯；基于磁盘的数据图中三角形个数确定方法及相关设备，202310553332.1
+李友焕；李梓铭；郑航宇；秦拯；子图模式监控方法、装置、设备及存储介质，202310353888.6
+陈信欢; 李友焕; 胡雨松; 陈守志; 一种基于关系网络的社区特征确定方法和相关装置, 2020-10-22, 中国, 2020111396563.
+
+---
+
+## 罗志年
+
+- **网址**: https://csee.hnu.edu.cn/people/luozhinian
+- **姓名**: 罗志年
+- **邮箱**: zhinianluo@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 通信信号处理、数字预失真、移动通信
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：通信信号处理、数字预失真、移动通信
+联系方式：zhinianluo@hnu.edu.cn
+教师介绍
+博士，副教授，硕士研究生导师。2009年12月毕业于上海交通大学，获通信与信息系统专业博士学位。先后在深圳特发泰科通信有限公司、深圳中兴通讯移动事业部和上海贝尔担任高级工程师，并从事通信产品开发与系统设计。目前是华南理工大学学报、WirelessPersonalCommunications等杂志审稿人，中国机械工业科学技术奖评审专家。博士期间主要从事宽带无线信道建模与仿真以及下一代无线通信关键技术的研究，先后参加了863项目“未来通用无线环境FuTURE计划新一代蜂窝移动通信链路技术研究”和自然科学基金重点项目“移动宽带视频广播传输系统及关键技术研究”等课题的研究工作。近几年依托湖南大学信息科学与工程学院和湖南省重点实验室—湖南省先进通信技术实验室开展车载环境无线接入通信系统基础理论及射频功率放大器数字预失真关键技术的研究，主持国家自然科学基金项目1项，湖南省教育厅重点科研项目1项，主要参与国家自科基金项目1项。已在学术期刊和国内外学术会议上发表论文20多篇，其中SCI期刊论文2篇，EI收录8篇，联合申请国家发明专利1项。目前指导研究生6名，留学生1名，协作指导博士生2名，已经毕业硕士生8名，协作指导已毕业博士生1名。
+zhinianluo@hnu.edu.cn
+中文名：
+罗志年
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+zhinianluo@hnu.edu.cn
+研究方向：
+通信信号处理、数字预失真、移动通信
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+学术论文
+（1）期刊论文：
+[1] Luo Zhinian, Zhang Wenjun, Xu Youyun. Channel Estimation Joint DOA and Time Delay Correlation in TD-SCDMA Mobile Radio Systems [J]. Wireless Communications and Mobile Computing, 2009, 9(10):1343-1350.
+[2] Zhinian Luo, Wenjun Zhang, Youyun Xu. An Improved Simulator for the Correlation- based MIMO Channel in Multiple Cluster Scattering Environments [J]. Wireless Personal Communications, 2010, 52(4):777-788.
+[3] 罗志年, 张文军, 徐有云. 一种快速高效的无线信道实现方法 [J]. 系统仿真学报, 2010, 22(4): 825-828.
+[4] 罗志年, 张文军. 不相关Rayleigh衰落信道仿真模型 [J]. 系统仿真学报, 2009, 21(13):  3872-3875.
+[5] 罗志年, 胡延. CAZAC改进帧同步检测方案[J]. 计算机工程与应用, 2010, 46(47):  124-127.
+[6] 郑金金, 罗志年, 庹莹瑛. 基于CAZAC序列的OFDM同步算法 [J]. 计算机工程与应用, 2009, 45(33): 96-98.
+[7] 罗志年, 张文军, 李仁发. 一种新的TD-SCDMA信道估计改进方法 [J]. 湖南大学学报,2008, 35(3): 72-75.
+（2）会议论文：
+[1] Luo Zhinian, Zheng Jinjin, Zhu Jiang. Golay Complementary Pair Aided Time Syn- chronization Method for OFDM Systems [C]. 2012 IEEE 14th International Conference on Communication Technology, 2012: 256-230.
+[2] Ying Du, Luo Zhinian, Jinjin Zheng. DCT-based Channel Estimation Using Wavelet Denoising for LTE Uplink Systems [C]. 2013 IET International Conference onInformation and Communications Technologies, 2013. 已录用
+[3] Zhinian Luo, Fengzhong Hu. Simulation Models for Independent Rayleigh Fading Channels [C]. 2010 Global Mobile Congress, 2010, 1-5.
+[4] Zhinian Luo, Xiaochun Chen, Tao Jin. Simplified Simulator for Correlation-Based MIMO Radio Channel Model [C]. 2009 Global Mobile Congress, 2009, 429-433.
+（3）著作:
+[1] 赵志超, 罗志年. 数字通信基础[M].北京:人民邮电出版社,2010.
+[2] 罗志年.宽带移动通信信道建模与仿真[M].德国:金琅学术出版社,2015.
+科研状况
+1、湖南省教育厅科研重点项目 11A065 车载环境无线接入理论及关键技术研究  已结题
+2、国家自然科学基金面上项目 61371115 车辆协作通信快变信道建模及联合同步与信道估计的研究
+3、湖南省自然科学基金面上项目 2018JJ2065 高峰均比宽带无线通信系统非线性及数字域校正技术
+研究
+学生培养
+目前在读研究生：
+石建：射频功率放大器预失真技术
+Makhtar Dia （丁达）：射频功率放大器预失真技术
+周克俭：射频功率放大器预失真技术
+彭疆：
+刘彬：
+黄振鹏：
+以前毕业研究生：
+李普昕：研究方向：功率控制技术；工作单位：国家专利局
+胡延：研究方向：OFDM信道估计与同步
+2010年毕业学生
+曾玉龙：研究方向：单载波频域均衡技术；工作单位：华为公司
+刘立君：研究方向：无线资源管理；工作单位：株洲铁路职业学院
+2011年毕业学生
+吴辉：研究方向：OFDM信道估计与同步；工作单位：五凌电力
+张渊：研究方向：无线资源管理；工作单位：华为公司
+2012年毕业学生
+郑金金：研究方向：快变信道OFDM联合信道估计与同步；工作单位：空军部队
+杜盈：研究方向：单载波频域均衡技术；工作单位：广州邮电设计院
+教学教研
+湖南省2011年研究生精品课程 KC2011B013 现代数字通信
+中国大学MOOC课程 数字通信原理
+课程链接：http://www.icourse163.org/course/HNU-1002331003
+主讲课程
+目前担任教学课程
+现代数字通信（研究生）
+数字通信设计专题（研究生）
+微电子电路（本）
+宽带无线通信原理（本）
+曾经所担任教学课程
+通信电子线路（本）
+数字信号处理（本）
+信号与系统（本）
+随机信号分析（本）
+移动通信（本）
+通信原理（本）
+数字通信（本）
+无线通信原理（本）
+
+---
+
+## 陆绍飞
+
+- **网址**: https://csee.hnu.edu.cn/people/lushaofei
+- **姓名**: 陆绍飞
+- **邮箱**: sflu@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 视频分析与处理，边缘计算与工业互联网，人工智能，区块链及应用。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：视频分析与处理，边缘计算与工业互联网，人工智能，区块链及应用。
+联系方式：sflu@hnu.edu.cn
+教师介绍
+陆绍飞，博士，博士生导师，国家认证系统分析师（2004年），区块链底层技术及应用湖南省重点实验室副主任，CCF高级会员，教育部学位与研究生教育发展中心评审专家，教育部科技管理信息系统专家库评审专家，湖南省科技专家库专家，湖南省高新技术企业认证评审专家，长沙市科技项目评审专家。
+先后主讲《JAVA程序设计思想》(本)、《JAVAEE应用与开发》（本）、《软件架构》（本）、《面向对象与程序设计》（本）、《高级软件架构》（研）、《软件开发过程》（研）等本科生与研究生课程，指导学生多次获得湖南大学校级优秀本科毕业设计（论文），国家级/省级大学生创新训练计划项目指导教师，先后参与/主持国家863计划项目、国家自然科学基金项目、国家发改委核高基专项、工业互联网创新发展工程、省科技计划、省自然科学基金等国家和省部级项目的研究工作，先后在MM、CVPR、ICMR、ICLR等顶级国际会议和TOMM、INS、TII、TNNLS等国际知名期刊上发表学术论文50余篇，获授权发明专利和软件著作权共30余项。
+中文名：
+陆绍飞
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+sflu@hnu.edu.cn
+研究方向：
+视频分析与处理，边缘计算与工业互联网，人工智能，区块链及应用。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+科研项目
+1、H研发项目：先进智算中心关键技术研发，项目主持，2026-2029
+2、H研发项目：基于大模型的多媒体内容处理关键技术研发，项目主持，2026-2029
+3、湖南省卫健委重大专项课题：基于多维度数据整合的针灸干预 POI 疗效预测模型构建（湘卫函【2025】89号），主持，2025-2027
+4、湖南省重点领域研发计划：肥胖及其代谢并发症全病程管理智慧医疗体系构建（2020SK2066），课题主持；
+5、湖南省高新技术产业科技创新引领计划：基于5G+工业互联网的数字化车间的关键技术研究及应用(2020GK2016)，课题主持；
+6、工信部工业互联网创新发展工程：面向汽车焊装与铸造生产线的数字孪生系统及应用示范（TC19084DY），课题主持；
+7、企业委托项目：山区无人机卷烟配送技术研究（H202291420733），主持
+8、企业委托项目：长沙市轨道交通集团信息化标准体系咨询（H201993420124），主要参与；
+9、 湖南省科技计划项目：交通噪声提取定位与抓拍设备关键技术研发及产业化（2019GK4005），主要参与；
+10、湖南省自然科学基金项目：支持4G网络终端高速移动的多域通信技术研究（2016JJ2029），主持
+11、省重点实验开发课题项目：面向视频监控的大数据安全与隐私保护技术研究（2016WLZC014），主持
+12、湖南省科技计划重点项目：新型红外报警监控技术研究与应用（201433420274），课题主持
+13、国家863计划重点项目子课题：Trustie实用性评估研究与实施，技术负责；
+14、企业委托项目：基于泛在电力物联网的智控运维系统（H201991420523），主持；
+15、企业委托项目：基于云平台的智慧电站运维管理系统（201791420260），主持；
+16、企业委托项目：基于WinCE的数据采集软件设计（20099443638），主持；
+教改项目
+1、教育部-产学合作协同育人项目:面向对象与程序设计（ZNJZ20231141），主持
+2、教育部-产学合作协同育人项目:大数据实践条件与实践基地建设项目（201901197009），主持
+3、教育部-IBM精品课程:开源平台技术概论（521003011）, 主研；
+4、教育部-2007年度双语教学示范课程: Web应用软件工程，参与；
+5、湖南大学校级教改项目：《JAVA程序设计》课程教学改革的研究与实践（2018），主持
+6、湖南大学校级教改项目：《程序设计》课程教学改革的研究（2013），主持
+7、2022年大学生创新训练计划项目（校级）: CreDAO：一个去中心化的视频创作平台
+指导学生：郑雨杰、马美美、鲁旭、荣伊天。
+8、2019年大学生创新训练计划项目（校级）:基于3D打印的三维医学影像处理平台
+指导学生：赵欣悦、刘丹、朱新成、王佳成。
+9、2019年大学生创新训练计划项目（校级）:基于物联网的配变电数据采集与监测系统
+指导学生：纪生义、夏钦华、唐笑林、程炬、肖亦欣；
+10、2019年大学生创新训练计划项目（国家级）：Polly management system,
+指导学生：杨仲毅、谭莹、黄雅婷、徐玥、袁奇中；
+11、2018年大学生创新训练计划项目（校级）：基于大数据的电力能源管理与分析系统
+指导学生：吕志恒、潘婷婷、汤路杨、李瑜 琦、秦剑珣；
+12、 2015年大学生创新训练计划项目（校级）：基于语义的多协议转换的设计与实现
+指导学生：杨锦涛、吴汇川、高尚德；
+13、 2013年大学生创新训练计划项目（校级）：基于IPv6的高校视频分享系统
+指导学生：胡康宇、嵇顺、林和强；
+14、 2008年大学生创新训练计划项目（校级）：基于J2EE的社会网络服务平台（SNS）
+指导学生： 韩建强、肖铮、陈华卓；
+15、2008年大学生创新训练计划项目（校级）：基于互联网的游戏娱乐平台
+指导学生：何标、黄韵、邱献超；
+16、2006年大学生创新训练计划项目（校级）：基于AJAX的实验室管理系统
+指导学生：刘岸芬、邹春刚、尚可、李中华；
+17、2023年大学生创新训练计划项目（校级）：CreDAO：一个去中心化的视频创作平台
+指导学生：郑雨杰、马美美、鲁旭、荣伊天
+18、2023年大学生创新训练计划项目（省级）：基于稳定资产的高性能合规化公链研究
+指导学生：刘兆翔、朱晨、马家骏、黄俊儒、吴瑞涛
+19、2024年大学生创新训练计划项目（校级）：基于区块链的去中心化视频播放平台
+指导学生：荣伊天、胡信航、马美美、鲁旭、郑雨杰
+20、2024年大学生创新训练计划项目（省级）：基于AI技术的儿童体态健康测评软件
+指导学生：田瑞雪、郭瑞灵、黄书鑫、朱思颖、肖长屹
+
+---
+
+## 欧阳柳波
+
+- **网址**: https://csee.hnu.edu.cn/people/ouyangliubo
+- **姓名**: 欧阳柳波
+- **邮箱**: oylb@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 自动化软件工程、智能化需求工程、文本分析与挖掘等
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：自动化软件工程、智能化需求工程、文本分析与挖掘等
+联系方式：oylb@hnu.edu.cn
+教师介绍
+欧阳柳波，湖南衡阳人，工学博士，副教授，CCF高级会员，AAIA会员。2012年博士毕业于中南大学计算机应用技术专业，爱尔兰国立梅努斯大学(NUI,Maynooth)计算机科学系访问学者，长沙市企业兼职科技副总。主要研究领域为：软件工程、知识工程、自然语言处理等。主讲课程有：软件需求工程、软件工程导论、软件项目管理、文本数据处理、深度学习与AI+思维、高级需求工程、软件需求分析与建模等。
+中文名：
+欧阳柳波
+英文名：
+Liubo Ouyang
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+oylb@hnu.edu.cn
+研究方向：
+自动化软件工程、智能化需求工程、文本分析与挖掘等
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+学院教师
+主要科研项目
+城市科技创新信息化服务体系研究，长沙市科技计划软科学重点项目
+长沙市科技创新综合信息平台可研报告，横向项目
+面向敏捷开发的软件需求工程，教育部-腾讯产学合作协同育人项目
+花瑶文化资源集成与文化旅游综合服务信息系统研究与应用，湖南省科技计划重点项目
+基于众筹驱动的订单式农业综合服务信息平台研究与开发，长沙市科技计划项目
+国产软件硬件应用服务体系研究与示范应用评估，国家重大专项“核高基”子课题
+面向领域的可信嵌入式软件开发环境研究与应用，湖南省产学研结合成果转化重点项目
+基于国产基础软件的实训教学公共服务平台，中央投资电子信息产业振兴和技术改造项目
+Trustie软件开发环境实用性评估研究与实施，国家863计划重点项目子课题
+公安网网络安全威胁分析与态势评估技术研究，公安部应用创新计划项目
+微软技术教学研究与实践，微软亚洲研究院合作项目
+主要学术论文
+1.. 欧阳柳波，叶巧莹，孟心如，杜漫茹.  基于大语言模型的非功能需求生成方法. 软件学报（优先出版）， 2025.12，DOI: 10.13328/j.cnki.jos.007557
+2. Li Zhang, Liubo Ouyang, Zhuoqun Xu. Defect Correction Method for Software Requirements Text Using Large Language Models.  Proceedings of 2024 International Joint Conference on Neural Networks (IJCNN 2024, IEEE WCCI 2024),Yokohama, Japan, June 30 -July 5, 2024
+3. Zhuoqun Xu, Liubo Ouyang,Yang Liu, Li Zhang. Modular Method for Embodied Instruction Following with Environmental Context Adaptation. Proceedings of 2024 International Joint Conference on Neural Networks (IJCNN 2024, IEEE WCCI 2024), Yokohama, Japan, June 30 -July 5, 2024
+4. Jiaxin Peng, Siwang Zhou, Liubo Ouyang, Xingting Liu. Volatility-Based Diversity Awareness for Distributed Data Storage of Mobile Crowd Sensing. Computer Networks, Volume 248, June, 2024,110466
+5. Li Zhang, Liubo Ouyang, Jiahao Qin. Automatic Detection Method for Software Requirements Text with Language Processing Model. Proceedings of the 6th International Conference on Software Engineering and Computer Science (CSECS 2023), Chengdu, China, December 22-24, 2023
+6. Zhuoqun Xu, Liubo Ouyang, Yang Liu. Task-Driven and Experience-Based Question Answering Corpus for In-Home Robot Application in the House3D Virtual Environment. Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022), Marseille, France, 20-25 June, 2022, 6232–6239
+7.Liubo Ouyang, Hui Tang,Guangyi Xiao. Chinese Text Relation Extraction with Multi instance Multilabel BLSTM Neural Networks. Proceedings of the 31st International Conference on Software Engineering and Knowledge Engineering (SEKE2019), Lisbon, Portugal, 10-12  July, 2019，337-342
+8. Liubo Ouyang, Yuan Tian, Hui Tang, Boyun Zhang. Chinese Named Entity Recognition Based on B-LSTM Neural Network with Additional Features. Proceeding of the 10th InternationalConference, (SpaCCS 2017), Guangzhou, China, 12-15 December, 2017, 269-279
+9. Liubo Ouyang, Peiwen Hu. An Improved Similarity Computation Module Based on Basic Semantics and Influencing Factors of Concepts in Domain Ontology. Proceeding of the  13th International Conference on Natural Computation, Fuzzy Systems and KnowledgeDiscovery (ICNC-FSKD 2017),Guilin,China, 29-31 July,  2017,2880-2885
+10. 欧阳柳波, 郭海林. 基于领域需求结构化描述的自动分析建模方法.计算机工程与应用, 2016,52(20): 52-57
+11. 欧阳柳波, 周伟光. 基于位置标签与词性结合的组合词抽取方法.,计算机应用研究, 2016,33(4):1062-1065
+12. LongjiTang, Liubo Ouyang, Tek Tsai. Multi-Factor Web API Security for Securing MobileCloud. Proceeding of the 12th International Conference on Fuzzy Systems and Knowledge Discovery(FSDK2015),August 15-17, 2015,Zhangjiajie, China:2163-2168
+13. 欧阳柳波,尹胜台. 层叠推理机的设计与实现. 计算机应用与软件, 2014,31(10),161-166
+14. 欧阳柳波,王英. 基于受限语言的领域需求描述方法.计算机应用研究, 2014, 31（2）443-447
+15. 刘晓斌, 杨贯中，欧阳柳波，李勇军.软件体系结构动态演化的元胞自动机模型研究.计算机工程与应用，2013.10.17
+16. 欧阳柳波,谭睿哲.一种基于本体和用户日志的查询扩展方法.计算机工程与应用，2013.5.3
+17. 欧阳柳波，林建，郭海林. 基于协同合作的国产软硬件售后服务体系. 微型机与应用, 2013, 32(16):1-7
+18. 欧阳柳波,邹北骥,刘丽杰. 一种基于混合判定模型的复合概念抽取方法. 电子学报, 2013,41(3): 488-495
+19.欧阳柳波,邹北骥, 林建,杨贯中,刘丽杰.一种软件实用性模糊评估方法.小型微型计算机系统，2013,34(2):298-303
+20. Liubo Ouyang, Beiji Zou, Jian Lin.BDHL: A framework of index system for evaluating ontology content. International Review on Computers and Software, 2012, 7(2): 720-728(EI检索)
+21. Ouyang Liubo, Zou Beiji, Qu Miaoxing, Zhang Chenmin. A method of ontology evaluation based on coverage, cohesion and coupling. Proceeding of the 8th International Conference on Fuzzy Systems and Knowledge Discovery(FSDK2011),July26-28, 2011, Shanghai, China: 2541-2545(EI Compendex检索号:20114014401414; Inspec检索号:12244601)
+22. Ouyang Liubo, Zou Beiji, LanXiaofei. Generating requirements of domain ontology evolution based on text.Proceeding of the 2nd International Conference on Information Science and Engineering (ICISE2010), Dec.4-6,2010,Hangzhou, China:1225-1228(EI Compendex检索号:20110913704808;Inspec检索号:11846537)
+23.刘典型,欧阳柳波.基于RTTI的特殊网页文本提取技术研究.计算机应用与软件,2010, 27(9): 63-65
+24.伍振兴，欧阳柳波，兰小飞，黄志刚. 一种基于概念格属性约简的本体合并方法. 计算机系统应用,2010,19(9)：232-235
+25.欧阳柳波，易显，李学勇, 杨柱. 面向用户体验的大型网站网页分类更新策略研究.华中科技大学学报(自然科学版),2010,38(9)：18-21 (EI Compendex检索号:20104313323905; Inspec检索号: 12153683)
+26.杨颂, 欧阳柳波. 基于Heritrix 的面向电子商务网站增量爬虫研究. 软件导刊, 2010, 9(7):38-39
+27.欧阳柳波，杨柱，易显. 基于 DIV 标签树的网页主题信息抽取方法. 计算机系统应用,2010,19(7):193-196
+28.欧阳柳波，兰小飞，伍振兴. 一种基于文本的领域本体进化需求自动生成模型.计算机系统应用,2010,19(6):144-147
+29.黄浩,欧阳柳波.基于Web Services的语义异构数据集成设计与实现.计算机工程与设计,2009, 30(19):4406-4410
+30. OUYANG Liubo, DONG Rui, ZOU Beiji. Information Extraction Based on Table Area Locating for E-Commerce Websites. Proceeding of the IEEE 2009 GlobalCongress on Intelligent Systems (GCIS2009) May 19-21, 2009, Xiamen,China:441-445(EI Compendex检索号:20094712467047; Inspec检索号:10839030)
+31.WU Ke-shou, HU Jiang-qiang, OUYANG Liu-bo. The Matching Model of WebServices. Proceeding of the International Conference on Complex Systems and Application (ICCSA06),Huhhot, China, June 16-18,2006. Published as an added volume to DCDIS Series B: Application and Algorithms, ISBN 1492-8760: 1214-1218, Waterloo, Canada(Indexed by SCIE)
+32.OUYANG Liu-bo, WU Ke-shou. PBL in Team Applied to Software Engineering Education. Proceeding of the Second China-Europe International Symposium onSoftware Industry Oriented Education，18-20 January 2006,Harbin, China. Journal ofHarbin Institute of Technology, 2005(12): 115-118
+33. 欧阳柳波，李学勇，杨贯中，李国徽．基于近似匹配模型的XML元数据检索．计算机应用，2005，25(4):820-823
+34. 欧阳柳波，李学勇等．网络蜘蛛搜索策略进展研究．小型微型计算机系统，2005，26(4): 703-706(EI Compendex检索号:;Inspec检索号:8532831)
+35.李国徽，陈基雄，杨兵，许华杰，欧阳柳波．移动实时事务的相对时间正确性及其实现．计算机学报，2005，28(1):136-141（EI Compendex检索号:2005118999552;Inspec检索号:8497328）
+36. 欧阳柳波，李学勇，李国徽等．专业搜索引擎搜索策略综述．计算机工程，2004,30(13):32-46
+37. 欧阳柳波，李学勇，吴克寿．基于进化策略的抽题算法设计．计算技术与自动化，2004,23(1):30-33
+38. 欧阳柳波，王益民，国际化实用型软件人才培养探索．中国教育理论杂志，2003,(7):14-15
+39. OUYANG Liu-bo, BAI Shu-ren，WU Keshou．Influence on Software Die and Software craftsmanship to Software Reuse．Proceeding of the International Symposium on Future Software Technology (ISFS 2002) , Wuhan, China，2002:513-517
+学生培养
+全日制研究生毕业信息
+序号 姓名 入校时间 学位 论文题目 毕业时间 毕业去向
+1 董锐 2005.09 硕士 基于区域定位的购物网站商品信息抽取方法 2009.11 中南勘测设计研究院（长沙）
+2 伍振兴 2007.09 硕士 基于概念格的语义匹配模型研究 2010.05 琼州学院（三亚）
+3 兰小飞 2007.09 硕士 基于文本的本体进化需求自动生成模型研究 2010.05 三一重工（长沙）
+4 易显 2007.09 硕士 搜索引擎中大型网站的网页更新策略研究 2010.05 华为公司（长沙）
+5 杨柱 2007.09 硕士 基于DIV标签树的网页主题信息抽取方法 2010.04 华为公司（长沙）
+6 屈妙星 2008.09 硕士 基于搜索排序算法的本体评价系统研究 2011.05 美国宝洁公司（广州）
+7 章成明 2008.09 硕士 三维虚拟人的语义描述和检索技术研究 2011.05 华为公司（深圳）
+8 林建 2009.09 硕士 软件实用性分析及其模糊评估方法研究 2012.03 思联科技（长沙）
+9 刘洋 2010.09 硕士 基于词边界特征的中文抽词方法研究 2013.05 中科院自动化所博士生（北京）
+10 谭睿哲 2010.09 硕士 基于本体和用户日志的查询扩展研究 2013.05 中兴公司（深圳）
+11 尹胜台 2010.09 硕士 智能问答系统中推理机的研究  2013.05 阿里巴巴（杭州）
+12 吴斌 2011.09 硕士 基于多级过滤的领域复合概念抽取方法 2014.05 中联重科（长沙）
+13 王英 2011.09 硕士 基于受限语言的领域需求描述方法 2013.11 太平洋保险公司（上海）
+14 赵龙一 2011.09 硕士 基于浅层分析的量化关系抽取方法研究 2014.05 长沙银行（长沙）
+15 周伟光 2012.09 硕士 基于位置标签与词性结合的复合词抽取研究 2015.05 京东金融（北京）
+16 郭海林 2012.09 硕士 领域需求结构化描述及其自动化建模研究 2015.05 联发科技（深圳）
+17 旷波 2012.09 硕士 网络评论中产品特征和用户观点抽取方法研究 2015.05 京东商城（深圳）
+18 袁秀梅 2013.09 硕士 面向领域的非功能需求建模方法研究与应用 2016.05 中国农行（广州）
+19 田磊 2013.09 硕士 医疗风险防控系统的研究与实现 2016.05 中兴公司（深圳）
+20 李思洁 2013.09 硕士 基于Android手机传感器的WIFI室内定位优化技术研究 2016.05 中国电信(广州)
+21 潘一之 2013.09 硕士 基于领域本体的需求模型到UML模型转换方法研究 2016.05 顺丰科技(深圳)
+22 胡沛文 2014.09 硕士 问答系统中语义相似度计算研究 2017.05 华为公司（深圳）
+23 马赛 2014.09 硕士 面向电商网站评价文本的情感分析研究 2017.05京东公司（北京）
+24 张新 2014.09 硕士 基于项目的协同过滤推荐算法改进及在Spark上并行化实现 2017.05 腾讯公司（深圳）
+25 田源 2015.09 硕士 基于深度学习的中文命名实体识别方法研究 2018.05 中兴公司（长沙）
+26 唐慧 2016.09 硕士 基于深度学习的中文关系抽取方法研究 2019.05 晨星资讯（深圳）
+27 廖敏孜 2017.09 硕士 可重用需求文档构件模型研究 2019.05 永州市人民政府（永州）
+28 邓运江 2017.09 硕士 基于准确性检测的知识图谱管理系统 2020.05 中兴公司（深圳）
+29 王莹 2018.09 硕士 软件需求文档表述质量评价方法研究 2020.05 招银网络（深圳）
+30 谢予谦 2018.09 硕士 多模态融合的情感识别研究 2021.05 贝壳找房科技公司（北京）
+31 钟思洁 2018.09 硕士 基于功能需求规格说明的测试用例自动生成方法研究 2021.05 华为公司（武汉）
+32 秦家豪 2019.09 硕士 基于深度学习的需求文本缺陷检测系统 2022.05 腾讯公司（深圳）
+33 武文超 2019.09 硕士 情感一致性对话生成模型研究 2022.05 华为公司（上海）
+34 李霈 2019.09 硕士 基于机器阅读理解技术的问答系统研究与设计 2022.05 满帮物流（南京）
+35 罗梓超 2020.09 硕士 基于知识点的在线学习测评模型研究 2023.05 拼多多（上海）
+36 刘丹 2021.09 硕士 基于深度学习的需求文本缺陷纠正系统.2024.05 交通银行（西安）
+37 许卓群 2021.09 硕士 基于环境理解的具身指令执行研究.2024.05
+38 张力 2021.09 硕士 基于大语言模型的软件需求文本缺陷修正方法研究.2024.05 北京邮电大学博士生（北京）
+39 Joshua Felix Jwakdak 2021.09 硕士 UML2S: A Tool for Automated Generation of Solidity code from UML Diagrams. 2024.07
+40 叶巧莹 2022.09 硕士 基于大语言模型的非功能需求自动生成方法研究.2025.05 南方新材料科技有限公司（长沙）
+41 李晨晨 2022.09 硕士 基于短文本分类的需求挖掘方法研究.2025.05 国家电网（周口）
+42 杜漫茹 2023.9 硕士 基于LLM的软件需求规范文档自动生成方法研究.2026.05 小红书科技（上海）
+43 孟心如 2023.9 硕士 基于LLMs与SAT求解器的软件需求缺陷检测方法.2026.05 创维集团（深圳）
+44 陈金萍 2024.9 硕士 在读
+45 林毅 2024.9 硕士 在读
+46 张超一 2024.9 硕士 在读
+47 李嘉威 2024.9 硕士 在读
+48 金鑫 2025.9 硕士 在读
+指导大学生创新训练项目
+钟源，司紫慧，赵烨国，周岚棵，粟慧青. 基于LLM的智能客服问答系统. 省级大学生创新训练项目，2024.5-2026.4
+陈依诺, 曹黄森, 周铭锐, 徐宏坤, 高锦宏. 基于知识追踪的学习测评方法研究. 校级大学生创新性实验计划项目, 2023.5-2024.4
+袁嘉皓, 刘沛灵, 梅炳寅, 陈依诺, 龙妍煕. 软件需求建模与可视化. 省级大学生创新训练项目, 2022.5-2024.4, 项目编号：S202210532371
+李敬，王妤婕，张小龙，于科涵. 面向文旅网红的数据采集与价值评估系统. 校级大学生创新性实验计划项目，2022.5-2023.4 项目编号：S202210532559
+李国平，秦家豪，武文超，田佳霖，王书寒. 基于深度学习的需求文本缺陷检测. 省级大学生创新训练项目，2020.5-2022.4  项目编号：S202010532381
+刘宇航，廖敏孜，张惠雨，曹涵松，王博. 需求文档智能生成系统. 校级大学生创新性实验计划项目，2018.5-2019.4
+秦家豪，周雪雲，邓思佳，王玉锟，刘祎. 面向服务机器人的多通道人机对话系统. 国家级大学生创新训练计划项目，2017.5-2019.4
+唐慧，田源，苏鹏飞. 面向命名实体及关系识别的文本深度计算方法研究. 校级大学生创新性实验计划项目，2017.5-2018.4
+汤润, 万中利,武永铮,卢文杰,施梦一. 基于FAQ问答系统的设计与实现. 校级大学生创新性实验计划项目，2015.5-2016.4
+方怡，陈锐均，韦平忠，郭昭，叶一帆. 基于受限语言的领域需求描述与分析. 校级大学生创新性实验计划项目，2013.5-2014.4
+万其鹏，张荣，吴美娟，谢俊. 面向Symbian OS手机短信个性签名系统. 校级大学生创新性实验计划项目，2007.5-2008.4
+成果系统
+快易需求： www.easysrs.cn
+快易需求系统（EasySRS）是一款基于需求复用理念和智能文本处理技术的需求开发与管理工具。系统在功能用例表示中有效地融合了非功能需求模式，创新设计用例模板，结合软件工程领域的国际标准和SRS行业标准，定义多种文档构件类型，为需求文档编辑提供复用构件，并结合自然语言处理和深度学习方法进行需求文本的缺陷检测及需求文档的质量评价，为软件开发团队提供了一个可协作、高效易用的需求文档编辑和需求管理工具。
+相关发明专利：
+1. 基于可用性模式和安全性模式的软件用例生成方法. 专利号，201811365834.7，已授权
+2. 一种基于文档构件的需求文档自动生成方法. 专利号，201811365846.X，已授权
+3. 一种软件需求规格说明书的评价方法. 专利号，201910968462.5，已授权
+4. 一种软件需求文本表述缺陷检测方法、系统以及计算机存储介质. 专利号，201910527319.2，已授权
+5. 测试数据、测试用例生成方法及系统、存储介质. 专利号，202110296198.2，已授权
+职梦空间：www.newjobspace.com
+职梦空间（NewJobSpace.com）是基于校企协同育人模式的大学生企业实习实践管理服务平台，以及面向大学应届毕业生和职场新人的实习和就业招聘信息服务平台。系统搭建高校、大学生、企业之间的互动桥梁，可为高校提供一体化的企业实习实践教学管理与服务解决方案。
+职梦实习空间小程序：（打开微信-搜索“职梦实习空间”）
+招生
+欢迎英语、数学基础好，编程能力强，开朗大方，有明确技术型职业发展规划，且对软件工程、知识工程、自然语言处理等研究领域感兴趣的研究生加入团队。
+教师主页：http://grzy.hnu.edu.cn/site/index/ouyangliubo
+
+---
+
+## 彭鹏
+
+- **网址**: https://csee.hnu.edu.cn/people/pengpeng
+- **姓名**: 彭鹏
+- **邮箱**: hnu16pp@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 知识图谱；分布式数据管理
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：知识图谱；分布式数据管理
+联系方式：hnu16pp@hnu.edu.cn
+教师介绍
+邮箱地址：hnu16pp@hnu.edu.cn
+工作单位：湖南大学信息科学与工程学院软件工程系
+通信地址：湖南省长沙市岳麓区麓山南路湖南大学信息科学与工程学院
+个人情况简介：
+彭鹏于2009年毕业于北京师范大学信息科学与技术学院获得工学学士学位；2016年毕业于北京大学计算机科学技术研究所，获得工学博士学位。彭鹏于2016年8月入职湖南大学信息科学与工程学院软件工程系，任助理教授。2019年底晋升为副教授。目前其主要研究方向为“基于图的分布式知识图谱数据管理”。
+个人主页：https://bnu05pp.github.io/
+中文名：
+彭鹏
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+hnu16pp@hnu.edu.cn
+研究方向：
+知识图谱；分布式数据管理
+联系地址：
+湖南大学信息科学与工程学院
+所属机构：
+软件工程系
+学院教师
+个人简历
+研究兴趣: 知识图谱; 大数据; 云计算
+学术论文
+*表示通讯作者，全部论文可查看本人DBLP
+Min Shi, Peng Peng*, Xin Xiao, Lei Zou, Kenli Li, Xu Zhou. R2O: A Dual-Layer Framework for Joint Rewriting and Ordering in Distributed Property Graph Query Optimization. SIGMOD ,2026 (CCF A)
+Shidan Ma, Peng Peng*, Xu Zhou, M. Tamer ?zsu, Lei Zou, Guo Chen. Efficient Cloud-edge Collaborative Approaches to SPARQL Queries over Large RDF graphs. ICDE, 2026 (CCF A)
+Xin Deng, Peng Peng, Baoqing Sun, Shuo Dai, Zheng Qin, Lijun Chang. SQAC: Scalable Querying of Attribute-Constrained (α, β)-Cores over Large Bipartite Graphs. ICDE, 2026 (CCF A)
+Shidan Ma, Yan Ding, Xu Zhou, Peng Peng, Youhuan Li, Zhibang Yang, and Kenli Li. Property-Induced Partitioning for Graph Pattern Queries on Distributed RDF Systems. TKDE, 2026 (CCF A)
+Min Shi, Peng Peng*, Xu Zhou, Jiayu Liu, Guoqing Xiao, Kenli Li. Connectivity-Oriented Property Graph Partitioning for Distributed Graph Pattern Query Processing. SIGMOD ,2025 (CCF A)
+Xin Deng, Peng Peng*, Chuanyu Liu, Xianyan Xie, Hui Zhou, Zheng Qin. Efficient Indexing for Label-constrained Cohesive Subgraph Queries over Large Graphs. ICDE ,2025 (CCF A)
+Xin Deng, Zheng Qin, Peng Peng, Hui Zhou. TopK-BC: Efficient Maintenance of Top k (p,q)-bicliques over Streaming Bipartite Graphs. ICDE ,2025 (CCF A)
+Peng Peng, Shengyi Ji, Lei Zou, M. Tamer Ozsu. Minimum Motif-Cut: A Workload-Aware RDF Graph Partitioning Strategy. VLDB J., 2024 (CCF A)
+Mingdao Li, Peng Peng*, Zheyuan Hu, Lei Zou, Zheng Qin. Variable-length Path Query Evaluation based on Worst-Case Optimal Joins. ICDE, 2024 (CCF A)
+Peng Peng*, Shengyi Ji, Zhen Tian, Hongbo Jiang, Weiguo Zheng, Xuecang Zhang. Locality Sensitive Hashing for Optimizing Subgraph Query Processing in Parallel Computing Systems. KDD, 2023 (CCF A)
+Peng Peng, M. Tamer Ozsu, Lei Zou*, Cen Yan, Chengjun Liu. MPC: Minimum Property-Cut RDF Graph Partitioning. ICDE, 2022 (CCF A)
+Yuejia Zhang, Weiguo Zheng*, Zhijie Zhang, Peng Peng, Xuecang Zhang. Hybrid Subgraph Matching Framework Powered by Sketch Tree for Distributed Systems. ICDE, 2022 (CCF A)
+Tongfeng Weng, Xu Zhou, Kenli Li, Peng Peng, Keqin Li. Efficient Distributed Approaches to Core Maintenance on Large Dynamic Graphs. TPDS, 2022 (CCF A)
+Peng Peng, Qi Ge, Lei Zou, M. Tamer Ozsu, Zhiwei Xu, Dongyan Zhao. Optimizing Multi-Query Evaluation in Federated RDF Systems. TKDE, 2021 (CCF A)
+Jiewei Gu, Weiguo Zheng, Yuzheng Cai, Peng Peng. Towards Computing A Near-Maximum Weighted Independent Set on Massive Graphs. SIGKDD, 2021 (CCF A)
+Wensheng Luo, Xu Zhou, Jianye Yang, Peng Peng, Guoqing Xiao, Yunjun Gao. Efficient Approaches to Top-r Influential Community Search. IEEE Internet of Things Journal, 2021 (SCI)
+Ningchao Ge, Zheng Qin, Peng Peng, Lei Zou. FedTopK: Top-K Queries Optimization over Federated RDF Systems. DASFAA, 2021 (CCF B)
+Qing Wang, Peng Peng, Tianyao Tong, Zhen Tian, Zheng Qin. Keyword Search over Federated RDF Systems. DASFAA, 2020 (CCF B)
+Weiguo Zheng, Jiewei Gu, Peng Peng, Jeffrey Xu Yu. Efficient Weighted Independent Set Computation over Large Graphs. ICDE, 2020 (CCF A)
+Peng Peng, Lei Zou, Lei Chen, Dongyan Zhao. Adaptive Distributed RDF Graph Fragmentation and Allocation based on Query Workload. TKDE, 2019 (CCF A)
+Peng Peng, Lei Zou, Runyu Guan. Accelerating Partial Evaluation in Distributed SPARQL Query Evaluation. ICDE, 2019 (CCF A)
+Qi Ge, Peng Peng, Zhiwei Xu, Lei Zou, Zheng Qin. FMQO: A Federated RDF System Supporting Multi-query Optimization. APWeb-WAIM, 2019 (CCF C, Best Demo Award)
+Mingdao Li, Peng Peng, Yang Xu, Hao Xia, Zheng Qin. Distributed Landmark Selection for Lower Bound Estimation of Distances in Large Graphs. APWeb-WAIM, 2019 (CCF C)
+Peng Peng. Distributed Query Evaluation over Large RDF Graphs. APWeb-WAIM Workshops, 2019 (CCF C)
+Peng Peng, Lei Zou, M. Tamer Ozsu, Dongyan Zhao. Multi-query Optimization in Federated RDF Systems. DASFAA, 2018 (CCF B, Best Paper Award)
+Peng Peng, Lei Zou, Zhenqin Du, Dongyan Zhao. Using partial evaluation in holistic subgraph search. Frontiers Comput. Sci., 2018 (CCF C)
+Jiaming Song, Xiaowang Zhang, Peng Peng, Zhiyong Feng, Lei Zou. MapSQ: A Plugin-based MapReduce Framework for SPARQL Queries on GPU. WWW (Companion Volume), 2018 (CCF A)
+Peng Peng, Lei Zou, Zheng Qin. Answering top-K query combined keywords and structural queries on RDF graphs. Inf. Syst., 2017 (CCF B)
+Peng Peng, Lei Zou, M. Tamer Ozsu, Lei Chen, Dongyan Zhao. Processing SPARQL queries over distributed RDF graphs. VLDB J., 2016 (CCF A)
+Peng Peng, Lei Zou, Lei Chen, Xuemin Lin, Dongyan Zhao. Answering subgraph queries over massive disk resident graphs. World Wide Web Journal, 2016 (CCF B)
+Peng Peng, Lei Zou, Lei Chen, Dongyan Zhao. Query Workload-based RDF Graph Fragmentation and Allocation. EDBT, 2016 (CCF B)
+Peng Peng, Lei Zou, Dongyan Zhao. On the Marriage of SPARQL and Keywords. APWeb, 2015 (CCF C)
+Peng Peng, Lei Zou, Dong Wang, Dongyan Zhao. Holistic Subgraph Search over Large Graphs. WAIM, 2014 (CCF C)
+Peng Peng, Lei Zou, Lei Chen, Xuemin Lin, Dongyan Zhao. Subgraph Search over Massive Disk Resident Graphs. SSDBM, 2011 (CCF C)
+Lei Zou, Peng Peng, Dongyan Zhao. Top-K Possible Shortest Path Query over a Large Uncertain Graph. WISE, 2011 (CCF C)
+主持项目
+大规模图数据上分布式图模式查询处理技术研究，国家自然科学基金面上项目，主持人，2025.1.1-2028.12.30
+大规模属性图的分布式存储与图模式查询处理方法研究，湖南省自然科学基金面上项目，主持人，2025.1.1-2027.12.31
+分布式知识图谱结构化查询处理的性能优化技术研究，湖南省自然科学基金面上项目，主持人，2022.1.1-2024.12.31
+基于PK体系和鲲鹏体系的安全的自主可控图数据库管理系统，长沙市科技重大专项，主持人，2021.7.1-2024.6.30
+关联数据上基于图的分布式查询处理技术研究，国家自然科学基金青年基金项目，主持人，2018.1.1-2020.12.30
+分布式图数据管理系统上的语义数据管理问题研究，湖南省自然科学基金青年基金项目，主持人，2018.1.1-2020.12.30
+申请专利
+葛琪, 彭鹏, 秦拯， 徐志伟,一种联邦型分布式RDF数据库上的多查询优化方法，中国专利, 2019.5.8, 201910000166.6
+杨宇言,彭鹏,邓程,关润宇,秦拯，一种在联邦型RDF数据库中查询关键字的方法， 中国专利, 2018.5.24, 201810509701.6
+彭鹏,邹磊,赵东岩,贾爱霞,一种基于外存的图数据存储方法及子图查询方法, 中国专利, 2012.11.14, 201110202697.7
+邹磊,彭鹏,赵东岩,贾爱霞，一种图上两点间最短路径查询法, 中国专利, 2014.6.30, 201110421889.7
+所获奖励
+Best Paper Award, DASFAA 2018
+Best Demo Award, APWeb-WAIM 2019
+
+---
+
+## 彭亚琼
+
+- **网址**: https://csee.hnu.edu.cn/people/pengyaqiong
+- **姓名**: 彭亚琼
+- **邮箱**: pengyaqiong@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 并行与分布式处理、服务计算、人工智能、大模型安全等
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：并行与分布式处理、服务计算、人工智能、大模型安全等
+联系方式：pengyaqiong@hnu.edu.cn
+教师介绍
+彭亚琼，博士，副教授，CCF/IEEE/ACM会员。主要研究领域包含并行与分布式处理、服务计算、具身智能、大模型安全等，主持国家自然科学基金1项，担任IEEE-TPDS、IEEE-TNNLS等有国际影响力刊物的审稿人，已在国际顶级学术期刊与重要学术会议发表论文近20篇。
+中文名：
+彭亚琼
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+pengyaqiong@hnu.edu.cn
+研究方向：
+并行与分布式处理、服务计算、人工智能、大模型安全等
+联系地址：
+湖南省长沙市岳麓区麓山南路2号，湖南大学信息科学与工程学院517室（410082）
+所属机构：
+计算机工程系
+学院教师
+个人简历
+工作经历
+2021.3-至今     湖南大学 信息科学与工程学院 副教授
+2016.4-2021.2 中国科学院信息工程研究所 助理研究员
+科研项目
+国家自然科学基金，61702499，面向多核虚拟集群的并行应用性能优化方法研究，2018.01-2020.12，主持，结题
+北京市自然科学基金，4172069，面向网络试验床的虚拟网络行为推演分析技术，2017.01-2019.12，参与，结题
+国家自然科学基金，61472151，虚拟化环境下面向新型存储系统的I/O资源调度方法，2015.01-2018.12，参与，结题
+学生培养
+2026级硕士研究生需报考网络空间安全学院，有意者请通过Email联系我。
+
+---
+
+## 皮慧龙
+
+- **网址**: https://csee.hnu.edu.cn/people/pihuilong
+- **姓名**: 皮慧龙
+- **邮箱**: phl880217@163.com
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能与飞行器系统交叉、航天热产品设计与仿真；智能传感与信息融合；水下潜航器等研究
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能与飞行器系统交叉、航天热产品设计与仿真；智能传感与信息融合；水下潜航器等研究
+联系方式：phl880217@163.com；phl880217@hnu.edu.cn 17710266915
+教师介绍
+博士生导师、硕士生导师
+1.研究方向：人工智能与智能无人系统、航天产品设计与仿真；智能传感与信息融合；水下潜航器等研究。
+2.硕博招生：有硕士博士名额，欢迎有相关背景的同学加入团队、欢迎跨专业同学报名。希望加入的同学具备独立思考和创新思维，有良好的执行力。团队氛围良好。
+3.承担国家自然科学基金3项、国家军口纵向课题5项、航天及核工业领域课题10余项。兼职国家空间材料协会青年委员。
+中文名：
+皮慧龙
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+17710266915
+电子邮件：
+phl880217@163.com；phl880217@hnu.edu.cn
+研究方向：
+人工智能与飞行器系统交叉、航天热产品设计与仿真；智能传感与信息融合；水下潜航器等研究
+联系地址：
+国家超算长沙中心1号楼509
+所属机构：
+计算机科学系
+学院教师
+一、个人简历
+1.工作经历：
+2013年-2023年：中国航天科工北京空天技术研究所，飞行器主任设计师
+2023年-至今：湖南大学信息科学与工程学院，副教授
+2.社会兼职：
+中国空间科学学会空间材料专业委员会青年委员
+3.联系方式：
+TEL:17710266915,phl880217@163.com，phl880217@hnu.edu.cn
+二、硕博招生
+? 研究方向：人工智能与智能无人系统、航天产品设计与仿真；智能传感与信息融合；水下潜航器等研究。
+? 欢迎有相关专业背景的同学加入团队、也欢迎跨专业同学报名。
+? 希望加入的同学具备独立思考和创新思维，有良好的执行力。
+? 团队师生氛围良好，所有学生都是老师亲自指导。
+? 欢迎同学给我发送简历：phl880217@hnu.edu.cn
+三、学术论文
+1.学术论文：
+[1] 《Vision-Language Guidance Distillation for Camera-based 3D Semantic Scene Completion》，CCF-A
+[2] 《TextHair3D: Text-driven 3D Hair Editing with Generative Priors》，CCF-B
+[3] 《Single-View Reconstruction via Decoupled 3D Gaussian Splatting》，CCF-B
+[4] C/SiC–ZrB2–ZrC composites fabricated by reactive melt infiltration with ZrSi2 alloy[J]. Ceramics International,38(8):6541-6548.
+[5] Influence of copper contamination on ablation damage of C/SiC composites under simulated thermal environment of arc heater[J]. Ceramics International.
+[6] Damage Characteristics of 2D C/SiC-ZrC Composites under Low Velocity Impact[J]. Journal of Inorganic Materials, 35(12):138.
+2.专利：
+[1] 一种电弧风洞试验装置，国家发明专利
+[2]飞行器的控制电路及可调波形脉冲输出方法，国家发明专利
+[3] 陶瓷基复合材料的缺陷识别方法、设备、介质及产品，国家发明专利
+[4]一种XX飞行器用高温密封结构.国防发明专利
+[5]一种XX盖板式TPS结构.国防发明专利
+四、科研状况
+近3年作为课题负责人承担国家纵向4项，承担国防口横向项目3项。
+1. 国家自然科学基金项目：《SiC-SiC复合材料外物冲击损伤机制与多尺度渐进损伤预测》；
+2. J委科技委X73项目《“绿色”碳XX在防隔热一体化结构XX与评价研究》；
+3. GF科工局稳定支撑项目：《基于深度学习的XX热结构高精智能检测与损伤估计研究》；
+4. J委科技委领域基金项目：《抗高能XX高损伤阈值碳化硅材料研究》；
+5. 中国核动力设计研究院项目：《SiC焊接结构-中间层结构协同优化设计》；
+6. 北京空天技术研究所项目：《超高温XX前缘烧蚀分析研究》；
+7.北京空天技术研究所项目：《可调隐身结构控制及XXX智能调控技术研究》。
+
+---
+
+## 佘兢克
+
+- **网址**: https://csee.hnu.edu.cn/people/shejingke
+- **姓名**: 佘兢克
+- **邮箱**: shejingke@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 智能水务数字孪生仿真平台、工业仪控平台（核电）中的人工智能方法、智能预测与故障诊断、基于人工智能方法的工业互联网边缘计算平台、核电站事故应急仿真与决策方法。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：智能水务数字孪生仿真平台、工业仪控平台（核电）中的人工智能方法、智能预测与故障诊断、基于人工智能方法的工业互联网边缘计算平台、核电站事故应急仿真与决策方法。
+联系方式：shejingke@hnu.edu.cn 0731-88821907
+教师介绍
+佘兢克，工学博士，副教授，硕士生导师。本科毕业于清华大学工程物理系核工程与技术专业，加拿大纽芬兰纪念大学计算机工程硕士，加拿大西安大略大学电气与计算机工程博士，后入职加拿大坎杜能源公司从事核电安全系统及自动仪控系统的研发工作并成为加拿大职业工程师协会会员。作为湖南省“青年百人计划”引进人才入职湖南大学，同时入选湖南省“湖湘人才聚集工程-创新人才”计划。中国仿真学会第八届理事会理事，中国计算机学会（CCF）嵌入式系统专家委员会委员。当前主要研究方向为智慧水务数字孪生仿真平台、工业智能仪控平台、工况智能预测与故障诊断、智能化的工业互联网边缘计算平台以及事故应急仿真。
+中文名：
+佘兢克
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+0731-88821907
+电子邮件：
+shejingke@hnu.edu.cn
+研究方向：
+智能水务数字孪生仿真平台、工业仪控平台（核电）中的人工智能方法、智能预测与故障诊断、基于人工智能方法的工业互联网边缘计算平台、核电站事故应急仿真与决策方法。
+联系地址：
+1 Lushan South Road
+所属机构：
+计算机工程系
+学院教师
+科研状况
+在研科研项目
+新能源汽车制造产业集聚区域网络协同制造集成技术研究与应用示范. 国家重点研发计划(2020YFB1713400),课题骨干，子课题（任务）负责人. 2021-2023
+湖南省自然科学基金面上项目，“基于预测控制的核电站快速响应与智能控制研究”，2018JJ2057。
+湖南省“湖湘人才聚集工程-创新人才”计划，“核电站安全仪控与故障诊断的智能方法研究”，2018RS3050
+学术论文
+Jingke She*, Weiqi Li, Yifei Ma, Yifan Zhang, Liang Liu, "Pressurizer Control Optimization with Deep Learning-based Prediction", New Energy Power Generation Automation and Intelligent Technology, SICPNPP 2023,pp.186-199,doi: 10.1007/978-981-99-3455-3_19,2023.
+Tianzi Shi, Jingke She*, Pingfan Li, Jianjian Jiang, Wei Chen, "A deep learning-based framework for the operation prediction of primary heat transfer loop in nuclear power plants",Frontiers in Energy Research,doi: 10.3389/fenrg.2023.1099326
+Shanshan Gong,Suyuan Yang, Jingke She*, Weiqi Li, Shaofei Lu,"Multivariate Time Series Prediction for Loss of Coolant Accidents With a Zigmoid-Based LSTM",Frontiers in Energy Research,Artificial Intelligence Applications in Nuclear Energy,       doi: 10.3389/fenrg.2022.852349
+Jingke She*, Shanshan Gong, Suyuan Yang, Tianzi Shi, Shaofei Lu, Heng Wu, "ConvGRU-TSNet: A Novel Deep Learning Approach for Multivariate Time Series Prediction",2021 International Conference on Computational Science and Computational Intelligence (CSCI) pp.26-33,doi:10.1109/CSCI54926.2021.00032.
+Jingke She*, Tianzi Shi, Yuqi Tang, Yifan Zhang, “A Research on Intelligent Accident Warning and Simulation for Loss of Coolant Accident in Nuclear Power Plants”, Lecture Notes on Electrical Engineering, Nuclear Power Plant Innovative Technologies for Instrumentation and Control Systems, v883, LNEE, pp.451-461, The 6th International Symposium on Software Reliability, Industrial Safety, Cyber Security and Physical Protection of Nuclear Power Plants, ISNPP 2021.(https://doi.org/10.1007/978-981-19-1181-1_43)
+佘兢克，王佳妮，杨溯源，薛时雨，“实时工况仿真场景下蒸汽发生器液面智能预测模型的实现与验证”，《仪器仪表用户》，2021年第9期（总第199期，第28卷）, pp.15-22.
+Jingke She*, Tianzi Shi, Shiyu Xue, Yan Zhu, Shaofei Lu, Peiwei Sun, Huasong Cao,  Diagnosis and Prediction for Loss of Coolant Accidents in Nuclear Power Plants Using Deep Learning Methods. Frontiers in Energy Research,09(01),pp.90-98, 2021, doi: 10.3389/fenrg.2021.665262
+Jingke She*, Jiani Wang, Suyuan Yang, Shiyu Xue, “TheDesign and Implementation of an LSTM-based Steam Generator Level PredictionModel”, Lecture Notes on Electrical Engineering, Nuclear Power Plant Innovative Technologies for Instrumentation and Control Systems, v779, LNEE, pp505-517, The 5th International Symposium on Software Reliability, Industrial Safety, Cyber Security and Physical Protection of Nuclear Power Plants, ISNPP 2020.(https://doi.org/10.1007/978-981-16-3456-7_49)
+Jingke She*, Shiyu Xue, Peiwei Sun, Huasong Cao, “The Application of LSTM Model to the Prediction of Abnormal Condition in Nuclear Power Plants”, Lecture Notes on Electrical Engineering, Nuclear Power Plant Innovative Technologies for Instrumentation and Control Systems, v595, LNEE, pp463-476, The 4th International Symposium on Software Reliability, Industrial Safety, Cyber Security and Physical Protection of Nuclear Power Plants, ISNPP 2019.(https://doi.org/10.1007/978-981-15-1876-8_46)
+佘兢克，薛时雨，孙培伟，曹桦松，“基于深度学习的核电站事故预测及故障诊断方法”，《仪器仪表用户》，2019年第12期（总第178期，第26卷）, pp.39-44.
+Huan Zhao, Jingke She, Zhiyong Li, Huigui Rong, Xun He and Naizheng Bian, "A Research on the Education Mode of Innovative Software Talents Oriented to Emerging Engineering," 2019 14th International Conference on Computer Science & Education (ICCSE), Toronto, ON, Canada, 2019, pp. 959-963.doi: 10.1109/ICCSE.2019.8845451.
+Zhiyong Li, Jingke She, Juan Luo, Huan Zhao, Jiawei Luo and Renfa Li, "The “Chain Mode and Reverse Improving” Teaching Mechanism for the “Internet of Things” Major in Hunan University," 2018 13th International Conference on Computer Science & Education (ICCSE), Colombo, 2018, pp. 1-7.doi: 10.1109/ICCSE.2018.8468785.
+Jingke She and Jin Jiang, “Potential improvement of CANDU NPP safety margin by shortening the response time of shutdown systems using FPGA-based implementation”, Nuclear Engineering and Design, Vol. 244, pp. 43-51, 2012.
+Jingke She and Jin Jiang, “On the speed of response of an FPGA-based shutdown system in CANDU nuclear power plants”, Nuclear Engineering and Design, Vol. 241, Issue 6, pp2280-2287, 2011.
+Jingke She and Jin Jiang, “FPGA Application for CANDU Shutdown System No.1”, NPIC&HMIT 2009, Knoxville, Tennessee, American Nuclear Society, 2009.
+J. Drew Rankin, Jingke She, and Jin Jiang, “Evaluation of Safety PLCs and FPGAs for ShutdownSystems in CANDU Nuclear Power Plants”, International Symposium on Future I&C for Nuclear Power Plants, Harbin, China, 2008.
+Jingke She and Jin Jiang, “Power Upgrading of NuclearPower Plant by Improving Shutdown System No.1 with FPGA Technology”, 31st Canadian Nuclear Society Annual Conference, St. John, NB, Canada, 2007.
+
+---
+
+## 孙晶茹
+
+- **网址**: https://csee.hnu.edu.cn/people/sunjingru
+- **姓名**: 孙晶茹
+- **邮箱**: jt_sunjr@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 神经形态网络；脉冲神经网络；类脑计算；图像加密技术；智慧交通。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：神经形态网络；脉冲神经网络；类脑计算；图像加密技术；智慧交通。
+联系方式：jt_sunjr@hnu.edu.cn
+教师介绍
+孙晶茹，女，博士，湖南大学信息科学与工程学院通信工程系副教授，博士研究生导师。2004年硕士毕业于东北大学计算机软件与理论专业，并于当年进入湖南大学信息科学与工程学院工作。2014年博士毕业于湖南大学计算机科学与技术专业。2016年3月—2017年3月，英国赫特福德大学访学。主要从事忆阻器存算一体电路设计、图像加密技术，智慧交通等方向的研究工作。近年来发表SCI检索论文20余篇，主持国家自然科学基金面上项目一项，湖南省自然科学基金项目2项，湖南省科技计划项目1项，参与国家自然科学基金项目及其他省部级项目多项。
+目前，我们已经神经形态网络、脉冲神经网络、雷达信号处理，图像加密及深度学习及其应用方向形成了稳定的10余人的团队，欢迎有电路或算法设计基础，对以上方向感兴趣的同学加入。
+实验室提供带薪实习和项目参与机会，条件优越，欢迎感兴趣的同学联系。
+中文名：
+孙晶茹
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+jt_sunjr@hnu.edu.cn
+研究方向：
+神经形态网络；脉冲神经网络；类脑计算；图像加密技术；智慧交通。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+联系方式
+Email: jt_sunjr@hnu.edu.cn
+研究方向
+基于忆阻器的新型存算电路结构设计
+数字图像加密技术
+智慧交通
+发表的论文
+[1]     Xiaosong Li, Jingru Sun*, Yichuang Sun, & JiliangZhang. (2025). Synaptic and Myelin Plasticity and Their Synergistic Effects inNeuromorphic Networks. IEEE Transactions on Circuits and Systems I:Regular Papers.
+[2]     Jingru Sun., Ziyu Qiu., Yichuang Sun, &Simpson, O. (2025). A Self‐Correction Transformer Network for Traffic FlowPrediction Under Dynamic Spatio‐Temporal Distributions. IET IntelligentTransport Systems, 19(1), e70044.
+[3]     Jingru Sun*, Yao Zhang., Ziyu Qiu., et al. (2025). NWSTAN: alightweight dynamic spatial–temporal attention network for trafficprediction. Neural Computing and Applications, 37(20),14797-14812.
+[4]     Jingru Sun*, Chendingying Lu, Yichuang Sun, et al. (2025). Online Transfer Learning with MLP-Assisted Graph Convolution Network for Traffic Flow Forecasting: A Solutionfor Edge Intelligent Devices. Frontiers of Information Technology &Electronic Engineering.
+[5]     Jingru Sun*, Wenjing Ma, Xiaosong Li, et al (2025).Designand application of algae light sensing circuit based on memristor. NonlinearDynamics, 1-24.
+[6]    Jingru Sun*, Jingwen Sun, J, Xiaosong Li etal. A Review of Recent Developments in Neuromorphic Computing Based onEmerging Memory Devices. Nonlinear Dyn (2025).https://doi.org/10.1007/s11071-025-11727-7
+[7]     Xiaosong Li, Jingru Sun*, Yichuang Sun, & Jiliang Zhang. (2025). Apower-adaptive neuron model and circuit implementation. NonlinearDynamics, 113(4), 3763-3780.
+[8]     Qanighui Hong, Q., Guan, Z., Jingru Sun, et al. (2025). Fourier Neural Network Circuit Implementation Based on Direct Weight Determination. IEEJ Transactions on Electricaland Electronic Engineering, 20(4), 514-525.
+[9]     Xiaosong Li, Jingru Sun*, Yichuang Sun, Chunhua Wang, QinghuiHong, et al.  Design of ArtificialNeurons of Memristive Neuromorphic Networks Based on Biological Neural Dynamicsand Structures," in IEEE Transactions on Circuits and Systems I:Regular Papers, doi: 10.1109/TCSI.2023.3332496. 2024.
+[10]Xiaosong Li, Jingru Sun* Wenjing Ma,Yichuang Sun, Chunhua. Wang and Jiliang Zhang, "Adaptive Biomimetic Neuronal CircuitSystem Based on Myelin Sheath Function," in IEEE Transactions onConsumer Electronics, doi: 10.1109/TCE.2024.3356563. 2024.
+[11]Songyuan Tan, Jingru Sun*, Yiping Tang, Yichuang Sun, Chunhua Wang. Hyperchaoticbilateral random low-rank approximation random sequence generation method andits application on compressive ghost imaging. Nonlinear Dyn (2024). https://doi.org/10.1007/s11071-024-09317-0
+[12]Quanli Deng, Chunhua Wang, Jingru Sun,  YichuangSun,  JinguangJiang, HairongLin, ZekunDeng. "Nonvolatile CMOSMemristor, Reconfigurable Array, and Its Application in Power LoadForecasting," in IEEE Transactions on Industrial Informatics, doi:10.1109/TII.2023.3341256. 2024.
+[13]Meiqi Jiang, JingruSun*, Chunhua Wang. et al. An efficient memristive alternating crossbar array and the design offull adder. Nonlinear Dyn (2023).https://doi.org/10.1007/s11071-023-08887-9
+[14]Xie Zizhao, Jingru Sun*, Yiping Tang, Xin Tang, Oluyomi Simpson,and Yichuang Sun.  "A K-SVD BasedCompressive Sensing Method for Visual Chaotic ImageEncryption" Mathematics 11, no. 7: 1658 2023.（高被引论文）
+[15]Hairong Lin, Chunhua Wang, Jingru Sun*, et al. Memristor-coupled asymmetric neuralnetworks: Bionic modeling, chaotic dynamics analysis and encryptionapplication. Chaos, Solitons & Fractals, 166, 2023:112905.
+[16]ChunhuaWang, Cong Xu, Jingru Sun*, etal. A memristor-based associative memory neural network circuit with emotioneffect[J]. Neural Computing and Applications, 2023: 1-16.
+[17]Jingru Sun, Mu Peng, Qinghui Hong*, et al. "HMIAN: a Hierarchical Mapping andInteractive Attention Data Fusion Network for TrafficForecasting." IEEE Internet of Things Journal, 2022.
+[18] JingruSun, Meiqi Jiang, Qi Zhou, Chunhua Wang*, Yichuang Sun.Memristive Cluster Based Compact High-Density Nonvolatile Memory Design andApplication for Image Storage. Micromachines 2022, 13, 844.
+[19] Jingru Sun*, Kexin Kang, Yichuang Sun, Qinghui Hong, Chunhua Wang.A multi-value 3D crossbar array nonvolatile memory based on purememristors, The European Physical Journal Special Topics. 2022.
+[20]徐聪，王春华，孙晶茹.基于忆阻器的RBM及其在车牌图像处理中的应用. 中国科学：信息科学. 2022,DOI:10.1360/SSI-2022-0027.
+主持参与的项目
+1.  基于忆阻交叉阵列的存算一体高效逻辑电路研究，国家自然科学基金面上项目，2022年1月——2025年12月，主持。
+2.  具有矫正功能的多源异构数据动态时空交通流预测方法研究，湖南省自然科学基金，2021年1月——2023年12月，主持。
+3.  多值忆阻器及其构成的多值存储交叉阵列结构研究，20K027，湖南省教育厅创新平台项目，2021年1月—2023年12月，主持。
+4.  湖南省交通科技进步与创新计划项目，201837，基于异构数据融合的城市交通流预测及路径推荐的理论与方法研究，2018年7月-2021年6月，主持。
+5.  国家自然科学基金面上项目，61674054，无记忆半物理行为框架下异相功率放大器理论与方法研究、2017/1-2020/12，60万元，参与。
+6.  国家自然科学基金面上项目，61672216,燃煤烧结工况的鲁棒视觉检测方法研究与应用，2017/1-2017/12，16万元，已结题，参加。
+7.  国家自然科学基金面上项目，61571185,多吸引子周期多涡卷混沌系统生成及其宽动态范围宽可调CCCII的电流模式电路实现、2016/1-2019/12，67万元，在研，参加。
+8.  湖南省高校创新平台开放基金项目，湘教通[2016]395号，基于新型子谐波巴伦的混频器研究与设计，2016/1-2018/12，6万元，已结题，主持。
+9.  湖南省科技计划项目,2014GK3021,超宽带低功耗低噪声放大器及混频器的研究与设计,2014/01-2015/12,4万元,已结题,主持。
+10.国家自然科学基金面上项目,61274020,基于线性调谐宽带CDTA 的电流模式连续时间可重构模拟阵列,2013/01-2016/12,80万元,已结题,参加。
+11.湖南省高校创新平台基金项目,13K014,深亚微米CMOS集成功率放大器关键技术研究,2013/01—2015/12,6万元,已结题，参加。
+12.湖南省高校创新平台基金项目，12K012，超低功耗宽范围频率可调射频集成电路设计及其在多标准通信系统中的应用，2012/01-2014/12，6万元，已结题，参加。
+13.湖南省自然科学基金，11JJ6055，电流模式射频集成电路设计方法研究，2011/01-2013/05，2万元，已结题，主持。
+14.中央高校基本科研业务费，2010-169，射频集成电路设计的电流模式方法学研究，2010/12-2011/12，2万元，已结题，主持。
+
+---
+
+## 孙鹏
+
+- **网址**: https://csee.hnu.edu.cn/people/sunpeng
+- **姓名**: 孙鹏
+- **邮箱**: psun@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能、边缘智能、群体智能、AI安全与隐私、数据交易与隐私保护
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能、边缘智能、群体智能、AI安全与隐私、数据交易与隐私保护
+联系方式：psun@hnu.edu.cn
+教师介绍
+孙鹏，博士，副教授，博导，中国科协青年人才托举工程项目入选者，湖南省科技创新类湖湘青年英才(“荷尖”人才)，计算机工程系副主任，IEEE/ACM/CCF/CIE/AAIA会员，中国计算机学会物联网专委会执行委员，中国电子学会物联网专家委员会青年委员、网络空间安全专家委员会委员。主要研究领域包括人工智能、群体智能、边缘智能，尤其是其中的隐私保护与安全可信问题。截至目前，他已在国际权威期刊及一流学术会议上发表论文70余篇（CCFA类论文27篇）。其中，以第一/唯一通讯作者身份发表CCFA类论文共13篇，包括IEEE/ACMTON,IEEEJSAC,IEEETMC,IEEETIFS,ACMSIGMOD,IEEEINFOCOM,CVPR,AAAI。他主持国家自然科学基金面上、青年项目，湖南省自然科学基金青年基金，中国博士后科学基金面上资助，深圳市人工智能与机器人研究院横向项目。他曾获得中国自动化学会科技进步奖特等奖、中国商业联合会服务业科技创新奖一等奖、湖南省计算机学会科学技术奖一等奖和BIGCOM2023国际会议最佳学生论文奖。
+中文名：
+孙鹏
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+psun@hnu.edu.cn
+研究方向：
+人工智能、边缘智能、群体智能、AI安全与隐私、数据交易与隐私保护
+联系地址：
+湖南省长沙市岳麓区麓山南路2号，湖南大学信息科学与工程学院
+所属机构：
+计算机工程系
+学院教师
+个人简历
+详细信息请看个人网站：https://grzy.hnu.edu.cn/site/index/sunpeng
+
+---
+
+## 田泽安
+
+- **网址**: https://csee.hnu.edu.cn/people/tianzean
+- **姓名**: 田泽安
+- **邮箱**: tianzean@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 并行计算与超级计算、计算机体系结构、复杂体系微观结构可视分析、人工智能应用、材料计算、复杂系统动力学、无序体系结构分析
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：并行计算与超级计算、计算机体系结构、复杂体系微观结构可视分析、人工智能应用、材料计算、复杂系统动力学、无序体系结构分析
+联系方式：tianzean@hnu.edu.cn 13974843579
+教师介绍
+田泽安，男，博士，博导，副教授。2000年和2009年于湖南大学获工学硕士学位和工学博士学位、2010年3月至2014年3月于澳大利亚新南威尔士大学材料科学与工程学院从事博士后研究。主要研究方向为高性能计算、复杂结构可视分析、材料计算、复杂系统动力学、无序体系结构分析。发表SCI论文200余篇，获授权专利和软件著作权共10余项。主持国家自然科学基金面上/地区项目各1项，国家自然科学基金联合项目子课题1项，省部级自科基金3项；参与国自科面上项目3项；参与国家重点研发计划项目4项。
+中文名：
+田泽安
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+13974843579
+电子邮件：
+tianzean@hnu.edu.cn
+研究方向：
+并行计算与超级计算、计算机体系结构、复杂体系微观结构可视分析、人工智能应用、材料计算、复杂系统动力学、无序体系结构分析
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+智能计算系
+学院教师
+个人简历
+教育经历：
+2003/09–2009/06 湖南大学，材料科学与工程，博士
+1997/09–2000/03 湖南大学，高等教育学，硕士
+1995/09–1997/07 湖南教师进修学院，物理系，本科
+工作经历：
+2018/09至今         湖南大学，信息科学与工程学院，副教授
+2014/02–2018/09  湖南大学，物理与微电子科学学院，副教授
+2010/03–2014/02  澳大利亚新南威尔士大学，材料科学与工程学院，访问学者、博士后/讲师
+2002/02–2010/02  湖南大学，物理与微电子科学学院，讲师、副教授
+2002/10–2003/02  深圳西风集团西风研究院，院长助理
+2001/08–2002/02  湖南西风科技有限公司，重大项目部经理
+2000/04–2001/07  湖南中智信息科技有限公司，项目经理
+获得荣誉
+2010年-2014年，澳大利亚新南威尔士大学“Vice Chancellor’s postdoctoral research fellowship”
+2014年湖南大学讲课比赛三等奖
+2009年湖南大学讲课比赛三等奖
+学生培养
+硕士：
+2014级 沈震宇（学科教学(物理)），陈路路（教育技术学）
+2017级  邓晓镇（物理学），靳晓旭（物理学），傅翠颖（现代教育技术）
+2018级  黎丽萍（计算机科学），谌宇（现代教育技术），童宇轩（现代教育技术）
+2019级  潘佳铭（计算机科学）
+2020级  平申（计算机科学与技术），张忠阳（软件工程）
+2021级 刘宇瑾（计算机科学与技术），韦峰（计算机技术），贾玉霜（计算机技术）
+2022级 何宇峰（计算机技术），周茜南（计算机技术）
+2024级 侯新卓（计算机科学与技术），张可（电子信息）
+博士
+2020级  姜骁（计算机科学与技术）
+2022级 高瞻（能源动力），欧阳润秋（计算机科学与技术）
+2023级 吕斐（计算机科学与技术）
+科研项目
+·        A novel methodfor structural analysis of amorphous system: development and application (FundCode: SIR50; Project ID: PS22949), 2011.1-2014.3, funded by University of NewSouth Wales, Australia
+·        Simulationstudy on solidification processes and microstructure evolution of metalnanodroplets (Fund Code: SIR30; Project Number: PS27257), 2012.10-2013.10, funded by University of New South Wales, Australia
+1、  国家重点研发计划，面向新一代国产超算的高性能材料模拟软件的适配与优化, 2023.12-2026.11，任务负责人
+2、  国家重点研发计划，2021YFB0300102，非晶结构分析软件适配与优化，2021.12-2023.11，课题完成人
+3、  国家自然科学基金面上项目，62376091，金属玻璃微观结构量化分析及构效关系研究，2024.1.1-2027.12.31，主持
+4、  壹仟零壹艺网络科技（北京）有限公司，2023.6.7-2026.6.6，建筑行业垂直大模型训练ALDGPT项目，主持
+5、  湖南省自然科学基金面上项目，2022JJ30166、基于机器学习的金属玻璃微观结构与动力学相关性研究、2022.01.01-2024.12.31，主持。
+6、  光合基金开放项目，GHfund A 20220201-6853，复杂体系微观结构分析软件的C86异构平台适配与应用，2022-4-12 至 2023-3-31，主持
+7、  光合基金开放项目，GHfund B 20210702-0682，液态金属凝固过冷的微观结构起源研究，2021-7-15 至 2022-7-14，主持
+8、  国家自然科学基金地区基金项目，51661005、非晶形成能力的拓扑密堆团簇表征研究2017.01-2020.12，主持
+9、  国家自然科学基金联合项目（子项目），U1612442-6-6、喀斯特地区重金属污染综合防控体系大数据平台的构建及应用，2017.1.1-2021.12.31，主持
+10、    企事业单位委托科技项目，Ti-H-He体系及Mo-Ti体系作用势的拟合2018.1.1-2018.12.31，主持
+11、    湖南省自然科学基金面上项目，2016JJ2026、金属亚稳态的快凝捕获及稳定性模拟研究，2016.01-2018.12，主持
+12、    湘江实验室重点项目， 22xj01011，面向新一代国产超算平台的AI高性能软件栈和支撑技术, 2023.1.1-2025.12.31，参与
+13、    装备发展部，8091B042223，超算与人工智能融合计算，2022.12.31-2025.12.31，参与
+14、    湖南大学重庆研究院横向项目，产前超声AI智慧云平台系统测试，2022.01-2026.12，参与
+15、    国家重点研发计划项目，2022YFF0606303，胎儿智能超声标准参考图谱及实时评价关键技术研究（胎儿超声影像标准切面高效智能识别与检测），2022.10.01-2025.09.30，参与
+16、    国家自然科学基金面上项目，62272159，知识与结构协同感知的胎儿超声实时质量控制关键技术研究，2023.01-2026.12，参与
+17、    国家重点研发计划，2020YFB0704500，国家新材料数据库平台建设关键技术研究, 2020.09-2022.08，参与
+18、    国家重点研发计划，2018YFB0704000，高通量多尺度材料模拟与性能设计平台, 2018.06-2022.05，参与
+19、    国家自然科学基金面上项目，快凝条件下液态合金团簇结构遗传能力的比较与分析 , 51071065, 2011.01-2013.07，参与
+20、    国家自然科学基金重点项目，过热金属熔体行为与非晶形成能力，50831003，2009.01-2012.12，参与
+21、    国家自然科学基金面上项目，不同局域环境下迹量掺杂元素对Ni/Ni3Al相界强韧性的影响，50771044, 2008.01-2010.12，参与
+22、    国家自然科学基金面上项目，金属凝固形成纳米团簇、纳米晶粒的不同形核演变机制的识别与表征研究，50571037，2006.01-2008.12，参与
+23、    教育部重点基金，液态金属快速凝固过程中团簇结构遗传与选择遗传的电子机制，104139, 2004.01-2006.12，参与
+24、    湖南省科技厅，液态金属快速凝固过程的模拟仿真与图文化研究， 04FJ3030，2005-01--2006-12，参与
+25、    湖南省科技项目，Ni基单晶超合γ/γ’相界强韧化的模式化设计，06FJ4117 2005.07-2008.06参与
+26、    湖南省自然科学基金，快速凝固非晶态合金纳米团簇结构及局域电子理论的计算， 05JJ30086，2005/01-2006/12，参与
+27、国家自然科学基金面上项目，50271026，液态、非晶态金属结构中大团簇结构的识别、表征的模拟研究，2003/01-2005/12，参与
+学术论文
+i.     Journal paper (peer review paper)
+1. XiaoJiang, Zean Tian,* Kenli Li, andWangyu Hu,Toward Interpreting the Thermally Activated β Dynamics in MetallicGlass Usingthe Structural Constraint Neural Network, The Journal of PhysicalChemistryLetters, J. Phys. Chem. Lett. 2024,15, 3238-3248, https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00280
+2. XiaoJiang, Zean Tian*, Kenli Li,andWangyu Hu, A geometry-enhanced graph neural network for learning thesmoothnessof glassy dynamics from static structure, J. Chem. Phys. 159, 144504(2023); https://doi.org/10.1063/5.0162463
+3.JiamingPan, Yushuang Jia, Kenli Li, Lei Liao, Liping Qiu, Fan Wu,and Zean Tian*, Does the GFA of AlloysDepend on theAtomic Size Ratio: A DT-Based ML Study, Crystal Growth & Design,   2023, 23,5912-5918, https://pubs.acs.org/doi/pdf/10.1021/acs.cgd.3c00509
+4. Shen Ping, Xiao Jiang, Zean Tian*,Ronghui Cao, Weiming Chi, and Shenghong Yang;Cross-ModalInteraction Network for Video MomentRetrieva, InternationalJournal ofPattern Recognition and Artificial Intelligence, Vol. 37, No. 08, 2355010(2023).https://doi.org/10.1142/S0218001423550108
+5.Zean Tian*, Zhongyang Zhang, Xiao Jiang, Feng Wei, Shen Ping and Fan Wu,LaSCA: AVisualization Analysis Tool for Microstructure of ComplexSystems, Metals 2023,13(2), 415. https://doi.org/10.3390/met13020415
+6. Jiaming Pan, Xiao Jiang, ZeanTian*, YikunHu*, and Kenli Li. MLModel Optimization?Selectionand GFA Prediction forBinary Alloys, Cryst.Growth Des. 2022, 22, 4, 2462–2469, https://doi.org/10.1021/acs.cgd.1c01519
+7. XiaoXu Jin, Zean Tian*, Wangyu Hu*,Critical structural invariant during high?pressure solidification of copper, MRS Communications (2022)12:45–50, https://doi.org/10.1557/s43579-021-00138-5.
+8.Xiao Jiang, ZeanTian*, Kenli Li,Senior Member, IEEE. AGraph-based Approach for Missing Sensor DataImputation. IEEE sensors journal.2021,21(20)1558-1748.
+9. Liping Li, ZeanTian*, Kenli Li, Ceng Chen.G-CNN andDouble-referenced Thresholding for Detecting Time SeriesAnomalies, Journal of Intelligent& Fuzzy Systems (ISSN: 1064-1246),40(2021)3969-3980;DOI:10.3233/JIFS-200175,
+10.  Xiaozhen Deng,Lin Lang, Yunfei Mo, Kejun Dong,Zean Tian*, Wangyu Hu.Solid-solidphase transition of Tungsten induced by high pressure: a MDsimulation study. Transactions of Nonferrous Metals Society of China, 30(2020)11:2980-2993.
+11.  XiaozhenDeng, LinLang, Yunfei Mo, Zean Tian*,Wangyu Hu. The phasetransition of rapidly super-cooled Tungsten under 100 GPa.ChemicalPhysics Letters 755(2020) 137789.
+12.LinLang, KeliangYang, Zean Tian*,HUiqiu Deng, Fei Gao, Wangyu Hu*, YunfeiMo. Development of a Ni-Mo interatomicpotential for irradiationsimulation. Modelling andSimulation in MaterialsScience and Engineering, 27(2019)4:045009.
+13.  LinLang, HuiqiuDeng, Zean Tian*, FeiGao, Wangyu Hu*, Dadong Wen, YunfeiMo. The effect of Mo addition on structureand glass forming ability of Ni-Zralloys. Journal of alloys andcompounds, 775(2019)1184-1198. DOI:10.1016/j.jallcom.2018.10.184.
+14.  Zhizhou Wu, Yunfei Mo, LinLang, Aibing Yu, Quan Xie,Rangsu Liu, and Zean Tian*. Topologicallyclose-packed characteristic of amorphous Tantalum. Physical Chemistry Chemical Physics,20(2018)28088-28104. DOI:10.1039/C8CP05897K.
+15.  Z.A. Tian,*K. J. Dong and A. B.Yu.LocalRotational Symmetry in the Packing of Uniform Spheres. Phys. Chem. Chem. Phys., 14June. 2017, 19(22), 14588 - 14595.
+16.  Haitao Zhang,Yunfei Mo, ZeanTian,* Rangsu Liu,Lili Zhou, Zhaoyang Hou, The effect of pressureupon crystallization of rapidlysupercooled Zirconium melts.Phys. Chem.Chem. Phys., 2017, 19(19),12310- 12320
+17.  Y. F. Mo, Z. A.Tian*, Rang-su Liu, Zhao-yangHou, Li-li Zhou, Ping Peng, Hai-taoZhang, Yong-chao Liang, Molecular dynamics study on microstructuralevolutionduring crystallization of rapidly supercooled Zirconium melts, Journal of alloys and compounds,688(2016):654-665.
+18.  Y. F. Mo, Z. A.Tian*, R. S. Liu, Z. Y. Hou, C.C. Wang. Structural evolution duringcrystallization of rapidly super-cooledcopper melt, Journal of non-crystalline solids421(2015)14-19.
+19.  Z.A. Tian,Li-li Zhou*,Yun-fei Mo, Yong-chaoLiang, Rang-su Liu. Cooling rate dependence of thepolymorph selection duringrapid solidification of liquid metal zinc, TransactionsofNonferrous Metals Society of China 2015, 25(12):4072-4079.
+20.Liang Xu, Wei-QingHuang*,Liang-Ling Wang, Ze-An Tian,Wangyu Hu, Yanming Ma, XinWang, Anlin Pan, and Gui-Fang Huang. Insights intoEnhanced Visible-LightPhotocatalytic Hydrongen Evolution of g-C3N4 and HighlyReduced Graphene OxideComposite: The Role of Oxygen, Chemistry of Materials 2015,27:1612-1621.
+21.Z.A. Tian,K.J. Dong, A. B. Yu. Structural evolutionin the crystallization of rapid coolingsilver melt,Annals of Physics 2015, 354():499-510.
+22.  Z.A. Tian, K. J. Dong, A. B. Yu.Structural evolutionin the packing of uniform spheres, PhysicalReviewE 2014, 89(3):032202.
+23.  Z.A. Tian,K. J. Dong, A. B. Yu*. A method for structural analysis of disorderedparticle systems. AIPConf.Proc. 2013, 1542:373-376.
+24.  Z.A. Tian, R. S. Liu, K. J. Dong, and A.B. Yu, A new method for analyzing thelocal structures of disordered systems.EPL, 2011, 96(3), 36001.
+25.  Z.A. Tian, R. S. Liu, P. Peng, Z. Y.Hou,H. R. Liu, C X. Zheng, K. J. Dong, A. B. Yu. Freezing structures of free silver nanodroplets: Amolecular dynamicssimulation study. Phys. Lett. A, 2009,373(18-19):1667-1671.
+26.  Z.A. Tian, R. S. Liu, C. X. Zheng, H.R.Liu, Z. Y. Hou, and P. Peng. FormationandEvolution of Metastable bcc Phase during Solidification of Liquid Ag:AMolecular Dynamics Simulation Study. J.Phys. Chem. A, 2008, 112 (48):12326-12336.
+27.  Z. A Tian, R. S. Liu, H. R. Liu, C. X.Zheng, Z. Y. Hou, P. Peng. Moleculardynamics simulation for coolingrate dependence of solidificationmicrostructures of silver. J. Non-Cryst. Solids, 2008, 354:3705- 3712.
+Year 2025
+28. HengWang, Furong Xu, Songli Dai, Shiyu Xiao, Zhigang Yu and Zean Tian*, Electronic, optical and photocatalyticwater splitting properties of two-dimensional monolayers of Janus Cd2 XY (X =S, Se; Y = Se, Te; X ≠ Y): a first-principles study, Phys. Scr. 100 (2025)035921, https://doi.org/10.1088/1402-4896/adaf81
+29. ZhigangYu, Furong Xu, Songli Dai, Heng Wang, Shiyu Xiao, Zean Tian*, XYZ2 (X/Y = Ge,Pb, Sn; Z = Se, S, Te) two-dimensional Janus monolayers for photocatalyticwater splitting: A first-principles study, Colloids and Surfaces A: Physicochemical andEngineering Aspects 709 (2025) 136172, https://doi.org/10.1016/j.colsurfa.2025.136172
+Year 2024
+30. Weifu Cen, Xin He, Ping Zou, Bing Yao, Jiankai Ou,Lin Lyu, Zean Tian*, Yinye Yang, Stress affects the electronic transition andeffectively regulates the optical properties of SnS2, Chemical Physics Letters 857 (2024) 141672, https://doi.org/10.1016/j.cplett.2024.141672
+31.  Songli Dai, ZeanTian*, Tunable magnetic properties of two-dimensional Janus NiClI monolayer, ComputationalMaterials Science 246 (2025)113472, https://doi.org/10.1016/j.commatsci.2024.113472
+32.  Jie Wang, ZeanTian*, Mingshao Fu, Chengshuang Liang, Quan Zheng, Complex topologicalclose-packed phase of rapidly cooled chromium, Journal of Solid StateChemistry 341 (2025) 125058, https://doi.org/10.1016/j.jssc.2024.125058
+33.  Jie Wang, ZeanTian*, Quan Zheng, Chengshuang Liang, Mingshao Fu, and Kejun Dong, Structureeffect of ENPs on mechanical properties of amorphous CuCo alloys, J.Appl. Phys. 136, 145103 (2024); doi: 10.1063/5.0227317
+34.  ChengshuangLiang, Zean Tian*, Quan Zheng, Jie Wang, Mingshao Fu, Yongbao Ai*, Kejun Dong*,Molecular dynamics simulation of mechanical properties of NiCo alloy underprimary cascade damage, Vacuum 230 (2024) 113681, https://doi.org/10.1016/j.vacuum.2024.113681
+35.  Huan Zheng,Songli Dai, Weifu Cen, Furong Xu, Zean Tian*, Strain-bandgap quasi-linearcorrelation applied to modulation of NiBr2 monolayer optical properties; Computational and Theoretical Chemistry 1239(2024)114789, https://doi.org/10.1016/j.comptc.2024.114789
+36.  ChengshuangLiang, Zean Tian*, Quan Zheng, Jie Wang, Mingshao Fu; Molecular dynamicssimulation of the microstructural evolution in FeCuNi metallic glass underneutron irradiation; Materials Today Communications 40(2024)109970, https://doi.org/10.1016/j.mtcomm.2024.109970
+37.  Weifu Cen*, Xin He, Songli Dai, Lin Lv, BingYao, Jiankai Ou, Ping Zou*, Yinye Yang*, Zean Tian*, The influence of Mn-dopingtypes on electronic structure and dilute magnetic property of Ca2Ge, Physica B: Condensed Matter 687(2024) 416082, https://doi.org/10.1016/j.physb.2024.416082
+38. JieyuYang, Weifu Cen, Zean Tian*, Effect of biaxial strain on the electronicstructure and optical properties of two-dimensional Bi2Te2S，Phys. Scr. 99 (2024) 085927, https://doi.org/10.1088/1402-4896/ad56cc
+39.  Songli Dai,Zean Tian*, Guolin Qian,Yutao Liu, Ferromagnetic InMoTe3 monolayerwith strain-modulated magnetic interactions and Curie temperature, Appl. Phys. Lett. 125, 012405 (2024),  https://doi.org/10.1063/5.0208065
+40.  Yangchuan Zeng, Zean Tian*, Quan Zheng,Anguo Bu, and Quan Xie, Identifying key features for predicting glass-formingability of bulk metallic glasses via interpretable machine learning, JOURNAL OF MATERIALS SCIENCE,59(19)8318-8337,2024,
+41.  Mengting Li, Weifu Cen, Zean Tian* ,First-principles study of the magnetic and optical properties of PtSe2 dopedwith halogen elements F, Cl, and Br. Phys. Scr. 99 (2024) 045508, (PhysicaScripta 99 (2024) 045508),  https://doi.org/10.1088/1402-4896/ad2e58
+42.  Weifu Cen, Zean Tian*, Improving the magnetic moment of Ca2Ge and promoting the conversionof semiconductors to diluted magnetic semiconductors using Mn-doping, RSC Advances, 2024, 14,6930 – 6937, DOI: 10.1039/d3ra07294k
+43.  Mengting Li, Weifu Cen, Zean Tian*,Quan Zheng, First Principles Calculation of Gas Sensitive Properties ofPd3-Modified Monolayer PtSe2 to SF6 Decomposition Products. Phys. Status Solidi RRL 2024,2300367, https://doi.org/10.1002/pssr.202300367
+44.  Furong Xu, Songli Dai, Weifu Cen, QinghuaZeng and Zean Tian?, Study on the piezoelectric properties andthe mechanism of strain regulated piezoelectricity in flexible Janus monolayersCr2X3Y3 (X/ Y = Cl, Br, I), Phys.Scr. 99 (2024) 025987, https://doi.org/10.1088/1402-4896/ad1da0
+45.  Songli Dai, Zean Tian*, Furong Xu, GuolinQian, Yutao Liu, Manipulable ferromagnetic properties and half-metallicbehavior in hole-doped PbClI monolayer: A DFT study. ComputationalMaterials Science, 234 (2024) 112771, https://doi.org/10.1016/j.commatsci.2023.112771
+46.  Kunshuai Li, Qiao Wang, Chengyang Hu, Bo Liang,Canling Jian, Quan Zheng, Zean Tian*, Jianchuan Zhao, Dynamical analysis of anovel 2D Lyapunov exponent controllable memristive chaotic map. Chaos: AnInterdisciplinary Journal of Nonlinear Science, 34 (2024) 083135, https://doi.org/10.1063/5.0187297
+47.  Qiao Wang, Chenyang Hu, Zean Tian*,Xianming Wu, Haiwei Sang, Zhongwei Cui, A 3D memristor-based chaotic systemwith transition behaviors of coexisting attractors between equilibrium points. Resultsin Physics 56 (2024)107201, https://doi.org/10.1016/j.rinp.2023.107201
+48.  Qiao Wang, Zean Tian*, Xiaoming Wu,Kunshuai Li, Haiwei Sang, Xiong Yu, A 5D super-extreme-multistabilityhyperchaotic map based on parallel-cascaded memristors. Chaos,Solitons & Fractals, 187 (2024) 115452, https://doi.org/10.1016/j.chaos.2024.115452
+49.  Yunfei Mo, Zean Tian*, Lili zhou, YongchaoLiang, Kejun Dong*, Xiefu zhang, Haitao Zhang, Ping Peng, Rangsu Liu, Thedynamic competition mechanism between the topologically close-packed and BCCstructures during crystallization of undercooled zirconium. ChemicalPhysics, 581 (2024) 112238, https://doi.org/10.1016/j.chemphys.2024.112238
+Year2023
+50.  Qiao Wang, Chenyang Hu, Zean Tian* ,Xianming Wu, Haiwei Sang,Zhongwei Cui; A 3Dmemristor-based chaotic system with transition behaviors ofcoexistingattractors between equilibrium points, Results in Physics56(2024)107201; https://doi.org/10.1016/j.rinp.2023.107201
+51. Weifu Cen, Zhiwen Lin, Mengting Li, Xiefu Zhang, Zean Tian*;Enhancement of magnetic stability and absorption propertiesof monolayer NiZrmagnetic semiconductor by electric field modulation, Resultsin Physics 54(2023) 107130
+52.  YangchuanZeng,Zean Tian*, Quan Zheng, Mingxiang Jiang, Yikun Peng,Prediction ofglass-forming ability based on multi-model fusion, Journalof Non-Crystalline Solids, 623(2024) 122693;https://doi.org/10.1016/j.jnoncrysol
+53.  Can-LingJian, Ze-AnTian* , Bo Liang ,Chen-Yang Hu , Qiao Wang , and Jing-Xi Chen,Rucklidge-based memristive chaoticsystem: Dynamic analysis and imageencryption, Chin. Phys. B 32,100503(2023), https://doi.org/10.1088/1674-1056/acdac3
+54.  ZhanGao, ZeanTian, Bin Pu, Shengli Li,Kenli Li?, Deep endpoints focusingnetwork undergeometric constraints for end-to-end biometric measurement infetal ultrasoundimages, Computersin Biology and Medicine 165 (2023) 107399, https://doi.org/10.1016/j.compbiomed.2023.107399
+55.  ZechaoLu, ZeanTian*, Modulation ofBAs/graphene Schottky junction barrier by electricfield and vertical strain, MaterialsTodayCommunications, 36(2023)106474, https://doi.org/10.1016/j.mtcomm.2023.106474
+56. Quan Zheng, Zean Tian*, Tinghong Gao, Yongchao Liang, Qian Chen, Quan Xie,Effectof graphene on solid-liquid coexistence in Cu nanodroplets, AppliedSurface Science,2023,637,157952.  https://doi.org/10.1016/j.apsusc.2023.157952
+57.  Qiao Wang,ChenyangHu, Zean Tian?, Xianming Wu and Haiwei Sang, Anew3D hidden conservative chaotic system with multistability and itscircuitimplementation, (PhysicaScripta) Phys. Scr. 98 (2023) 075223, https://doi.org/10.1088/1402-4896/acdda8
+58.  CanLeng, ZhuoTang*, Yi-Ge Zhou, Zean Tian,Wei-Qing Huang, Jie Liu,Keqin Li, Kenli Li*, Fifth Paradigm in Science: A CaseStudy of anIntelligence-Driven Material Design, Engineering, 24(2023)126-137, https://doi.org/10.1016/j.eng.2022.06.027
+59.  BeibeiLiu,Yangchun Chen, Long Guo, Xiaofan Li, Kun Wang, Huiqiu Deng, ZeanTian, Wangyu Hu, Shifang Xiao* ,Dingwang Yuan*, Phase transition inyttrium under shock compression byatomistic simulations, International Journal of Mechanical Sciences,250(2023)108330.Available online 20 March 2023, https://doi.org/10.1016/j.ijmecsci.2023.108330
+60.  Yikun Peng, ZeanTian*, Lulu Liu, Quan Zheng, Autonomous identification ofLindemannatoms based on deep learning, MaterialsToday Communications, 35(2023) 106053. https://doi.org/10.1016/j.mtcomm.2023.106053
+61.  YikunPeng,Zean Tian*,Quan Zheng, Quan Xie,Tinghong Gao, Effect of graphene substrate on melting ofCu nanoparticles, Physica B:Condensed Matter,657(2023)414817.  Availableonline16 March 2023, https://doi.org/10.1016/j.physb.2023.414817
+62.  Zhiwen Lin, Zean Tian*, Weifu Cen, Qinghua Zeng, Monolayer black phosphorus: Tunable band gapandoptical properties, Physica B:Condensed Matter, 657(2023)414780-8.15 May 2023. https://doi.org/10.1016/j.physb.2023.414780
+63. Bo Liang, Chenyang Hu, Zean Tian*, Qiao Wang, Canling Jian, A 3D chaotic system with multi-transientbehaviorand its application in image encryption, PhysicaA:Statistical Mechanics and its Applications, 616(2023)128624-17, https://doi.org/10.1016/j.physa.2023.128624
+64.  WeifuCen, Yinye Yang and ZeanTian*,Effect of stress on electronic structure and optical propertiesof cubic Ca2Ge,SemiconductorScienceand Technology (Semicond.Sci.Technol.) 38 (2023) 035013(9pp)
+Year 2022
+65.  Xueting Zhai, Xuan Li, ZhengWang, Lina Hu*, Kaikai Song, Zean Tian*, YuanzhengYue*, The connection between the fragile-to-strongtransition and the liquid-liquidtransition in a binary alloy system, ActaMaterialia 239(2022)118246.15 October 2022 published.
+66.  Chengkun Li, Zhiwei Luo, ZeanTian*, KejunDong, The concealed solid-solid structural phasetransition of Fe70Ni10Cr20under high pressure, Materials Today Communications 33(2022)104499-10, https://doi.org/10.1016/j.mtcomm.2022.104499
+67.  Chenyang Hu, ZeanTian*, Qiao Wang, XiefuZhang, Bo Liang, Canling Jian, Xianming Wu, Amemristor-based VB2 chaoticsystem: Dynamical analysis, circuit implementation,and image encryption, Optik-International Journal for Light and Electron Optics 269 (2022) 169878.
+68.  Chenyang Hu, Qiao Wang, XiefuZhang, Zean Tian*,Xianming Wu. A new chaotic system withnovel multiple shapes of two-channelattractors. Chaos, Solitons and Fractals 162(2022) 112454.
+69.  HuaXu, Weifu Cen, Zean Tian*,QuanZheng, Tinghong Gao, Yongchao Liang, Quan Xie. A first principles study ofthesurface electronic properties of Mo2C, Solid State Communications 353(2022) 114867.
+70.  MingxiangJiang, ZeanTian*, QuanXie, TinghongGao, Yongchao Liang, Qian Chen, Numericalrecognition of C15 unit inrapid solidification Ni70Ag30 nanoparticles.ActaPhys. Sin., 71(2022)17:176402-8. doi: 10.7498/aps.71.20220662
+71.  Yuxi Luo, ZeanTian*,Quan Zheng, Lin Hu, Kejun Dong*. Crystallization insights revealed bysimulationsolidification study of Fe63Ni33Co4 alloy melt at subcritical coolingrate, Journalof Non-Crystalline Solids 586 (2022)121557. https://doi.org/10.1016/j.jnoncrysol.2022.121557
+72.  Xiangyan Luo, Yixin Wang, ZeanTian,* JiajunMa, Hong Yu, and Quan Xie*.Atomic Correlation between Bilayer Graphene andDouble-Walled Carbon Nanotubes,J.Phys.Chem. C 2022, 126, 4030?4036. https://doi.org/10.1021/acs.jpcc.1c09523
+73.  QiaoWang, ZeanTian*,Xianming Wu and Weijie Tan,Coexistence of Multiple Attractors in a Novel SimpleJerk Chaotic Circuit withCFOAs Implementation. Frontiers in Physics,2022,10,835188-12
+Year 2021
+74.  Lin Hu, ZeanTian*,Yongchao Liang, Tinghong Gao, QianChen, Quan Zheng, Yuxi Luo, Quan Xie. Therole of TCP structures in glassformation of Ni50Ag50 alloys, Journal of Alloys and Compounds,897(2022)162743 https://doi.org/10.1016/j.jallcom.2021.162743.
+75.  Yunfei Mo, ZeanTian*,Lili Zhou, Yongchao Liang, Lin Lang, Kejun Dong, Rangsu Liu, PingPeng.Competition between TCP and crystallineclusters during phase transition ofrapidly super-cooled aluminum, JournalofNon-Crystalline Solids,576(2022)121271,DOI:10.1016/j.jnoncrysol.2021.121271.
+76.  Guo-Cui Wei, Ze-AnTian*,Molecular dynamics simulation ofrapid solidification of Cu64Zr36 nanodrops ofdifferent sizes, ActaPhysica Sinica,70, 246401 (2021) DOI: 10.7498/aps.70.20211235.
+77.  Can Leng, Kenli Li,ZeanTian*, Yubing Si*, HuangHuang, Junfeng Li, Jie Liu1,Wei Qing Huang& Keqin Li*, Theoretical studyof cellulose II nanocrystals with differentexposed facets, scientificreports,11(2021)21871, DOI10.1038/s41598-021-01438-5.
+78.  Li-li Zhou, Jia-ming Pan, LinLang, Ze-an Tian*, Yun-fei Mo, Ke-jun Dong, Atomicstructure evolutions andmechanisms of the crystallization pathway of liquid Alduring rapid cooling, RSCADVANCES,2021,11(63)39829-39837, DOI10.1039/d1ra06777j
+79.  Xuan Li, ZeanTian*,Quan Xie, Kejun Dong. Thetopologically close-packed Fe70Cu15Ni15nanoparticles-A simulation study. Vacuum,2021,193,110523,DOI:10.1016/j.vacuum.2021.110523
+80.  Li-Li Zhou, Ze-AnTian*,Yong-Chao Liang, Yun-Fei Mo,Cun-Jing Wang, Fang-Zuo Li, Correlation between thetopologically close-packedstructure and the deformation behavior of metallicCu64.5Zr35.5, Physicalchemistrychemical physics, 2021,23(45) 25933-25943, https://doi.org/10.1039/D1CP03758G
+81.  Xiefu Zhang, ZeanTian*, Jian Li, Xianming Wu and Zhongwei Cui, A Hidden ChaoticSystemwith Multiple Attractors, Entropy,2021,23(10)1341,DOI: 10.3390/e23101341
+82.  Yu-Qin Wu, Ze-anTian*,Fang Liu, Zi-Hou Yuan, Wei Chen,Chi Zhang, Cheng-Xin Li.  Effectofmagnetic field on microstructure and property of Ag-Sn solder alloys. MaterialsLetters 303 (2021)130515. DOI10.1016/j.matlet.2021.130515
+83.  Quan Zheng, Ting Xiao, ZeanTian*,Tinghong Gao, Yongchao Liang, QianChen, Quan Xie. Hidden State of Si50Ge50 NanoparticlesDuringRapid Solidification. CrystalGrowth & Design.Accepted: 30/06/2021. Cryst. Growth Des.2021, 21, 4746?4756. https://doi.org/10.1021/acs.cgd.1c00586.
+84.  Ruijie Wang, ZeanTian*,Qingquan Xiao, Weifu Cen, QuanZheng. The effect of Ni/Co-doping on electronicstructures and opticalproperties of cubic Ca2Ge. Optik -International Journal for Light and ElectronOptics 243 (2021) 167422.
+85.  Xiefu Zhang, ZeanTian*,Jian Li and Zhongwei Cui. A SimpleParallel Chaotic Circuit Based onMemristor. Entropy 2021,23, 719-14.https://doi.org/10.3390/e23060719.
+86.  Zhiwei Luo, ZeanTian*,Yongchao Liang, Quan Xie.Crystallization behavior of Fe70Ni10Cr20 during rapidsolidification underdifferent cooling rates. MaterialsToday Communications 27(2021) 102255.https://doi.org/10.1016/j.mtcomm.
+87.  Siyuan Wang, Kejun Dong*,Quan Xie, Zean Tian*. Inconsistency ofneighborhood basedon Voronoi tessellation and Euclid distance. Journalof alloys and compounds,854(2021)156983.
+88.  LiliZhou, Yunfei Mo, ZeanTian*, FangzuoLi, Xiaolu Xie, Rangsu Liu. Pressure effect on structureand properties ofrapidly-cooled Mg70Zn30 alloy. Journal of Materials Science,56(2021)4420-4432. https://doi.org/10.1007/s10853-020-05505-6.
+89.  JingjingLI, ZeanTIAN*. Structural Origin ofthe Second Peak Split of FeCuNi MetallicGlass, Low. Temp. Phys. Lett.,2(2020):0081-0089.DOI: 10.13380/j.ltpl.2020.02.004.
+90.  YunfeiMo, ZeanTian*, Lin Lang, Lili Zhou,Yongchao Liang, Haitao Zhang, Rangsu Liu,Ping Peng, Dadong Wen. Differentstructural transitions of rapidly supercooledTantalum melt under pressure. PhysicalChemistryChemical Physics, 22(2020)18078-18090, DOI:10.1039/D0CP01432J.
+91.  Min Li, Quan Xie*,Xiangyan Luo and Zean Tian*. Molecular dynamicssimulationof carbon nanotubes and silicon nanowire composites. ModernPhysics Letters B,34(2020)31:2050355-13.
+92.  Jingjing Li, ZeanTian*, Quan Xie, Shixian Xiong. Component effect onmicrostructure ofrapidly cooled FeCuNi alloys. ChemicalPhysics Letters, 753 (2020) 137630. Published 21 May 2020.
+93.  Yu, BY; Liang, YC*; Tian,ZA*; Liu, RS; Gao, TH; Xie, Q;Mo, YF. MD simulationoncrystallization mechanisms of rapidly supercooled Fe-Ni alloys. JOURNALOF CRYSTAL GROWTH，535(2020)125533
+94.  XiaoJiang, Gui-Bin Bian, ZeanTian,Removal of Artifacts from EEG Signals: A Review. Sensors.19(2019)5: 987.
+95.  Bang-yi Yu, Yong-chaoLiang*, Ze-an Tian*, Yue-hong Zhang, Quan Xie,Ting-hong Gao,Yun-feiMo. MD study on topologically close-packed andconfiguration entropy of Mg40Al60metallic glasses under rapid solidification. Journalof Non-Crystalline Solids.522(2019): 119578.
+96.  Y. F. Mo, Z. A.Tian*, L. Lang, R. S. Liu, L. L. Zhou, Z. Y. Hou, P. Peng, T.Y. Zhang.The short-range order in liquid and A15 crystal of zirconium. Journalof Non-Crystalline Solids.513(2019), 111-119.
+97.  Ting Xiao, ZeanTian*, Tinghong Gao,Xiaotian Guo, Yunfei Mo, Lin Lang, Yao Zhou,Yongchao Liang. Microstructuralevolution of SiGe Nano-droplet during rapidsolidification process at differentcooling rate. Low Temperature Physical Letters.6(2018):42-49.
+98.  Yongchao Liang, Yuehong Zhang,Bangyi Yu, Rangsu Liu,Quan Xie, Zean Tian*.Thedeformation and transformation of icosahedron in Mg70Zn30 metallicglasses. ChemicalPhysics Letters,703(2018)39-43.
+99.  XiZhao, Chunzhen Wang, HaijiaoZheng, ZeanTian* and Lina Hu*, The Role of Liquid-liquidTransition in Glass Formationof CuZr Alloys. Physical Chemistry Chemical Physics,2017, 19(24) 15962-15972.DOI: 10.1039/C7CP02111A
+100.  Li-li Zhou, Run-yu Yang,Ze-anTian*, Yun-fei Mo, Rang-suLiu. Molecular dynamics simulation onstructural evolution duringcrystallization of rapidly super-cooled Cu50Ni50 alloy, Journalof alloy and compounds. 2017, 690:633-639
+101.  X. C. Jiang, S. X.Xiong, Z.A. Tian, C. Y. Chen, W. M.Chen, and A. B. Yu Twinned Structure andGrowth of V-Shaped SilverNanowires Generated by a Polyol-Thermal Approach.J. Phys. Chem. C, 2011, 115(5):1800-1810.
+ii.           Conference submissions (e.g. papers, invited presentations and posters)
+1.     Z.A. Tian, Computable microstructure model of disorderedsystems. Invited report, the 3rd InternationalConference on New Materials, Machinery and Vehicle Engineering (NMMVE2024),19-21th July 2024, Dalin China.
+2.     Z.A. Tian, A. B. Yu. Hierarchical structure analysis fordisordered systems. Invited report, the 4th China- AustraliaSymposium for Materials Science (CASMS2013), 20-24th October2013, Zhuhai China.
+3.     Z. A. Tian, A. B. Yu. Local gap and phase transitionin the packing of uniform spheres. Oral report, UK-China International ParticleTechnology Forum IV (UCIPTF IV), 15th -19thOctober2013, Shanghai China.
+4.     Z. A. Tian, A. B. Yu. Microstructures of MetalNanoparticles. The 8th International Conference on Surfaces,Coatings and Nano-Structured Materials (NANOSMAT), 22th-25thSeptember2013, Granada, Spain.
+5.     Z. A. Tian, K. J. Dong, A. B. Yu. A method forstructural analysis of disordered particle systems. Poster, Powders and Grains2013, 8th – 12th July 2013, Sydney NSW,Australia.
+6.     Z. A. Tian, A. B. Yu, K. J. Dong. Surface isomers:novelty metal nano-particles. Oral report, APMC10, ICONN2012 &ACMM22, 5th -9th February2012, Perth WA, Australia.
+7.     Z. A. Tian, K. J. Dong, A. B. Yu. A new method foranalyzing the local structures of disordered systems. Oral report, the 3thChina- Australia Symposium for Materials Science (CASMS2011), 19-23th November,2011, Gold Coast QLD, Australia.
+8.     Z. A. Tian, K. J. Dong, A. B. Yu. Simulation studyon the cooling processes of nano-droplets. Oral report, the third Australia-ChinaJoint Symposium on Science, Technology and Education. 6th-8thOctober,2010, Melbourne Convention and Exhibition Centre, Melbourne, Victoria, Australia.
+9.     Z. A. Tian, P. Peng, R. S. Liu. Simulation study andstructural analysis of the solidification of free silver nano-droplets. Oralreport, China Materials Conference, Chinese Materials Research Society. 20th-24thNovember2008, Canton, Guangdong province, P. R. China.
+已授权专利
+1. 专利名：一种基于时空图的跨模态视频时刻定位方法及系统；发明人：李肯立，平申，田泽安，潘佳铭，张忠阳，姜骁；专利号：ZL2022 1 1644165.9；授权日：2024年08月13日
+2.      专利名：一种无参数局域结构识别方法；发明人：田泽安、潘佳铭、李肯立、余艾冰、董科军；专利号：ZL202010261050.0；授权日：2022年04月12日
+3.      专利名：基于深度学习的多元时间序列多层次时空依赖建模方法；发明人：田泽安、黎丽萍、潘佳铭、李肯立；专利号：ZL202010495285.8；授权日：2021年10月08日
+4.      专利名：一种全集成电动车闪光器驱动芯片；发明人：郑权、田泽安、曾承伟、李湘春、蓝龙伟、徐兴；专利号：ZL201911016062.0；授权日：2021年04月30日
+
+---
+
+## 王汉武
+
+- **网址**: https://csee.hnu.edu.cn/people/wanghanwu
+- **姓名**: 王汉武
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 高速无线网络，资源管理，业务传输与调度，IIOT,性能评估，优化算法, 系统构架优化等。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：高速无线网络，资源管理，业务传输与调度，IIOT,性能评估，优化算法, 系统构架优化等。
+教师介绍
+王汉武，男，博士(香港)，副教授，现为湖南大学信息科学与工程学院教师，研究生导师，从事教学与科研工作。已于国际IEEE重要期刊与IEEE会议上面发表了一批较高质量的科研学术论文，已主持留学回国人员科研项目，和国家自然科学基金项目。主要教授课程为《计算机网络》，《移动通信技术》，AWNMC(全英文留学生课程)，《无线网络与移动计算》，已指导了多届本科生毕业生以及多届硕士研究生。研究领域包括高速无线网络，资源管理，MA信道传输，业务调度，性能评估，优化算法等。
+中文名：
+王汉武
+英文名：
+学历：
+博士（香港）
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+高速无线网络，资源管理，业务传输与调度，IIOT,性能评估，优化算法, 系统构架优化等。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机工程系
+学院教师
+个人简历
+
+---
+
+## 王小平
+
+- **网址**: https://csee.hnu.edu.cn/people/wangxiaoping
+- **姓名**: 王小平
+- **邮箱**: xpwang@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能；系统软件
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能；系统软件
+联系方式：xpwang@hnu.edu.cn
+教师介绍
+博士，博士生导师。2009年作为访问学者赴香港科技大学计算机系访问1年。2010年-2018年国防科技大学计算机所助理研究员。2018年至今，湖南大学信息科学与工程学院副教授，博士生导师。主要从事人工智能和高性能计算机系统的研究，获军队科技进步一等奖1项。作为项目负责人主持军队预研项目4项，国家自然科学基金面上项目1项，以及重点实验室开放课题1项。入选科技部科技专家库、教育部学位评审专家、军队某部评审专家、湖南省科技奖励评审专家、湖南省高新技术企业和技术先进型服务企业认定评审专家、长沙市科技专家。发表学术论文70余篇，包括IEEE/ACMTON,IEEETPDS,ACMPPoPP等顶级期刊和会议，论文被引用超过600次。目前从事深度学习算法和理论研究，主要研究方向有自然语言处理、计算机视觉等。
+课题组长期招收博士和硕士研究生，每年都有名额，欢迎有志于提升自己的同学报名（xpwang@hnu.edu.cn）
+中文名：
+王小平
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+xpwang@hnu.edu.cn
+研究方向：
+人工智能；系统软件
+联系地址：
+信科院4楼414室
+所属机构：
+计算机科学系
+学院教师
+
+---
+
+## 魏恒峰
+
+- **网址**: https://csee.hnu.edu.cn/people/weihengfeng
+- **姓名**: 魏恒峰
+- **邮箱**: hengfeng_wei@126.com
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 分布式系统、数据库；近期关注使用形式化方法研究数据库事务一致性（隔离级别）相关的验证问题
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：分布式系统、数据库；近期关注使用形式化方法研究数据库事务一致性（隔离级别）相关的验证问题
+联系方式：hengfeng_wei@126.com 13905194610
+教师介绍
+2025年8月起，任湖南大学信息科学与工程学院副教授。个人主页：https://hengxin.github.io/。2016年于南京大学计算机学院获得博士学位。2017年1月至2025年7月，曾先后任南京大学计算机学院、软件学院助理研究员、特任副研究员。
+中文名：
+魏恒峰
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+13905194610
+电子邮件：
+hengfeng_wei@126.com
+研究方向：
+分布式系统、数据库；近期关注使用形式化方法研究数据库事务一致性（隔离级别）相关的验证问题
+联系地址：
+湖南大学国家超级计算长沙中心 1 号楼 509 室
+所属机构：
+学院教师
+软件工程系
+
+---
+
+## 吴帆
+
+- **网址**: https://csee.hnu.edu.cn/people/wufan
+- **姓名**: 吴帆
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 联系地址：
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：联系地址：
+教师介绍
+中文名：
+吴帆
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机科学系
+学院教师
+
+---
+
+## 吴强
+
+- **网址**: https://csee.hnu.edu.cn/people/wuqiang
+- **姓名**: 吴强
+- **邮箱**: wuqiang@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 电子设计自动化，异构计算
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：电子设计自动化，异构计算
+教师介绍
+吴强，男，湖南长沙人，博士，副教授。
+研究方向：电子设计自动化，异构计算等。
+通信地址：湖南大学信息科学与工程学院，410082。
+电子邮件：wuqiang@hnu.edu.cn
+中文名：
+吴强
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+电子设计自动化，异构计算
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机工程系
+学院教师
+
+---
+
+## 伍仁勇
+
+- **网址**: https://csee.hnu.edu.cn/people/wurenyog
+- **姓名**: 伍仁勇
+- **邮箱**: wurenyong@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 多用户信息处理、无线通信、无线网络、计算机网络
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：多用户信息处理、无线通信、无线网络、计算机网络
+教师介绍
+白描则个
+来自农村，读了博士；
+干过开发，是个教授；
+琴棋书画，热衷运动；
+电子通信，喜欢哲学。
+中文名：
+伍仁勇
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+研究方向：
+多用户信息处理、无线通信、无线网络、计算机网络
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+先进通信省重点实验室
+通信工程系
+学院教师
+个人简历
+博士、副教授。中国计算机、通信协会会员，ACM会员，教育部和科技部项目评审专家，国家科技奖励评审专家。主要研究方向通信信号处理、网络协议与性能分析、车载自组网等。
+科研状况
+多用户信息处理、无线通信、无线网络、计算机网络。
+学术论文
+期刊论文：
+[1] 陈威，伍仁勇，杨智明. MIMO-OFDM同步门限值方法, 信号处理, 2012, 28(9): 1290-1298.
+[2] 龚君丽，伍仁勇．基于区域划分的无线传感器网络生命周期路由算法．计算机应用研究，2011, 36(12): 85-88.
+[3] 吴文昌，伍仁勇，李仁发．无线传感网络中一种基于网络编码的可靠数据发送方法．计算机研究与发展，2010, 47(12): 2352-2358.
+[4] 卢小峰, 伍仁勇, 朱光喜, 刘干. 基于多用户MIMO/OFDM 系统的空间子信道分配算法. 通信学报,2006, 27(9): 34-39.
+[5] 伍仁勇, 朱光喜. 对一种新的基于实测的无线网络呼叫接入控制算法的性能研究. 计算机科学, 2006,33(11): 18-20.
+[6] 伍仁勇, 段正华, 朱光喜. 无线移动网络一种接入控制新算法. 湖南大学学报(自然科学版), 2007,34(3): 71-74.
+发明专利：
+[1] 伍仁勇，薛海，王慧，龚君丽．一种无线自组织网络分布式路由空洞处理方法, 2011.2, 中国, ZL 2011 1 0045266.4.
+[2] 伍仁勇, 邓学, 肖长清, 李仁发. 基于信任评估的无线传感器网络异常检测方法, 2012.8, 中国, 201210278865.5.
+专著:
+[1] 伍仁勇,付彬. 网络交换与路由, 湖南大学出版社, 2011.
+Email
+Email: wurenyong@hnu.edu.cn
+
+---
+
+## 肖光意
+
+- **网址**: https://csee.hnu.edu.cn/people/xiaoguangyi
+- **姓名**: 肖光意
+- **邮箱**: guangyi.xiao@gmail.com
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 自然语言处理、图像识别、迁移学习
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：自然语言处理、图像识别、迁移学习
+联系方式：guangyi.xiao@gmail.com, gyxiao@hnu.edu.cn +8613787785861
+教师介绍
+肖光意，智能计算系主任、副教授、博士生导师，同时还是CCF、IEEE、ACM会员，长期从事人工智能领域的研究工作。他的主要研究方向包括自然语言处理、图像识别、迁移学习、视觉文本检索和多模态对齐。截至目前，他已发表了30余篇高水平的学术论文，其中包括IJCAI、ACMMM、TKDE、TII、JPDC、JIII、TAES、TITS、TOMM等知名学术期刊或会议，同时承担了多项科研课题，包括国家青年基金、湖南省重点研发计划和湖南省自科等。此外，主持了10余项大型图像集视频AI分析项目，并将研究成果应用于中联环境、中电建集团等大型央企。CVPR、AAAI、IJCAI、MM、TII、TITS的审稿人。团队依托于超算创新研究院、文化与媒体计算研究中心，拥有充足的算力和数据优势。
+2006年获得湖南大学计算机学士学位，分别于2009年，2015年获得澳门大学硕士，博士学位。
+中文名：
+肖光意
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
++8613787785861
+电子邮件：
+guangyi.xiao@gmail.com, gyxiao@hnu.edu.cn
+研究方向：
+自然语言处理、图像识别、迁移学习
+联系地址：
+湖南大学信息科学与工程学院
+所属机构：
+智能计算系
+学院教师
+招生信息：
+[20251224]现招收2026年博士生1名，欢迎有志从事多模态大语言模型、图像识别和迁移学习科研工作或人工智能开发的学生加入，在这里你将会得到锻炼。
+科研课题（主持）：
+（1）基于用户自主文意构建的跨组织语义文件交换技术研究（国自科青年，61702173）
+（2）基于用户兴趣场景过滤的移动推荐方法研究（湖南省重点研发计划，2016JC2015）
+（3）大数据可靠迁移学习关键技术研究（湖南省自科，2020JJ4219）
+（4）五自由度模拟器及地面站综合控制系统开发（JKQT）
+校企合作项目（主持）：
+（1）智慧城市5G+AI物联网大数据建模及算法设计（中阳，55万）
+（2）中联环境垃圾收运车翻桶图像特征建模及算法设计（中联环境，50万）
+（3）基于文本识别与自然语言处理的合同智能检测关键技术研究及应用（国网湖南省电力有限公司节能管理分公司，29.8万）
+（4）基于订单信息的食材图像识别系统（餐智，20万）
+（5）智能售货终端的研发及大数据平台建设项目（中谷，20万）
+近年发表论文：
+[1]Weiwei Xiang, Shun Peng,Guangyi Xiao*, Hao Chen and Lei Yang: DSSG: Dual-Stream Semantic Guidance for Source-Fully-Free Adaptation of Vision-Language Models. IJCAI, 2026.
+[2]Dezhong Li, Guangyi Xiao*, and Hao Chean: ODPL-CLIP: Open Differential Prompt Learning with CLIP for Open-Set Domain Adaptation. Pattern Recognition, 2026.
+[3]Dezhong Li, Guangyi Xiao*, and Hao Chean: APLC: Auto-Clustering and Pseudo-Labeling with CLIP for Open-Set Source-Free Domain Adaptation.ICME 2026.
+[4]Xiang, Weiwei and Guangyi Xiao* and Peng, Shun and Chen, Hao and Ding, Li-Ming, Imcapda: Fine-Tuning Clip Via Image Captions for Unsupervised Domain Adaptation. Expert Systems With Applications.2026,131248,ISSN 0957-4174,https://doi.org/10.1016/j.eswa.2026. 131248.
+[5]Yuzhe Xiao, Guangyi Xiao*, Hao Chen: Unified multi-level neighbor clustering for Source-Free Unsupervised Domain Adaptation. Pattern Recognit. 153: 110533 (2024)
+[6]Ning Han, Yawen Zeng, Chuhao Shi, Guangyi Xiao*, Hao Chen, Jingjing Chen: BiC-Net: Learning Efficient Spatio-temporal Relation for Text-Video Retrieval. ACM Trans. Multim. Comput. Commun. Appl. 20(3): 86:1-86:21 (2024)
+[7]Guangyi Xiao, Shun Peng, Weiwei Xiang, Hao Chen, Jingzhi Guo, Zhiguo Gong: CMFT: Contrastive Memory Feature Transfer for Nonshared-and-Imbalanced Unsupervised Domain Adaption. IEEE Trans. Ind. Informatics 19(8): 9227-9238 (2023)
+[8]Songshang Zou, Hao Chen, Hui Feng, Guangyi Xiao, Zheng Qin, Weiwei Cai: Traffic Flow Video Image Recognition and Analysis Based on Multi-Target Tracking Algorithm and Deep Learning. IEEE Trans. Intell. Transp. Syst. 24(8): 8762-8775 (2023)
+[9]Jintao Zhang, Guangyi Xiao*: Gradual Migration and Style Consistency for Unsupervised Domain Adaptation. ICME 2023: 534-539
+[10]Jianglin Wei, Guangyi Xiao*, Shun Peng, Hao Chen, Jingzhi Guo, Zhiguo Gong: Fine-Grained Alignment for Boundary Samples under Open Set Domain Adaptation. ICME 2023: 2693-2698
+[11]Guangyi Xiao, Liu, X., Chen, H., Guo, J., & Gong, Z. (2023). AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation. arXiv preprint arXiv:2302.07728.
+[12]S. Zou, H. Chen, H. Feng, Guangyi Xiao, Z. Qin and W. Cai, "Traffic Flow Video Image Recognition and Analysis Based on Multi-Target Tracking Algorithm and Deep Learning," in IEEE Transactions on Intelligent Transportation Systems, 2022, doi: 10.1109/TITS.2022.3222608.
+[13]Guangyi Xiao, Xiang, W., Peng, S., Chen, H., Guo, J., & Gong, Z. (2022). NI-UDA: Graph Contrastive Domain Adaptation for Non-Shared-and-Imbalanced Unsupervised Domain Adaptation. IEEE Transactions on Aerospace and Electronic Systems.（中科院SCI二区）
+[14]Zou, S., Guangyi Xiao*, Liu, K., Peng, S., Wei, J., Gao, Y., & Chen, H. (2022). Real-time Cargo Loading Identification Based on Self-powered Camera. IEEE Sensors Journal.
+[15]Da Cao, Xiangnan He, Lianhai Miao, Guangyi Xiao*, Hao Chen & Richang Hong，Social-enhanced Attentive Group Recommendation，IEEE Transactions on Knowledge and Data Engineering (TKDE 2021, CCF A，通讯作者)
+[16]Ning Han, Jingjing Chen, Guangyi Xiao, Hao Zhang, Yawen Zeng, Hao Chen: Fine-grained Cross-modal Alignment Network for Text-Video Retrieval. ACM Multimedia 2021: 3826-3834 (CCF A, Oral)
+[17]Yining Gao, Guangyi Xiao*: Real-time chinese traffic warning signs recognition based on cascade and CNN. J. Real Time Image Process. 18(3): 669-680 (2021) (中科院SCI三区，通讯)
+[18]Guangyi Xiao, Qi Wu, Hao Chen, Da Cao, Jingzhi Guo, Zhiguo Gong(2020) A Deep Transfer Learning Solution for Automating Food Material Procurement using Electronic Scales. IEEE Transactions on Industrial Informatics (中科院SCI一区).
+[19]Liubo Ouyang, Hui Tang, Guangyi Xiao. Chinese Text Relation Extraction with Multi-instance Multi-label BLSTM Neural Networks. SEKE 2019: 337-448 （CCF C）
+[20]Chen H, Xu J, Guangyi Xiao*, et al. Fast auto-clean CNN model for onlineprediction of food materials[J]. Journal of Parallel and DistributedComputing, vol 117, 2018: 218-227(CCF B)
+[21]Guangyi Xiao, Even Chow, Hao Chen, Jiqian Mo (2017) Chinese Questions Classification in the Law Domain. In: Proc. of 13th IEEEInternational Conference on e-Business Engineering (IEEE ICEBE 2017).
+[22]Guangyi Xiao, Even Chow, Hao Chen, Jiqian Mo (2017) Multi-task CNNfor Classification of Chinese Legal Questions. In: Proc. of 13th IEEEInternational Conference on e-Business Engineering (IEEE ICEBE 2017).
+[23]Guangyi Xiao, Guo J, Gong Z, and Renfa Li(2016). Semantic inputmethod of Chinese word senses for semantic document exchange ine-business[J]. Journal of Industrial Information Integration, 2016, 3: 31-36. (中科院SCI一区)
+[24]Guangyi Xiao, JingzhiGuo, Zhiguo Gong and Renfa Li(2016).Pinyin-Senses Input Method for Semantic Document Exchange in E-business. In:Proc. of 13th IEEE International Conference on e-Business Engineering (IEEE ICEBE 2016).
+[25]Guangyi Xiao, JingzhiGuo, Zhiguo Gong and Renfa Li(2015). Semantic Document Exchange for E-Business: Trends and Issues. In: Proc. of 12th IEEEInternational Conference on e-Business Engineering (IEEE ICEBE 2015).
+[26]Guangyi Xiao, JingzhiGuo, Lida Xu and Zhiguo Gong (2014). User Interoperability with Heterogeneous IoT Devices throughTransformation. IEEE Transactions on Industrial Informatics, vol. 10, no.2, pp. 1486-1496, May 2014(中科院SCI一区).
+[27]Jingzhi Guo, Li Da Xu, Guangyi Xiao*, Zhiguo Gong: Improving Multilingual Semantic Interoperation in Cross-Organizational Enterprise Systems Through Concept Disambiguation. IEEE Trans. Ind. Informatics 8(3): 647-658 (2012)(中科院SCI一区).
+最新全部论文列表：GOOGLE学术主页；DBLP学术主页。
+教学课程
+高级算法分析与设计（面向研一计算机科学与技术专业及博士生）
+计算机算法（面向大学二年级本科生）
+所获荣誉
+2014- 论文“ImprovingMultilingual Semantic Interoperation in Cross-Organizational Enterprise Systemsthrough Concept Disambiguation” 被ESI评为“高引用”论文（ISI数据库只有前1%的引用次数论文才能被评上高引用论文）。
+2016.10美国The CollaborativeConference on Big Data (CCBD)做特邀报告
+合作研究生毕业去向
+2026年毕业：
+（1）张乐平：北京京东
+（2）张二浩男：湖南电网
+2025年毕业：
+（1）江纾瑶：饿了吗
+（2）肖月：携程
+（3）吴佼龙：长飞先进半导体
+2024年毕业：
+（1）魏江：腾讯
+（2）肖宇哲：华为
+（3）张锦涛：中联重科
+2023年毕业：
+（1）彭顺：国家超算长沙中心+湖大读博
+（2）刘佳佳：湖南云箭制导航空弹药研究院
+（3）赵琪：交通银行软件研发中心
+（4）曾朝阳：长沙恒生聚源信息技术有限公司
+（5）韩宁（合作博士）：湘潭大学计算机学院老师
+2022年毕业：
+（1）高毅宁: 中国建设银行河北分行金通科技部
+（2）韩旭：阿里巴巴-飞猪
+（3）谭震：中兴通信（长沙）
+2021年毕业：
+（1）向维维：怀化学院老师
+（2）刘坤：中国银行股份有限公司河北省分行
+2020年毕业：
+（1）刘欢：华为
+（2）刘新龙：中国移动成都产业研究院
+（3）王果：中兴
+（4）熊瑶：中兴
+（5）吴淇：厦门大学读博
+2019年毕业：
+（1）周倚文：深交所
+（2）徐亚琴：京东，中国平安财产保险股份有限公司（现在）
+（3）莫济谦：澳门大学读博
+
+---
+
+## 肖玲
+
+- **网址**: https://csee.hnu.edu.cn/people/xiaoling
+- **姓名**: 肖玲
+- **邮箱**: xiaoling@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 可穿戴计算、无线感知与普适计算、多模态空间感知与推理、健康医疗
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：可穿戴计算、无线感知与普适计算、多模态空间感知与推理、健康医疗
+联系方式：xiaoling@hnu.edu.cn 13875941941 QQ:364869198
+教师介绍
+一、基本信息
+肖玲：博士，美国伊利诺伊理工访学博士后，副教授。
+主讲课程：智能优化算法、物联网通信新技术
+二、科研项目
+1、国家自然科学基金青年项目61300219，面向人体运动监测的无线体域网中信号压缩与动作识别研究，2014/01-2016/12，23万，主持。
+2、湖南省科技计划项目2014GK3009，基于物联网的实时健康监测系统研究与开发，2014/01-2014/12，4万，主持。
+3、湖南省住建厅科技项目，建筑施工智能安全帽系统升级研究，2021/01-2021/07，33.7万，主持。
+4、湖南省重点研发项目2017GK2030，基于物联网的车载式污泥干化处理系统研究，2017/01-2019/12，40万，参与。
+5、湖南省重点研发项目Z202233420859，农林植物环境监测数据集成与重大灾害预警，2022/01-2024/12，25万，参与。
+6、国家自然科学基金面上项目Z202301422302，自然灾害监测物联网端星云协同关键技术研究，2024/01-2026/12，50万，参与。
+中文名：
+肖玲
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+13875941941         QQ:364869198
+电子邮件：
+xiaoling@hnu.edu.cn
+研究方向：
+可穿戴计算、无线感知与普适计算、多模态空间感知与推理、健康医疗
+联系地址：
+信科院515室
+所属机构：
+计算机工程系
+学院教师
+学术论文
+代表性研究成果和学术奖励情况
+一、代表性论著；
+[1] Wenpan Cui, Ling Xiao, Chengjie Wei, Rui Li, Vision-based Fall Prediction With Spatial-Temporal Graph Convoutional Networks; IEEE Internet of Things Journal; 2026, 13(6)（SCI二区）
+[2] Wenhong Ma, Guoqi Xie, Ling Xiao,  Renfa Li, Cluster-based CAN-FD Frame Packing Framework Optimization Using Two Strategies; IEEE JTransactions on Vehicular Technology; 2021, 70(5)（SCI二区）
+[3] Qian Zhang, Ling Xiao,  Kun Xie, Chunxia Xiao, Online MECG Compression based on Incremental Tensor Decomposition for Wearable Devices; IEEE Journal of Biomedical and Health Informatics; 2021, 25(4)（SCI二区）
+[4] Yu Meng, Ling Xiao,  Xiaobing Tian, Haibo Luo,Energy allocation for activity recognition in wearable devices with kinetic energy harvesting；Software Practice and Experience ,2021,51（SCI二区）
+[5] Wenhong Ma, Guoqi Xie, Ling Xiao, Renfa Li, Cluster-Based CAN-FD Frame Packing Framework Optimization Using Two Strategies. IEEE Transactions on Vehicular Technology, 2021, 7(5). （SCI二区）
+[6] Kai Wu, Ling Xiao, Xiaobing Tian, Juan Luo, Activity-specific caloric expenditure estimation from kinetic energy harvesting in wearable devices; DOI:10.1016/j.pmcj.2020.101185; Pervasive and Mobile Computing; 2020（SCI三区）
+[7] Ling Xiao, Kai Wu, Poster: Caloric Expenditure Estimation from Human Kinetic Energy in Wearable Devices; ACM International Conference on Pervasive and Ubiquitous Computing(Ubicomp2019) （CCF A类会议）
+[8] Ling Xiao, Renfa Li, Juan Luo, Zhu Xiao, Energy-efficient recognitionof human activity in body sensor networks via compressed classification.InternationalJournal of Distributed Sensor Networks（SCI）, 2016, 12(12).
+[9] Ling Xiao, Wu Kai, Activity Recognition Based on Kinetic EnergyHarvester and Accelerometer, IEEE International Conference on Communications(ICC) （通信类旗舰会议CCF C）, 2018:1-6, Kansas City,USA, 2018.5.21-5.24
+[10] Ling Xiao, Wu Kai, Adaptive Compressed Classification for Energy Efficient activity Recognition in Wireless Body Sensor networks, IEEE International Conference on Big Data Computing and Communications (BIGCOM), 2018:41-45,Chicago,USA, 2018.8.23-8.26.
+[11] 肖玲，李仁发，曾凡仔，一种基于自学习稀疏表示的动态手势识别方法.通信学报. 2013, 34(6): 128-135.
+[12] 肖玲，李仁发，罗娟，体域网中一种基于压缩感知的人体动作识别方法.电子与信息学报. 2013, 45(1): 383-391.
+[13] 肖玲，潘浩，基于WiFi信号的人体动作识别系统. 北京邮电大学学报，2018,3:123-128.
+二、   论著之外的代表性研究成果和学术奖励。
+授权发明专利
+[1] 田晓冰，肖玲，一种面向可穿戴设备的心电信号异常检测方法发明专利证书，2024.08.30，中国,ZL2022194173.6
+[2] 伍凯，肖玲，一种基于运动能量收集的人体运动评估方法及装置，2020.12.11，中国,ZL20181092947.8
+[3] 潘浩，肖玲，人体跌倒检测方法，2020.11.21，中国,ZL201810548385.3
+[4] 肖玲，罗娟，李仁发，基于网络编码的无线传感器网络数据分发方法，2013.01.02，中国，ZL201010295107.5
+学术奖励。
+[1] 物联网若干关键技术及其行业应用，湖南省技术发明奖，二等奖，2018。（排名第六）
+[2] 面向应急救灾领域应用的无线传感网络关键技术及系统实现，机械工业科技进步奖，二等奖，2012。（排名第五）
+
+---
+
+## 肖雄仁
+
+- **网址**: https://csee.hnu.edu.cn/people/xiaoxiongren
+- **姓名**: 肖雄仁
+- **邮箱**: xxr@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 嵌入式和网络物理系统，安全和安全关键系统，高效能计算，低能耗调度，软件工程，物联网
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：嵌入式和网络物理系统，安全和安全关键系统，高效能计算，低能耗调度，软件工程，物联网
+联系方式：xxr@hnu.edu.cn 073188821982
+教师介绍
+肖雄仁，博士，副教授、硕士生导师，中国计算机学会（CCF）嵌入式系统专家委员会委员，信息科学与工程学院实验中心副主任。
+拥有多项国际IT认证证书，感兴趣的研究方向为高效能嵌入式计算、软件工程、计算机网络等。近年来在嵌入式计算、高效能计算等领域以第一和通信作者发表高水平学术论文多篇，获中国发明专利5项，主持和参与多项国家和省部级项目。曾获IEEE-ISPA最佳论文奖、教育部CSC-IBM奖教金、湖南省教学比赛一等奖、湖南省省级教学成果一等奖2项、湖南大学“我心目中最敬爱的老师”、湖南大学教学优秀奖等。指导学生多次在国家级学科竞赛中获得一等奖。
+中文名：
+肖雄仁
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+073188821982
+电子邮件：
+xxr@hnu.edu.cn
+研究方向：
+嵌入式和网络物理系统，安全和安全关键系统，高效能计算，低能耗调度，软件工程，物联网
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+软件工程系
+软件技术基础研究室
+学院教师
+个人简历
+主要学习经历：
+2010/09 - 2018/06，湖南大学，信息科学与工程学院，计算机应用技术，博士
+2002/09 - 2006/06，湖南大学，软件学院，软件工程，硕士
+1996/09 - 2000/06，湖南大学，计算机与通信学院，通信工程，学士
+主要工作经历：2014/03 - 至今，      湖南大学，信科院教师兼测试中心主任、软件实验室主任
+2002/12 - 2014/03，湖南大学，软件学院教师兼培训中心、实验中心主任
+2000/07 - 2002/12，湖南大学，网络中心系统管理员
+主讲课程
+1、计算机系统
+2、软件工程导论（创新课程）
+3、云计算基础与应用
+4、UNIX基础及应用
+5、LINUX/UNIX操作系统
+6、电子与计算机系统工程实训
+7、程序设计训练
+8、DB2数据库管理与实践
+科研和教研项目
+一、近五年科研项目(1) 湖南省自然科学基金面上项目，2021JJ30150，采用聚类与强化学习的嵌入式微集群系统能耗优化，2021/01-2023/12，10万元，在研，主持
+(2) 国家自然科学基金，62141212，多内核泛在操作系统实时通信与资源复用研究，2022/01/-2023/12，50万元，在研，排名第2
+(3) 国家自然科学基金青年项目，61702172，基于 AUTOSAR 新平台标准的汽车 CPS 自适应安全调度，2018/01-2020/12，21万元，已结题，排名第2
+(4) 国家自然科学面上基金项目，61672217，新一代汽车嵌入式系统功能安全的建模与算法研究，2017/01-2020/12，62万元，已结题，参加
+(5) 湖南省重点研发计划,2020GK2037,基于5G+北斗的智能防溺水预警系统研发及应用,2021/01-2022/12,50万元，在研，参加
+(6) 湖南省科技计划项目,2019GK4005,交通噪声提取定位与抓拍设备关键技术研发及产业化,2019/01-2021/12,30万元，在研，参加
+(7) 企业横向，面向对空目标的红外图像生成算法，2021/4-2022/4,10万元,已结题，主要完成人
+(8) 企业横向，安全关键的银行服务智能机器人研发，2016/10-2019/8,90万元,已结题，主要完成人
+二、近五年教研项目(1) 产学合作协同育人-新工科建设项目，"程序设计类课程实训平台建设"，教育部-郑州云海科技有限公司；20万元，2021年，主持
+(2) 产学合作协同育人-新工科建设项目；"云计算基础与应用"产教融合课程建设，教育部-阿里巴巴有限公司；5万元，2020年，主持
+(3) 教育部产学合作协同育人项目,面向系统能力培养的“基于ROS机器人系统实验”课程建设项目，2019/09-2020/09，4万，已结题，主持
+(4) 湖南省教育厅教改项目，基于成果导向教育的程序设计实践课程教学方法研究，2017-2019，2万，已结题，主持
+(5) 湖南大学教改项目，计算思维驱动模式下的程序设计能力训练方法研究，2017-2019，2万，已结题，主持
+学术论文
+一、近五年期刊论文(1) Guoqi Xie; Xiongren Xiao(*); Hao Peng; Renfa Li; Keqin Li,A Survey of Low-Energy Parallel Scheduling Algorithms,IEEE TRANSACTIONS ON SUSTAINABLE COMPUTING,2021,DOI:10.1109/TSUSC.2021.3057983
+(2) Guoqi Xie; Hao Peng; Xiongren Xiao(*);Yao Liu;Renfa Li,Design Flow and Methodology for Dynamic and Static Energy-constrained Scheduling Framework in Heterogeneous Multicore Embedded Devices,ACM Transactions on Design Automation of Electronic Systems,2021,26(5):1-18,DOI:10.1145/3450448
+(3) Xiao Xiongren; Xie Guoqi ; Xu Cheng; Fan Chunnian; Li Renfa; Li Keqin,Maximizing reliability of energy constrained parallel applications on heterogeneous distributed systems,Journal of Computational Science, 2018, 26: 344-353.
+(4) Guoqi Xie; Yuekun Chen; Xiongren Xiao(*); Cheng Xu; Renfa Li; Keqin Li,Energy-Efficient Fault-Tolerant Scheduling of Reliable Parallel Applications on Heterogeneous Distributed Embedded Systems,IEEE Transactions on Sustainable Computing, 2018, 3(3): 167-181.
+(5) Xie; Guoqi; Zeng; Gang; Xiao; Xiongren; Li; Renfa; Li; Keqin; Xie, Guoqi; Xiao,Xiongren; Li, Renfa; Li, Keqin; Zeng, Gang; Li, RF ,Energy-Efficient Scheduling Algorithms for Real-Time Parallel Applications on Heterogeneous Distributed Embedded Systems,IEEE Transactions on Parallel and Distributed Systems, 2017, 28(12): 3426-3442.
+(6) Xie; Guoqi; Xiao; Xiongren; Li; Renfa; Li; Keqin; Xie, Guoqi; Xiao, Xiongren; Li,Renfa; Li, Keqin; Xie, GQ ,Schedule length minimization of parallel applications with energy consumption constraints using heuristics on heterogeneous distributed systems,Concurrency and Computation-Practice & Experience, 2017, 29(16): e4024.
+二、近五年会议论文(1) Xiao, Xiongren;Xie, Guoqi;Li, Renfa;Li, Keqin;Xie, GQ ,Minimizing Schedule Length of Energy Consumption Constrained Parallel Applications on Heterogeneous Distributed Systems,2016 IEEE ISPA, 2016-08-23~2016-08-26: 1471-1476, Tianjin city,China,2016-01-01, 分组报告
+获奖和专利
+一、奖励（1）  2023年，第三届全国高校教师教学创新大赛二等奖
+（2）  2023年，湖南省高校计算机学科课程思政优秀教学团队（排名第4）
+（3）  2022年，湖南省高校教师教学创新大赛一等奖
+（4）  2022年，湖南省高等教育教学成果奖一等奖（排名第6）
+（5）  2022年，湖南省普通高校课程思政教学竞赛二等奖（排名第4）
+（6）  2020年，湖南省普通高校教师信息化教学竞赛一等奖
+（7）  2020年，湖南省高等教育教学成果奖一等奖（排名第2）
+（8）  2014年，教育部CSC-IBM优秀教师
+（9）  2023年，湖南大学优秀教师
+（10）2021年，湖南大学“我心目中最敬爱的教师”
+（11）2020年，湖南大学教学优秀奖
+(12)   2016年，IEEE IPSA 2016 Best Paper Award(最佳论文奖)
+二、专利(1) 肖雄仁;徐成;秦云川;李瑞辉;李蕊;肖欢;孙晓芳;欧阳力多,智能交互式水族箱展示系统,发明专利, 授权, 2017-11, 国家知识产权局, ZL201410684453.0
+(2) 李仁发;肖雄仁;徐成;张小明;唐建秋;周权;邹汉铮;肖俊,一种无人驾驶汽车的导航方法,发明专利, 授权, 2014-09, 国家知识产权局, ZL201110372447.8
+(3) 徐成;秦云川;张婷;肖雄仁;戚芳芳;周圣韬;文龙;李涛;张良;聂敏,基于FPGA的流水浮点乘累加方法,发明专利, 授权, 2014-12-10~2032-03-15, 国家知识产权局, ZL201210069005.0
+(4) 徐成;周佳;黎之奇;徐梓桑;肖雄仁;李思齐;宁晓兰;王伟,一种便携式单轨非接触式接触网几何参数检测系统与方法,发明专利, 授权, 2017-11, 国家知识产权局,ZL201510822508.4
+(5) 徐成;李涛;张宁;殷素;肖雄仁;邹汉铮;汪梦珍;曹婷;周佳,基于四轴飞行器的便携式目标跟踪方法及系统,发明专利, 授权, 2016-08-17, 国家知识产权局, ZL201410105284.0
+(6) 徐成;徐梓桑;曾理宁;殷素;曹婷;张宁;邹汉铮;肖雄仁,基于STC单片机的便携式实验装置,实用新型, 授权, 2015-04-15~2024-11-25, 国家知识产权局, ZL201420715227.X
+三、软件著作权(1) 湖南大学(袁翠芳;肖雄仁*;秦拯),基于用户行为和专家意见的推荐系统,2018SR258545, 2018-01-10
+(2) 湖南大学(段宇;肖雄仁*;李仁发),mulObj任务调度策略生成与可视化系统,2020SR0171695, 2019-05-01
+
+---
+
+## 肖要强
+
+- **网址**: https://csee.hnu.edu.cn/people/xiaoyaoqiang
+- **姓名**: 肖要强
+- **邮箱**: yqxiao6@qq.com
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 光通信,人工智能,6G通信
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：光通信,人工智能,6G通信
+联系方式：yqxiao6@qq.com
+教师介绍
+中文名：
+肖要强
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+yqxiao6@qq.com
+研究方向：
+光通信,人工智能,6G通信
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+个人简历
+肖要强，男，长期从事“光无线通信”，“保密通信”、“图像处理”等方面的研究，主要研究兴趣：1、6G毫米波或太赫兹传输的物理层安全性研究；2、图像加密处理及检索相关算法；3、chaos相关理论及其应用研究；4、机器学习相关算法及其应用与AI。主持参与国家级、省级项目多项。在国内外学术期刊上发表论文近30篇，全部为SCI、EI检索。目前为JLT、OE、OC、DSP、OFT等期刊的审稿专家。
+通常情况下，课题组每年可以招收4-6名研究生生。课题组有专门的实验室，有完整的实验系统供学生去验证自己的理论结果。如果你有一定的通信、计算机等理工科基础，并具备基础的C/C++或Matlab编程能力，又对我们的研究方向感兴趣的话，欢迎与我们联系。联系方式：Email：yqxiao6@qq.com
+学术论文
+Y.Q. Xiao, B. S. Wang, Z. Y. Wang, Z. H. Zhou, J. He, One-Time Pad StrategyCombined With Dynamic Key Embedding and Multi-Level Chaotic Encryption for RoF,J. Lightwave Technol. 41(1) ,41-47 (2023)
+Yaoqiang Xiao, Bingshuai Wang, Zhiyi Wang, Zhihua Zhou, Jing He,One-time pad scheme based on polar code and OFDM for MMW-RoF system at W-band,Optics Express, 30(3): 4412-4423(2022)
+Yaoqiang Xiao, Yating Chen, Zhiyi Wang, Secure transmission of W-band millimeter-wave based on CNN and dynamic resource allocation, Optics Letters, 46(22):5583-5586 (2021)
+Zhiyi Wang, Yaoqiang Xiao*, Sitao Wang, et al., Probabilistic shapingbased constellation encryption for physical layer security in OFDM RoF system，Optics Express, 29(12): 17890-17901(2021)
+Yaoqiang Xiao*, Jun Cao, ZhiyiWang, et al., Polar coded optical OFDM system with chaotic encryption for physical-layer security, Optics Communica tions, 2019，433：231-235
+Yaoqiang Xiao*, Zhiyi Wang, JunCao, Rui Deng, Yi Liu, Jing He, Lin Chen, Time–Frequency Domain Encryption WithSLM Scheme for Physical-Layer Security in an OFDM-PON System, J. Opt. Commun.Netw. 2018, 10(1), 46-51
+J. Yuan, X.X. Hou, Y.Q. Xiao, D. Cao and L.Q. Nie, Multi-Criteria Active Deep
+Learning for Image Classification, Knowledge-based Systems, 2019, Accepted.
+科研状况
+1) 基于光纤无线融合系统的混沌加密技术及性能研究，国家自然科学基金（主持）；
+2) 面向空间光通信的光子计数量级探测条件下的鬼成像研究，国家自然科学基金（参与）；
+3) 基于微波光子技术的可调谐低端太赫兹波功率提升研究，国家自然科学基金（参与）；
+4) OFDM光纤通信系统中混沌加密技术及相关算法研究, 湖南省自然科学基金（主持）；
+5) 基于物联网的光纤无线异构网络传输平台，湖南省科技计划省重点研发计划项目（参与）
+6）光信号加密算法研究，湖南大学青年教师成长项目（主持）
+还有相关的几个横向课题
+学生培养
+
+---
+
+## 许莹
+
+- **网址**: https://csee.hnu.edu.cn/people/xuying
+- **姓名**: 许莹
+- **邮箱**: hnxy@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能、智能计算、进化优化、多目标优化、智能优化与调度算法及其解决实际复杂优化问题的应用研究，包括网络路由优化、车辆路径规划、大数据挖掘、计算机视觉、语音识别等。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能、智能计算、进化优化、多目标优化、智能优化与调度算法及其解决实际复杂优化问题的应用研究，包括网络路由优化、车辆路径规划、大数据挖掘、计算机视觉、语音识别等。
+联系方式：hnxy@hnu.edu.cn
+教师介绍
+许莹（Ying，Xu），副教授，博士生导师，英国诺丁汉大学计算机科学博士，计算机科学系主任、湖南省人工智能与计算媒体研究生培养创新基地负责人、湖南大学数字媒体研究所副所长。
+邮箱：hnxy@hnu.edu.cn
+中文名：
+许莹
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+hnxy@hnu.edu.cn
+研究方向：
+人工智能、智能计算、进化优化、多目标优化、智能优化与调度算法及其解决实际复杂优化问题的应用研究，包括网络路由优化、车辆路径规划、大数据挖掘、计算机视觉、语音识别等。
+联系地址：
+湖南省长沙市岳麓区麓山南路,湖南大学信息科学与工程学院（410082）
+所属机构：
+计算机科学系
+学院教师
+个人简历
+学习经历：
+湖南大学计算机科学系，本科
+湖南大学计算机与通信学院，硕士
+2006年11月－2010年10月，英国诺丁汉大学计算机学院，博士
+2013年10月-2017年6月，南京大学计算机科学与技术系，博士后
+工作经历：
+2000年，长沙苏博泰克数据系统工程有限公司，项目开发（兼职）
+2001年－2002年，长沙中杰科技有限公司，项目开发（兼职）
+2003年－至今，湖南大学信息科学与工程学院，教学科研
+Educational Background
+Nov. 2006 – Oct. 2010: PhD，The Automated  Scheduling,Optimisation and Planning (ASAP) researchgroup, School of Computer Science, The University of Nottingham, UK.
+Sep. 2000 – Mar. 2003: MSc，Schoolof Computer and Communication, Hunan University,China.
+Sep. 1996 – June 2000: BSc，Department of Computer Science, Hunan  University,China.
+Work Experiences
+Full Time:
+Oct. 2013 – Present: Associate Professor, College of Information Science and Engineering, Hunan University,China
+June 2003 – Sep. 2013: Lecturer, School of Computer and Communication, Hunan University,China
+Part Time:
+Sep. 2003-June 2005: the graduate student tutor in the School of Computerand Communication, Hunan University,China
+2001 –2002: Software Programmer, Zhongjie High_tech DevelopmentCo., Ltd. Changsha, Hunan,China
+1999 – 2000: Software Programmer, Supertech Data Systems Co.,Ltd. Changsha, Hunan,China
+学术论文
+Journal Articles
+·Ali Mansour Al-madani, Ying Xu, MOFL-CyberNet: A Novel Multi-Objective Federated Learning Framework for Simultaneous Cybersecurity Intrusion Detection and Network Performance Optimization,Computational Intelligence, 42,3,2026: e70236, https://doi.org/10.1111/coin.70236.
+· Mehboob Hussain, Ying Xu, Zeeshan Abbas, Ali Kamran, Amir Rehman, Muhammad Yasir, A Heuristic Approach to Spark Workflow Task Scheduling on Heterogeneous Nodes, Future Generation Computer Systems, 2025, 108335. https://doi.org/10.1016/j.future.2025.108335.  (SCI 1区/中科院2区)
+·  许莹, 厉小明, 于丰豪. 基于CRAFT和OCR技术的药品名称识别方法[J].计算机科学, 2025, 52(S2): 276-282. DOI:10.1896/jsjkx.241200160（CCF B类中文期刊）
+· 许莹，刘佳，陈斌辉，刘益萍，刘志中. 深度强化学习引导的多种群协同进化超多目标优化算法，计算机学报，2025年第10期, https://cjc.ict.ac.cn/online/onlinepaper/xy-20251017154129.pdf. （CCF A类中文期刊）
+· Ying Xu, Fusen Li, Huan Zhang, Wei Li. An Adaptive Reference Vector Guided Many-Objective Optimization Algorithm based on the Pareto Front Density Estimation, Swarm and Evolutionary Computation,88,2024.https://doi.org/10.1016/j.swevo.2024.101601   (SCI 1区/中科院 1区)
+· Ying Xu, Huan Zhang, Lei Huang, Rong Qu, Yusuke Nojima, A Pareto Front Grid Guided Multi-Objective Evolutionary Algorithm, Applied Soft Computing Journal,2023, 136(2023): 110095. https://doi.org/10.1016/j.asoc.2023.110095. (SCI 1区/中科院2区)
+· Ying Xu, Huan Zhang, Xiangxiang Zeng, Yusuke Nojima, An adaptive convergence enhanced evolutionary algorithm for many-objective optimization problems, Swarm and Evolutionary Computation, 2022, 75(2022): 101180. (SCI 1区/中科院 1区, https://www.sciencedirect.com/science/article/pii/S221065022200147X).
+· Ying Xu, Chong Xu, Huan Zhang, Lei Huang, Yiping Liu, Yusuke Nojima, Xiangxiang Zeng. 2022. A Multi-population Multi-objective Evolutionary Algorithm based on the
+Contribution of Decision Variables to Objectives for Large-scale
+Multi/Many-objective Optimization, IEEE Transactions on Cybernetics, 2023, 53(11): 6998-7007. (SCI 1区/中科院 1区).
+· Afeez Ajani Afuwape,Ying Xu, Joseph Henry Anajemba, Gautam Srivastava, Performance Evaluation of Secured Network Traffic Classification using a Machine Learning approach, Computer Standards & Interfaces, 2021, 103545, ISSN 0920-5489, https://doi.org/10.1016/j.csi.2021.103545. (SCI 2区/中科院 2区)
+· Ying Xu, Cuijuan Yang, Shaoliang Peng, Yusuke Nojima. A Hybrid Two-Stage Financial Stock Forecasting Algorithm based on Clustering and Ensemble Learning. Applied Intelligence,2020.DOI: 10.1007/s10489-020-01766-5. (SCI 1区/JCR 2区)
+·  Ying Xu,Ou Ding, Rong Qu,Keqin Li. Hybrid multi-objective evolutionary algorithms based on Decompositionfor wireless sensor network coverage optimization, Applied Soft Computing,68(2018) 268-282, 2018. (SCI 1区)
+· Ying Xu, ZengRiZeng. 2015. An Energy Efficient Hole Repair Node Scheduling  Algorithm for WSN. 2015:pp,1–14,Wireless Networks.  (SCI, CCF C类期刊)
+· Ying
+Xu, ZengRi Zeng. 2015. A Low Redundancy and High Coverage Node     Scheduling Algorithm for Wireless
+Sensor Networks. Journal of Communications in Computer and Information
+Science.2015, 501(64): 978- 987.
+·  Xu Y, Qu R, Li R..2013. A Simulated Annealing based Genetic Local Search       Algorithm for Multi-objective Multicast Routing Problems. Annals of Operations  Research, 206(1):527-555.
+·  R. Qu, Y. Xu, J. Castro, D.Landa-Silva. 2013. Particle Swarm Optimization for the Steiner Tree in Graphand Delay-Constrained Multicast Routing Problems. Journal of Heuristics. 19(2):317-342.
+·  Xu Y., Qu R. 2012. Aniterative local search approach based on fitness landscapes analysis for thedelay-constrained multicast routing problem. Computer Communications. 35(2012), 352-365.
+·  Xu Y., Qu R. 2011.Solving Multi-objective Multicast Routing Problems by EvolutionaryMulti-objective Simulated Annealing Algorithms with Variable Neighbourhoods. Journal of the Operational Research Society. 62, 313-325.
+·  Xu Y., Qu R. 2010. AHybrid Scatter Search Meta-heuristic for Delay-constrained Multicast RoutingProblems. Applied Intelligence. 36(1),229-241.
+Conference Papers
+· Bossoun, K.K.H., Ying, Xu. (2025). A Graph Neural Network Approach for Early Plant Disease Detection. In: Tan, Y., Shi, Y. (eds) Data Mining and Big Data. DMBD 2024. Communications in Computer and Information Science, vol 2356 . Springer, Singapore. https://doi.org/10.1007/978-981-96-7175-5_21.
+· Dong Chen, Shaoliang Peng, Kenli Li, Ying Xu, Jinglin Zhang and Xiaolan Xie. Re- ranking
+Answer Selection with Similarity Aggregation. The 43rd International ACM        SIGIR
+Conference on Research and Development in Information Retrieval(SIGIR),        Xian, July 25-30,
+2020: 1677-1680.
+· Ying Xu,Lymeng Chhim, Bingxin Zheng and Yusuke Nojima.Stacked Deep Learning Structure with
+Bidirectional Long-Short Term Memory for Stock Market Prediction. NCAA,  2020.  Communications in Computer and Information Science, vol 1265. Springer, Singapore. https://doi.org/10.1007/978-981-15-7670-6_37
+·  Ying Xu,Aws Hamed Hamad. A Hybrid Bat Algorithm Based on Combined Semantic Measures for Word Sense Disambiguation. In: Proc. of the 15th International Conferenceon Natural Computation, Fuzzy Systems and Knowledge Discovery(ICNC-FSKD 2019), pp.149-157, 2019.
+· Ying Xu*, Ying Li, Wei Yang,
+Jin Zhang. A multi-factor influencing POI recommendation model based on matrix
+factorization. 2018 Tenth International Conference on Advanced Computational Intelligence, pp:514-519, 2018.
+·  Ying Xu*, Yan Zhou. 2018. A Steady-State NSGA-IIbased Multi-Objective Multicast Routing Algorithm for Optical Networks. InProceedings of The Genetic and Evolutionary Computation Conference (GECOO2018), July 15-19th, Kyoto, 2018.
+· Lei Huang, Ying Xu*, HailiangZhao. 2018. A Multi-objective Optimization Model for Determining the OptimalStandard Feasible Neighborhood of Intelligent Vehicles.       PRICAI 2018, LNAI11012, pp. 268-281.
+· Yuqing Chen, Ying Xu, Renfa Li. 2016. An ALM matrix completion algorithm for        recovering weather monitoring data. 2016 IEEE Symposium on Computers and     Communication (ISCC),pp. 988-995, 2016.(CCF C类)
+· YingXu, Tao Hu, Ying Li. 2016. A Travel Route Recommendation Algorithm with  Personal Preference. 12th InternationalConference on Natural Computation,        FuzzySystems and Knowledge Discovery (ICNC-FSKD). 2016.
+· Ying
+Xu, YifanChen. 2015. An Improved Dynamic Framed Slotted ALOHA Anti-        collision Algorithm based
+on Estimation Method for RFID Systems．In：9th       Annual IEEE International Conference on RFID, San Diego, CA, 2015
+· Renfei Wu, Ying Xu, Long Li, Junli Zha, Renfa Li. 2014. Design and Implementation of an Intelligent Monitoring System Based on ZigBee for the Agricultural Greenhouse. Advanced Technologies in Ad Hoc and Sensor Networks.  Springer Berlin Heidelberg, 2014: 195-203
+·   Y. Xu, Tiantian Zhang,Renfa Li. 2014. An Implementation of an Intelligent PCE-Agent-based Multi-domainOptical Network Architecture. ICIC2014.
+·   Xu Y. Xiongfei Zheng,Renfa Li. 2012. A new hybrid  GRASP with the pilot method for thedelay-constrained multicast routing  problem, Proceedings of 2012International Conference on Computer Science and Communication Technology,Qingdao, China, 23-25, Dec. 2012.
+·  Qu R., Xu Y., Kendall G. 2009.A Variable Neighbourhood Descent Search Algorithm for Delay-ConstrainedLeast-Cost Multicast Routing. In: Stützle T. (Ed.), Proceedings of Learning andIntelligent Optimisation (LION3), Lecture Notes in Computer Science, 5851. pp.15-29.
+· Xu Y., Qu R. 2009. AGRASP Approach for the Delay-constrained Multicast routing problem. In:  Proceedings of the 4th Multidisplinary International SchedulingConference (MISTA4), pp. 93-104. Dublin, Ireland.
+科研状况
+目前的主要研究领域是人工智能、智能计算、多目标优化、智能优化与调度及其在解决实际复杂问题中的应用研究，包括网络路由优化、车辆路径规划、大数据分析与挖掘、计算机视觉、语音识别等。目前是中国计算机学会（CCF）杰出会员、CCF长沙会员活动中心执委、CCF人工智能与模式识别专委执行委员、CCF计算机应用专委执行委员、湖南省人工智能学会理事、湖南省人工智能学会教育工作委员会秘书长。主持和参与国家自然科学基金项目，国家重点研发计划项目、湖南省自然科学基金，省科技计划重点研发项目、长沙市科技计划项目多项，英国EPSRC项目、国家863项目及横向科研课题30余项，在国内外学术会议和期刊上发表高水平论文40余篇，申请专利多项，授权软件著作权10余项。
+2013年指导学生参加第二届"TI.无线龙"杯全国大学生物联网和嵌入式设计大赛获全国二等奖。2015年指导学生参加第十一届“博创杯”全国大学生嵌入式设计大赛获全国三等奖。2016年指导学生参加2016年全国大学生物联网设计竞赛获全国一等奖。2018年指导学生参加中国高校计算机大赛华中赛区一等奖。2019年指导学生参加中国高校计算机大赛获华中赛区三等奖。2021年指导学生参加湖南省大学生计算机作品赛获省级二等奖。2022年、2023年指导学生获湖南大学互联网+创新创业大赛金奖。2022年获湖南省信息化教学比赛一等奖。2023年指导学生获第二十五届中国机器人及人工智能大赛机器人任务挑战赛全国一等奖2项；获湖南省“互联网+”创新创业大赛三等奖。2024年指导学生获湖南省大学生创新创业大赛（原“互联网+”）银奖；获第二十六届中国机器人及人工智能大赛机器人任务挑战赛全国一等奖2项；获第五届湖南省研究生人工智能创新大赛二等奖；“华为杯”第六届中国研究生人工智能创新大赛全国三等奖等奖项。
+获2023年高校计算机专业优秀教师奖励计划、湖南大学优秀教师、湖南大学优秀共产党员、湖南大学华为智能基座优秀教师、教育部-华为智能基座栋梁之师称号、湖南大学优秀班主任、湖南大学毕业实习优秀指导教师、湖南大学工会积极分子等荣誉，湖南省一流课程《人工智能导论》课程负责人，获2023年湖南大学教学成果一等奖、2024年湖南省计算机学会优秀教学成果一等奖、2025年湖南省高等教育教学成果奖二等奖、2025年湖南省普通本科高校课程思政教学竞赛三等奖。
+参与和主持的科研项目：
+(1)2000年3月－9月参与IC卡项目和文档管理系统项目
+(2)2001年参与国家总参项目：分布式数据库项目
+(3)2000－2001参与长沙黄花国际机场通信控制软件项目
+(4)2002年参与长沙公交总公司“路网显示系统”项目
+(5)2001年－2002年参与“电子商务二次开发平台”项目
+(6)2002年－2003年参与重庆银钢集团ERP管理系统项目
+(7)2005年参与教育部网上教育平台课程资源建设子项目
+(8)2006－2011年，参与英国EPSRC（英国工程和物理科学研究委员会）项目：Next Generation Decision Support: Automating the Heuristic Design Process （下一代决策支持：自动化启发式设计过程）
+(9)2012年1月－2012年12月，主持湖南大学青年教师成长计划项目：无线传感器网络非均匀分簇节能路由优化算法研究
+(10)2013年1月－2015年12月，主持国家自然科学基金青年项目：基于PCE的多层多域光网络QoS组播路由多目标优化算法研究
+(11)2013年1月－2013年12月，主持湖南省科技计划项目：基于PCE的多层多域光网络QoS组播路由多目标优化算法研究
+(12)2013年4月-2014年12月，参与国家863项目：行业应用市场分析和电磁计算软件研发
+(13)2013年9月-2015年12月，参与湖南省自然科学基金项目：城市计算中基于Brownian Agent的路径优化层级模型研究
+（14）2013年5月-2014年12月，参与国家支撑计划项目：农村物联网行业信息系统关键技术研究
+（15）2015年1月-2016年12月,主持2015年湖南省重点研发计划（工业支撑领域）：基于RFID的景区智能导航物联网系统设计与关键技术研究（2015GK3015）
+(16)2017-2018，基于WiFi的岳麓书院智慧旅游微信APP软件，横向课题
+（17）2017-2018，酒店大数据质检助手——数据采集与点评分析系统，横向课题
+（18）2017，颐和云健康管理平台软件系统软件开发，横向课题
+（19）2018，掌上问诊App（IOS）端软件，横向课题
+（20）2019，大数据与云计算实验平台，横向课题
+（21）2019，基于ROS的移动机器人实训平台，横向课题
+（22）2019-2022，国家重点研发计划-赣豫鄂湘田园综合体信息化集成与示范（2019YFD1101305）
+（23）2020-2021，湖南省自然科学基金项目：面向高维搜索空间的超多目标进化优化算 法及其应用研究
+（24）2020，AOI兴趣面可视化软件，横向课题
+（25）2021，酒店AI增收系统，横向课题
+（26）2021，昇腾处理器环境中基于TensorFlow AI框架开发AI模型，华为众智计划项目
+（27）2022，面向数字人的语音合成研究与应用，横向课题
+（28）2022，证照识别技术服务项目，横向课题
+（29）2022，华为昇腾AI处理器深度学习模型部署，华为众智计划项目
+（30）2023，多模态演艺数字人技术研究与应用，横向课题
+（31）2023，国有企业数字化转型规划，横向课题
+（32）2023，基于多源大数据的城市低效用地的识别方法研究，省自然科学基金
+（33）2024，高效学习型大规模超多目标进化算法及其应用研究，省自然科学基金
+（34）2024，语音合成研究与应用，横向课题
+（35）2024，酒店全流程数字化系统，横向课题
+（36）2025，一种可自动识别并跟随的可视化设备底盘装置，横向课题
+学术活动
+Professional Activities      · Guest Editor: Special Issue of /Applied Sciences/: Data Real-Time Acquisition and
+Transmission Technology of IoT"
+https://www.mdpi.com/journal/applsci/special_issues/YZU1X56Y1Z, Submission
+Deadline: 20 July 2023.
+· PC member of GECCO  2023 : Genetic and Evolutionary Computation Conference· Reviewer for the 2016 IEEE Congress on Evolutionary Computation (IEEE CEC
+2016) which will take place in Vancouver, Canada, July 25-29, 2016.
+(see http://www.wcci2016.org).
+· Reviewer for the IEEE Symposium Series on Computational Intelligence 2014
+(SSCI 2014), Orlando, Florida, USA on December 9-12, 2014.
+· Reviewer of the journal of European Journal of Operational Research
+· Reviewer for the 2014 IEEE Congress onEvolutionary Computation (IEEE CEC
+2014).
+· Reviewer for 2013 IEEE Symposium onComputational Intelligence in Scheduling
+(CISched2013) at IEEE Symposium Serieson Computational Intelligence (SSCI 2013),
+Singapore 16-19 April, 2013.
+· Reviewer for the 2013 IEEE Congress onEvolutionary Computation (IEEE CEC
+2013), Cancun, Mexico, June 20-23, 2013.
+· Referee and programme committee member ofIEEE World Congress on
+Computational Intelligence，Special Session onEvolutionary Computation in
+Scheduling, June 10-15, 2012, Brisbane, Australia.
+· Referee of Special Issue of Evolutionary Computation inScheduling, IEEE
+Transactions on Evolutionary Computation, 2011.
+学生培养
+指导研究生/博士后
+2026级  Komal Rani Narejo（博士后）
+2025级  Muhammad Yasir（博士后）Arifa Javed（博士后）
+Mehboob Hussain（博士后） 刘梦洁 邝雯娜 唐龙
+2024级  石国榕
+2023级  于丰豪 刘佳 魏秉铎 Ali Almadani（留学生）
+KAHSAY BIRHANU TSADIK（博士生）
+Zaid ALI Abdulqader Khaled （留学生）
+MAHMMOD MUSTAFA ASHRAF MUSTAFA（留学生）
+2022级  厉小明（中国银行）
+2021级  李富森(中银信息) 黄勇(江苏电信)
+2020级  何炳（湖南电网） 许崇（优秀毕业生，河南电网） 潘段玲（已毕业）
+BOSSOUNKAFUI KENNETH HENOC（留学生，已毕业）
+Mustafa Ashraf Mustafa Mahmmod（留学生）
+2019级  张环(优秀毕业生，北京京东) 郑冰欣(福州兴业银行) 李福霖（快手）
+万朝
+2018级  Afeez Ajani Afuwape（尼日利亚留学生，已毕业）
+2017级  黄磊（花旗金融信息服务有限公司） 杨翠娟 李帅婷（贝壳找房）
+AWS（伊拉克留学生，已毕业）
+2016级  郭昱杉（上海浦安科技有限公司）  Ahmed（已毕业回国）  Narong
+Lymeng（老挝留学生，已毕业回国）
+2015级  李迎（瑞典林雪平大学） 周研（深圳交行）
+2014级  丁欧（深圳市金证科技） 杨卫（中信银行信用卡中心）
+2013级  胡涛（中兴通信）
+2012级  刘社函（衡阳移动）  陈一凡(湖南大学博士在读)  曾增日(湖南联通)
+2011级  郑雄飞(深圳酷派)  张天天（佛山联通）
+
+---
+
+## 杨超
+
+- **网址**: https://csee.hnu.edu.cn/people/yangchao
+- **姓名**: 杨超
+- **邮箱**: （未提供）
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 信息检索与推荐、跨媒体检索与分析、复杂多agent系统建模与仿真、数字图像内容理解与安全。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：信息检索与推荐、跨媒体检索与分析、复杂多agent系统建模与仿真、数字图像内容理解与安全。
+联系方式：yangchaoedu at hnu.edu.cn
+教师介绍
+杨超，现为湖南大学计算机学院副教授、博士生导师，中国计算机学会杰出会员，中国计算机学会协同计算、计算机应用专委执委，中国人工智能学会智能信息网络专委委员，中国仿真学会社会计算与智能仿真专委委员，教育部学位与研究生教育评估专家，湖南省科技咨询与评审专家，曾任CCFYOCSEF2021-2022年度长沙学术委员会主席。本科、硕士均毕业于湖南大学计算机与通信学院，博士毕业于日本东京工业大学，曾获最优博士论文奖和秋山奖，后留校任博士后研究员。长期从事计算机和人工智能相关领域的研究，包括自然语言处理、计算机视觉、跨媒体分析与推理、多智能体系统等。近年来专注于以AI技术如何更好服务于人类需求为导向，围绕情感智能、信息检索与推荐、图像内容理解与生成、对话系统、AIGC方面展开系统研究，研究成果可在智能AI助手、内容创作与生成、老年人/儿童辅助等众多领域应用。主持国家、湖南省自然科学基金和科技计划10余项，在AAAI、MM、ICCV、ECCV、COLING、ICMR、ICME、ICASSP、TMM、TOMM高水平会议和期刊发表研究论文近60篇。主持多项企业委托研发课题，授权中国发明专利12项。
+中文名：
+杨超
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+yangchaoedu at hnu.edu.cn
+研究方向：
+信息检索与推荐、跨媒体检索与分析、复杂多agent系统建模与仿真、数字图像内容理解与安全。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机科学系
+学院教师
+个人简历
+杨超，副教授，博士生导师，本科、硕士均毕业于湖南大学计算机与通信学院计算机应用技术专业，2010年博士毕业于日本东京工业大学智能系统专业，获工学博士学位，同年4月开始博士后研究员工作。现为中国计算机学会协同计算专委执委、计算机应用专委执委，中国人工智能学会智能信息网络专委委员，中国仿真学会人工社会专委委员。长期以来一直专注以AI技术如何更好服务于人类需求为导向，围绕智能检索与推荐、多Agent建模与仿真及应用场景创新展开研究。近年来面向智能推荐、生命健康、生态文旅方面，加强与政府企业合作，2023-2025年与芒果TV智能算法部合作在人工智能顶会IJCAI推出用户未来价值预估、基于多样性的跨域推荐、大模型逻辑推理、影视语音多语种翻译赛，推动相关技术在智能视听推荐服务的场景创新与应用，通过对南洞庭湖生物多样性的数字资源建设，推动南洞庭特色生态文旅资源的提炼、创新与复用。
+招收硕士、博士、博士后要求
+本团队欢迎热爱科学研究、诚实上进、具备探索精神、乐于沟通、充分感受课题快乐的硕士、博士和博士后加入。目前诚招多模态大模型、音视频处理、复杂多智能体系统基础的博士后。
+教育研究经历
+2010/04 – 2014/03，东京工业大学，综合理工学院智能系统专业，外国人特别研究员
+2007/04– 2010/03，东京工业大学，综合理工学院智能系统专业，工学博士
+2002/09 – 2005/06，湖南大学，计算机与通信学院计算机科学系，工学硕士
+1995/09 – 1999/06，湖南大学，计算机系，工学学士
+学术论文
+2026
+[1] Yang Jiao, Chao Yang(*), Bin Jiang, Junhao Gao. Purifying Interaction Sequences: Topology-Aware Spectral Denoising for Side-Information Integrated Sequential Recommendation（Accepted）, RecSys 2026 (CCF B, Oral, 18%接收率)
+[2] Junhao Gao, Chao Yang(*), Bin Jiang. CREAM:Collaborative Representation with Self-supervised Alignment for Multimedia Recommendation, 16th ACM International Conference on Multimedia Retrieval(ICMR 2026). Amsterdam, The Netherlands, June 16-19, 2026 (CCF B)
+[2] Chenglong Lei, Chao Yang(*),Bin Jiang, Hu Guo, Xionghu Zhong. DSVG: A Dual-Stream Framework for Multi-Task Visual Grounding with Decoupled Multimodal Alignment and Visual Perception, 2026 IEEE International Conference on Multimedia and Expo (ICME 2026), Bangkok, Thailand, July 5-9,2026 ( CCF B).
+2025
+[1] JianboZheng, Chao Yang(*), Tairui Zhang, Longbing Cao*, BinJiang, Xuhui Fan, Xiao-ming Wu, Xianxun Zhu. Dynamic Spectral Graph AnomalyDetection. The Thirty-Ninth AAAI Conference on Artificial Intelligence(AAAI-25). Philadelphia. February 25 to March 4, 2025 (人工智能顶会，CCF A).
+[2] Jianbo Zheng, Chao Yang(*), Tairui Zhang, Bin Jiang, XuhuiFan, Xiaoming Wu, Haidong Shao.PeriodicMFD:A Periodic-based Framework for Multi-source Fault Diagnosis. IEEE Transactions on Transportation Electrification, 2025.(中科院1区Top期刊)
+[3] Chenglong Lei, Chao Yang(*), Jianbo Zheng. Improving Open-Ended Referring Expression Comprehension via Dual-Language Constraints. The 2025 IEEE International Conference on Acoustics, Speech,and Signal Processing (ICASSP 2025). Hyderabad, April 06 to April 11, 2025. （语音信号处理顶会，CCF B）
+[4] Jianbo Zheng, Lida Huang(*), Tairui Zhang, Bin Jiang, Chao Yang. Subdomain Uncertainty Optimization for Cross-Speed Fault Diagnosis. The 2025 IEEE International Conference on Acoustics, Speech, andSignal Processing (ICASSP 2025). Hyderabad, April 06 to April 11, 2025. （语音信号处理顶会，CCF B）
+[5] Bolin Zhang, Chao Yang(*), Bin Jiang, TakahiroKomamizu, Ichiro Ide.Multi-proposal Collaboration and Multi-task Training for Weakly-supervised Video Moment Retrieval, International Journal of Machine Learning and Cybernetics,2025 (SCI/SSCI期刊).
+[6] Qun Zhang, Chao Yang(*), Bin Jiang and Bolin Zhang. Multi-Grained Alignment with Knowledge Distillation for Partially Relevant Video Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications(TOMM), 2025 (多媒体领域顶刊，CCF B)
+[7] Siyu Cheng, Chao Yang(*), Bin Jiang. Multi-Passage Retrieval-Augmented Multimodal Language Generation Model for Knowledge-Based Visual Question Answering, 2025 IEEE International Conference on Multimedia and Expo (ICME 2025),2025. (CCF B)
+[8] Mengchao Liu,Chao Yang(*), Bin Jiang, Chenglong Lei. Advancing Multi-Hop Question Answering via Alternating Retrieval and Reasoning over Multi-view Knowledge Integration, 2025 IEEE International Conference on Multimedia and Expo (ICME 2025),2025. (CCF B)
+2024
+[1] Zhiyu Wang, Chao Yang(*), Bin Jiang,  Junsong Yuan, A Dual Reinforcement Learning Framework for Weakly Supervised Phrase Grounding, IEEE Transactions on Multimedia,  January 2024.  (多媒体领域顶刊，CCF A)
+[2] Shuqi Ruan, Chao Yang(*), Dongsheng Li. Knowledge-enhanced personalized hierarchical attention network for sequential recommendation. World Wide Web, Volume 27, Issue 1, January 24 （CCF B）.
+[3] Chao Yang(*), Linli Peng, Bin Jiang, Chenglong Lei, and Mengchao Liu.  MEH-GNN: Meta-path Enhanced Heterogeneous Graph Neural Network for Dual-Target Cross-Domain Recommendation. Chinese CSCW 2024, July 2024 (Best Paper Award).
+2023
+[1]  Lin Sun, Chao Yang(*), Bin Jiang. DSP-Net: Diverse Structure Prior Network for Image Inpainting, 2023 IEEE International Conference on Multimedia and Expo (ICME 2023), July 10-14, 2023, Brisbane, Australia. (CCF B)
+2022
+[1] Bolin Zhang, Chao Yang(*), Bin Jiang, Xiaokang Zhou, Video Moment Retrieval with Hierarchical Contrastive Learning, ACM MM 2022 (多媒体领域顶会，CCF A)
+[2] Guoqing Wang, Chao Yang(*),Su Feng, and Bin Jiang. LPGN: Language-guided Proposal Generation Network for Referring Expression Comprehension. 2022 IEEE International Conference on Multimedia and Expo, July 18-22, 2022, Taipei, Taiwan. （CCF B）
+[3] Jianbo Zheng, Chao Yang(*), Fangrong Zheng, Bin Jiang.
+A Rolling Bearing Fault Diagnosis Method Using Multi-sensor Data and Periodic Sampling, 2022 IEEE International Conference on Multimedia and Expo, July 18-22, 2022, Taipei, Taiwan. （CCF B）
+[4]Bolin Zhang, Chao Yang(*), Bin Jiang, Liang Pang.
+Dual-Channel Localization Networks for Moment Retrieval with Natural Language, Proc. of ACM International Conference on Multimedia Retrieval, June 27-30, 2022, Newark, NJ, USA. (CCF B)
+[5]Bin Jiang, Fangqiang Xu, Jun Xia, Chao Yang, Wei Huang, Yun Huang. Stacked Multi-Scale Attention Network for Image Colorrization, Proc. of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), May 22-27, 2022, Singapore. （CCF B）
+[5]Zifan Chen, Xin Qin, Chao Yang, Li Zhang(*), Cooperative Localization for Human Pose Estimation, Communications in Computer and Information Science, Volume 1491 CCIS, 541-552, 2022.
+2021
+[1] Chao Yang(#)(*), Weixin Zhou, Zhiyu Wang, Bin Jiang, Dongsheng Li, Huawei Shen. Accurate and Explainable Recommendation via Hierarchical Attention Network Oriented Towards Crowd Intelligence,  Knowledge-Based Systems, Volume 213, 15 February 2021, 106687. (中科院2区)
+[2]Chao Yang(#)(*),Su Feng, Dongsheng Li, Huawei Shen, Guoqing Wang and Bin Jiang. "Learning Content and Context with Language Bias for Visual Question Answering." 2021 IEEE International Conference on Multimedia and Expo, Shen Zhen, China, 2021. （CCF B, Oral, 15%）
+[3] Chao Yang(#)(*), Zhiyu Wang, Huawei Shen, Huizhou Li and Bin Jiang, Multi-Modality Image Manipulation Detection, 2021 IEEE International Conference on Multimedia and Expo, Shen Zhen, China, 2021. （CCF B, Oral, 15%）
+[4]Shangrong Huang, Quanyu Ma, Chao Yang and Yazhou Yao, Link Prediction with Multiple Structural Attentions in Multiplex Networks, IJCNN 2021(CCF C).
+2020
+[1]Chao Yang(#)(*), Huizhou Li, Fangting Lin, Bin Jiang, hao Zhao. Constrained R-CNN: A general image manipulation detection model. IEEE International Conference on Multimedia and Expo, London, United Kingdom,6-10July 2020.(CCF B)
+[2] Yang Chao(#)(*), Lianhai Miao, Jiang Bin, Dongsheng Li, Da Cao. Gated and Attentive Neural Collaborative Filtering for User Generated List Recommendation, Knowledge-Based Systems, 2020. (中科院2区)
+[3] Bin Jiang, Wenxuan Tu, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing（TIP）, 2020.   (CCF A, 中科院1区TOP)
+[4]Yang Chao(#)(*),  Wang Xiaochan, Jiang Bin. Sentiment Enhanced Multi-modal Hashtag Recommendation for Micro-Videos,  IEEE ACCESS, 2020.
+[5]Hongyu Liu, Bin Jiang(*),
+Yibing Song, Wei Huang, Chao Yang. Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalization.
+Proc. the 16th European Conference on Computer Vision（ECCV）, August 23 - 28, 2020, Glasgow, Scotland. (CCF B) (Oral, Acceptance rate of 2%)
+[6]Bin Jiang(#)(*), Jingxu Yang, Chao Yang,
+Wangyue Zhou, Liang Pang, Xiaokang Zhou. Knowledge Augmented Dialogue
+Generation with Divergent Facts Selection. Knowledge-Based Systems,
+2020. (中科院2区)
+[7]Bin Jiang(#)(*),
+Wanyue Zhou, Jingxu Yang, Chao Yang, Shihan Wang, Liang Pang. PEDNet: A
+Persona Enhanced Dual Alternating Learning Network for Conversational
+Response Generation. Proc. the 28th International Conference on
+Computational Linguistics, December 8-13, 2020, Barcelona, Spain. (CCF B)
+[8]Bin Jiang(#)(*),
+Jing Hou, Wanyue Zhou, Chao Yang, Shihan Wang, Liang Pang. METNet: A
+Mutual Enhanced Transformation Network for Aspect-based Sentiment
+Analysis. Proc. the 28th International Conference on Computational
+Linguistics , December 8-13, 2020, Barcelona, Spain. (CCF B)
+[9]Chao Yang(#)(*), Hefeng Zhang,   Jing Hou, Bin Jiang. CLMNet: A Contextual and Local Modification Enhanced Transformer Network for Target-oriented Sentiment Classification, ChineseCSCW 2020, November 7-9, Shenzhen, China.
+2019
+[1] Yang Chao(#)(*), Zhang Hefeng,  Jiang Bin, Li keqin. Aspect-based Sentiment Analysis with Alternating Coattention Networks, Information Processing and Management, 2019.(SCI，CCF B)
+[2]Yang Chao(#)(*),  Jiang Mengqi, Jiang Bin, Zhou Weixin, Li keqin. Co-Attention Network with Question Type for Visual Question Answering, IEEE ACCESS, 2019.
+[3]Bin Jiang, Xin Huang, Chao Yang, Junsong Yuan. Cross-Modal Video Moment Retrieval  with Spatial and Language-Temporal Attention. Proc. the ACM  International Conference on Multimedia Retrieval (ICMR 2019), June 10-13, 2019, Ottawa, Canada.  (CCF B)
+[4]Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang. Coherent Semantic Attention for Image Inpainting, International Conference in Computer Vision(ICCV 2019)，Seoul, Korea. (CCF A)
+[5] Bin Jiang, Xin Huang, Chao Yang, Junsong Yuan. SLTFNet: A Spatial and Language-Temporal Tensor Fusion Network for Video Moment Retrieval. Information Processing and Management, 2019. (CCF B)
+[6]蒋斌(#)(*), 涂文轩, 杨超, 刘虹雨, 赵子龙. 基于DenseNet的复杂交通场景语义分割方法. 模式识别与人工智能, 2019, 32(5): 472-480.  (中文 CCF B)
+[7]蒋斌(#)(*), 刘虹雨, 杨超, 涂文轩, 赵子龙. 一种基于局部属性生成对抗网络的人脸修复算法. 计算机研究与发展, 2019. (中文 CCF A)
+[8] Yiwei Lv，Minghao Hu，Chao Yang, YuanYan Tang, Hongjun Wang. Extract, Attend, Predict: Aspect-Based Sentiment Analysis with Deep Self-Attention Network. in Proceedings of the 21th IEEE International Conference on High Performance Computing and Communications (HPCC), 2019 (CCF C).
+2018 and Before 2018
+[1] Yang Chao(#)(*), A Coevolutionary Opinion Model Based on Bounded Confidence, Reference Range, and Interactive Influence in Social Network. Chapter 18 in Innovative Approaches in Agent-Based Modelling and Business Intelligence, Springer Nature Singapore ,2018.
+[2]  Yang Chao(#)(*), Chen xinghe, Song tingting, Jiang Bin, A hybrid recommendation algorithm based on heuristic similarity and trust measure, TrustCom 2018.(CCF C)
+[3] Da Cao, Xiangnan He, Lianhai Miao, Yahui An, Chao Yang(*), Richang Hong. Attentive Group Recommendation, The 41st International ACM SIGIR Conference, 2018. (CCF A)
+[4]吕超, 杨超, 李仁发. 基于卷积神经网络和词语邻近特征的情感分类模型. 计算机工程，2017.
+[5] Yang Chao, Jiang Bin, Isao Ono, Setsuya Kurahashi, Takao Terano. A grid based simulation environment for agent-based models with vast parameter spaces, Cluster Computing, v 19, n 1, p 183-195, March 1, 2016(SCI, EI).
+[6] Yang Chao,Peng Shuming, Jiang Bin, Wang Lei, Li Renfa. Hyper-heuristic genetic algorithm for solving frequencyassignment problem in TD-SCDMA, In Proceedings of the 16th Genetic andEvolutionary Computation Conference, GECCO 2014, July 12-16, 2014 (CCF C).
+[7] Yang Chao, Ai Congcong, Li Renfa. Neighbor Diversification-Based Collaborative Filtering for Improving Recommendation Lists, in Proceedings of the 15th IEEE International Conference on High Performance Computing and Communications (HPCC),1658-1664,Nov13-15,2013 (CCF C).
+[8] Yang Chao, Setsuya Kurahashi, Isao Ono, Terano Takao. Pattern-Oriented Inverse Simulation for Analyzing Social Problems: Family Strategies in Civil Service Examination in Imperial China,Advances in Complex Systems，Vol.15, No.7, 2012(SCI).
+[9] Yang Chao, Setsuya Kurahashi, KeiKo Kurahashi, Isao Ono and Takao Terano. Agent-Based Simulation on Women’s Role in a Family Line on Civil Service Examination in Chinese History, Journal of Artificial Societies and Social Simulation(JASSS), Vol.12, Issue 2, No.5, March, 2009(SCI/SSCI).
+科研项目
+[1] 基于跨模态协同表征与联合优化的多模态推荐方法研究, 湖南省自然科学基金面上项目，2026.1-2028.12（主持，在研）
+[2] 博物馆文化藏品跨模态检索及智能推荐方法研究，湖南师范大学岳麓山文化数智传播实验室（人工智能与精准国际传播实验室）开放课题, 2026.3-2028.3（主持，在研）
+[3] 高品质内容生产与智能视听服务，国家广播电视总局“未来电视”试点项目, 2024.11-2027.12（参与，在研，湖南大学负责人）
+[4] 基于视觉和知识协同感知的视觉对话分析与建模，国家自然科学基金面上项目, 2022.1-2025.12 (主持，已结题）。
+[5]中国电信云计算研究院2024年算力服务推荐系统研究项目，中国电信股份有限公司北京云科技研发中心，2024.7-2025.12（参与，在研）
+[6]面向多场景多任务的群组推荐方法，湖南省自然科学基金面上项目，2021.1-2023.12（主持，已结题）。
+[7]面向智能对话机器人的视觉定位技术及相关科技成果转化建设探索，企事业单位委托科技项目，2022.11-2022.12（主持，已结题）。
+[8]基于深度学习的自适应图像篡改内容检测研究,中国科学院网络数据科学与技术重点实验室&大数据分析系统国家工程实验室，2020.1-2021.12（主持，已结题）。
+[9]面向微博的用户动态兴趣建模和智能推荐方法研究，国家自然科学基金青年项目，2018.1-2020.12（主持，已结题）。
+[10]基于机器自学习自然灾害监测预警技术应用研究，湖南省应急管理厅2020年度科技项目，2020.8-2022.12（参与，已结题）。
+[11]融合用户上下文和动态交互行为的微博信息传播模型及路径预测研究，湖南省自然科学基金青年项目，2017.1-2019.12（主持，已结题）。
+[12]基于智能体技术的网民群体信息传播演化建模与仿真研究,教育部留学启动基金，2013.7-2015.7（主持,已结题）。
+[13]基于动态网民群体的网络热点问题预测研究. 湖南省科技计划，2012.1-2013.12（主持, 已结题）。
+[14]多主体复杂系统建模中基于多维模式识别的逆仿真关键技术研究.中央高校青年成长计划基金，2010.12-2011.12（主持, 已结题）。
+[15]遗传算法分配TD频率扰码功能. 企业委托科技项目，2013.6-2013.12（主持，已结题）。
+[16]面向大型物联网的主动式复杂事件处理技术研究. 国家自然科学基金面上项目，2014.1-2017.12（参与，已结题）。
+[17]基于视频的城市交通场景理解与建模方法研究. 国家自然科学基金面上项目，2013.1-2016.12（参与，已结题）。
+[18]城市计算中基于Brownian Agent的路径优化层级模型研究. 湖南省自然科学基金一般项目，2013.1-2015.12（参与, 已结题）。
+申请专利
+授权发明专利
+[1] 杨超；王志宇：一种基于对偶强化学习的弱监督短语定位方法；申请日期：2022.12.5；授权日期：2025.12.12；授权公告号：CN 115830427 B；专利号：ZL 2022 1 1552224.4.
+[2] 杨超；阮书琪：一种基于KPHAN的序列推荐方法；申请日期：2022.04.20；授权日期：2024.4.30；授权公告号：CN 114780841 B；专利号：ZL 2022 1 0416700.3.
+[3] 杨超；汪国庆；蒋斌：指代短语定位方法、系统及存储介质；申请日期：2021.02.01；授权日期：2023.10.10；授权公告号：CN 112966519 B；专利号：ZL 2021 1 0138354.2.
+[4] 杨超；李慧州；蒋斌；林芳婷；冯溯；汪国庆：图像篡改检测方法、装置、计算机设备和存储介质；申请日期：2019.12.20；授权日期：2023.06.20；授权公告号：CN 111080628  B；专利号：ZL 2019 1 1322233.2.
+[5]杨超；王志宇；李慧州；蒋斌：一种图像篡改检测方法、系统及存储介质；申请日期：2021.02.03；授权公告日：2022.09.02；授权公告号：CN 112861960 B；专利号：ZL 2021 1 0149496.9.
+[6] 金晶; 杨超: 基于多模态信息交互的零样本视觉定位方法、装置及设备，申请日期: 2022.3.28; 授权公告日: 2024.8.2; 专利号: ZL 202210315275.9.
+[7] 周威信；杨超：评分预测方法、装置、计算机设备和存储介质；申请日期：2019.11.06；授权公告日：2022.07.05；授权公告号：CN 110866637 B；专利号：ZL 2019 1 1074663.7.
+[8] 蒋斌；侯静；杨超：用于细粒度情感分析的相互增强转换方法；申请日期：2020.09.11；授权公告日：2022.02.08；授权公告号：CN 112100376 B；专利号：ZL 2020 1 0951154.4..
+[9] 蒋斌；周婉月；杨超：一种用于强化回复个性化表达的开放域对话方法；申请日期：2020.09.11；授权公告日：2022.02.08；授权公告号：CN 112100350 B；专利号：ZL 2020 1 0950990.0.
+[10] 蒋斌; 杨景旭; 杨超: 一种带有强泛化知识选择的开放域对话生成方法及系统，申请日期：2020.09.11; 授权公告日: 2024.1.5; 专利号 ZL 202010951173.7.
+[11] 蒋斌; 王仁君; 杨超:  一种结合多尺度特征聚合和提升策略的低光图像增强方法，申请日期：2022.3.17;  授权公告日: 2024.4.5; 专利号：Zl 202210278847.0.
+[12] 蒋斌; 曾威远; 杨超:  一种基于生成对抗网络的自调节文本生成图像方法，申请日期：2022.3.17；授权公告日: 2024.5.24; 专利号：ZL 202210267451.6.
+学生培养
+博士研究生
+2022级在籍  类成龙(硕博连读)
+2025级在籍  岳伟泽
+硕士研究生
+2011级毕业生  艾聪聪 (百度)
+2012级毕业生  彭书名 （湖南省工商银行）
+2014级毕业生  吕超（与李仁发老师共同指导）
+2016级毕业生  陈星合 （湖南工学院）
+2017级毕业生  周威信（字节跳动） 繆莲海（浙江天猫技术有限公司） 蒋梦琪（小米科技）
+王小婵（深圳vivo） 陈肯（恒生电子） 胡旭东（华为）
+2018级毕业生  李慧州（公安部）  林芳婷（腾讯科技有限公司）
+2019级毕业生  冯溯（湘江实验室，湖南大学、湖南省优秀硕士论文） 金晶（长沙银行）
+汪国庆（腾讯科技（上海）有限公司）
+2020级毕业生  王志宇（湖大攻读博士） 阮书琪（中车） 彭琳莉（中国电信）
+2021级毕业生  李焘（美团）
+2022级毕业生  熊泳杰（湘钢）  程思雨（比亚迪、湖南大学优秀硕士论文）
+2023级在籍   刘孟超
+2024级在籍   高俊豪  李书豪
+2025级在籍   陈恩
+本科生
+2011级毕业生  张文玉(新加坡读研)  纪伟伦  陈锦涛
+2012级毕业生  王燕  王欣(Yeshiva University)  聂琼（保研中国人民大学）
+2013级毕业生  朱元坤（美国英伟达NVIDIA）  赵桔  罗蔓  马伟
+2014级毕业生  李青波(香港中文大学，华为)  赖卓威  黄文倩  秦川  毛琳
+2015级毕业生  邓程（保送上海交通大学硕博连读）
+陈梓帆（保研北京大学） 潘威宇（保研国防科技大学）
+胡意（保研华中科技大学） 潘竹文 （保研华中科技大学）
+2016级毕业生  陈明康（字节跳动（上海））  戴凌锋（保研上海交通大学）
+刘妍妍（澳门大学读研）  苏亮（广东欧珀移动通信有限公司）
+2017级毕业生  陈春宇（湖大研究生） 陈洲源（保研） 吴永晖
+2018级毕业生  林肖彤（新加坡国立大学读研）   张菁菁 (德国弗莱堡大学读研)
+乔瑞昕（美国加州大学圣地亚哥分校UCSD读研）
+2019级毕业生  黄祯（香港大学读研）        郭梦鸽（格拉斯哥大学读研）
+栗雅澄（湖南大学读研）       李顺
+2020级毕业生  周文琦、宁巧、纪盼盼（均湖南大学读研）
+2021级毕业生  李承儒(东京大学读研)、邱汝康（湖南大学读研）、陈恩（湖南大学读研）
+2022级在籍   劳子墨（保研浙江大学）   赵燮（保研中国科学技术大学）
+龚明（保研中山大学）    盛浩元（保研中国科学技术大学）
+
+---
+
+## 杨科华
+
+- **网址**: https://csee.hnu.edu.cn/people/yangkehua
+- **姓名**: 杨科华
+- **邮箱**: khyang@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 大语言模型、多模态大模型、大数据分析
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：大语言模型、多模态大模型、大数据分析
+联系方式：khyang@hnu.edu.cn
+教师介绍
+杨科华，男，湖南新化，汉族，中共党员，1979年1月出生，副教授（2008年），博士。
+联系方式：湖南大学信息科学与工程学院,410082
+邮箱：khyang@hnu.edu.cnornlyang@gmail.com
+中文名：
+杨科华
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+khyang@hnu.edu.cn
+研究方向：
+大语言模型、多模态大模型、大数据分析
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+嵌入式与网络计算省重点实验室
+计算机工程系
+学院教师
+
+---
+
+## 杨胜
+
+- **网址**: https://csee.hnu.edu.cn/people/yangsheng
+- **姓名**: 杨胜
+- **邮箱**: yangsh0506@sina.com
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 机器学习、数据挖掘
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：机器学习、数据挖掘
+联系方式：yangsh0506@sina.com 13017182150
+教师介绍
+杨胜，男，博士，副教授
+研究方向：机器学习、数据挖掘
+主讲《数据挖掘》、《高级人工智能》、《机器学习》、《系统建模与仿真》、《计算机视觉系统》、《游戏设计与开发》、《计算机动画》、《网络监控与分析》、《面向对象程序设计》、《数据智能处理》等课程。
+发表论文30多篇，获专利1项。
+中文名：
+杨胜
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+13017182150
+电子邮件：
+yangsh0506@sina.com
+研究方向：
+机器学习、数据挖掘
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机科学系
+学院教师
+个人简历
+受教育经历
+1．1994/09-1998/06，大连理工大学，学士
+2．1998/09-2001/01，大连理工大学，硕士
+3．2001/03-2005/01，上海交通大学，博士
+研究工作经历
+2005/05-至今，湖南大学，信息科学与工程学院，副教授
+学术论文
+???
+1. Cao Shilong, Cai Jie, Yang Sheng (通讯作者), Wang Shulin. A clustering based feature selection methodusing feature information distance for text data.  LNCS: Intelligent Computing Theories andApplication - 12th International Conference. 2016, 122-132.
+2. Jie Cai, Jiawei Luo,Shulin Wang, Sheng Yang(通讯作者). Feature selection inmachine learning: a new perspective. Neurocomputing, 2018, 300:70-79. (SCI热点和高被引论文）
+3. Jie Cai，Wei Huang，Sheng Yang(通讯作者).A Selection Method for Denoising Auto Encoder Features Using CrossEntropy. LNCS:Intelligent Computing Theories and Application - 15th International Conference.2019, 479-490.
+4、Jiang Xiaoxiao; XieMingdong; Wang Shulin; Yang Sheng (通讯作者); Ponzi Scheme Identification of SmartContract Based on Multi Feature Fusion, ICIC2023, China, Zhengzhou, 2023. (CCFC类)
+5、Xu, Weijie; Tan,Jingwei; Wang, Shulin; Yang Sheng (通讯作者); Temporal Relation-Aware GlobalAttention Network for Temporal Action Detection, ICIC 2024, Tianjin, China,2024. （CCF C类）
+6. Yang Sheng, Zhao Jun. An algorithm for removing redundancy features in microarray data. The 2013 2nd International Conference on Mechatronic Sciences, Electric Engineering and Computer, Shenyang,China, 2013, December
+7. 郑雪梅, 杨胜. 一种基于多种特征集成的烟雾检测方法. 计算机科学与应用，2013，3(5):239-243.
+8. Jiefa Wu, Sheng Yang, Lingling Zhang. Pedestrian Detection Based on Improved HOG Feature and Robust Adaptive Boosting Algorithm. In: Proceedings of fourth International Congress on Image and Signal Processing, 2011, 1556-1560.
+9. 杨胜，李敏，彭振国，冯春. 一种基于FCM算法的遥感影像变化检测算法. 中国图象图形学报，2009，14（4）：572-578.
+10. Li Ming, Yang Sheng, Li Xian-wei. A head detection method based on curvature scale space. In Proceedings of the 3rd International Symposium on Intelligent Information Technology Application, 2009, 390-393.
+11. Li Xianwei,Yang Sheng，Wang Qi，Li Ming．Face Recognition Based on Wavelet Transform and PCA．In： 2009 Pacific-Asia Conference on Knowledge Engineering and Software Engineering．2009, 136-138.
+12. 张邦基,于德介,杨胜.基于小波变换与粗集理论的滚动轴承故障诊断. 中国机械工程, 2008,38(15):1793-1795.
+13. 王建锋, 杨胜. 一种新的概率支持向量机方法. 计算机工程与应用, 2008, 44(12):145-146.
+14. YANG Sheng, ZHANG Zhi, SHI Pengfei. A bidirectional feature selection method based on mutual information and redundancy-synergy coefficient. Journal of Harbin Institute of Technology, 2006, 13(3):299-306.
+等
+科研状况
+主持和参加的科研项目
+1. 国家自然科学基金：新型表达模式下的功能基因分析算法研究
+2. 国家自然科学基金：基于蛙眼视觉模型的运动目标检测、跟踪及交通场景分析方法研究
+3. 图像识别中选择性集成学习若干问题研究
+4. 智能视频技术中若干关键技术研究与开发
+5. 基于视频的智能交通系统通用嵌入式平台研究
+6. 基于Tof技术的人脸识别系统的研究与开发
+7. 基于AI云的视频图像分析处理系统，在研，主持
+8. 视频中行为识别关键技术研究与开发，在研，主持
+等
+学生培养
+李闯、吴晓蓉、王剑锋、李昕、李敏、余俊杰、李现伟、李明、王琦等30余人
+
+---
+
+## 尤志强
+
+- **网址**: https://csee.hnu.edu.cn/people/youzhiqiang
+- **姓名**: 尤志强
+- **邮箱**: you@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 容错计算、类脑计算、深度学习
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：容错计算、类脑计算、深度学习
+联系方式：you@hnu.edu.cn 13307486523(微信同号)
+教师介绍
+博士，副教授，博士生导师。1995年毕业于湖南大学应用数学专业，获理学学士学位，2002年在湖南大学获计算机应用专业工学硕士学位，2006年3月在日本国奈良先端科学技术大学大学信息处理学专业获工学博士学位。2006，2009年分别以日本国COE研究者、JASSO归国外国人研究者、NAIST访问研究者身份对日本国奈良先端科学技术大学院大学进行短期访问，2011年7月至2012年7月为国家公派访问学者(美国加州大学圣巴巴拉分校)。计算机学会容错计算专业委员会委员，湖南省普通高校青年骨干教师培养对象（2011），教育部新世纪优秀人才（2012）。
+中文名：
+尤志强
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+13307486523(微信同号)
+电子邮件：
+you@hnu.edu.cn
+研究方向：
+容错计算、类脑计算、深度学习
+联系地址：
+湖南大学信息科学与工程学院520
+所属机构：
+学院教师
+智能计算系
+科研项目
+1.   高性能忆阻卷积神经网络容错设计技术，国家自然科学基金面上项目(62074055),2021.01~2024.12，主持。
+2.   低功耗限制下VLSI电路的低费用确定性测试研究，国家自然科学基金面上项目（60673085），2007.1~2009.12, 主持。
+3.    教育部新世纪优秀人才支持计划（NCET-12-0165）,2013.1~2015.12, 主持。
+4.     忆阻神经网络可靠性设计方法研究，湖南省自然科学基金资助项目（2018JJ2064），2018.1~2020.12, 主持。
+5.    降低全扫描设计VLSI电路低测试功耗，低测试应用时间方法硬件开销的研究（教育部留学回国人员科研启动基金项目），2008.1~2009.12, 主持。
+6.    《深度学习发展历程与实践》课程内容建设，教育部产学合作协同育人项目(企业合作方：百度公司)，2019.5~2020.5, 主持。
+7.  集装箱箱号识别深度学习方法设计与实现，横向项目，2020.1~2020.12, 主持。
+8. 智能防御式平台软件系统的前台编码和UI设计，横向项目，2019.3~2019.4, 主持。
+9. 非易失性CMOS忆阻器及其构成的计算存储融合可重构交叉阵列架构，国家自然科学基金委员会，重大研究计划培育项目(91964108),2020.1~2022.12，参加。
+10. 拆分测试集到芯片与测试仪上的新技术，国家自然科学基金面上项目（61472123），2015.1~2018.12,参加。
+11. 异步无线传感器网络环境下的数据压缩关键技术，国家科技部863计划项目(2006AA01Z227)，2006.12~2008.12, 参加。
+12. 由被测电路自己产生测试向量的内建自测试技术研究，国家自然科学基金资助项目（60773207），2008.1~2010.12, 参加.
+主讲课程
+本科生：深度学习发展历程与实践、多元统计分析
+研究生：深度学习方法
+留学生：Integrated Circuit Design
+主要论文
+[1] Melnyk P, You Z, Li K. A high-performance CNN method for offline  handwritten Chinese character recognition and visualization, Soft Comput, 30  May 2019 (online). https://doi.org/10.1007/s00500-019-04083-3.
+[2] 胡飞，尤志强，刘鹏，邝继顺，基于忆阻器交叉阵列的卷积神经网络电路设计，计算机研究与发展，2018, 55(5): 1097-1107.
+[3] Yan Chen, Zhiqiang You, Yingjie Zhang, Jishun Kuang and Jing  Zhang, “A Novel Memristor-Based Restricted Boltzmann Machine for Contrastive  Divergence,” IEICE Electronics Express, vol. 15, no.2, Pages 20171062, Jan. 2018.
+[4] Peng Liu, Zhiqiang You, Jishun Kuang, Michael Elimu, Shuo Cai and  Weizheng Wang, “Logic operation-based Design for Testability method and  parallel test algorithm for 1T1R crossbar.” Electronics Letters 53(25):  1631-1632, 2017.
+[5] Zhiqiang You, Fei Hu, Liming Huang, et al. "A long  lifetime, low error rate RRAM design with self-repair module," Journal  of Semiconductors,2016,37(11):115004-5
+[6] Peng Liu, Zhiqiang You, Jishun Kuang, Zhipeng Hu, Heng Duan and  Weizheng Wang, "Efficient March test algorithm for 1T1R cross-bar with  complete fault coverage." Electronics Letters 52(18): 1520-1522, 2016.
+[7] PengLiu, Zhiqiang You, Jishun Kuang, Zhipeng Hu,Weizheng Wang, “Logic operation-basedDFT method and 1R memristive crossbar march-like test algorithm,” IEICEElectronics Express, vol. 12, no.23, pp20150839, Dec. 2015.
+[8] Weiwei Wang, Zhiqiang You,Peng Liu, Jishun Kuang, “An adaptive neural network A/D converter based on CMOS/memristor hybriddesign,”IEICE Electronics Express, vol. 11, no. 24, pp. 20141012, Dec. 2014.
+[9] BoshengLiu, Zhiqiang You, Xiangrao Li, Jishun Kuang, and Zheng Qin, “Comparator andHalf Adder Design Using Complementary Resistive Switches Crossbar,” IEICEElectronics Express, vol. 10, no. 13, p. 20130369, Jul. 2013.
+[10] ZhiqiangYou, Weizheng Wang, Peng Liu, Jishun Kuang, Zheng Qin, “A scan disabling-basedBAST scheme for test cost and test power reduction,” IEICE Electronics Express,vol.9, no. 2, 111-116, 2012.
+[11] 尤志强，彭福慧，邝继顺，张大方．一种基于BFT型拓扑结构片上网络低费用测试方法，电子学报2011,39（11）：2663-2669.
+[12] ZhiqiangYou,WeizhengWang, Zhiping Dou,Peng Liu, Jishun Kuang,“A scan disabling-basedBASTscheme for test cost reduction”,IEICE Electronics Express, vol.8, no. 16, 1367-1373, 2011.
+[13] ZhiqiangYou, Jiedi Huang, Michiko Inoue, Jishun Kuang, Hideo Fujiwara, “Capture in TurnScan for Reduction of Test Data Volume, Test Application Time and Test Power” IEEE Proc. ATS,2010, 371-374.
+[14] Zhiqiang You, Jiedi Huang,Jishun Kuang, Michiko Inoue, Hideo Fujiwara, A Response Compactor for ExtendedCompatibility Scan Tree Construction, IEEE Proc. ASICON, pp.609-612, 2009.
+[15] 成永升，尤志强，邝继顺．扩展相容性扫描树中的测试响应压缩器设计，计算机辅助设计与图形学学报，2009，21(4): 500-504.
+[16] Gui Dai, Zhiqiang You, Jishun Kuang, Jiedi Huang,“DCScan: A Power-AwareScan Testing Architecture” IEEE Proc. ATS,2008, 343-348.
+[17] Yongsheng Cheng, Zhiqiang You,  Jishun Kuang,“Test Response Data Volume and Wire Length Reductions for ExtendedCompatibilities Scan Tree Construction”, 4th IEEE International Symposium on Electronic Design, Test &Applications(DELTA’2008),pp. 308-313, Jan. 2008.
+[18] Zhiqiang You, Tsuyoshi Iwagaki, Michiko Inoue and Hideo Fujiwara, “A low power deterministic test using scan chain disable technique,” IEICE Trans. on Information & Systems, Vol. E89-D, No. 6, pp.1931-1939, Jun. 2006.
+[19] Zhiqiang You, Michiko Inoue, Hideo Fujiwara, “Extended Compatibilities for Scan Tree Construction”, Digest of papers,11th IEEE European Test Symposium (ETS06), pp. 13-18, May 2006.
+[20] Zhiqiang You, Ken-ichi Yamaguchi, Michiko Inoue, Jacob Savir and Hideo Fujiwara , “Power-Constrained Test Synthesis and Scheduling Algorithms for Non-Scan BIST-able RTL Data Paths”. IEICE Trans. on Information & Systems, Vol. E88-D, No. 8, pp.1940-1947, Aug. 2005.
+[21] Zhiqiang You, Tsuyoshi Iwagaki, Michiko Inoue, Hideo Fujiwara, “A Low Power Deterministic Test Using Scan Chain Disable Technique”, IEEE 6th Workshop on RTL and High Level Testing (WRTLT’05), pp.184-191, July 2005.
+[22] Zhiqiang You, Ken-ichi Yamaguchi, Michiko Inoue, Jacob Savir and Hideo Fujiwara, “Power-constrained test scheduling for RTL datapaths of non-scan BIST schemes”. IEEE Proc. ATS, 2004.32-39.
+[23] Zhiqiang You, Michiko Inoue and Hideo Fujiwara, "On the non-scan BIST schemes under power constraints for RTL data paths," IEEE 4th Workshop on RTL and High Level Testing (WRTLT'03), pp.14-21, Nov. 2003.
+[24] 尤志强, 张大方. 数据等概率分档排序算法的定量研究. 计算机学报. 2003, 26(1): 45-50.
+[25] KUANG JiShun, YOU ZhiQiang, ZHU Qijian, MIN Yinghua. IDDT : Fundamentals and Test Generation. Journal of Computer Science & Technology, 2003, 18(3): 299-307.
+[26] 尤志强, 张大方, 刘先霞. 基于布尔过程论的波形和波形空间的性质及应用. 电子学报. 2000, 28(8): 107-109.
+
+---
+
+## 袁进
+
+- **网址**: https://csee.hnu.edu.cn/people/yuanjin
+- **姓名**: 袁进
+- **邮箱**: yuanjin@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机视觉包括目标检测、目标跟踪，图像语义标注等；多媒体信息检索包括图像搜索、视频搜索；机器学习；自动驾驶。
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机视觉包括目标检测、目标跟踪，图像语义标注等；多媒体信息检索包括图像搜索、视频搜索；机器学习；自动驾驶。
+联系方式：yuanjin@hnu.edu.cn 18573112060
+教师介绍
+袁进，博士、副教授、博士生导师。2008年，复旦大学计算机信息与技术系毕业，获硕士学位；2013年，新加坡国立大学计算机学院毕业，获博士学位；2014年9月加入湖南大学信息与工程学院计算机工程系。
+邮箱：yuanjin@hnu.edu.cn
+中文名：
+袁进
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+18573112060
+电子邮件：
+yuanjin@hnu.edu.cn
+研究方向：
+计算机视觉包括目标检测、目标跟踪，图像语义标注等；多媒体信息检索包括图像搜索、视频搜索；机器学习；自动驾驶。
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+学院教师
+智能计算系
+个人简历
+袁进，理学博士、副教授、博士生导师。2008年，复旦大学计算机信息与技术系数据库专业毕业，获硕士学位；2013年，新加坡国立大学计算机学院多媒体专业毕业，获博士学位；2014年9月加入湖南大学信息科学与工程学院计算机工程系。
+研究领域
+计算机视觉包括目标检测、目标跟踪，图像语义标注等；
+多媒体信息检索包括图像搜索、视频搜索；
+机器学习；
+自动驾驶。
+主讲课程
+本科生课程：人工智能，机器智能，多媒体技术
+研究生课程：人工智能导论
+留学生课程：Advanced Artificial Intelligence
+学术论文
+1.    Guojin Zhong，Qianjun Zhang，Jin Yuan*，Xuan Liu. Making Your Object Camouflage: A Training-Free Diffusion Model for Controllable Camouflaged Image Generation. ACM International Conference on Multimedia, 2026. （CCF A）
+2.    Xu Zhang, Jin Yuan*, BinHong Yang, Xuan Liu, Qianjun Zhang, Yuyi Wang, Zhiyong Li, Hanwang Zhang. Scene Graph-guided SegCaptioning Transformer with Fine-grained Alignment for Controllable Video Segmentation and Captioning. IEEE Transactions on Image Processing(T-IP), 2026. (CCF A)
+3.    Xu Zhang, Jiabin Fang, Zhuoming Ding, Jin Yuan*, Xuan Liu, Qianjun Zhang, Zhiyong Li. Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing, 2026. (SCI一区)
+4.    Jiabin Fang, Xu Zhang, Zhuoming Ding, Xuan Liu, Meifang Zhang, Jin Yuan*, Yuyi Wang, BEVFormer++: Temporal Amplified BEVformer with Explicit Parameter Prediction for Automatic Trajectory Prediction, IJCAI, 2026 (CCF B)
+5.         Kang Zeng，Guojin Zhong，Jintao Cheng， Jin Yuan*，Zhiyong Li ，AVAM: a UniversalTraining-free Adaptive Visual Anchoring Embedded into Multimodal Large LanguageModel for Multi-image Question Answering， ICCV，2025（CCF A）
+6.      Jinhong Hu, GuojinZhong, Jin Yuan*, Wenbo Pan, XiaopingWang, MCT-CCDiff:Context-aware Contrastive Diffusion model withMediator-bridging Cross-modalTransformer for Image Change Captioning, IEEE Transactions on Image Processing(T-IP), 2025. （CCF A）
+7.        Guojin Zhong,  Pan Wang, JinYuan*, Zhiyong Li, Long Chen, Multi-Resolution DecomposableDiffusion Model for Non-Stationary Time Series Anomaly Detection, ICLR, 2025. (CAAI A)
+8.        Guojin Zhong, Jinhong Hu, Jiajun Chen, Jin Yuan*,Wenbo Pan. DECIDER: Difference-aware Constrastive Diffusion Model withAdversarial Perturbations for Image Change Captioning, AAAI, 2025. （CCF A）
+9.        Xu Zhang, Jin Yuan*, Hanwang Zhang , GuojinZhong, Yongsheng Zang, Jiacheng Lin , Zhiyong Li*. SGDiff: Scene Graph GuidedDiffusion Model for Image Collaborative SegCaptioning, AAAI, 2025.（CCF A）
+10.        Xu Zhang, Kailun Yang,Jiacheng Lin, Jin Yuan*,Zhiyong Li, and Shutao Li. PVPUFormer: Probabilistic Visual Prompt UniffedTransformer for Interactive Image Segmentation, IEEETransactions on Image Processing, VOL.33, 2024.（CCF A）
+11.  Guojin Zhong, Yifu Guo,  JinYuan*,Qianjun Zhang, Weili Guan, Long Chen. PROMOTE:Prior-Guided DiffusionModel with Global-Local Contrastive Learning for Exemplar-Based ImageTranslation, ACM International Conference on Multimedia,2024. （CCF A）
+12.        Zian Wang , Xianghui Liao , Jin Yuan* ,You Yao , Zhiyong Li, CDC-YOLOFusion: Leveraging Cross-scale DynamicConvolution Fusion for Visible-Infrared Object Detection, in IEEE Transactionson IntelligentVehicles,2024. (SCI一区) 代码:  https://github.com/Morph-3800/CDC_YOLOFusion
+13.  Zhiqiang Xiao, Jiacheng Lin,Jiajun Chen, Haolong Fu, Yifan Li, JinYuan*, and Zhiyong Li. PrivacyPreservation Network with Global-aware Focal Loss for Interactive PersonalVisual Privacy Preservation. Neurocomputing,2024. (SCI二区)
+14.     HaolongFu, Jin Yuan*,etc. CF-Deformable DETR: an End-to-endAlignment-free Model for Weakly Aligned Visible-infrared Object Detection[C].International Joint Conference on Artificial Intelligence，2024. （CCF A）
+15.       Haolong Fu, Hanhao Liu, JinYuan*,Xuan He, Jiacheng Lin, and Zhiyong Li,YOLO-Adaptor: A Fast Adaptive One-StageDetector for Non-Aligned Visible-Infrared Object Detection, IEEE Transactionson Intelligent Vehicles, 2024.（SCI一区）
+16.     Xuan He, Zian Wang, Jiacheng Lin, Ke Nai, Jin Yuan*, and Zhiyong Li，DO-SA&R:Distant Object Augmented Set Abstraction and Regression forPoint-Based 3D Object Detection. IEEE Transactions on Image Processing,2023.（CCF A）代码：https://github.com/mikasa3lili/
+17.    Guojin Zhong, JinYuan*,Pan Wang, Kailun Yang, Weili Guan, Zhiyong Li. Contrast-augmented DiffusionModel with Fine-grained Sequence Alignment for Markup-to-Image Generation, ACMInternational Conference on Multimedia,2023. （CCF A）代码：https://github.com/zgj77/FSACDM
+18.    Lin, Jiacheng, Dai, Xianwen, Nai, Ke, Yuan, Jin*,Li,Zhiyong, Zhang, Xu, and Li, Shutao . " BRPPNet: Balanced privacy protectionnetwork for referring personal image privacy protection". Expert Systemswith Applications, 233 (2023): 120960.（SCI一区）代码：https://github.com/lab206/BRPPNet
+19.    He, Xuan, Jin Yuan*,Mengyao Li, Runmin Wang, Haidong Wang, and Zhiyong Li. "A Text-SpecificDomain Adaptive Network for Scene Text Detection in theWild." Applied Intelligence (2023):1-13.（SCI二区）代码：https://github.com/mikasa3lili/
+20.    He, Xuan, Zhiyong Li, JiachengLin, KeNai, Jin Yuan, Yifan Li, and Runmin Wang." Domainadaptive multigranularity proposal network for text detection under extremetraffic scenes." Computer Vision and Image Understanding 233(2023): 103709.（CCF B）代码：https://github.com/mikasa3lili/
+21.    He, Xuan, Fan Yang, Jiacheng Lin,HaolongFu, Jin Yuan*, Kailun Yang, and ZhiyongLi."SSD-MonoDETR: Supervised Scale-aware Deformable Transformer forMonocular3D Object Detection," in IEEE Transactions on IntelligentVehicles,2023.（SCI一区）代码：https://github.com/mikasa3lili/
+22.    Jin Yuan*, Shuai Zhu, Shuyin Huang, Hanwang Zhang, YaoqiangXiao, Zhiyong Li*, and Meng Wang, Discriminative Style Learning forCross-domain Image Captioning, IEEE Transactions on Image Processing,2022,PP:1-14.（CCF A）
+23.    Handong Wang, Xuan He, Zhiyong Li*, Jin Yuan*,andShutao Li, JDAN: Joint Detection and Association Network for Real-Time OnlineMulti-Object Tracking, ACM Transactions on Multimedia Computing, Communications,and Applications, 2022, Accepted. （CCF B）
+24.    Haidong Wang, Zhiyong Li*, Ke Nai, Jin Yuan, ShutaoLi, XianghuaLi, BTN: Neuroanatomical aligningbetween visual object tracking in deep neural network and smooth pursuit in brain. Neurocomputing 486: 16-26 (2022). (SCI 二区)
+25.    Zhiyong Li*，ChenmingHu, Ke Nai, Jin Yuan, Siamese target estimation network withAIoU loss for real-time visual tracking, Journal of Visual Communication andImage Representation, 77(6), 2021. （CCF C）
+26.    Zhiyong Li*，JingyiLv, Ying Chen, Jin Yuan, Person re-identification with partprediction alignment, Computer Vision and Image Understanding, 205, 2021.  (CCFB）
+27.    Yaoqiang Xiao, Yi Li, Jin Yuan, History-basedattention in seq2seq model for multi-label text classification, Knowledge-BasedSystems, 2021. (CCF C）
+28.    Jin Yuan*，LeiZhang，Songrui Guo，Yi Xiao，and Zhiyong Li, Image captioning with a joint attention mechanism byvisual concept samples, ACM Transactions on Multimedia Computing, Communications,and Applications, 2020, 16(3). （CCF B）
+29.    Zhihao Ye，GongyaoJiang， Ye Liu， Zhiyong Li, JinYuan* ， Document and Word RepresentationsGenerated by Graph Convolutional Network and BERT for Short Text Classification，European Conference on ArtificialIntelligence 2020.（CCF B）
+30.    Yiqiang Wu, Zhiyong Li, Ying Chen , Ke Nai , JinYuan*, Real-time traffic sign detection and classificationtowards real traffic scene. Multimedia Tools andApplications, 79(25), 18201-18219,2020. （CCF C）
+31.    Xianyi Zhu, Jin Yuan*, Yi Xiao,YanZheng, Zheng Qin, Stroke classification for sketch segmentation byfine-tuning a developmental vggnet16. Multimedia Tools andApplications, 79(45),33891-33906，2020. （CCF C）
+32.    Jin Yuan*, Heng-Chang Xiong, Yi Xiao, Weili Guan, Meng Wang, Richang Hong, andZhiYong Li, Gated CNN: Integrating multi-scale feature layers for object detection,Pattern Recognition, 105 (2019) 107-131. （CCF B）
+33.    Jin Yuan*, Xingxing Hou, Yaoqiang Xiao, Da Cao and Liqiang Nie, Multi-CriteriaActive Deep Learning for Image Classification. Journal of Knowledge-basedSystem, 2019,172: 86-94. （CCF C）
+34.    Y. Chen, J. Yuan, Z. Y. Li, Y. Q. Wu,M.Nouioua, G. Q.Xie,“Person re-identification based on re-ranking withexpanded k-reciprocal nearest neighbors”, Journal of Visual Communication and ImageRepresentation, volume 58,pp 486–494, 2019. （CCF C）
+35.    Y. Zheng, X. Cao, Y. Xiao, X.Y. Zhu and J. Yuan*, “Joint residual pyramidfor joint image super-resolution”, Journal of Visual Communication and ImageRepresentation, volume 58, pp 53-62, 2019. （CCF C）
+36.    Y. Xiao, C. Pan, Y. Zheng, X. Y. Zhu, Z. Qin, and J.Yuan,“ Gradient- Guided DCNN for Inverse Halftoning and Image Expanding”, AsianConference on Computer Vision 2018. （CCF C）
+37.    J. Yuan, D. Xu, H. C. Xiong and Z. Y. Li, “A Novel Object Tracking Algorithmbased on Enhanced Perception Hash and Online Template Matching”, IEEE InternaltionalConference on Natural Computation, Fuzzy Systems and Knowledge Discovery, 2016.
+38.    Jin Yuan*, Yiliang Zhao, Huangbo Luan, Meng Wang and Tat-seng Chua. Memory Recallbased Video Search: Finding Videos You Have Seen Before based on Your Memory, ACMTransactions on Multimedia Computing, Communications, and Applications,2014,10(2). （CCF B）
+39.    X. J. Zhao, J. Yuan, M. Wang, G. D. Li, R. C. Hong, Z. J. Li,T.–S. Chua, “Video recommendation over multiple information sources.” Journalon Multimedia System, volumn 19, page 3-15, 2013. （CCF C）
+40.    J. Yuan, H. -B. Luan, D. J. Hou, H. Zhang, Y. -Tao Zheng, Z. –J.Zha, T.-S.Chua, “Video Browser Showdown by NUS.” ACM International Conferenceon Multimedia Modeling, page 642-645, 2012. （CCF C）
+41.    X. J. Zhao, J. Yuan, R. C. Hong,M.Wang, Z. J. Li, T. -S. Chua, “On Video Recommendation over SocialNetwork.“,ACM International Conference on Multimedia Modeling，page 149-160，2012. （CCF C）
+42.    X. J. Zhao, J. Yuan, G. D. Li, T. -S. Chua.”Relationship Strength Estimation for Online Social Networks with the Study on Facebook”,Journal on Neurocomputing, volumn 95, page 89-97, 2012. （CCF C）
+43.    Jin Yuan, Zhengjun Zha, Yantao Zheng, Meng Wang, Xiangdong Zhou and Tat-sengChua, Utilizing Related Samples to Enhance Interactive Concept-Based VideoSearch, IEEE Transactions on Multimedia 13(6): 1343-1355, 2011. （CCF B）
+44.    Jin Yuan, Zhengjun Zha, Yantao Zheng, Meng Wang, Xiangdong Zhou and Tat-sengChua, Learning Concept Bundles for Video Search with Complex Queries, ACMInternational Conference on Multimedia, 2011. （CCF A）
+45.    X. J. Zhao, G. D. Li, M. Wang, J. Yuan, Z.-JZha, Z. J. Li, T.-S Chua，“IntegratingRich Information for Video Recommendation with Multi-Task Rank Aggregation”,ACM International Conference on Multimedia, 2011. （CCF A）
+46.    J. Yuan, Z. -J. Zha, Z. D. Zhao, X. D. Zhou, and T. -S. Chua, “Utilizingrelated samples to learn complex queries in interactive concept-based videosearch.” ACM International Conference on Image and Video Retrieval, 2010. （CCF B）
+47.    X. Y. Chen, J. Yuan, L. Q. Nie, Z.-J.Zha, S. C. Yan and T. -S. Chua, “TRECVID 2010 Known-item Search byNUS”,TRECVID Workshop, 2010.
+科研项目
+横向项目1.自动的车辆重定位技术，2022（主持）
+2.多媒体智能检索技术,2022（主持）
+3.模态有缺失环境下的跨膜台目标感知技术,2023（主持）
+4.AI图像自动生成技术,2023（主持）
+5.动态障碍物长时轨迹预测技术研究,2024（主持）
+纵向项目1.交互式可控图像描述迁移学习关键技术研究（主持，国家自然科学基金面上，2023-2026）
+2.城市智能客车多模态协同感知与安全高效行驶关键技术研究（参与，国家自然科学基金，2022-2025）
+3.边缘计算中异常检测及自适应网络控制研究（参与，国家自然科学基金，2020-2023）
+4.面向光纤无线融合系统的混沌加密技术及其性能研究（参与，国家自然科学基金，2020-2023）
+5.自动驾驶系统的CPS计算架构与视觉感知方法研究（参与，国家自然科学基金，2020-2023）
+6.基于深度神经网络的交互式图像编辑与视频颜色编辑（参与，国家自然科学基金，2019-2021）
+7.基于多模态数据融合的短视频信息检索及推荐方法研究（参与，国家自然科学基金，2019-2021）
+8.面向微博的用户动态兴趣建模和智能推荐方法研究（参与，国家自然科学基金，2018-2020）
+9.交互式cosplay动漫数字表演系统（主持，湖南省科技计划项目，2017-2019）
+10.基于复杂查询类型的多媒体检索（主持，国家自然科学基金，2016-2018）
+学术奖励
+1．尚昊璞，李胜奇，王嘉淇，袁进，“盲人之窗-针对盲人的现实识别系统”，第八届“华为杯”中国大学生智能设计竞赛，一等奖，2018；
+2．任晓凡，庞家强，李青青，袁进，“基于多摄像头的跨区域特定车辆检索系统”. 第七届“华为杯”中国大学生智能设计竞赛，一等奖，2017；
+3．鲁信金，陈瑶，尹业荣,袁进，“车标识别系统”，第六届“华为杯”中国大学生智能设计竞赛，二等奖，2016；
+4．袁进，“湖南大学2018年度创新创业优秀指导教师”，2018；
+5．廖琨，黄淑茵，袁进，“Integrating local visual representation and feature information for vehicle re-identification”, ACM ICFEICT,2021, best paper。
+6. 袁进，朱帅，“基于风格的跨域图像语义描述技术”， 湖南大学优秀硕士学位论文。
+7. 袁进，钟国金，“基于扩散模型的可控图像生成技术研究”，湖南大学优秀硕士学位论文。
+8. 袁进，王盼，“基于扩散模型的非平稳时间序列异常检测方法研究”，湖南大学优秀硕士学位论文。
+
+---
+
+## 余小游
+
+- **网址**: https://csee.hnu.edu.cn/people/yuxiaoyou
+- **姓名**: 余小游
+- **邮箱**: yuxiaoyou@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 人工智能无线电理论；一体化技术（雷达通信/感导通/通导遥/探干侦通一体化，空天地一体化，人机一体化）；无线电干扰与抗干扰技术；智能媒体与认知（多媒体信息处理，区块链/数字孪生/元宇宙，虚拟人/人效增强）等
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：人工智能无线电理论；一体化技术（雷达通信/感导通/通导遥/探干侦通一体化，空天地一体化，人机一体化）；无线电干扰与抗干扰技术；智能媒体与认知（多媒体信息处理，区块链/数字孪生/元宇宙，虚拟人/人效增强）等
+联系方式：yuxiaoyou@hnu.edu.cn
+教师介绍
+余小游，工学博士，研究员/副教授，博士生导师。湖南大学感通算控一体化技术实验室主任，湖南大学优秀中共党员。IEEE会员，湖南省通信学会理事、湖南省电子学会通信电路与系统专委会理事。《电子学报》、《信号处理》、《IEEE_Journal_on_selected_Areas_in_communications》、《IEEE_Communications_Magazine》、《IEEE_Communications_on_Communications》、《IEEE_Communications_Letters》、《IEEE_Wireless_Communications_Letters》等电子信息领域权威期刊审稿人。在国内外著名学术刊物上已经发表论文50余篇。主持国家级和省部级项目十余项，主持或参与其它项目二十余项。曾获国家级科技进步三等奖、部委级科技进步一等奖、中国宇航学会优秀论文奖等。Email:yuxiaoyou@hnu.edu.cn
+中文名：
+余小游
+英文名：
+学历：
+职称：
+副教授
+联系电话：
+电子邮件：
+yuxiaoyou@hnu.edu.cn
+研究方向：
+人工智能无线电理论；一体化技术（雷达通信/感导通/通导遥/探干侦通一体化，空天地一体化，人机一体化）；无线电干扰与抗干扰技术；智能媒体与认知（多媒体信息处理，区块链/数字孪生/元宇宙，虚拟人/人效增强）等
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+通信工程系
+学院教师
+个人简历
+1999年1月，国防科技大学，讲师、副教授；
+2008年1月起，湖南大学，副教授、硕士/博士生导师；
+2023年9月起，湖南先进技术研究院，研究员/智能卫星领域科学家（兼）。
+科研状况
+主要科研领域与研究方向（包括但不限于）：（1）无线通信：凸优化/压缩感知/类脑计算理论及其应用；轨道角动量（OAM）通信与涡旋电磁波；阵列信号处理；大规模MIMO系统；5G/6G移动通信系统；人工智能无线电（AI Radio）。（2）电子信息系统及其一体化：雷达通信一体化（雷达通信共存技术；雷达通信双功能系统）；感导通一体化；探干侦通一体化；定位导航授时（PNT）；人机一体化；人效增强。（3）无线电干扰与抗干扰：复杂电磁环境及其可视化；干扰场/毁伤场；系统间电磁兼容；抗干扰防毁伤；同时多频点多波束阵列天线；抗干扰无人系统；低轨星座系统电磁兼容与干扰监测；应急救援装备与信息管理系统。（4）智能媒体与认知：多媒体信息处理；知识图谱、媒体大数据及其可视化；数字孪生、元宇宙、区块链；数字资产、数字人、人效增强等。
+主要研究基础与发展前景：自2009年以来，本课题组投入50余名研究生、高年级本科生，以及700多万元的科研经费，对上述三个领域的十余个研究方向进行了预先研究和或学术探讨，对相关的基础理论、核心算法、基本原理进行了深入的研究，现已处于体系和产品形成的关键阶段，也是高水平成果（论文、著作、专利、著作权等）产出的加速阶段。研究成果在相关民用和国防科技领域具有广阔的应用前景。
+目前，课题组的科研项目与研究经费充足，研究人员待遇优厚，热忱欢迎对上述研究方向感兴趣的高年级本科生、硕士研究生、博士研究生、博士后、访问学者加入课题组。
+学术论文
+1. Xiaoyou Yu*, Tianchu Li, Ziyun Tian, Miao Yu. Deep Learning Based Hybrid Beamforming for mmWave Dual-Functional Radar-Communication. IEEE Latin America Tramsactions, Vol. 22 (10), 29 September 2024.
+2. Qian Ma, Xiaoyou Yu*, Li Tu, Zukun Lu*. Ultimate channel capacity analysis of the UCA-OAM system with a deficient-rank channel matrix. Frontiers in Physics, Vol. 11, 23 November 2023. DOI: 10.3389 / fphy. 2023. 1217583  (SCI, WOS: 001117881900001)
+3. Xiaoyou Yu*, Li Tu, Qi Yang, Miao Yu, Zhu Xiao, and Yongdong Zhu. Hybrid Beamforming in mmWave Massive MIMO for IoV with Dual-functional Radar Communication, IEEE Transactions on Vehicular Technology, Vol. 72(7): 9017-9030, July, 2023. DOI: 10.1109/TVT.2023.3247747. (SCI, JCR Q1, WOS:001040905800055)
+4. Baiyu Li, Jia Qiao, Zukun Lu*, Xiaoyou Yu*, Jie Song, Baojun Lin, and Xianghao Li. Influence of Sweep Interference on Satellite Navigation Time-domain Anti-jamming. Frontiers in Physics, 9 January 2023. DOI: 10.3389/fphy.2022.1063474(SCI, WOS: 000921455500001)
+5. Yu Xiaoyou, Yang Qi, Xiao Zhu*, Chen Hongyang, Havyarimana V., and Han Zhu. A Precoding Approach for Dual-Functional Radar-Communication System with One-Bit DACs. IEEE Journal on Selected Areas in Communications, Vol. 40(6): 1965-1977, June, 2022. DOI: 10.1109/JSAC.2022.3155532. (JCR/中科院/CCF SCI 1区；通信/电子/电气/计算机领域：顶级刊物；WOS: 000797418900019)
+6. Huang Yourong , Xiao Zhu , Yu Xiaoyou , et al. Road Network Construction with Complex Intersections Based on Sparsely Sampled Private Car Trajectory Data. ACM Transactions on Knowledge Discovery from Data, 2019, 13(3):1-28. (SCI, WOS: 000495427600009)
+7. Bu Renfei, Wang Shilian and Yu Xiaoyou. Blind channel estimation and phase ambiguity elimination in MIMO-OFDM UWA communications. 2016 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2016, pp.1-6, doi: 10.1109/ICSPCC.2016.7753711. (SCI, WOS: 000389649700126)
+8. Zhang Beirui, Yu Xiaoyou* , Ye Heng et al. A DOA Estimation Algorithm from Sparse Representation Perspective for Vehicular Application[C]// 2016 2nd Workshop on Advanced Research and Technology in Industry Applications (WARTIA-16). 2016. (SCI, WOS: 000388364600258)
+9. Ma Juan , Yu Xiaoyou* , Ye Heng , et al. High Resolution DOA Estimation for Vehicular Radar and Communication Integration System[C]// International Conference on Environment. 2016. (SCI, WOS: 000412056500145)
+10. Li Huanghe , Yu Xiaoyou* , Ye Heng , et al. A Novel DOA Measurement Approach for Coherent Signals In MIMO-OFDM System[C]// 2016 2nd Workshop on Advanced Research and Technology in Industry Applications (WARTIA-16). 2016. (SCI, WOS: 000388364600260)
+11. Shi Juqi , Yu Xiaoyou*, Ye Heng , et al. A Novel Subspace Based DOA Estimation Method for Vehicular Application[C]// 2016 2nd Workshop on Advanced Research and Technology in Industry Applications (WARTIA-16). 2016. (SCI, WOS: 000388364600259)
+12. Yu Xiaoyou* , Zhao Peng . A Novel OFDM Radar Algorithm in Vehicular Environment[J]. Applied Mechanics & Materials, 2014, 494-495:86-90. (SCI, WOS: 000338690800020)
+13. Yu Xiaoyou*, Yang Yu and Ding Jinjun. Satellite network design method applicable to orbit determination and communication for GNSS. 2013 IEEE 4th International Conference on Software Engineering and Service Science, 2013, pp. 886-889, doi: 10.1109/ICSESS. 2013.6615447. (SCI, WOS: 000346301300205)
+14. Yu Xiaoyou*, Bai Yubing, Xu Jun, Chen Tiejun and Yin Lin. Visual simulation of the radar detection range under complex atmospheric environment," 2013 IEEE 4th International Conference on Software Engineering and Service Science, 2013, pp. 1033-1036, doi: 10.1109/ICSESS. 2013.6615483. (SCI, WOS: 000346301300241)
+15. Yu Xiaoyou*, Chen Tiejun, Bai Yubing and Ying Ling. Situation assessment method based on rough-vague sets and D-S evidence theory. 2013 IEEE 4th International Conference on Software Engineering and Service Science, 2013, pp. 746-749, doi: 10.1109/ICSESS.2013.6615413. (SCI, WOS: 000346301300171)
+16. Samuel Oru Besong, Yu Xiaoyou*, Li Bin, Hou Weibing, Wang Xiaochun. A Novel FFT/IFFT Based Peak-to-Average Power Reduction Method for OFDM Communication Systems Using Tone Reservation[C]// ICSIP 2010;International conference on signal and information proceeding. 2010: 1-4. (SCI, WOS: 000295933400141 )
+17. Wang Xiaochun, Samuel Oru Besong, Yu Xiaoyou*, Chen Chaoyan and Zhang Donghai. A Novel PAPR Reduction Method for Advanced Wireless and Mobile OFDM System. 2011 7th International Conference on Wireless Communications, Networking and Mobile Computing, 2011, pp. 1-4, doi: 10.1109/wicom. 2011.6040061. (SCI, WOS: 000305092100193)
+18. Yu Miao, Yu Xiaoyou, Zeng Shengyan, Yang Qi. Equal Sinusoidal Division of Array Manifold Matrix Based Direction-of-Arrival Estimation for Dual-functional Radar-communication. Journal of Physics: Conference Series, 2021, 1972(1):012007 (7pp).(EI)
+19. Yu Xiaoyou, Yao Lihong, Huang Yangbo, Zhang Yonghu, Sun Guangfu. Distortion error evaluation indexes of binary offset carrier modulation signals[J]. Journal of National University of Defense Technology, Vol. 38(3): 55-60, June 28, 2016. (EI) : Chinese
+20. Yu Xiaoyou, Gao Tingting, Sun Guangfu, et al. Weak GNSS signal tracking algorithm based on variable dimension Kalman filter[J]. Journal of National University of Defense Technology, Vol.37(3): 56-60, June 28, 2015.(EI) : Chinese
+21. Yu Xiaoyou, Xing Haojie, Li Pengpeng. Array channel mismatch model based intersection of frequency spectrum. Journal of Computational Information Systems, Vol.11 (15): 5599-5606, Auguest 1, 2015. (EI)
+22. Yu Xiaoyou, Chen Xing, Yang Gaobo. A new vehicle-mounted radar range and velocity measurement approach in Radar-communication integration system. Journal of Computational Information Systems, Vol.11 (18): 6621-6628, September 15, 2015.(EI)
+23. Yu Xiaoyou, Yin Ling, Chen Tiejun , Bai yubing. Power Allocation Algorithm of Opportunities Cooperative Relay System Over Nakagami-m Fading Channels. Information Technology Journal, 2013, 12(7):1380-1386.(EI)
+24. Liu Chaobo, Yu Xiaoyou. Efficient min-sum decoding of LDPC codes based on layer schedules. 2012 IEEE International Conference on Information Science and Technology, 2012, pp. 882-885, doi: 10.1109/ICIST.2012.6221774.(EI)
+25. Samuel Oru Besong, Yu Xiaoyou, Wang Xiaochun. A Hybrid PAPR Reduction Technique Using FFT/IFFT Based Tone Reservation and SLM with No Side Information[C]//2011 International Conference on Multimedia and Signal Processing: 353-356, doi: 10.1109/CMSP.2011.163.(EI)
+26. Yu Xiaoyou, Yu Fang, Hou Weibing, Wang Xiaochun. State-of-the-Art of Transmission Protocols for Deep Space Communication Networks[C]//2010 First International Conference on Networking and Distributed Computing, 2010, pp. 123-127, doi: 10.1109/ICNDC.2010.33.(EI)
+27. Yu Xiaoyou, Zhou Ying. A novel multi-block OFDM structure for vehicular communications. Applied Mechanics and Materials//Vehicle, Mechatronics and Information Technologies II. Vol.543-547 :395-399, 2014. DOI: 10.4028/www.scientific.net/AMM.543-547.395.(EI)
+28. Yu Xiaoyou, Zhou Mingqian. A DOA estimation algorithm in OFDM radar-communication system for vehicular application. Advanced Materials Research//Progress in Applied Sciences, Engineering and Technology, Vol.926-930: 1853-1856, 2014. DOI: 10.4028/www.scientific.net/ AMR.926-930.1853. (EI)
+其余论文：30余篇（略）。
+
+---
+
+## 章成源
+
+- **网址**: https://csee.hnu.edu.cn/people/zhangchengyuan
+- **姓名**: 章成源
+- **邮箱**: cyzhangcse@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 时空多媒体数据的查询与处理、缺失数据处理、图数据分析、图数据挖掘和机器学习
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：时空多媒体数据的查询与处理、缺失数据处理、图数据分析、图数据挖掘和机器学习
+联系方式：cyzhangcse@hnu.edu.cn
+教师介绍
+章成源，男，博士，副教授。2008年于中山大学获得学士学位；2011和2015年先后获得于新南威尔士大学计算机科学与工程学院硕士学位和博士学位。2015.4-2016.4于新南威尔士大学信息科学与工程学院数据库组担任研究助理。2016年-2020年担任中南大学讲师。2020年，湖南大学人才引进（副教授职称）加入信息科学与工程学院。
+主要研究领域包括时空多媒体数据的查询与处理、缺失数据处理、图数据分析、图数据挖掘和机器学习等。主持国家自然科学基金青年基金1项，湖南省自然科学基金青年基金1项，参与国家自然科学基金2项。在相关领域发表论文近30篇。
+中文名：
+章成源
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+cyzhangcse@hnu.edu.cn
+研究方向：
+时空多媒体数据的查询与处理、缺失数据处理、图数据分析、图数据挖掘和机器学习
+联系地址：
+湖南省长沙市岳麓区麓山南路2号,湖南大学计算机学院（410082）
+所属机构：
+计算机科学系
+学院教师
+个人简历
+章成源，男，博士，副教授。2008年于中山大学获得学士学位；2011和2015年先后获得于新南威尔士大学计算机科学与工程学院硕士学位和博士学位。2015.4-2016.4于新南威尔士大学信息科学与工程学院数据库组担任研究助理。2016年-2020年担任中南大学讲师。2020年，湖南大学人才引进（副教授职称）加入信息科学与工程学院主要研究领域时空多媒体数据的查询与处理、数据挖掘、机器学习、图数据分析、缺失数据处理等。主持国家自然科学基金青年基金1项，湖南省自然科学基金青年基金1项，参与国家自然科学基金2项。在相关领域发表论文近30篇，以第一/通讯作者在IEEE TKDE、IEEE ICDE、EDBT、Neurocomputing、Pattern Recognition Letter、 Multimedia Tools and Applications等国际权威期刊或会议上发表论文近20篇，其中ESI 1%高被引论文4篇，获Pattern Recognition Letter2018杰出审稿人奖，获PAKDD workshop 2018最佳应用论文奖。申请国家发明专利2项，出版专著1部。担任IJCAI -2020的程序委员会委员、PVLDB2020审稿人，以及ACM TOIS、IEEE TKDE、VLDBJ、ACM TOMM、IEEE TNNLS、ACM TKDD、Neurocomputing、Pattern Recognition Letter、 Multimedia Tools and Applications、Applied Intelligence、IEEE multimedia等SCI期刊审稿人。担任Multimedia Tools and Applications客座编委。
+学生培养
+指导学生：
+原中南大学硕士
+2017级硕士：
+林运武，2018年获中南大学“格力明珠奖学金”，已发表3篇SCI论文；
+陈瑞鹏，2018年获中南大学“格力明珠奖学金”，已发表3篇SCI论文；
+程科盛，已发表1篇SCI论文；
+2018级硕士：
+王也、丁臻、齐倩倩
+2019级硕士：
+左凯宁、荣昌宇、袁双雄、伊芙丽（巴基斯坦）
+招生计划：因本人刚加入湖南大学，现在仍有2020年研究生招生名额，望尚未找到研究生导师的优秀同学抓紧时间联系。本人招收2021年硕士研究生2-3名左右，学硕优先，有意参加2020年湖南大学信息科学与工程学院暑期夏令营的学生，欢迎提前联系面试，研究组长期招收博士及博士后，也欢迎对科研感兴趣的本科生提前与我联系进入实验室，体验科研氛围。
+招生期望：希望你对科学研究具有饱满的热情，善于思考，动手积极，具备良好的数学基础和编程能力，且始终以发表高水平论文为学业目标。
+我的承诺：(1).将根据你的个人兴趣与基本技能，以及毕业后是去企业工作还是继续深造，制定一套详细的培养计划；(2).因我本人始终亲临科研一线，因此每周会定期与你进行细致论文讨论，并在算法设计、代码编写、实验评估、论文撰写、科研成果展示等方面给予你全方位的指导；(3).提供浓厚的科研氛围、舒适的科研环境、丰厚的科研奖励；(4).对于在顶会上发表论文的学生，将会从学校及个人科研经费两方面资助你参会，对于在CCF A类或同等级别的期刊和会议上发表论文的学生，将从个人科研经费里进行现金奖励；(5).对于表现优秀的博士生，将至少提供一次1-2年的海外访问联培机会；(6).对于表现优秀的硕士生，我很乐意在毕业后给你推荐国内大型企业工作或海外高校深造的机会。
+学术论文
+期刊论文：
+1.     LeiZhu, Jiayu Song, Xiaofeng Zhu, Chengyuan Zhang*，ShichaoZhang. Adversarial Learning Based Semantic Correlation Representation for Cross-ModalRetrieval. IEEE Multimedia, 2020. (小修)
+2.     Chengyuan Zhang, Jiayu Song, Xiaofeng Zhu, Lei Zhu*, et al. HCMSL: Hybrid Cross-ModalSimilarity Learning for Cross-Modal Retrieval[J]. ACM Transactions on MultimediaComputing, Communications, and Applications, 2020. （多媒体领域顶级期刊，CCFB类期刊,已接收）
+3.     Chengyuan Zhang, Lei Zhu, ShiChao Zhang, Weiren Yu. PAC-GAN: An Effective Pose AugmentationScheme for Unsupervised Cross-View Person Re-identification[J].Neurocomputing,2020
+4.     Chengyuan Zhang, Lei Zhu, ShiChao Zhang, Weiren Yu. TDHPPIR: An Efficient Deep HashingBased Privacy-Preserving Image Retrieval Method[J]. Neurocomputing,2020
+5.    XiaofengZhu, Jianye Yang, Chengyuan Zhang*,Shichao Zhang, EfficientUtilization of Missing Data in Cost Sensitive Learning, IEEE Transactions onKnowledge and Data Engineering, 2019（数据库数据挖掘领域顶级期刊，CCFA期刊）
+6.    Chengyuan Zhang, Yunwu Lin, Lei Zhu, Anfeng Liu, Zuping Zhang, Fang Huang， CNN-VWII:An efficient approach for large-scale video retrieval by image queries，PatternRecognition Letters ，2019（ESI高被引论文）
+7.    Chengyuan Zhang, Lin Wu, Yang Wang，Crossinggenerative adversarial networks for cross-view person re-identification，Neurocomputing，2019
+8.    Weiren Yu, Julie McCann, ChengyuanZhang, Efficient Pairwise Penetrating-rank Similarity Retrieval, ACM Transactionson Web（CCF B类期刊,已接收）
+9.    Chengyuan Zhang, Yunwu Lin, Lei Zhu*, Zuping Zhang, YanTang, Fang Huang, Efficient regionof visual interests search for geo-multimedia data, Multimedia Tools and Applications,2019
+10. Chengyuan Zhang, Kesheng Cheng, Lei Zhu, Ruipeng Chen, Zuping Zhang, Fang Huang，Efficientcontinuous top-k geo-image search on road network, Multimedia Tools and Applications,2019
+11. Chengyuan Zhang, Ruipeng Chen, Lei Zhu, Anfeng Liu, Yunwu Lin，Fang Huang,Hierarchical information quadtree: efficient spatial temporal image search formultimedia stream, Multimedia Tools and Applications, 2019（ESI高被引论文）
+12. Chengyuan Zhang, Yunwu Lin, Lei Zhu, XinPan Yuan, Jun Long, Fang Huang, HierarchicalOne Permutation Hashing: Efficient Multimedia Near Duplicate Detection,Multimedia Tools and Applications, 2019
+13. JunLong, Lei Zhu, Chengyuan Zhang*, Zhan Yang, Yunwu Lin, Ruipeng Chen,Efficient interactive search for geo-tagged multimedia data, Multimedia Toolsand Application, 2019
+14. XinJu,Wei Liu, Chengyuan Zhang*,Anfeng Liu, Tian Wang, Neal N. Xiong,Zhiping Cai, An Energy Conserving and Transmission Radius Adaptive Scheme toOptimize Performance of Energy Harvesting Sensor Networks, Sensors, 2018（ESI高被引论文）
+15. BaixiangHuang, Anfeng Liu, Chengyuan Zhang*, Naixue Xiong, Zhiwen Zeng,Zhiping Cai, Caching Joint Shortcut Routing to Improve Quality of Service forInformation-Centric Networking, Sensors,1424-8220,2018.06 （ESI高被引论文）
+16. JunLong, Lei Zhu, Zhan Yang, Chengyuan Zhang*, Xinpan Yuan, TemporalActivity Path Based Character Correction in Heterogeneous Social Networks viaMultimedia Sources, Advances in Multimedia, 2018
+17. Chengyuan Zhang, Ying Zhang, Wenjie Zhang, Xuemin Lin, Inverted Linear Quadtree:Efficient Top K Spatial Keyword Search, IEEE Transactions on Knowledge and DataEngineering, 2016（数据库数据挖掘领域顶级期刊，CCF A期刊）
+18. LinWu, Xiaodi Huang, Chengyuan Zhang*, John Shepherd, An Efficient Framework ofBregman Divergence Optimization For Co-ranking Images And Tags In AHeterogeneous Network, Multimedia Tools and Applications, 2014
+会议论文：
+1.     Chengyuan Zhang, Lei Zhu, Jun Long, Zhan Yang, Shuangqiao Lin, Xinpan Yuan, A hybridindex model for efficient spatio-temporal search in HBase, The 22ndPacific-Asia Conference on Knowledge Discovery and Data Mining Workshops( PAKDDworkshops 2018), Melbourne, Australia, Best Application Paper Award
+2.    Chengyuan Zhang，Ying Zhang，WenjieZhang，Xuemin Lin*，Muhammad Aamir Cheema，Xiaoyang Wang, Diversified Spatial Keyword Search OnRoad Networks，17thInternationalConference on Extending Database Technology（EDBT2014）,Athens，Greece.（CCF B类会议）
+3.     Chengyuan Zhang, Ying Zhang，Wenjie Zhang，Xuemin  Lin*, Inverted linear quadtree: Efficient topk spatial keyword search, IEEE 29th International Conference on DataEngineering (ICDE 2013), Brisbane, Australia. （CCF A类会议）
+
+---
+
+## 张嘉鹏
+
+- **网址**: https://csee.hnu.edu.cn/people/zhangjiapeng
+- **姓名**: 张嘉鹏
+- **邮箱**: zhangjp@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 异构算力调度，分布式机器学习
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：异构算力调度，分布式机器学习
+联系方式：zhangjp@hnu.edu.cn
+教师介绍
+张嘉鹏，博士，副教授，博士生导师。入选湖南省芙蓉计划青年人才，中国电子学会青年人才托举工程。2017年本科毕业于中国科学技术大学，2022年博士毕业于上海交通大学。目前主要研究方向包括高性能计算与分布式计算、并行调度机制与系统设计等，在国际顶级学术期刊与会议发表多篇论文，长期担任TON/TMC/TIFS等期刊审稿人。担任2024年中国图灵大会组委会副主席，现任CCF分布式计算与系统专委会执行委员、IEEEHPCC与IEEEICA3PPTPCmember，AAAI/CVPR/IPDPSPCmember。
+中文名：
+张嘉鹏
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+zhangjp@hnu.edu.cn
+研究方向：
+异构算力调度，分布式机器学习
+联系地址：
+湖南省长沙市岳麓区湖南大学计算机学院（410082）
+所属机构：
+计算机科学系
+学院教师
+实验室招生
+团队长期招收博士/硕士研究生、本科实习生！
+欢迎各位考/保研的同学，以及对科研/工程项目感兴趣的同学和我联系！
+团队目前主要方向为高性能与分布式计算，具体包括：
+1、算力调度：针对多集群、多体系结构的算力设备，实现算力资源和数据资源的协同调度；
+2、大模型体系结构优化：针对模型分布式训推过程调优，优化模型训推精度与效率；
+3、数据倾斜优化：针对联邦学习等分布式场景，分析数据分布对精度、稳定性和安全性的影响；
+4、其他：并行计算、分布式通信优化、AI算子融合等。
+希望我们的同学：充分发挥主观能动性，愿意广泛阅读高水平论文，愿意付出努力，力争在《中国计算机学会推荐期刊会议列表》及其他一流的期刊会议上发表好的学术成果。对于发表高水平论文的学生，团队将提供额外的科研奖励。
+团队氛围轻松和谐，对我们工作方向感兴趣的同学欢迎发送简历、成绩单、学习和科研经历到我的邮箱。
+学习资料
+超算基础知识学习：超算习堂
+大模型基础：Stanford CS 224N | Natural Language Processing with Deep Learning
+清华刘知远老师团队大模型公开课
+学术论文撰写规范：学术论文写作-Whitesides' Group: Writing a Paper(译)-CSDN博客
+工科硕士研究生毕业论文撰写总结-CSDN博客
+学术论文阅读思考：跟李沐学AI-如何读论文
+代表性论文
+[1]     Peng Wu, Jiapeng Zhang, Yingjie Song, Xiong Xiao, and Zhuo Tang, FedAlign: Differentially Private Distribution Alignment for Non-IID Federated Learning, to appear in CVPR, 2026. （CCF-A类会议）
+[2]     Xu Yang, Jiapeng Zhang, Dongyang Zhao, Guo Chen, and Zhuo Tang, Self-Indexing KVCache: Predicting Sparse Attention from Compressed Keys, AAAI, 2026.（CCF-A类会议）
+[3]     Lixiang Yuan, Jiapeng Zhang, Mingxing Duan,Guoqing Xiao, Zhuo Tang, and Kenli Li, PRFL: Personalized and Robust Federated Learning for Non-IID Data with Malicious Participants, IEEE Transactions on Mobile Computing, 25(3): 4331 – 4345, 2025. （CCF-A期刊）
+[4]     Jiawei Tan, Jiapeng Zhang, Zhuo Tang, Xiong Xiao, Bingting Jiang, Jie Zhao, and Kenli Li. ASSG: Enhanced Workload Balancing via Adaptive State Scheduling Granularity Approach for Stateful Distributed Stream Processing, ACM Transactions on Architecture and Code Optimization, 22(4): art. 160, 2025. （CCF-A期刊）
+[5]      Zhimao Gong, Jiapeng Zhang, Haotian Wang, Mingxing Duan, Keqin Li, and Kenli Li. A Privacy-Preserving Scheme With High Utility Over Data Streams in Mobile Crowdsensing, IEEE Transactions on Information Forensics and Security, 20: 5372 – 5385, 2025.（CCF-A期刊）
+[6]     Ruixing Zong, Jiapeng Zhang, Zhuo Tang, Wei Zhang and Kenli Li. Topology-Aware Interleaved All-Reduce Communication for Dragonfly Network. IEEE Transactions on Networking, 33(5): 2148 – 2163, 2025.（CCF-A期刊）
+[7]     Ruixing Zong, Jiapeng Zhang, Zhuo Tang, and Kenli Li, IBing: An Efficient Interleaved Bidirectional Ring All-Reduce Algorithm for Gradient Synchronization, ACM Transactions on Architectureand Code Optimization, 22(1): art. 35, 2025. （CCF-A期刊）
+[8]     Jiapeng Zhang, Shan Qu, Qi Li, Huquan Kang, Luoyi Fu, Haisong Zhang, Xinbing Wang, and Guihai Chen, On Social Network De-anonymization with Communities: A Maximum A PosterioriPerspective, IEEE Transactions on Knowledge and Data Engineering, 2023. （CCF-A类期刊）
+[9]     Jiapeng Zhang, Luoyi Fu, Huan Long, Gui'e Meng, Feilong Tang, Xinbing Wang, and Guihai Chen, Collective de-anonymization of social networks with optional seeds, IEEE Transactionson Mobile Computing, 2022. （CCF-A类期刊）
+[10]  Jiapeng Zhang, Luoyi Fu, Xinbing Wang, and Guihai Chen, De-anonymizing social networks under partial overlap: an F-score based approach, IEEE INFOCOM, Vancouver, BC,Canada, 2021. （CCF-A类会议）
+[11]  Jiapeng Zhang, LuoyiFu, Xinbing Wang, and Songwu Lu, De-anonymization of social networks: the power of collectiveness, IEEE INFOCOM, Toronto, ON, Canada, 2020. （CCF-A类会议）
+[12]  Jiapeng Zhang, Luoyi Fu, Shuhao Li, Yuhang Yao, and Xinbing Wang, Core percolation in interdependent networks, IEEE Transactions on Network Science and Engineering, 6(4), 952-967, 2019.
+
+---
+
+## 周世哲
+
+- **网址**: https://csee.hnu.edu.cn/people/zhoushizhe
+- **姓名**: 周世哲
+- **邮箱**: shizhe@hnu.edu.cn
+- **职称**: 副教授
+- **导师类型**: 副教授
+- **招生学科**: 计算机图形学，数字图像处理,纹理，矢量图案，机器学习
+- **所属目录**: 副教授
+
+### 个人信息
+
+职称：副教授
+研究方向：计算机图形学，数字图像处理,纹理，矢量图案，机器学习
+联系方式：shizhe@hnu.edu.cn
+教师介绍
+博导，副教授，浙江大学博士,法国INRIA研究院博士后,湖湘青年英才.先后在CityUHK做RA/ResearchFellow，USTC做博士后副研究员.IEEE/ACMmember.从事前沿的计算机图形学、图像处理、计算几何学、人工智能研究.主持国家自然科学基金项目、省自然科学基金项目及横向科研项目.
+望招收勤于动手或者数学功底优良的学生（只看能力，其余一视同仁）攻读我的研究生。如果你是技术Geek，我们将为你提供你所需的硬件和软件要求，让你充分施展才华。985高校的推免直博生不受名额限制。非全日制学生也请速与我联系(提供同等科研条件）。
+邮箱:shizhe@hnu.edu.cn或shizhezhou2014@gmail.com
+中文名：
+周世哲
+英文名：
+学历：
+博士
+职称：
+副教授
+联系电话：
+电子邮件：
+shizhe@hnu.edu.cn
+研究方向：
+计算机图形学，数字图像处理,纹理，矢量图案，机器学习
+联系地址：
+College of Computer Science and Electronic Engineering, Software Building, Hunan University
+所属机构：
+学院教师
+智能计算系
+short bio
+I am an associate professor in College of Computer Science,Hunan Univerisity. I focus my interests in computer graphics, computational geometrics and GPU-based algorithms. I love solving problems by programming, especially when visually cool&new stuff being created on screen.
+I did a postdoc in the School of Math, USTC in 2012-2015. I did another postdoc at INRIA France, working with Dr.Sylvain Lefebvre's on digital content synthesis in 2011-2012. I obtained a PH.D of Applied Mathematics from Zhejiang Univ. in 2011. I worked on research projects in City Univ. of Hong Kong in 2010 and in 2018.
+Email :shizhe@hnu.edu.cn shizhezhou2014@gmail.com
+Office :College of Computer Science, Hunan University, YueLu Mountain, Changsha, Hunan, 410082.
+Topics: Computer graphics related algorithm, Network Optimization(continuous or discrete),Synthesis(Vector or pixel, both a lot of fun:)), Image, Physical Simulation. Also i am open minded to other topics .
+研究方向
+"The important thing is not to stop questioning. Curiosity has its own reason for existence" -- A.Einstein.
+长期研究计算机图形学，计算几何,结果发表在一区Top期刊ACM Transacation on Graphics上.
+较熟悉的方向包括：
+基础算法(not easy but if you have any new idea it may be ground-breaking.)，
+计算机图形学，图像处理，计算几何，优化，机器学习，利用GPU或其他体系的加速技术.
+个人主页
+Homepage
+供学生资料下载
+学生培养
+热情招收学术硕士或专业硕士。欢迎大学修过或自学过计算机图形学和数字图像处理课程并取得较好成绩的同学报考, 最好有英语六级CET6>430分（非硬性要求）。对学生，提供全面且重点的资助与辅导。
+国家级学科竞赛获奖
+2019年（第12界）全国大学生计算机设计大赛二等奖
+2020年（第13界）全国大学生计算机设计大赛 中南赛一等奖，国赛三等奖
+representative publications
+New paper:
+17. Sketch2Relief: Generating Bas-relief from Sketches with Deep Generative Networks. Shizhe Zhou, Zeyu Liu. ICTAI, 2020.(paper)
+16. Accurate Estimation of body heights from A RGB-D image. Fukun Yin,Shizhe Zhou.CVPR 2020. (paper)
+15.DeepShapeSketch : Generating hand drawing sketches from 3D objects.Meijuan Ye, Shizhe Zhou,Hongbo Fu.IJCNN,Budapest,Hungary,2019(paper)
+14.Interactive Sketch-Based Normal Map Generation with Deep Neural Networks.Wanchao Su, Dong Du, Xin Yang, Shizhe Zhou Hongbo Fu.i3D,Montreal,Canada, 2018 (paper, video)
+13.PatchSwapper: A novel real-time single-image editing technique by region-swapping. Shizhe Zhou, Chengfeng Zhou, Yi Xiao, Guanghua Tan. Computers & Graphics, 2018, 47(9). (webpage)
+12.Automatic Image Style Transfer Using Emotion-Palette. Jing Huang, Shizhe Zhou* , Xianyi Zhu, Yiwen Li, Chengfeng Zhou.International Conference on Digital Image Processing, 2018. (paper)
+11.Face sorting and stripe texture mapping of triangle mesh based on spectral decomposition(in Chinese). Yan Li, Shizhe Zhou*Jiansong Deng. Journal of Univ.of Sci.& Tech.,2017, 47(9). (paper)
+10.Efficient Simulation of Water Puddle(in Chinese). Jianfang Li, Shizhe Zhou*, Yan Li, Ligang Liu.Journal of Computer-Aided Design & Computer Graphics, 2016, 23(11)(paper, demo)
+9.Adaptive Tearing of Crumpled Thin Sheet(in Chinese). Qiqi Jiang, Shizhe Zhou*, Liqiang Shi.Journal of Univ. of Sciene and Technology, 2016, 46(11). (paper)
+8.Topology-constrained Synthesis of Vector Patterns. Shizhe Zhou, Changyun Jiang, Sylvain Lefebvre. ACM SIGGRAPH Asia 2014. ACM Transactions on Graphics(ISBN 0730-0301),Volume 33 Issue 6, November 2014,Article No. 215 ACM New York, NY, USAdoi>10.1145/2661229.2661238[webpage]
+7.Real-time dynamic and pressure-sensitive brush rendering. Liqiang Shi, Shizhe Zhou. The 4th International Conference on Electronics,Communications and Networks,2014.[paper]
+6.By-Example synthesis of curvilinear structured patterns. Shizhe Zhou, Anass Lasram, Sylvain Lefebvre. Computer Graphics Forum(ISSN:0167-7055), 32(2), 2013. (Proc.of Eurographics 2013). DOI: 10.1111/cgf.12055 [paper, overlapping avoidance, video, more results]
+5.Animated Construction of Line Drawings. Hongbo Fu, Shizhe Zhou*, Ligang Liu, Niloy Mitra. ACM SIGGRAPH Asia 2011. ACM Transactions on Graphics,30(6), Article No.133:1-10,2011.[video, Viewer's software and code, webpage]
+4.Parametric Reshaping of Human Bodies in Images. Shizhe Zhou, Hongbo Fu, Ligang Liu*, Daniel Cohen-Or, Xiaoguang Han. ACM SIGGRAPH 2010. ACM Transactions on Graphics, 29(4), Article No.126:1-10,2010. [software, webpage]
+3.Realtime Digital Bas-Relief Modeling(in Chinese). Shizhe Zhou, Ligang Liu*. Journal of Computer-Aided Design & Computer Graphics, 2010, 22(3). (paper, Editing session: 1, 2, img)
+2.Feature-Aligned Shape Texturing. Kai Xu*, Daniel Cohen-Or, Tao Ju, Ligang Liu*, Hao Zhang, Shizhe Zhou and Yueshan Xiong. ACM SIGGRAPH Aisa 2009. ACM Transactions on Graphics (TOG) ,2009. (webpage)
+1.Realtime Fluid Simulation Based on Multigrid Method(in Chinese).Shizhe Zhou, Jiaju Man*. Journal of Computer-Aided Design & Computer Graphics, 2007,19(7). (paper, video)
+Master Degree Thesis: Research on Deformation Algorithm of 3D Mesh Models.pdf
+PHD Thesis: ：Modeling via Feature Transfer across DimensionsPhd.Thesis-ShizheZhou .pdf
+发明专利及软件著作权
+发明专利
+发明名称: 拓扑可控的矢量纹理图案生成方法 (已通过已授权)
+专利号 201410835565.1
+申请日: 2014.12.29
+公开（公告）日: 2015.05.13
+授权通过日: 2017.09.05
+IPC分类号: G06T17/00
+发明人: 周世哲.
+计算机软件著作权
+软件全称：实时数字浮雕建模软件
+登记号：2010SR029049 分类号：63000-0000 版本号：V1.0
+Reviewer
+ACM TOG/IEEETVCG/C&G/CGF/the Visual Computer/CGI/CADgraphics
+
+---

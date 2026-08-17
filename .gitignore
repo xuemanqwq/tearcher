@@ -10,6 +10,7 @@ documents
 
 outputs/html
 outputs/rendered
+outputs/pdf
 
 scripts
 tmp
